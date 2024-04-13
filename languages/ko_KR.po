@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WpResidence 3.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/wpresidence\n"
-"POT-Creation-Date: 2023-08-23T07:07:46+00:00\n"
-"PO-Revision-Date: 2023-08-23 12:11+0300\n"
+"POT-Creation-Date: 2024-02-20T08:54:54+00:00\n"
+"PO-Revision-Date: 2024-02-20 12:49+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ko\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Domain: wpresidence\n"
 
 #. Theme Name of the theme
@@ -60,7 +60,7 @@ msgstr "최근 글"
 
 #. Template Name of the theme
 msgid "Agents Agencies Developers Search Results"
-msgstr ""
+msgstr "에이전트 대행사 개발자 검색 결과"
 
 #: aag_search_results.php:6 advanced_search_results.php:6 agency_list.php:6
 #: agents_list.php:5 compare_listings.php:6 contact_page.php:6
@@ -94,108 +94,108 @@ msgstr "대행사 목록"
 msgid "Agents list"
 msgstr "상담원 목록"
 
-#: api/test.php:305 libs/help_functions.php:5317 libs/help_functions.php:5464
+#: api/test.php:305 libs/help_functions.php:5438 libs/help_functions.php:5585
 #: word_remove.php:92
 msgid "feet"
 msgstr "피트"
 
 #: api/test.php:305 api/test.php:314 api/test.php:315 api/test.php:316
 #: api/test.php:317 api/test.php:318 api/test.php:320 api/test.php:325
-#: api/test.php:330 api/test.php:335 libs/help_functions.php:5317
-#: libs/help_functions.php:5398 libs/help_functions.php:5399
-#: libs/help_functions.php:5400 libs/help_functions.php:5401
-#: libs/help_functions.php:5402 libs/help_functions.php:5404
-#: libs/help_functions.php:5409 libs/help_functions.php:5414
-#: libs/help_functions.php:5419 libs/help_functions.php:5464
-#: libs/help_functions.php:5473 libs/help_functions.php:5474
-#: libs/help_functions.php:5475 libs/help_functions.php:5476
-#: libs/help_functions.php:5477 libs/help_functions.php:5479
-#: libs/help_functions.php:5484 libs/help_functions.php:5489
-#: libs/help_functions.php:5494 word_remove.php:92
+#: api/test.php:330 api/test.php:335 libs/help_functions.php:5438
+#: libs/help_functions.php:5519 libs/help_functions.php:5520
+#: libs/help_functions.php:5521 libs/help_functions.php:5522
+#: libs/help_functions.php:5523 libs/help_functions.php:5525
+#: libs/help_functions.php:5530 libs/help_functions.php:5535
+#: libs/help_functions.php:5540 libs/help_functions.php:5585
+#: libs/help_functions.php:5594 libs/help_functions.php:5595
+#: libs/help_functions.php:5596 libs/help_functions.php:5597
+#: libs/help_functions.php:5598 libs/help_functions.php:5600
+#: libs/help_functions.php:5605 libs/help_functions.php:5610
+#: libs/help_functions.php:5615 word_remove.php:92
 msgid "ft"
 msgstr "피트"
 
-#: api/test.php:306 libs/help_functions.php:5318 libs/help_functions.php:5465
+#: api/test.php:306 libs/help_functions.php:5439 libs/help_functions.php:5586
 #: word_remove.php:93
 msgid "meters"
 msgstr "미터"
 
 #: api/test.php:306 api/test.php:315 api/test.php:319 api/test.php:320
 #: api/test.php:321 api/test.php:322 api/test.php:323 api/test.php:326
-#: api/test.php:331 api/test.php:336 libs/help_functions.php:5318
-#: libs/help_functions.php:5399 libs/help_functions.php:5403
-#: libs/help_functions.php:5404 libs/help_functions.php:5405
-#: libs/help_functions.php:5406 libs/help_functions.php:5407
-#: libs/help_functions.php:5410 libs/help_functions.php:5415
-#: libs/help_functions.php:5420 libs/help_functions.php:5465
-#: libs/help_functions.php:5474 libs/help_functions.php:5478
-#: libs/help_functions.php:5479 libs/help_functions.php:5480
-#: libs/help_functions.php:5481 libs/help_functions.php:5482
-#: libs/help_functions.php:5485 libs/help_functions.php:5490
-#: libs/help_functions.php:5495 word_remove.php:93
+#: api/test.php:331 api/test.php:336 libs/help_functions.php:5439
+#: libs/help_functions.php:5520 libs/help_functions.php:5524
+#: libs/help_functions.php:5525 libs/help_functions.php:5526
+#: libs/help_functions.php:5527 libs/help_functions.php:5528
+#: libs/help_functions.php:5531 libs/help_functions.php:5536
+#: libs/help_functions.php:5541 libs/help_functions.php:5586
+#: libs/help_functions.php:5595 libs/help_functions.php:5599
+#: libs/help_functions.php:5600 libs/help_functions.php:5601
+#: libs/help_functions.php:5602 libs/help_functions.php:5603
+#: libs/help_functions.php:5606 libs/help_functions.php:5611
+#: libs/help_functions.php:5616 word_remove.php:93
 msgid "m"
 msgstr "엠"
 
-#: api/test.php:307 libs/help_functions.php:5319 libs/help_functions.php:5466
+#: api/test.php:307 libs/help_functions.php:5440 libs/help_functions.php:5587
 #: word_remove.php:94
 msgid "acres"
 msgstr "에이커"
 
 #: api/test.php:307 api/test.php:316 api/test.php:321 api/test.php:324
 #: api/test.php:325 api/test.php:326 api/test.php:327 api/test.php:328
-#: api/test.php:332 api/test.php:337 libs/help_functions.php:5319
-#: libs/help_functions.php:5400 libs/help_functions.php:5405
-#: libs/help_functions.php:5408 libs/help_functions.php:5409
-#: libs/help_functions.php:5410 libs/help_functions.php:5411
-#: libs/help_functions.php:5412 libs/help_functions.php:5416
-#: libs/help_functions.php:5421 libs/help_functions.php:5466
-#: libs/help_functions.php:5475 libs/help_functions.php:5480
-#: libs/help_functions.php:5483 libs/help_functions.php:5484
-#: libs/help_functions.php:5485 libs/help_functions.php:5486
-#: libs/help_functions.php:5487 libs/help_functions.php:5491
-#: libs/help_functions.php:5496 word_remove.php:94
+#: api/test.php:332 api/test.php:337 libs/help_functions.php:5440
+#: libs/help_functions.php:5521 libs/help_functions.php:5526
+#: libs/help_functions.php:5529 libs/help_functions.php:5530
+#: libs/help_functions.php:5531 libs/help_functions.php:5532
+#: libs/help_functions.php:5533 libs/help_functions.php:5537
+#: libs/help_functions.php:5542 libs/help_functions.php:5587
+#: libs/help_functions.php:5596 libs/help_functions.php:5601
+#: libs/help_functions.php:5604 libs/help_functions.php:5605
+#: libs/help_functions.php:5606 libs/help_functions.php:5607
+#: libs/help_functions.php:5608 libs/help_functions.php:5612
+#: libs/help_functions.php:5617 word_remove.php:94
 msgid "ac"
 msgstr "교류"
 
-#: api/test.php:308 libs/help_functions.php:5320 libs/help_functions.php:5467
+#: api/test.php:308 libs/help_functions.php:5441 libs/help_functions.php:5588
 #: word_remove.php:95
 msgid "yards"
 msgstr "야드"
 
 #: api/test.php:308 api/test.php:317 api/test.php:322 api/test.php:327
 #: api/test.php:329 api/test.php:330 api/test.php:331 api/test.php:332
-#: api/test.php:333 api/test.php:338 libs/help_functions.php:5320
-#: libs/help_functions.php:5401 libs/help_functions.php:5406
-#: libs/help_functions.php:5411 libs/help_functions.php:5413
-#: libs/help_functions.php:5414 libs/help_functions.php:5415
-#: libs/help_functions.php:5416 libs/help_functions.php:5417
-#: libs/help_functions.php:5422 libs/help_functions.php:5467
-#: libs/help_functions.php:5476 libs/help_functions.php:5481
-#: libs/help_functions.php:5486 libs/help_functions.php:5488
-#: libs/help_functions.php:5489 libs/help_functions.php:5490
-#: libs/help_functions.php:5491 libs/help_functions.php:5492
-#: libs/help_functions.php:5497 word_remove.php:95
+#: api/test.php:333 api/test.php:338 libs/help_functions.php:5441
+#: libs/help_functions.php:5522 libs/help_functions.php:5527
+#: libs/help_functions.php:5532 libs/help_functions.php:5534
+#: libs/help_functions.php:5535 libs/help_functions.php:5536
+#: libs/help_functions.php:5537 libs/help_functions.php:5538
+#: libs/help_functions.php:5543 libs/help_functions.php:5588
+#: libs/help_functions.php:5597 libs/help_functions.php:5602
+#: libs/help_functions.php:5607 libs/help_functions.php:5609
+#: libs/help_functions.php:5610 libs/help_functions.php:5611
+#: libs/help_functions.php:5612 libs/help_functions.php:5613
+#: libs/help_functions.php:5618 word_remove.php:95
 msgid "yd"
 msgstr "야드"
 
-#: api/test.php:309 libs/help_functions.php:5321 libs/help_functions.php:5468
+#: api/test.php:309 libs/help_functions.php:5442 libs/help_functions.php:5589
 #: word_remove.php:96
 msgid "hectares"
 msgstr "헥타르"
 
 #: api/test.php:309 api/test.php:318 api/test.php:323 api/test.php:328
 #: api/test.php:333 api/test.php:334 api/test.php:335 api/test.php:336
-#: api/test.php:337 api/test.php:338 libs/help_functions.php:5321
-#: libs/help_functions.php:5402 libs/help_functions.php:5407
-#: libs/help_functions.php:5412 libs/help_functions.php:5417
-#: libs/help_functions.php:5418 libs/help_functions.php:5419
-#: libs/help_functions.php:5420 libs/help_functions.php:5421
-#: libs/help_functions.php:5422 libs/help_functions.php:5468
-#: libs/help_functions.php:5477 libs/help_functions.php:5482
-#: libs/help_functions.php:5487 libs/help_functions.php:5492
-#: libs/help_functions.php:5493 libs/help_functions.php:5494
-#: libs/help_functions.php:5495 libs/help_functions.php:5496
-#: libs/help_functions.php:5497 word_remove.php:96
+#: api/test.php:337 api/test.php:338 libs/help_functions.php:5442
+#: libs/help_functions.php:5523 libs/help_functions.php:5528
+#: libs/help_functions.php:5533 libs/help_functions.php:5538
+#: libs/help_functions.php:5539 libs/help_functions.php:5540
+#: libs/help_functions.php:5541 libs/help_functions.php:5542
+#: libs/help_functions.php:5543 libs/help_functions.php:5589
+#: libs/help_functions.php:5598 libs/help_functions.php:5603
+#: libs/help_functions.php:5608 libs/help_functions.php:5613
+#: libs/help_functions.php:5614 libs/help_functions.php:5615
+#: libs/help_functions.php:5616 libs/help_functions.php:5617
+#: libs/help_functions.php:5618 word_remove.php:96
 msgid "ha"
 msgstr "하아"
 
@@ -239,20 +239,20 @@ msgstr "사용자 대시보드 검색 결과"
 msgid "Sorry, your nonce did not verify."
 msgstr "죄송합니다, 확인되지 않았습니다."
 
-#: auser_dashboard_search_result.php:98 templates/half_map_core.php:157
+#: auser_dashboard_search_result.php:98 templates/half_map_core.php:160
 msgid "You don't have any properties yet!"
 msgstr "아직 매물이 없습니다."
 
 #: auser_dashboard_search_result.php:103
-#: libs/dashboard_actions_functions.php:739
+#: libs/dashboard_actions_functions.php:742
 msgid "Search a listing"
 msgstr "목록 검색"
 
 #: auser_dashboard_search_result.php:104
-#: libs/dashboard_actions_functions.php:625
-#: libs/dashboard_actions_functions.php:740 search.php:30 search.php:31
-#: searchform.php:3 templates/advanced_search/advanced_search_type3.php:62
-#: templates/advanced_search/advanced_search_type10.php:81
+#: libs/dashboard_actions_functions.php:628
+#: libs/dashboard_actions_functions.php:743 search.php:30 search.php:31
+#: searchform.php:3 templates/advanced_search/advanced_search_type3.php:72
+#: templates/advanced_search/advanced_search_type10.php:94
 #: templates/advanced_search/advanced_search_type11.php:106
 #: templates/advanced_search_type3.php:62
 #: templates/advanced_search_type10.php:81
@@ -322,7 +322,7 @@ msgid "Name"
 msgstr "이름"
 
 #: comments.php:78 crm_functions/crm_functions.php:317
-#: libs/dashboard_actions_functions.php:634 libs/design_functions.php:2295
+#: libs/dashboard_actions_functions.php:637 libs/design_functions.php:2414
 #: templates/dashboard-templates/add_new_agent.php:72
 #: templates/dashboard-templates/add_new_agent_template.php:53
 #: templates/dashboard-templates/user_profile.php:28
@@ -361,44 +361,43 @@ msgstr "시티"
 msgid "area"
 msgstr "지역"
 
-#: compare_listings.php:123 libs/elementor_help_files.php:28
+#: compare_listings.php:123 libs/elementor_help_files.php:31
 msgid "zip"
 msgstr "지퍼"
 
-#: compare_listings.php:124 libs/elementor_help_files.php:22
+#: compare_listings.php:124 libs/elementor_help_files.php:24
 msgid "size"
 msgstr "크기"
 
-#: compare_listings.php:125 libs/elementor_help_files.php:23
+#: compare_listings.php:125 libs/elementor_help_files.php:25
 msgid "lot size"
 msgstr "로트 크기"
 
-#: compare_listings.php:126 libs/elementor_help_files.php:24
+#: compare_listings.php:126 libs/elementor_help_files.php:26
 msgid "rooms"
 msgstr "방"
 
-#: compare_listings.php:127 libs/elementor_help_files.php:25
+#: compare_listings.php:127 libs/elementor_help_files.php:27
 msgid "bedrooms"
 msgstr "침실"
 
-#: compare_listings.php:128 libs/elementor_help_files.php:26
+#: compare_listings.php:128 libs/elementor_help_files.php:28
 msgid "bathrooms"
 msgstr "욕실"
 
 #: compare_listings.php:129 libs/dashboard_actions_functions.php:174
-#: libs/help_functions.php:5780
+#: libs/help_functions.php:5901
 msgid "Energy Index"
 msgstr "에너지 지수"
 
 #: compare_listings.php:130 libs/dashboard_actions_functions.php:166
-#: libs/help_functions.php:5779 libs/help_functions.php:5994
+#: libs/help_functions.php:5900 libs/help_functions.php:6115
 #: libs/listing_functions.php:1906
 #: templates/submit_templates/property_energy_effective.php:35
 msgid "Energy Class"
 msgstr "에너지 등급"
 
-#: compare_listings.php:131
-#: templates/listing_templates/property-page-templates/single-overview-section.php:112
+#: compare_listings.php:131 libs/help_functions.php:55
 msgid "Property ID"
 msgstr "부동산 ID"
 
@@ -406,18 +405,18 @@ msgstr "부동산 ID"
 msgid "Contact Page"
 msgstr "연락처 페이지"
 
-#: contact_page.php:72 single-estate_agency.php:132
-#: templates/header_agency.php:71 templates/header_developer.php:92
+#: contact_page.php:72 single-estate_agency.php:112
+#: templates/header_agency.php:71 templates/header_developer.php:73
 msgid "Phone:"
 msgstr "전화:"
 
-#: contact_page.php:76 single-estate_agency.php:127
-#: templates/header_agency.php:66 templates/header_developer.php:87
+#: contact_page.php:76 single-estate_agency.php:107
+#: templates/header_agency.php:66 templates/header_developer.php:68
 msgid "Mobile:"
 msgstr "변하기 쉬운:"
 
-#: contact_page.php:80 single-estate_agency.php:122
-#: templates/header_agency.php:61 templates/header_developer.php:80
+#: contact_page.php:80 single-estate_agency.php:102
+#: templates/header_agency.php:61 templates/header_developer.php:61
 msgid "Email:"
 msgstr "이메일:"
 
@@ -425,14 +424,14 @@ msgstr "이메일:"
 msgid "Fax:"
 msgstr "팩스 :"
 
-#: contact_page.php:88 single-estate_agency.php:138
-#: templates/header_agency.php:77 templates/header_developer.php:135
+#: contact_page.php:88 single-estate_agency.php:118
+#: templates/header_agency.php:77 templates/header_developer.php:116
 msgid "Skype:"
 msgstr "Skype :"
 
 #: contact_page.php:104 libs/dashboard_widgets.php:8
-#: libs/dashboard_widgets.php:10 libs/help_functions.php:778
-#: libs/help_functions.php:780
+#: libs/dashboard_widgets.php:10 libs/help_functions.php:984
+#: libs/help_functions.php:986
 msgid "company logo"
 msgstr "회사 로고"
 
@@ -479,18 +478,20 @@ msgid "Added on"
 msgstr "에 추가됨"
 
 #: crm_functions/crm_functions.php:320 crm_functions/crm_functions.php:370
-#: libs/dashboard_actions_functions.php:577
-#: libs/dashboard_actions_functions.php:635
-#: libs/dashboard_actions_functions.php:754
-#: libs/dashboard_actions_functions.php:760 user_dashboard_favorite.php:42
+#: libs/dashboard_actions_functions.php:580
+#: libs/dashboard_actions_functions.php:638
+#: libs/dashboard_actions_functions.php:757
+#: libs/dashboard_actions_functions.php:763 libs/elementor_help_files2.php:62
+#: libs/elementor_help_files2.php:370 libs/searchfunctions.php:2184
+#: user_dashboard_favorite.php:42
 msgid "Status"
 msgstr "지위"
 
 #: crm_functions/crm_functions.php:321 crm_functions/crm_functions.php:371
 #: crm_functions/templates/crm_contact_unit_actions.php:12
 #: crm_functions/templates/crm_lead_unit_actions.php:14
-#: libs/dashboard_actions_functions.php:636
-#: libs/dashboard_actions_functions.php:765
+#: libs/dashboard_actions_functions.php:639
+#: libs/dashboard_actions_functions.php:768
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:11
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:30
 #: user_dashboard_favorite.php:44
@@ -521,8 +522,8 @@ msgstr "요청 담당자"
 msgid "Agent in Charge"
 msgstr "담당 에이전트"
 
-#: crm_functions/crm_functions.php:367 libs/dashboard_actions_functions.php:574
-#: libs/dashboard_actions_functions.php:1299
+#: crm_functions/crm_functions.php:367 libs/dashboard_actions_functions.php:577
+#: libs/dashboard_actions_functions.php:1319
 msgid "Date"
 msgstr "날짜"
 
@@ -543,9 +544,9 @@ msgstr "잠재 고객 추가"
 
 #: crm_functions/templates/crm_contact_submit.php:1
 #: templates/dashboard-templates/user_profile.php:105
-#: templates/dashboard-templates/user_profile_agency.php:199
-#: templates/dashboard-templates/user_profile_agent.php:197
-#: templates/dashboard-templates/user_profile_developer.php:173
+#: templates/dashboard-templates/user_profile_agency.php:233
+#: templates/dashboard-templates/user_profile_agent.php:236
+#: templates/dashboard-templates/user_profile_developer.php:205
 msgid "Contact Information"
 msgstr "연락 정보"
 
@@ -568,7 +569,7 @@ msgstr "연락처 삭제"
 msgid "Lead Information"
 msgstr "잠재 고객 정보"
 
-#: crm_functions/templates/crm_leads_submit.php:10
+#: crm_functions/templates/crm_leads_submit.php:13
 msgid "Contact"
 msgstr "연락처"
 
@@ -652,7 +653,7 @@ msgstr "다음 단계"
 msgid "Submit Property"
 msgstr "속성 제출"
 
-#: functions.php:79
+#: functions.php:98
 msgid ""
 "For better speed results, the theme offers a built-in caching system for "
 "properties and categories. Check this article how to enable - disable theme "
@@ -662,11 +663,11 @@ msgstr ""
 "을 제공합니다. 테마 캐시를 활성화 - 비활성화하는 방법을 이 문서에서 확인하세"
 "요:"
 
-#: functions.php:79
+#: functions.php:98
 msgid "help article"
 msgstr "도움말 문서"
 
-#: functions.php:91 word_remove.php:63
+#: functions.php:110 word_remove.php:63
 msgid ""
 "The Google Maps JavaScript API v3 REQUIRES an API key to function correctly. "
 "Get an APIs Console key and post the code in Theme Options. You can get it "
@@ -675,27 +676,27 @@ msgstr ""
 "Google Maps JavaScript API v3는 올바르게 작동하는 API 키가 필요합니다. API 콘"
 "솔 키를 가져 와서 테마 옵션에 코드를 게시하십시오. 너는 그것을 얻을 수있다."
 
-#: functions.php:92 word_remove.php:63
+#: functions.php:111 word_remove.php:63
 msgid "here"
 msgstr "이리"
 
-#: functions.php:104
+#: functions.php:123
 msgid "WordPress Memory Limit is set to "
 msgstr "WordPress 메모리 제한이로 설정되었습니다."
 
-#: functions.php:104
+#: functions.php:123
 msgid "Recommended memory limit should be at least 96MB. Please refer to : "
 msgstr "권장 메모리 제한은 96MB 이상이어야합니다. 다음을 참조하십시오 :"
 
-#: functions.php:104
+#: functions.php:123
 msgid "Increasing memory allocated to PHP"
 msgstr "PHP에 할당 된 메모리 증가"
 
-#: functions.php:124
+#: functions.php:143
 msgid "Your PHP version is "
 msgstr "PHP 버전"
 
-#: functions.php:137
+#: functions.php:156
 msgid ""
 "PHP GD library is NOT installed on your web server and because of that the "
 "theme will not be able to work with images. Please contact your hosting "
@@ -704,7 +705,7 @@ msgstr ""
 "PHP GD 라이브러리가 웹 서버에 설치되지 않았기 때문에 테마가 이미지와 함께 작"
 "동하지 않습니다. 이 라이브러리를 활성화하려면 호스팅 회사에 문의하십시오."
 
-#: functions.php:149
+#: functions.php:168
 msgid ""
 "MbString extension not detected. Please contact your hosting provider in "
 "order to enable it."
@@ -712,7 +713,7 @@ msgstr ""
 "MbString 확장이 검색되지 않습니다. 사용 설정하려면 호스팅 제공 업체에 문의하"
 "십시오."
 
-#: functions.php:167
+#: functions.php:186
 msgid ""
 "Half Map Template - make sure your page has the \"media header type\" set as "
 "google map "
@@ -720,7 +721,7 @@ msgstr ""
 "하프 맵 템플릿 - 페이지에 &quot;미디어 헤더 유형&quot;이 Google지도로 설정되"
 "어 있는지 확인하십시오."
 
-#: functions.php:183
+#: functions.php:202
 msgid ""
 "Please do not manually change the slugs when adding new terms. If you need "
 "to edit a term name copy the new name in the slug field also."
@@ -728,87 +729,88 @@ msgstr ""
 "새 조항을 추가 할 때 슬러그를 수동으로 변경하지 마십시오. 용어 이름을 편집해"
 "야하는 경우 슬러그 필드에 새 이름을 복사하십시오."
 
-#: functions.php:355
+#: functions.php:374
 msgid "Post navigation"
 msgstr "소식 탐색"
 
-#: functions.php:356
+#: functions.php:375
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
 msgstr "<span class=\"meta-nav\">←</span> 이전 게시물"
 
-#: functions.php:357
+#: functions.php:376
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
 msgstr "최신 게시물 <span class=\"meta-nav\">→</span>"
 
-#: functions.php:381
+#: functions.php:400
 msgid "Pingback:"
 msgstr "Pingback :"
 
-#: functions.php:381 functions.php:397
+#: functions.php:400 functions.php:416
 msgid "Edit"
 msgstr "편집하다"
 
-#: functions.php:392 templates/dashboard-templates/message-listing-unit.php:92
+#: functions.php:411 templates/dashboard-templates/message-listing-unit.php:92
 #: templates/dashboard-templates/message-listing-unit.php:98
 msgid "Reply"
 msgstr "댓글"
 
-#: functions.php:402
+#: functions.php:421
 msgid " on "
 msgstr "켜기"
 
-#: functions.php:407
+#: functions.php:426
 msgid "Your comment is awaiting moderation."
 msgstr "귀하의 의견은 검토 대기 중입니다."
 
-#: functions.php:440 functions.php:444
+#: functions.php:459 functions.php:463
 msgid "Please edit your profile page from site interface."
 msgstr "사이트 인터페이스에서 프로필 페이지를 편집하십시오."
 
-#: functions.php:562
+#: functions.php:581
 msgid "Your new password for the account at:"
 msgstr "다음 계정의 새 비밀번호 :"
 
-#: functions.php:564
+#: functions.php:583
 msgid "Username: %s"
 msgstr "사용자 이름 :  %s"
 
-#: functions.php:565
+#: functions.php:584
 msgid "Password: %s"
 msgstr "비밀번호 :  %s"
 
-#: functions.php:566
+#: functions.php:585
 msgid "You can now login with your new password at: "
 msgstr "이제 다음 위치에서 새 비밀번호로 로그인 할 수 있습니다."
 
-#: functions.php:577
+#: functions.php:596
 msgid "A new password was sent via email!"
 msgstr "새 비밀번호가 이메일을 통해 전송되었습니다."
 
-#: functions.php:584
+#: functions.php:603
 msgid "We have just sent you a new password. Please check your email!"
 msgstr "방금 새 암호를 보냈습니다. 이메일을 확인하십시오!"
 
-#: functions.php:607 functions.php:622
+#: functions.php:626 functions.php:641
 msgid "Message sent from page: "
 msgstr "페이지에서 보낸 메시지 :"
 
-#: functions.php:727 functions.php:754 libs/elementor_help_files.php:15
-#: libs/help_functions.php:3726 libs/help_functions.php:3732
-#: libs/help_functions.php:3871 libs/help_functions.php:4103
-#: libs/help_functions.php:4234 libs/help_functions.php:4623
-#: libs/searchfunctions.php:449 libs/searchfunctions.php:500
+#: functions.php:746 functions.php:773 libs/elementor_help_files.php:15
+#: libs/elementor_help_files2.php:23 libs/elementor_help_files2.php:351
+#: libs/help_functions.php:3965 libs/help_functions.php:3971
+#: libs/help_functions.php:4355 libs/help_functions.php:4744
+#: libs/searchfunctions.php:486 libs/searchfunctions.php:537
 #: libs/searchfunctions2.php:53 property_list_directory.php:79
-#: property_list_half.php:69
+#: property_list_half.php:69 templates/advanced_property_list_filters.php:52
+#: templates/advanced_property_list_filters.php:92
 #: templates/advanced_search/advanced_search_type2.php:46
 #: templates/advanced_search/advanced_search_type8.php:144
 #: templates/advanced_search/advanced_search_type9.php:146
 #: templates/advanced_search/advanced_search_type_half.php:129
-#: templates/advanced_search/advanced_search_type_half.php:162
-#: templates/advanced_search/advanced_search_type_half.php:173
+#: templates/advanced_search/advanced_search_type_half.php:171
+#: templates/advanced_search/advanced_search_type_half.php:182
 #: templates/advanced_search/adv_search_mobile.php:77
 #: templates/advanced_search/adv_search_mobile.php:102
-#: templates/advanced_search/adv_search_mobile.php:179
+#: templates/advanced_search/adv_search_mobile.php:186
 #: templates/advanced_search_type2.php:46
 #: templates/advanced_search_type8.php:144
 #: templates/advanced_search_type9.php:146
@@ -825,12 +827,14 @@ msgstr "페이지에서 보낸 메시지 :"
 msgid "Types"
 msgstr "타입"
 
-#: functions.php:780 libs/help_functions.php:3728 libs/help_functions.php:3905
-#: libs/help_functions.php:4132 libs/help_functions.php:4263
-#: libs/help_functions.php:4859 property_list_directory.php:130
-#: property_list_half.php:86
-#: templates/advanced_search/advanced_search_type_half.php:246
-#: templates/advanced_search/advanced_search_type_half.php:256
+#: functions.php:799 libs/elementor_help_files2.php:32
+#: libs/elementor_help_files2.php:355 libs/help_functions.php:3967
+#: libs/help_functions.php:4384 libs/help_functions.php:4980
+#: property_list_directory.php:130 property_list_half.php:86
+#: templates/advanced_property_list_filters.php:54
+#: templates/advanced_property_list_filters.php:134
+#: templates/advanced_search/advanced_search_type_half.php:255
+#: templates/advanced_search/advanced_search_type_half.php:265
 #: templates/advanced_search_type_half.php:247
 #: templates/advanced_search_type_half.php:257
 #: templates/directory_filters.php:49
@@ -844,12 +848,14 @@ msgstr "타입"
 msgid "Cities"
 msgstr "도시"
 
-#: functions.php:808 libs/help_functions.php:3730 libs/help_functions.php:3920
-#: libs/help_functions.php:4146 libs/help_functions.php:4277
-#: libs/help_functions.php:4966 property_list_directory.php:155
-#: property_list_directory.php:182 property_list_half.php:93
-#: templates/advanced_search/advanced_search_type_half.php:284
-#: templates/advanced_search/advanced_search_type_half.php:294
+#: functions.php:827 libs/elementor_help_files2.php:42
+#: libs/elementor_help_files2.php:360 libs/help_functions.php:3969
+#: libs/help_functions.php:4398 libs/help_functions.php:5087
+#: property_list_directory.php:155 property_list_directory.php:182
+#: property_list_half.php:93 templates/advanced_property_list_filters.php:55
+#: templates/advanced_property_list_filters.php:124
+#: templates/advanced_search/advanced_search_type_half.php:293
+#: templates/advanced_search/advanced_search_type_half.php:303
 #: templates/advanced_search_type_half.php:285
 #: templates/advanced_search_type_half.php:295
 #: templates/directory_filters.php:59
@@ -863,53 +869,53 @@ msgstr "도시"
 msgid "Areas"
 msgstr "영역"
 
-#: functions.php:832 libs/css_js_include.php:802
+#: functions.php:851 libs/css_js_include.php:810
 #: libs/css_js_include_bkc.php:803
-#: templates/advanced_search/advanced_search_type_half.php:318
+#: templates/advanced_search/advanced_search_type_half.php:327
 #: templates/advanced_search_type_half.php:319
 msgid "Type Bedrooms No."
 msgstr "유형 침실 번호"
 
-#: functions.php:841 libs/css_js_include.php:803
+#: functions.php:860 libs/css_js_include.php:811
 #: libs/css_js_include_bkc.php:804
-#: templates/advanced_search/advanced_search_type_half.php:323
+#: templates/advanced_search/advanced_search_type_half.php:332
 #: templates/advanced_search_type_half.php:324
 msgid "Type Bathrooms No."
 msgstr "유형 화장실 번호"
 
-#: functions.php:872 libs/help_functions.php:3540 libs/searchfunctions2.php:127
-#: libs/searchfunctions2.php:218
-#: templates/advanced_search/advanced_search_type_half.php:350
+#: functions.php:891 libs/help_functions.php:3780 libs/searchfunctions2.php:142
+#: libs/searchfunctions2.php:267
+#: templates/advanced_search/advanced_search_type_half.php:359
 #: templates/advanced_search_type_half.php:351
 #: templates/directory_filters.php:159
 msgid "Price range:"
 msgstr "가격 범위:"
 
-#: functions.php:893 libs/css_js_include.php:804
+#: functions.php:912 libs/css_js_include.php:812
 #: libs/css_js_include_bkc.php:805
-#: templates/advanced_search/advanced_search_type_half.php:361
+#: templates/advanced_search/advanced_search_type_half.php:370
 #: templates/advanced_search_type_half.php:362
 msgid "Type Min. Price"
 msgstr "Min을 입력하십시오. 가격"
 
-#: functions.php:897 libs/css_js_include.php:805
+#: functions.php:916 libs/css_js_include.php:813
 #: libs/css_js_include_bkc.php:806
-#: templates/advanced_search/advanced_search_type_half.php:365
+#: templates/advanced_search/advanced_search_type_half.php:374
 #: templates/advanced_search_type_half.php:366
 msgid "Type Max. Price"
 msgstr "최대를 입력하십시오. 가격"
 
-#: functions.php:1550 functions.php:1565 functions.php:1580 functions.php:1594
-#: functions.php:1608 functions.php:1623 functions.php:1637 functions.php:1651
-#: functions.php:1666 functions.php:1682 functions.php:1698 functions.php:1714
-#: functions.php:1729 functions.php:1745 functions.php:1761 functions.php:1778
-#: functions.php:1793 functions.php:1809 functions.php:1827 functions.php:1842
-#: functions.php:1857 functions.php:1869 functions.php:1885 functions.php:1902
-#: functions.php:1918 functions.php:1933 functions.php:1950 functions.php:1967
-#: functions.php:1983 functions.php:1998 functions.php:2013 functions.php:2028
-#: functions.php:2043 functions.php:2058 functions.php:2073 functions.php:2089
-#: functions.php:2104 functions.php:2121 functions.php:2136 functions.php:2151
-#: functions.php:2167
+#: functions.php:1563 functions.php:1577 functions.php:1593 functions.php:1609
+#: functions.php:1628 functions.php:1643 functions.php:1657 functions.php:1671
+#: functions.php:1686 functions.php:1700 functions.php:1714 functions.php:1729
+#: functions.php:1745 functions.php:1761 functions.php:1777 functions.php:1792
+#: functions.php:1808 functions.php:1824 functions.php:1841 functions.php:1856
+#: functions.php:1872 functions.php:1890 functions.php:1905 functions.php:1920
+#: functions.php:1932 functions.php:1948 functions.php:1965 functions.php:1981
+#: functions.php:1996 functions.php:2013 functions.php:2030 functions.php:2046
+#: functions.php:2061 functions.php:2076 functions.php:2091 functions.php:2106
+#: functions.php:2121 functions.php:2136 functions.php:2152 functions.php:2167
+#: functions.php:2184 functions.php:2199 functions.php:2214 functions.php:2230
 msgid "Clear theme cache after demo import is complete!"
 msgstr "데모 가져 오기가 완료되면 캐시 지우기가 완료됩니다!"
 
@@ -974,6 +980,22 @@ msgstr "안녕하세요, 숙소 중 하나에 관심이 있습니다."
 msgid "Hello I'm interested in "
 msgstr "안녕하세요 다음에 관심이 있습니다"
 
+#: libs/agent_functions.php:377 templates/agentdetails.php:87
+#: templates/listing_templates/agent_section/agent_details_2.php:27
+msgid "Member of:"
+msgstr "의 멤버이다:"
+
+#: libs/agent_functions.php:440 templates/!property_reviews.php:118
+#: templates/agency_reviews.php:124
+#: templates/agency_templates/agency_reviews.php:124
+#: templates/agent_reviews.php:102 templates/developer_reviews.php:105
+#: templates/developer_templates/developer_reviews.php:109
+#: templates/listing_templates/property-page-templates/property_reviews.php:126
+#: templates/listing_templates/property_reviews.php:121
+#: templates/property_page!/property_reviews.php:118
+msgid "Reviews"
+msgstr "리뷰"
+
 #: libs/ajax_functions.php:19 libs/gallery_functions.php:33
 #: libs/header_filter_functions.php:149 libs/listing_functions.php:878
 #: libs/listing_functions.php:902 templates/property_page_acc_content.php:207
@@ -983,8 +1005,8 @@ msgid "Map"
 msgstr "지도"
 
 #: libs/ajax_functions.php:97 libs/ajax_functions.php:209
-#: libs/css_js_include.php:919 libs/css_js_include_bkc.php:917
-#: libs/design_functions.php:2005 templates/featured_property_3.php:34
+#: libs/css_js_include.php:931 libs/css_js_include_bkc.php:917
+#: libs/design_functions.php:2124 templates/featured_property_3.php:34
 #: templates/featured_property_4.php:48
 #: templates/listing_templates/favorite_under_title.php:8
 #: templates/listing_templates/property-page-templates/favorite_under_title.php:8
@@ -995,7 +1017,7 @@ msgid "add to favorites"
 msgstr "즐겨 찾기에 추가"
 
 #: libs/ajax_functions.php:112 libs/ajax_functions.php:214
-#: libs/css_js_include.php:918 libs/css_js_include_bkc.php:916
+#: libs/css_js_include.php:930 libs/css_js_include_bkc.php:916
 msgid "favorite"
 msgstr "특히 잘하는"
 
@@ -1033,7 +1055,7 @@ msgstr "주변 소식"
 msgid "WalkScore"
 msgstr "WalkScore"
 
-#: libs/ajax_functions.php:340 libs/dashboard_actions_functions.php:295
+#: libs/ajax_functions.php:341 libs/dashboard_actions_functions.php:295
 #: libs/gallery_functions.php:47 libs/header_filter_functions.php:154
 #: templates/property_page_acc_content.php:240
 #: templates/property_page_acc_content.php:254
@@ -1042,78 +1064,68 @@ msgstr "WalkScore"
 msgid "Virtual Tour"
 msgstr "가상 투어"
 
-#: libs/ajax_functions.php:370 libs/gallery_functions.php:42
+#: libs/ajax_functions.php:371 libs/gallery_functions.php:42
 #: libs/header_filter_functions.php:144
 #: templates/property_page_acc_content.php:164
 #: templates/property_page_tab_content.php:161
 msgid "Video"
 msgstr "비디오"
 
-#: libs/ajax_functions.php:397 libs/header_filter_functions.php:139
+#: libs/ajax_functions.php:398 libs/header_filter_functions.php:139
 #: templates/property_page_acc_content.php:126
 #: templates/property_page_tab_content.php:62
 #: templates/submit_templates/property_amenities.php:109
 msgid "Amenities and Features"
 msgstr "편의 시설 및 특징"
 
-#: libs/ajax_functions.php:427 libs/header_filter_functions.php:134
+#: libs/ajax_functions.php:428 libs/header_filter_functions.php:134
 #: templates/property_page_acc_content.php:92
 #: templates/property_page_tab_content.php:49
 msgid "Property Details"
 msgstr "부동산 상세 정보"
 
-#: libs/ajax_functions.php:455 libs/dashboard_actions_functions.php:140
-#: libs/header_filter_functions.php:129 libs/help_functions.php:5756
-#: libs/help_functions.php:5990 templates/property_page_acc_content.php:64
+#: libs/ajax_functions.php:456 libs/dashboard_actions_functions.php:140
+#: libs/header_filter_functions.php:129 libs/help_functions.php:5877
+#: libs/help_functions.php:6111 templates/property_page_acc_content.php:64
 #: templates/property_page_tab_content.php:39
 msgid "Property Address"
 msgstr "부동산 주소"
 
-#: libs/ajax_functions.php:486 libs/dashboard_actions_functions.php:16
-#: libs/header_filter_functions.php:108 libs/help_functions.php:5745
+#: libs/ajax_functions.php:487 libs/dashboard_actions_functions.php:16
+#: libs/header_filter_functions.php:108 libs/help_functions.php:5866
 #: libs/megamenu.php:255 templates/property_page_acc_content.php:23
 #: templates/property_page_tab_content.php:26
 #: templates/submit_templates/property_description.php:17
 msgid "Description"
 msgstr "기술"
 
-#: libs/ajax_functions.php:709 libs/ajax_functions.php:881
-#: libs/ajax_functions.php:1239 libs/ajax_functions.php:1843
-#: libs/ajax_functions.php:2567 libs/ajax_functions.php:4232
-#: libs/ajax_functions.php:4485 libs/ajax_functions.php:4767
+#: libs/ajax_functions.php:710 libs/ajax_functions.php:888
+#: libs/ajax_functions.php:1246 libs/ajax_functions.php:1783
+#: libs/ajax_functions.php:2508 libs/ajax_functions.php:4224
+#: libs/ajax_functions.php:4477 libs/ajax_functions.php:4760
 #: templates/google_maps_base.php:75
 msgid "We didn't find any results"
 msgstr "결과를 찾지 못했습니다."
 
-#: libs/ajax_functions.php:1232 templates/agency_unit.php:149
+#: libs/ajax_functions.php:1239 templates/agency_unit.php:138
 #: templates/agent_card_templates/agent_unit.php:24
 #: templates/agent_card_templates/agent_unit_4.php:24
 #: templates/agent_unit.php:22 templates/agent_unit_widget.php:109
 msgid "listings"
 msgstr "목록"
 
-#: libs/ajax_functions.php:1302
-msgid ""
-"Please validate your purchase code in order to use the theme! See this link "
-"link  "
-msgstr "테마를 사용하려면 구매 코드를 인증해 주세요! 이 링크를 참조하세요"
-
-#: libs/ajax_functions.php:1302
-msgid "if you don't know how to get your license key. Thank you!"
-msgstr "라이선스 키를 받는 방법을 모르는 경우 여기를 참조하세요. 감사합니다!"
-
-#: libs/ajax_functions.php:1851 libs/ajax_functions.php:4776
+#: libs/ajax_functions.php:1791 libs/ajax_functions.php:4784
 #: templates/dashboard-templates/user_memebership_profile.php:138
-#: templates/half_map_core.php:175
+#: templates/half_map_core.php:178
 msgid "Listings"
 msgstr "리스팅"
 
-#: libs/ajax_functions.php:2333 libs/ajax_functions.php:2446
-#: libs/help_functions.php:5219
+#: libs/ajax_functions.php:2273 libs/ajax_functions.php:2387
+#: libs/help_functions.php:5340
 msgid "Hi there,"
 msgstr "안녕,"
 
-#: libs/ajax_functions.php:2334
+#: libs/ajax_functions.php:2274
 msgid ""
 "We received your  Wire Transfer payment request on %s ! Please follow the "
 "instructions below in order to start submitting properties as soon as "
@@ -1122,23 +1134,23 @@ msgstr ""
 " %s에서 귀하의 은행 송금 (Wire Transfer) 지불 요청을 받았습니다! 가능한 빨리 "
 "속성 제출을 시작하려면 아래 지침을 따르십시오."
 
-#: libs/ajax_functions.php:2335
+#: libs/ajax_functions.php:2275
 msgid "The invoice number is: "
 msgstr "인보이스 번호는 다음과 같습니다."
 
-#: libs/ajax_functions.php:2335
+#: libs/ajax_functions.php:2275
 msgid "Amount:"
 msgstr "양:"
 
-#: libs/ajax_functions.php:2336
+#: libs/ajax_functions.php:2276
 msgid "Instructions: "
 msgstr "명령:"
 
-#: libs/ajax_functions.php:2619
+#: libs/ajax_functions.php:2560
 msgid "you don't have the right to delete this"
 msgstr "너는 이것을 지울 권리가 없다."
 
-#: libs/ajax_functions.php:2677
+#: libs/ajax_functions.php:2618
 msgid ""
 "Search has been saved. You will receive an email notification when new "
 "properties matching your search have been published"
@@ -1146,58 +1158,58 @@ msgstr ""
 "검색이 저장되었습니다. 검색과 일치하는 새 속성이 게시되면 이메일 알림을 받게"
 "됩니다."
 
-#: libs/ajax_functions.php:2863
+#: libs/ajax_functions.php:2804
 msgid "Wrong captcha"
 msgstr "잘못된 캡차"
 
-#: libs/ajax_functions.php:2881
+#: libs/ajax_functions.php:2822
 msgid "Captcha Invalidated - Refresh and try again."
 msgstr "캡차 유효하지 않음 - 새로고침 후 다시 시도하세요."
 
-#: libs/ajax_functions.php:2899 libs/dashboard_actions_functions.php:902
+#: libs/ajax_functions.php:2840 libs/dashboard_actions_functions.php:907
 msgid "Invalid username (do not use special characters or spaces)!"
 msgstr "잘못된 사용자 이름 (특수 문자 또는 공백을 사용하지 마십시오)!"
 
-#: libs/ajax_functions.php:2907 libs/dashboard_actions_functions.php:906
-#: libs/dashboard_actions_functions.php:932
+#: libs/ajax_functions.php:2848 libs/dashboard_actions_functions.php:911
+#: libs/dashboard_actions_functions.php:937
 msgid "Username and/or Email field is empty!"
 msgstr "사용자 이름 및 / 또는 전자 메일 필드가 비어 있습니다!"
 
-#: libs/ajax_functions.php:2915 libs/dashboard_actions_functions.php:947
+#: libs/ajax_functions.php:2856 libs/dashboard_actions_functions.php:952
 msgid "The email doesn't look right !"
 msgstr "이메일이 제대로 보이지 않습니다!"
 
-#: libs/ajax_functions.php:2924 libs/dashboard_actions_functions.php:952
+#: libs/ajax_functions.php:2865 libs/dashboard_actions_functions.php:957
 msgid "The email's domain doesn't look right."
 msgstr "이메일의 도메인이 올바르지 않습니다."
 
-#: libs/ajax_functions.php:2934 libs/dashboard_actions_functions.php:911
+#: libs/ajax_functions.php:2875 libs/dashboard_actions_functions.php:916
 msgid "Username already exists.  Please choose a new one."
 msgstr "사용자 이름이 이미 존재합니다. 새로운 것을 선택하십시오."
 
-#: libs/ajax_functions.php:2946 libs/dashboard_actions_functions.php:918
+#: libs/ajax_functions.php:2887 libs/dashboard_actions_functions.php:923
 msgid "One of the password field is empty!"
 msgstr "암호 필드 중 하나가 비어 있습니다!"
 
-#: libs/ajax_functions.php:2954 libs/ajax_functions.php:3944
-#: libs/dashboard_actions_functions.php:922
+#: libs/ajax_functions.php:2895 libs/ajax_functions.php:3936
+#: libs/dashboard_actions_functions.php:927
 msgid "Passwords do not match"
 msgstr "비밀번호가 일치하지 않습니다"
 
-#: libs/ajax_functions.php:2977
+#: libs/ajax_functions.php:2918
 msgid "Your account was created and you can login now!"
 msgstr "귀하의 계정이 생성되었으며 지금 로그인 할 수 있습니다!"
 
-#: libs/ajax_functions.php:2982
+#: libs/ajax_functions.php:2923
 msgid "An email with the generated password was sent!"
 msgstr "생성 된 비밀번호가 포함 된 이메일을 보냈습니다!"
 
-#: libs/ajax_functions.php:2999 libs/dashboard_actions_functions.php:926
-#: libs/dashboard_actions_functions.php:936
+#: libs/ajax_functions.php:2940 libs/dashboard_actions_functions.php:931
+#: libs/dashboard_actions_functions.php:941
 msgid "Email already exists.  Please choose a new one."
 msgstr "이메일이 이미 존재합니다. 새로운 것을 선택하십시오."
 
-#: libs/ajax_functions.php:3020 libs/dashboard_actions_functions.php:632
+#: libs/ajax_functions.php:2961 libs/dashboard_actions_functions.php:635
 #: libs/header_filter_functions.php:189 single-estate_property-obsolete.php:218
 #: single-estate_property-obsolete.php:223
 #: templates/dashboard-templates/user_memebership_profile.php:73
@@ -1205,135 +1217,135 @@ msgstr "이메일이 이미 존재합니다. 새로운 것을 선택하십시오
 msgid "Agent"
 msgstr "에이전트"
 
-#: libs/ajax_functions.php:3024
+#: libs/ajax_functions.php:2965
 #: templates/dashboard-templates/user_memebership_profile.php:73
 msgid "Agency"
 msgstr "대리점"
 
-#: libs/ajax_functions.php:3028
+#: libs/ajax_functions.php:2969
 #: templates/dashboard-templates/user_memebership_profile.php:73
 msgid "Developer"
 msgstr "개발자"
 
-#: libs/ajax_functions.php:3082 libs/ajax_functions.php:3137
-#: libs/ajax_functions.php:3194
+#: libs/ajax_functions.php:3023 libs/ajax_functions.php:3078
+#: libs/ajax_functions.php:3135
 msgid "You are already logged in! redirecting..."
 msgstr "귀하는 이미 로그인하셨습니다! 리디렉션 중 ..."
 
-#: libs/ajax_functions.php:3092 libs/ajax_functions.php:3148
-#: libs/ajax_functions.php:3205
+#: libs/ajax_functions.php:3033 libs/ajax_functions.php:3089
+#: libs/ajax_functions.php:3146
 msgid "Username and/or Password field is empty!"
 msgstr "사용자 이름 및 / 또는 암호 필드가 비어 있습니다!"
 
-#: libs/ajax_functions.php:3112 libs/ajax_functions.php:3169
-#: libs/ajax_functions.php:3217
+#: libs/ajax_functions.php:3053 libs/ajax_functions.php:3110
+#: libs/ajax_functions.php:3158
 msgid "Wrong username or password!"
 msgstr "잘못된 사용자 이름 또는 비밀번호!"
 
-#: libs/ajax_functions.php:3118 libs/ajax_functions.php:3175
-#: libs/ajax_functions.php:3225
+#: libs/ajax_functions.php:3059 libs/ajax_functions.php:3116
+#: libs/ajax_functions.php:3166
 msgid "Login successful, redirecting..."
 msgstr "로그인 성공, 리디렉션 중 ..."
 
-#: libs/ajax_functions.php:3254
+#: libs/ajax_functions.php:3195
 msgid "Email field is empty!"
 msgstr "이메일 입력란이 비어 있습니다."
 
-#: libs/ajax_functions.php:3263
+#: libs/ajax_functions.php:3204
 msgid "Invalid E-mail address!"
 msgstr "잘못된 이메일 주소!"
 
-#: libs/ajax_functions.php:3271
+#: libs/ajax_functions.php:3212
 msgid "Invalid Username!"
 msgstr "잘못된 사용자 이름!"
 
-#: libs/ajax_functions.php:3293
+#: libs/ajax_functions.php:3234
 msgid "We have just sent you an email with Password reset instructions."
 msgstr "방금 암호 재설정 지침이 담긴 이메일을 보냈습니다."
 
-#: libs/ajax_functions.php:3412 libs/ajax_functions.php:3587
-#: libs/ajax_functions.php:3755
+#: libs/ajax_functions.php:3365 libs/ajax_functions.php:3555
+#: libs/ajax_functions.php:3736
 msgid "The email was not saved because it is used by another user."
 msgstr "이메일은 다른 사용자가 사용했기 때문에 저장되지 않았습니다."
 
-#: libs/ajax_functions.php:3427 libs/ajax_functions.php:3602
-#: libs/ajax_functions.php:3770
+#: libs/ajax_functions.php:3380 libs/ajax_functions.php:3570
+#: libs/ajax_functions.php:3751
 msgid "Profile updated"
 msgstr "프로필이 업데이트되었습니다."
 
-#: libs/ajax_functions.php:3939
+#: libs/ajax_functions.php:3931
 msgid "The new password is blank"
 msgstr "새 암호가 비어 있습니다."
 
-#: libs/ajax_functions.php:3952
+#: libs/ajax_functions.php:3944
 msgid "Password Updated"
 msgstr "암호 업데이트 됨"
 
-#: libs/ajax_functions.php:3954
+#: libs/ajax_functions.php:3946
 msgid "Old Password is not correct"
 msgstr "이전 암호가 올바르지 않습니다."
 
-#: libs/ajax_functions.php:3995 libs/ajax_functions.php:4001
+#: libs/ajax_functions.php:3987 libs/ajax_functions.php:3993
 msgid "addded"
 msgstr "추가 된"
 
-#: libs/ajax_functions.php:4008
+#: libs/ajax_functions.php:4000
 msgid "removed"
 msgstr "제거 된"
 
-#: libs/ajax_functions.php:4915
+#: libs/ajax_functions.php:4923
 msgid "Listing payment on "
 msgstr "에 지불 목록 등록"
 
-#: libs/ajax_functions.php:4927
+#: libs/ajax_functions.php:4935
 msgid "Upgrade to featured listing on "
 msgstr "추천 목록으로 업그레이드"
 
-#: libs/ajax_functions.php:5014
+#: libs/ajax_functions.php:5022
 msgid "Upgrade to Featured Listing"
 msgstr "추천 목록으로 업그레이드"
 
-#: libs/ajax_functions.php:5023
+#: libs/ajax_functions.php:5031
 msgid "Listing Payment"
 msgstr "지불 목록 작성"
 
-#: libs/ajax_functions.php:5033
+#: libs/ajax_functions.php:5041
 msgid "Listing Payment with Featured option"
 msgstr "주요 옵션으로 지불 나열"
 
-#: libs/ajax_functions.php:5146
+#: libs/ajax_functions.php:5154
 msgid "Sent for approval"
 msgstr "승인을 위해 전송 됨"
 
-#: libs/ajax_functions.php:5158
+#: libs/ajax_functions.php:5166
 msgid "no listings available"
 msgstr "사용할 수있는 목록이 없습니다."
 
-#: libs/ajax_functions.php:5187
+#: libs/ajax_functions.php:5195
 msgid "The date & time is already booked. Please choose a new one"
 msgstr "날짜와 시간은 이미 예약되어 있습니다. 새로운 것을 선택하십시오."
 
-#: libs/ajax_functions.php:5276
+#: libs/ajax_functions.php:5284
 msgid "membership payment on "
 msgstr "에 대한 회원 지불"
 
-#: libs/ajax_functions.php:5283 libs/ajax_functions.php:5286
+#: libs/ajax_functions.php:5291 libs/ajax_functions.php:5294
 msgid "Membership Payment"
 msgstr "회원 지불"
 
-#: libs/ajax_functions.php:5348
+#: libs/ajax_functions.php:5356
 msgid "Unable to login. Please, check login/password and try again"
 msgstr "로그인 할 수 없습니다. 로그인 / 비밀번호를 확인하고 다시 시도하십시오."
 
-#: libs/ajax_functions.php:5356
+#: libs/ajax_functions.php:5364
 msgid "Please, enter correct email"
 msgstr "올바른 이메일을 입력하십시오."
 
-#: libs/ajax_functions.php:5370
+#: libs/ajax_functions.php:5378
 msgid "Can\\t create user with this credentials"
 msgstr "이 자격 증명으로 사용자를 만들 수 없습니다."
 
-#: libs/ajax_functions.php:5374
+#: libs/ajax_functions.php:5382
 msgid "Sorry, user already exists. Try different username/email"
 msgstr "죄송합니다. 이미 사용자가 있습니다. 다른 사용자 이름 / 이메일 시도"
 
@@ -1349,11 +1361,12 @@ msgstr "시각"
 #: libs/contact_functions.php:80 libs/contact_functions.php:92
 #: templates/agent_contact.php:31 templates/agent_contact.php:47
 #: templates/footer_buttons.php:21 templates/header_agency.php:114
-#: templates/header_developer.php:96
+#: templates/header_developer.php:77
 msgid "Contact Us"
 msgstr "연락처"
 
 #: libs/contact_functions.php:82 templates/agent_contact.php:33
+#: templates/listing_templates/agent_section/agent_details_2.php:71
 msgid "Contact Me"
 msgstr "저에게 연락하십시오"
 
@@ -1365,107 +1378,109 @@ msgstr "보여주는 일정을 잡으시겠습니까?"
 msgid "I consent to the"
 msgstr "동의합니다"
 
-#: libs/css_js_include.php:263 libs/css_js_include_bkc.php:263
+#: libs/css_js_include.php:271 libs/css_js_include_bkc.php:263
 msgid "payment failed"
 msgstr "결제 실패"
 
-#: libs/css_js_include.php:582
+#: libs/css_js_include.php:590
 msgid " in "
 msgstr "카테고리"
 
-#: libs/css_js_include.php:589
+#: libs/css_js_include.php:597
 msgid "The browser couldn't detect your position!"
 msgstr "브라우저가 사용자의 위치를 ​​감지하지 못했습니다!"
 
-#: libs/css_js_include.php:590
+#: libs/css_js_include.php:598
 msgid "Geolocation is not supported by this browser."
 msgstr "Geolocation은이 브라우저에서 지원되지 않습니다."
 
-#: libs/css_js_include.php:591
+#: libs/css_js_include.php:599
 msgid "m radius"
 msgstr "반경"
 
-#: libs/css_js_include.php:598 libs/css_js_include.php:822
+#: libs/css_js_include.php:606 libs/css_js_include.php:830
 #: libs/css_js_include_bkc.php:826
 msgid "close map"
 msgstr "지도 닫기"
 
-#: libs/css_js_include.php:609
+#: libs/css_js_include.php:617
 msgid "No results found!"
 msgstr "검색 결과가 없습니다!"
 
-#: libs/css_js_include.php:615
+#: libs/css_js_include.php:623
 msgid "loading results..."
 msgstr "결과로드 중 ..."
 
-#: libs/css_js_include.php:622 libs/theme-slider.php:454
+#: libs/css_js_include.php:630 libs/theme-slider.php:454
 #: templates/featured_property_5.php:32
 #: templates/property_cards_templates/property_card_details_type5.php:14
+#: templates/property_cards_templates/property_unit_saved_search.php:29
 msgid "BA"
 msgstr "BA"
 
-#: libs/css_js_include.php:623 libs/theme-slider.php:450
+#: libs/css_js_include.php:631 libs/theme-slider.php:450
 #: templates/featured_property_5.php:28
 #: templates/property_cards_templates/property_card_details_type5.php:10
+#: templates/property_cards_templates/property_unit_saved_search.php:26
 msgid "BD"
 msgstr "BD"
 
-#: libs/css_js_include.php:692 libs/css_js_include.php:1192
+#: libs/css_js_include.php:700 libs/css_js_include.php:1204
 #: libs/css_js_include_bkc.php:1190
 msgid "Geolocation was not successful"
 msgstr "지리적 위치가 성공하지 못했습니다"
 
-#: libs/css_js_include.php:750 libs/css_js_include_bkc.php:751
-#: libs/help_functions.php:5902 libs/help_functions.php:5910
+#: libs/css_js_include.php:758 libs/css_js_include_bkc.php:751
+#: libs/help_functions.php:6023 libs/help_functions.php:6031
 msgid "Principal and Interest"
 msgstr "원금 및 이자"
 
-#: libs/css_js_include.php:751 libs/css_js_include_bkc.php:752
+#: libs/css_js_include.php:759 libs/css_js_include_bkc.php:752
 msgid "HOO fees"
 msgstr "HOO 수수료"
 
-#: libs/css_js_include.php:752 libs/css_js_include_bkc.php:753
-#: libs/help_functions.php:5903 libs/help_functions.php:5911
+#: libs/css_js_include.php:760 libs/css_js_include_bkc.php:753
+#: libs/help_functions.php:6024 libs/help_functions.php:6032
 msgid "Property Tax"
 msgstr "재산세"
 
-#: libs/css_js_include.php:753 libs/css_js_include.php:939
+#: libs/css_js_include.php:761 libs/css_js_include.php:951
 #: libs/css_js_include_bkc.php:754 libs/css_js_include_bkc.php:937
 msgid "Property Views"
 msgstr "속성 보기"
 
-#: libs/css_js_include.php:780 libs/css_js_include_bkc.php:781
-#: libs/help_functions.php:2239
+#: libs/css_js_include.php:788 libs/css_js_include_bkc.php:781
+#: libs/help_functions.php:2447
 msgid "miles"
 msgstr "마일"
 
-#: libs/css_js_include.php:781 libs/css_js_include_bkc.php:782
-#: libs/help_functions.php:2242
+#: libs/css_js_include.php:789 libs/css_js_include_bkc.php:782
+#: libs/help_functions.php:2450
 msgid "km"
 msgstr "km"
 
-#: libs/css_js_include.php:796 libs/css_js_include_bkc.php:797
+#: libs/css_js_include.php:804 libs/css_js_include_bkc.php:797
 msgid "Amount Financed:"
 msgstr "금액 :"
 
-#: libs/css_js_include.php:797 libs/css_js_include_bkc.php:798
+#: libs/css_js_include.php:805 libs/css_js_include_bkc.php:798
 msgid "Mortgage Payments:"
 msgstr "모기지 지불 :"
 
-#: libs/css_js_include.php:798 libs/css_js_include_bkc.php:799
+#: libs/css_js_include.php:806 libs/css_js_include_bkc.php:799
 msgid "Annual cost of Loan:"
 msgstr "대출 연간 비용 :"
 
-#: libs/css_js_include.php:799 libs/css_js_include_bkc.php:800
+#: libs/css_js_include.php:807 libs/css_js_include_bkc.php:800
 msgid "SEARCH"
 msgstr "수색"
 
-#: libs/css_js_include.php:800 libs/css_js_include_bkc.php:801
+#: libs/css_js_include.php:808 libs/css_js_include_bkc.php:801
 msgid "Search here..."
 msgstr "여기에서 검색 ..."
 
-#: libs/css_js_include.php:806 libs/css_js_include.php:810
-#: libs/css_js_include.php:900 libs/css_js_include.php:904
+#: libs/css_js_include.php:814 libs/css_js_include.php:818
+#: libs/css_js_include.php:912 libs/css_js_include.php:916
 #: libs/css_js_include_bkc.php:807 libs/css_js_include_bkc.php:814
 #: libs/css_js_include_bkc.php:898 libs/css_js_include_bkc.php:902
 #: templates/agent_contact.php:84 templates/footer_buttons.php:28
@@ -1474,8 +1489,8 @@ msgstr "여기에서 검색 ..."
 msgid "Your Name"
 msgstr "당신의 이름"
 
-#: libs/css_js_include.php:807 libs/css_js_include.php:811
-#: libs/css_js_include.php:901 libs/css_js_include.php:905
+#: libs/css_js_include.php:815 libs/css_js_include.php:819
+#: libs/css_js_include.php:913 libs/css_js_include.php:917
 #: libs/css_js_include_bkc.php:808 libs/css_js_include_bkc.php:815
 #: libs/css_js_include_bkc.php:899 libs/css_js_include_bkc.php:903
 #: templates/agent_contact.php:86 templates/footer_buttons.php:29
@@ -1484,8 +1499,8 @@ msgstr "당신의 이름"
 msgid "Your Email"
 msgstr "귀하의 이메일"
 
-#: libs/css_js_include.php:808 libs/css_js_include.php:812
-#: libs/css_js_include.php:902 libs/css_js_include.php:906
+#: libs/css_js_include.php:816 libs/css_js_include.php:820
+#: libs/css_js_include.php:914 libs/css_js_include.php:918
 #: libs/css_js_include_bkc.php:809 libs/css_js_include_bkc.php:816
 #: libs/css_js_include_bkc.php:900 libs/css_js_include_bkc.php:904
 #: templates/agent_contact.php:87 templates/footer_buttons.php:30
@@ -1494,91 +1509,93 @@ msgstr "귀하의 이메일"
 msgid "Your Phone"
 msgstr "너의 폰"
 
-#: libs/css_js_include.php:809 libs/css_js_include.php:813
-#: libs/css_js_include.php:903 libs/css_js_include.php:907
+#: libs/css_js_include.php:817 libs/css_js_include.php:821
+#: libs/css_js_include.php:915 libs/css_js_include.php:919
 #: libs/css_js_include_bkc.php:810 libs/css_js_include_bkc.php:817
 #: libs/css_js_include_bkc.php:901 libs/css_js_include_bkc.php:905
 msgid "Your Message"
 msgstr "귀하의 메시지"
 
-#: libs/css_js_include.php:814 libs/css_js_include.php:908
+#: libs/css_js_include.php:822 libs/css_js_include.php:920
 #: libs/css_js_include_bkc.php:818 libs/css_js_include_bkc.php:906
 msgid "Send Message"
 msgstr "문자 보내"
 
-#: libs/css_js_include.php:817 libs/css_js_include.php:914
+#: libs/css_js_include.php:825 libs/css_js_include.php:926
 #: libs/css_js_include_bkc.php:821 libs/css_js_include_bkc.php:912
 msgid "Sending user info, please wait..."
 msgstr "사용자 정보를 보내고 있습니다. 잠시 기다려주십시오 ..."
 
-#: libs/css_js_include.php:818 libs/css_js_include_bkc.php:822
+#: libs/css_js_include.php:826 libs/css_js_include_bkc.php:822
 #: libs/gallery_functions.php:37 libs/listing_functions.php:883
 #: libs/listing_functions.php:906 templates/google_maps_base.php:125
 msgid "Street View"
 msgstr "스트리트 뷰"
 
-#: libs/css_js_include.php:819 libs/css_js_include_bkc.php:823
+#: libs/css_js_include.php:827 libs/css_js_include_bkc.php:823
 msgid "Close Street View"
 msgstr "스트리트 뷰 닫기"
 
-#: libs/css_js_include.php:823 libs/css_js_include_bkc.php:827
+#: libs/css_js_include.php:831 libs/css_js_include_bkc.php:827
 #: templates/google_maps_base.php:84 templates/google_maps_base.php:88
 msgid "open map"
 msgstr "지도 열기"
 
-#: libs/css_js_include.php:824 libs/css_js_include_bkc.php:828
+#: libs/css_js_include.php:832 libs/css_js_include_bkc.php:828
 #: templates/google_maps_base.php:99 templates/google_maps_base_map_list.php:12
 msgid "Fullscreen"
 msgstr "전체 화면"
 
-#: libs/css_js_include.php:825 libs/css_js_include_bkc.php:829
+#: libs/css_js_include.php:833 libs/css_js_include_bkc.php:829
 #: libs/help_functions_cards.php:152
 msgid "Default"
 msgstr "태만"
 
-#: libs/css_js_include.php:826 libs/css_js_include_bkc.php:830
+#: libs/css_js_include.php:834 libs/css_js_include_bkc.php:830
 msgid "Please wait while we are processing your submission!"
 msgstr "제출 내용을 처리하는 동안 기다려주십시오!"
 
-#: libs/css_js_include.php:827 libs/css_js_include_bkc.php:831
+#: libs/css_js_include.php:835 libs/css_js_include_bkc.php:831
 msgid "Are you sure you wish to delete?"
 msgstr "삭제 하시겠습니까?"
 
-#: libs/css_js_include.php:828 libs/css_js_include_bkc.php:832
+#: libs/css_js_include.php:836 libs/css_js_include_bkc.php:832
 msgid "You need to agree with terms and conditions !"
 msgstr "이용 약관에 동의해야합니다!"
 
-#: libs/css_js_include.php:829 libs/css_js_include_bkc.php:833
+#: libs/css_js_include.php:837 libs/css_js_include_bkc.php:833
 msgid "Please select the user type !"
 msgstr "사용자 유형을 선택하세요!"
 
-#: libs/css_js_include.php:830 libs/css_js_include_bkc.php:834
+#: libs/css_js_include.php:838 libs/css_js_include_bkc.php:834
 msgid "Processing..."
 msgstr "처리 중 ..."
 
-#: libs/css_js_include.php:836 libs/css_js_include_bkc.php:840
-#: libs/general-settings.php:50 libs/general-settings.php:52
-#: libs/general-settings.php:62 libs/general-settings.php:64
-#: libs/searchfunctions.php:2510 libs/searchfunctions.php:2538
-#: libs/searchfunctions.php:2570 templates/directory_filters.php:191
+#: libs/css_js_include.php:844 libs/css_js_include_bkc.php:840
+#: libs/general-settings.php:48 libs/general-settings.php:50
+#: libs/general-settings.php:59 libs/general-settings.php:61
+#: libs/general-settings.php:94 libs/general-settings.php:99
+#: libs/general-settings.php:110 libs/general-settings.php:114
+#: libs/searchfunctions.php:2484 libs/searchfunctions.php:2512
+#: libs/searchfunctions.php:2544 templates/directory_filters.php:191
 #: templates/directory_filters.php:208 templates/directory_filters.php:227
 #: templates/directory_filters.php:246 templates/directory_filters.php:265
 msgid "to"
 msgstr "to"
 
-#: libs/css_js_include.php:838 libs/css_js_include_bkc.php:842
+#: libs/css_js_include.php:846 libs/css_js_include_bkc.php:842
 msgid "Send me the invoice"
 msgstr "송장을 보내주십시오."
 
-#: libs/css_js_include.php:839 libs/css_js_include_bkc.php:843
+#: libs/css_js_include.php:847 libs/css_js_include_bkc.php:843
 msgid "Direct payment instructions"
 msgstr "직접 결제 방법"
 
-#: libs/css_js_include.php:840 libs/css_js_include_bkc.php:844
+#: libs/css_js_include.php:848 libs/css_js_include_bkc.php:844
 msgid "To be paid"
 msgstr "지불됩니다"
 
-#: libs/css_js_include.php:842 libs/css_js_include.php:1111
+#: libs/css_js_include.php:850 libs/css_js_include.php:1123
 #: libs/css_js_include_bkc.php:846 libs/css_js_include_bkc.php:1109
 #: libs/dashboard_functions.php:1308
 #: templates/submit_templates/floor_plans.php:24
@@ -1587,14 +1604,14 @@ msgstr "지불됩니다"
 msgid "Plan Title"
 msgstr "계획 제목"
 
-#: libs/css_js_include.php:843 libs/css_js_include.php:1112
+#: libs/css_js_include.php:851 libs/css_js_include.php:1124
 #: libs/css_js_include_bkc.php:847 libs/css_js_include_bkc.php:1110
 #: templates/submit_templates/floor_plans.php:54
 #: templates/submit_templates/floor_plans.php:141
 msgid "Plan Image"
 msgstr "계획 이미지"
 
-#: libs/css_js_include.php:844 libs/css_js_include.php:1113
+#: libs/css_js_include.php:852 libs/css_js_include.php:1125
 #: libs/css_js_include_bkc.php:848 libs/css_js_include_bkc.php:1111
 #: libs/dashboard_functions.php:1311
 #: templates/submit_templates/floor_plans.php:29
@@ -1603,7 +1620,7 @@ msgstr "계획 이미지"
 msgid "Plan Description"
 msgstr "계획 설명"
 
-#: libs/css_js_include.php:845 libs/css_js_include_bkc.php:849
+#: libs/css_js_include.php:853 libs/css_js_include_bkc.php:849
 #: libs/css_js_include_bkc.php:1112 libs/dashboard_functions.php:1312
 #: templates/submit_templates/floor_plans.php:34
 #: templates/submit_templates/floor_plans.php:147
@@ -1611,7 +1628,7 @@ msgstr "계획 설명"
 msgid "Plan Size"
 msgstr "계획 크기"
 
-#: libs/css_js_include.php:846 libs/css_js_include.php:1115
+#: libs/css_js_include.php:854 libs/css_js_include.php:1127
 #: libs/css_js_include_bkc.php:850 libs/css_js_include_bkc.php:1113
 #: libs/dashboard_functions.php:1313
 #: templates/submit_templates/floor_plans.php:39
@@ -1620,7 +1637,7 @@ msgstr "계획 크기"
 msgid "Plan Rooms"
 msgstr "계획 방"
 
-#: libs/css_js_include.php:847 libs/css_js_include.php:1116
+#: libs/css_js_include.php:855 libs/css_js_include.php:1128
 #: libs/css_js_include_bkc.php:851 libs/css_js_include_bkc.php:1114
 #: libs/dashboard_functions.php:1314
 #: templates/submit_templates/floor_plans.php:44
@@ -1629,84 +1646,92 @@ msgstr "계획 방"
 msgid "Plan Bathrooms"
 msgstr "욕실 계획"
 
-#: libs/css_js_include.php:848 libs/css_js_include.php:1117
+#: libs/css_js_include.php:856 libs/css_js_include.php:1129
 #: libs/css_js_include_bkc.php:852 libs/css_js_include_bkc.php:1115
 #: templates/submit_templates/floor_plans.php:49
 #: templates/submit_templates/floor_plans.php:162
 msgid "Plan Price"
 msgstr "계획 가격"
 
-#: libs/css_js_include.php:851 libs/css_js_include_bkc.php:855
+#: libs/css_js_include.php:859 libs/css_js_include_bkc.php:855
 msgid "deleting..."
 msgstr "삭제 중 ..."
 
-#: libs/css_js_include.php:852 libs/css_js_include_bkc.php:856
+#: libs/css_js_include.php:860 libs/css_js_include_bkc.php:856
 msgid "saving..."
 msgstr "절약..."
 
-#: libs/css_js_include.php:862 libs/css_js_include_bkc.php:866
+#: libs/css_js_include.php:870 libs/css_js_include_bkc.php:866
 msgid "posting"
 msgstr "전기"
 
-#: libs/css_js_include.php:863 libs/css_js_include_bkc.php:867
+#: libs/css_js_include.php:871 libs/css_js_include_bkc.php:867
 msgid "Review Sent "
 msgstr "검토 됨"
 
-#: libs/css_js_include.php:864 libs/css_js_include_bkc.php:868
+#: libs/css_js_include.php:872 libs/css_js_include_bkc.php:868
 msgid "Review Edit Saved"
 msgstr "수정 된 내용 검토"
 
-#: libs/css_js_include.php:867 libs/css_js_include_bkc.php:871
+#: libs/css_js_include.php:875 libs/css_js_include_bkc.php:871
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:93
 msgid "Pay"
 msgstr "결제"
 
-#: libs/css_js_include.php:868 libs/css_js_include_bkc.php:872
+#: libs/css_js_include.php:876 libs/css_js_include_bkc.php:872
 msgid "Payment for package"
 msgstr "패키지 결제"
 
-#: libs/css_js_include.php:874 libs/css_js_include_bkc.php:878
+#: libs/css_js_include.php:882 libs/css_js_include_bkc.php:878
 msgid "there are no results"
 msgstr "결과가 없습니다"
 
-#: libs/css_js_include.php:879
+#: libs/css_js_include.php:887
 msgid "Please wait while we gather data!"
 msgstr "데이터를 수집하는 동안 잠시 기다려주세요!"
 
-#: libs/css_js_include.php:880
+#: libs/css_js_include.php:888
 msgid "Please complete the form!"
 msgstr "양식을 작성해 주세요!"
 
-#: libs/css_js_include.php:909 libs/css_js_include_bkc.php:907
+#: libs/css_js_include.php:889 libs/elementor_help_files2.php:620
+msgid "bd"
+msgstr "방"
+
+#: libs/css_js_include.php:890 libs/elementor_help_files2.php:620
+msgid "ba"
+msgstr "ba"
+
+#: libs/css_js_include.php:921 libs/css_js_include_bkc.php:907
 #: libs/dashboard_functions.php:1301 libs/dashboard_functions.php:1473
 #: templates/dashboard-templates/dashboard-list-filter-categories.php:13
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:11
 msgid "Disabled"
 msgstr "장애인"
 
-#: libs/css_js_include.php:910 libs/css_js_include_bkc.php:908
+#: libs/css_js_include.php:922 libs/css_js_include_bkc.php:908
 #: libs/dashboard_functions.php:1302 libs/dashboard_functions.php:1469
 #: templates/dashboard-templates/dashboard-list-filter-categories.php:9
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:8
 msgid "Published"
 msgstr "게시 됨"
 
-#: libs/css_js_include.php:911 libs/css_js_include.php:925
+#: libs/css_js_include.php:923 libs/css_js_include.php:937
 #: libs/css_js_include_bkc.php:909 libs/css_js_include_bkc.php:923
 msgid "Please, enter property title"
 msgstr "부동산 소유권을 입력하십시오."
 
-#: libs/css_js_include.php:916 libs/css_js_include_bkc.php:914
-#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:39
+#: libs/css_js_include.php:928 libs/css_js_include_bkc.php:914
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:47
 msgid "Property is featured"
 msgstr "속성이 소개됩니다."
 
-#: libs/css_js_include.php:917 libs/css_js_include_bkc.php:915
+#: libs/css_js_include.php:929 libs/css_js_include_bkc.php:915
 msgid "You have used all the \"Featured\" listings in your package."
 msgstr "패키지의 모든 &quot;추천&quot;목록을 사용했습니다."
 
-#: libs/css_js_include.php:920 libs/css_js_include_bkc.php:918
-#: libs/design_functions.php:2011 templates/featured_property_3.php:38
+#: libs/css_js_include.php:932 libs/css_js_include_bkc.php:918
+#: libs/design_functions.php:2130 templates/featured_property_3.php:38
 #: templates/featured_property_4.php:52
 #: templates/listing_templates/favorite_under_title.php:13
 #: templates/listing_templates/property-page-templates/favorite_under_title.php:13
@@ -1716,60 +1741,60 @@ msgstr "패키지의 모든 &quot;추천&quot;목록을 사용했습니다."
 msgid "remove from favorites"
 msgstr "즐겨 찾기에서 삭제하기"
 
-#: libs/css_js_include.php:921 libs/css_js_include_bkc.php:919
+#: libs/css_js_include.php:933 libs/css_js_include_bkc.php:919
 msgid "saving.."
 msgstr "절약.."
 
-#: libs/css_js_include.php:922 libs/css_js_include_bkc.php:920
+#: libs/css_js_include.php:934 libs/css_js_include_bkc.php:920
 msgid "sending message.."
 msgstr "메시지를 보내는 중 .."
 
-#: libs/css_js_include.php:923 libs/css_js_include_bkc.php:921
+#: libs/css_js_include.php:935 libs/css_js_include_bkc.php:921
 msgid "Please, enter field:"
 msgstr "입력란에 다음을 입력하십시오."
 
-#: libs/css_js_include.php:924 libs/css_js_include_bkc.php:922
+#: libs/css_js_include.php:936 libs/css_js_include_bkc.php:922
 msgid "You need to upload at last one image"
 msgstr "마지막으로 하나의 이미지를 업로드해야합니다."
 
-#: libs/css_js_include.php:926 libs/css_js_include_bkc.php:924
+#: libs/css_js_include.php:938 libs/css_js_include_bkc.php:924
 msgid "Connecting to Paypal! Please wait..."
 msgstr "Paypal에 연결 중! 잠시만 기다려주십시오 ..."
 
-#: libs/css_js_include.php:927 libs/css_js_include_bkc.php:925
+#: libs/css_js_include.php:939 libs/css_js_include_bkc.php:925
 #: templates/dashboard-templates/user_memebership_profile.php:43
 msgid "subscription will be cancelled at the end of current period"
 msgstr "구독은 현재 기간의 끝에서 취소됩니다."
 
-#: libs/css_js_include.php:929 libs/css_js_include_bkc.php:927
+#: libs/css_js_include.php:941 libs/css_js_include_bkc.php:927
 #: libs/dashboard_functions.php:1303
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:102
 msgid "Disable Listing"
 msgstr "목록 사용 중지"
 
-#: libs/css_js_include.php:930 libs/css_js_include_bkc.php:928
+#: libs/css_js_include.php:942 libs/css_js_include_bkc.php:928
 #: libs/dashboard_functions.php:1304
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:106
 msgid "Enable Listing"
 msgstr "목록 사용"
 
-#: libs/css_js_include.php:931 libs/css_js_include_bkc.php:929
+#: libs/css_js_include.php:943 libs/css_js_include_bkc.php:929
 #: libs/dashboard_functions.php:1305
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:26
 msgid "Disable Agent"
 msgstr "에이전트 비활성화"
 
-#: libs/css_js_include.php:932 libs/css_js_include_bkc.php:930
+#: libs/css_js_include.php:944 libs/css_js_include_bkc.php:930
 #: libs/dashboard_functions.php:1306
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:28
 msgid "Enable Agent"
 msgstr "에이전트 사용"
 
-#: libs/css_js_include.php:935 libs/css_js_include_bkc.php:933
+#: libs/css_js_include.php:947 libs/css_js_include_bkc.php:933
 msgid "You must agree with GDPR terms"
 msgstr "GDPR 약관에 동의해야 합니다"
 
-#: libs/css_js_include.php:936 libs/css_js_include_bkc.php:934
+#: libs/css_js_include.php:948 libs/css_js_include_bkc.php:934
 msgid ""
 "Confirm your ACCOUNT DELETION request! Clicking the button below will delete "
 "your account and data. This means you will no longer be able to login to "
@@ -1781,52 +1806,52 @@ msgstr ""
 "장된 검색 및 메시지 등의 계정 정보에 액세스 할 수 없습니다. 이 작업을 취소 "
 "할 수 없습니다!"
 
-#: libs/css_js_include.php:940 libs/css_js_include_bkc.php:938
+#: libs/css_js_include.php:952 libs/css_js_include_bkc.php:938
 #: libs/theme-slider.php:29 templates/property_details_modal.php:28
 msgid "Contact Agent"
 msgstr "담당자"
 
-#: libs/css_js_include.php:950 libs/css_js_include_bkc.php:948
+#: libs/css_js_include.php:962 libs/css_js_include_bkc.php:948
 msgid "Thank you. Please check your email for payment instructions."
 msgstr "고맙습니다. 결제 방법은 이메일을 확인하십시오."
 
-#: libs/css_js_include.php:951 libs/css_js_include_bkc.php:949
+#: libs/css_js_include.php:963 libs/css_js_include_bkc.php:949
 msgid "Sending"
 msgstr "배상"
 
-#: libs/css_js_include.php:975 libs/css_js_include_bkc.php:973
+#: libs/css_js_include.php:987 libs/css_js_include_bkc.php:973
 msgid "No More Listings"
 msgstr "기타 목록 없음"
 
-#: libs/css_js_include.php:1034 libs/css_js_include_bkc.php:1032
+#: libs/css_js_include.php:1046 libs/css_js_include_bkc.php:1032
 msgid "Allowed Files"
 msgstr "허용 된 파일"
 
-#: libs/css_js_include.php:1049 libs/css_js_include_bkc.php:1047
+#: libs/css_js_include.php:1061 libs/css_js_include_bkc.php:1047
 msgid "Image needs to be at least 500px height  x 500px wide!"
 msgstr "이미지의 높이는 500px x 500px 이상이어야합니다."
 
-#: libs/css_js_include.php:1053 libs/css_js_include_bkc.php:1051
+#: libs/css_js_include.php:1065 libs/css_js_include_bkc.php:1051
 msgid "You cannot upload more than"
 msgstr "둘 이상을 업로드 할 수 없습니다."
 
-#: libs/css_js_include.php:1053 libs/css_js_include_bkc.php:1051
+#: libs/css_js_include.php:1065 libs/css_js_include_bkc.php:1051
 msgid "images"
 msgstr "이미지들"
 
-#: libs/css_js_include.php:1054 libs/css_js_include_bkc.php:1052
+#: libs/css_js_include.php:1066 libs/css_js_include_bkc.php:1052
 msgid "Are you sure you want to delete this?"
 msgstr "이 사진을 삭제 하시겠습니까?"
 
-#: libs/css_js_include.php:1114
+#: libs/css_js_include.php:1126
 msgid "Plan Size(*only numbers)"
 msgstr "요금제 크기(*숫자로만 표시)"
 
-#: libs/css_js_include.php:1208 libs/css_js_include_bkc.php:1206
+#: libs/css_js_include.php:1220 libs/css_js_include_bkc.php:1206
 msgid "Warning !"
 msgstr "경고!"
 
-#: libs/css_js_include.php:1211
+#: libs/css_js_include.php:1223
 msgid ""
 " Are you sure you want to delete this image? It will be removed from "
 "property gallery and WordPress media gallery."
@@ -1871,7 +1896,7 @@ msgstr "가격은"
 msgid "(only numbers)"
 msgstr "(숫자 만)"
 
-#: libs/dashboard_actions_functions.php:34 libs/help_functions.php:5983
+#: libs/dashboard_actions_functions.php:34 libs/help_functions.php:6104
 #: templates/submit_templates/property_description.php:131
 msgid "Yearly Tax Rate"
 msgstr "연간 세율"
@@ -1891,7 +1916,7 @@ msgstr "가격 레이블 (예 : &quot;/ 월&quot;) 이후"
 msgid "Before Price Label (ex: \"from \")"
 msgstr "가격 레이블 이전 (예 : &#39;from&#39;)"
 
-#: libs/dashboard_actions_functions.php:66 libs/help_functions.php:5750
+#: libs/dashboard_actions_functions.php:66 libs/help_functions.php:5871
 msgid "Additional Price Info"
 msgstr "추가 가격 정보"
 
@@ -1899,7 +1924,7 @@ msgstr "추가 가격 정보"
 msgid " After Label for Additional Price info "
 msgstr " 추가 가격 정보를 위한 애프터 라벨"
 
-#: libs/dashboard_actions_functions.php:83 libs/help_functions.php:5752
+#: libs/dashboard_actions_functions.php:83 libs/help_functions.php:5873
 msgid "Before Label for Additional Price Info"
 msgstr "추가 가격 정보를 위한 비포 라벨"
 
@@ -1911,8 +1936,8 @@ msgstr "카테고리 선택"
 msgid "Listed In"
 msgstr "에 나열"
 
-#: libs/dashboard_actions_functions.php:149 libs/help_functions.php:5759
-#: libs/help_functions.php:5991
+#: libs/dashboard_actions_functions.php:149 libs/help_functions.php:5880
+#: libs/help_functions.php:6112
 msgid "Property Zip"
 msgstr "부동산 우편 번호"
 
@@ -1921,7 +1946,7 @@ msgstr "부동산 우편 번호"
 msgid "Country"
 msgstr "국가"
 
-#: libs/dashboard_actions_functions.php:182 libs/help_functions.php:5995
+#: libs/dashboard_actions_functions.php:182 libs/help_functions.php:6116
 msgid "Greenhouse gas emissions kgCO2/m2a"
 msgstr "온실가스 배출량 kgCO2/m2a"
 
@@ -1930,58 +1955,59 @@ msgstr "온실가스 배출량 kgCO2/m2a"
 msgid "Greenhouse gas emissions index class"
 msgstr "온실가스 배출 지수 등급"
 
-#: libs/dashboard_actions_functions.php:198 libs/help_functions.php:5783
+#: libs/dashboard_actions_functions.php:198 libs/help_functions.php:5904
 #: libs/listing_functions.php:1944
 #: templates/submit_templates/property_energy_effective.php:83
 msgid "Renewable energy performance index"
 msgstr "재생 에너지 성능 지수"
 
-#: libs/dashboard_actions_functions.php:206 libs/help_functions.php:5784
-#: libs/help_functions.php:5998 libs/listing_functions.php:1945
+#: libs/dashboard_actions_functions.php:206 libs/help_functions.php:5905
+#: libs/help_functions.php:6119 libs/listing_functions.php:1945
 #: templates/submit_templates/property_energy_effective.php:84
 msgid "Energy performance of the building"
 msgstr "건물의 에너지 성능"
 
-#: libs/dashboard_actions_functions.php:214 libs/help_functions.php:5785
-#: libs/help_functions.php:5999 libs/listing_functions.php:1946
+#: libs/dashboard_actions_functions.php:214 libs/help_functions.php:5906
+#: libs/help_functions.php:6120 libs/listing_functions.php:1946
 #: templates/submit_templates/property_energy_effective.php:85
 msgid "EPC current rating"
 msgstr "EPC 전류 정격"
 
-#: libs/dashboard_actions_functions.php:222 libs/help_functions.php:5786
+#: libs/dashboard_actions_functions.php:222 libs/help_functions.php:5907
 #: libs/listing_functions.php:1947
 #: templates/submit_templates/property_energy_effective.php:86
 msgid "EPC Potential Rating"
 msgstr "EPC 잠재 등급"
 
-#: libs/dashboard_actions_functions.php:231 libs/help_functions.php:5985
-#: libs/listing_functions.php:1789
+#: libs/dashboard_actions_functions.php:231 libs/help_functions.php:34
+#: libs/help_functions.php:6106 libs/listing_functions.php:1789
 #: templates/property_cards_templates/property_card_details_type3.php:48
 #: templates/property_cards_templates/property_card_details_type7.php:48
 msgid "Property Size"
 msgstr "부동산 크기"
 
-#: libs/dashboard_actions_functions.php:239 libs/help_functions.php:5773
+#: libs/dashboard_actions_functions.php:239 libs/help_functions.php:5894
 msgid "Owner Notes"
 msgstr "소유자 노트"
 
-#: libs/dashboard_actions_functions.php:247 libs/help_functions.php:5769
-#: libs/help_functions.php:5986 libs/listing_functions.php:1792
+#: libs/dashboard_actions_functions.php:247 libs/help_functions.php:39
+#: libs/help_functions.php:5890 libs/help_functions.php:6107
+#: libs/listing_functions.php:1792
 msgid "Property Lot Size"
 msgstr "부동산 용지 크기"
 
-#: libs/dashboard_actions_functions.php:255 libs/help_functions.php:5770
-#: libs/help_functions.php:5987
+#: libs/dashboard_actions_functions.php:255 libs/help_functions.php:5891
+#: libs/help_functions.php:6108
 msgid "Property Rooms"
 msgstr "객실"
 
-#: libs/dashboard_actions_functions.php:263 libs/help_functions.php:5771
-#: libs/help_functions.php:5988
+#: libs/dashboard_actions_functions.php:263 libs/help_functions.php:5892
+#: libs/help_functions.php:6109
 msgid "Property Bedrooms"
 msgstr "부동산 침실"
 
-#: libs/dashboard_actions_functions.php:271 libs/help_functions.php:5772
-#: libs/help_functions.php:5989
+#: libs/dashboard_actions_functions.php:271 libs/help_functions.php:5893
+#: libs/help_functions.php:6110
 msgid "Property Bathrooms"
 msgstr "부동산 욕실"
 
@@ -1990,7 +2016,7 @@ msgstr "부동산 욕실"
 msgid "Video Type"
 msgstr "비디오 타입"
 
-#: libs/dashboard_actions_functions.php:303 libs/help_functions.php:5763
+#: libs/dashboard_actions_functions.php:303 libs/help_functions.php:5884
 msgid "Property Latitude"
 msgstr "부동산 위도"
 
@@ -2002,12 +2028,12 @@ msgstr "부동산 경유지딘"
 msgid "Google View"
 msgstr "구글 뷰"
 
-#: libs/dashboard_actions_functions.php:327 libs/help_functions.php:5767
+#: libs/dashboard_actions_functions.php:327 libs/help_functions.php:5888
 #: templates/submit_templates/property_location.php:314
 msgid "Hide Map Marker"
 msgstr "지도 마커 숨기기"
 
-#: libs/dashboard_actions_functions.php:336 libs/help_functions.php:5765
+#: libs/dashboard_actions_functions.php:336 libs/help_functions.php:5886
 msgid "Google Camera Angle"
 msgstr "Google 카메라 각도"
 
@@ -2019,140 +2045,137 @@ msgstr "속성 하위 단위 목록"
 msgid "Property has subunits"
 msgstr "속성에는 하위 단위가 있습니다."
 
-#: libs/dashboard_actions_functions.php:543
+#: libs/dashboard_actions_functions.php:547
 msgid "from date"
 msgstr "날짜에서부터"
 
-#: libs/dashboard_actions_functions.php:544
+#: libs/dashboard_actions_functions.php:548
 msgid "to date"
 msgstr "현재까지"
 
-#: libs/dashboard_actions_functions.php:549
-#: libs/dashboard_actions_functions.php:559
+#: libs/dashboard_actions_functions.php:553
+#: libs/dashboard_actions_functions.php:562
 msgid "Any"
 msgstr "어떤"
 
-#: libs/dashboard_actions_functions.php:550 libs/help_functions.php:5257
+#: libs/dashboard_actions_functions.php:554 libs/help_functions.php:5378
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:90
-#: templates/dashboard-templates/invoice_listing_unit.php:25
+#: templates/dashboard-templates/invoice_listing_unit.php:24
 msgid "Upgrade to Featured"
 msgstr "추천으로 업그레이드"
 
-#: libs/dashboard_actions_functions.php:551
-msgid "Publish Listing with Featured"
-msgstr "추천 목록 게시"
-
-#: libs/dashboard_actions_functions.php:552
-#: templates/dashboard-templates/invoice_listing_unit.php:29
+#: libs/dashboard_actions_functions.php:555
+#: templates/dashboard-templates/invoice_listing_unit.php:28
 msgid "Package"
 msgstr "꾸러미"
 
-#: libs/dashboard_actions_functions.php:553
-#: templates/dashboard-templates/invoice_listing_unit.php:23
+#: libs/dashboard_actions_functions.php:556
+#: templates/dashboard-templates/invoice_listing_unit.php:22
 msgid "Listing"
 msgstr "목록"
 
-#: libs/dashboard_actions_functions.php:560
+#: libs/dashboard_actions_functions.php:563
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:5
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:23
-#: templates/dashboard-templates/invoice_listing_unit.php:53
+#: templates/dashboard-templates/invoice_listing_unit.php:52
 msgid "Paid"
 msgstr "유료"
 
-#: libs/dashboard_actions_functions.php:561
+#: libs/dashboard_actions_functions.php:564
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:7
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:25
-#: templates/dashboard-templates/invoice_listing_unit.php:51
+#: templates/dashboard-templates/invoice_listing_unit.php:50
 msgid "Not Paid"
 msgstr "미 지불 상태의"
 
-#: libs/dashboard_actions_functions.php:566
+#: libs/dashboard_actions_functions.php:569
 msgid "Total Invoices: "
 msgstr "총 인보이스 :"
 
-#: libs/dashboard_actions_functions.php:573
+#: libs/dashboard_actions_functions.php:576
 msgid "Title"
 msgstr "표제"
 
-#: libs/dashboard_actions_functions.php:575
+#: libs/dashboard_actions_functions.php:578
 msgid "Invoice Type"
 msgstr "송장 유형"
 
-#: libs/dashboard_actions_functions.php:576
+#: libs/dashboard_actions_functions.php:579
 msgid "Billing Type"
 msgstr "청구 유형"
 
-#: libs/dashboard_actions_functions.php:578
-#: libs/dashboard_actions_functions.php:756
-#: libs/dashboard_actions_functions.php:761 libs/listing_functions.php:1781
-#: user_dashboard_favorite.php:43
+#: libs/dashboard_actions_functions.php:581
+#: libs/dashboard_actions_functions.php:759
+#: libs/dashboard_actions_functions.php:764 libs/elementor_help_files2.php:710
+#: libs/elementor_help_files2.php:784 libs/elementor_help_files2.php:837
+#: libs/listing_functions.php:1781 user_dashboard_favorite.php:43
 msgid "Price"
 msgstr "가격"
 
-#: libs/dashboard_actions_functions.php:624
+#: libs/dashboard_actions_functions.php:627
 msgid "Search for an Agent"
 msgstr "에이전트 검색"
 
-#: libs/dashboard_actions_functions.php:633
+#: libs/dashboard_actions_functions.php:636
 msgid "Phone/Mobile"
 msgstr "전화/핸드폰"
 
-#: libs/dashboard_actions_functions.php:642
+#: libs/dashboard_actions_functions.php:645
 msgid "You don't have any agents added!"
 msgstr "어떤 요원도 추가하지 않았습니다!"
 
-#: libs/dashboard_actions_functions.php:752
-#: libs/dashboard_actions_functions.php:758 user_dashboard_favorite.php:40
+#: libs/dashboard_actions_functions.php:755
+#: libs/dashboard_actions_functions.php:761 user_dashboard_favorite.php:40
 msgid "Property"
 msgstr "부동산"
 
-#: libs/dashboard_actions_functions.php:753
-#: libs/dashboard_actions_functions.php:759 libs/help_functions.php:5977
-#: libs/searchfunctions.php:2195 libs/searchfunctions.php:2425
+#: libs/dashboard_actions_functions.php:756
+#: libs/dashboard_actions_functions.php:762 libs/help_functions.php:48
+#: libs/help_functions.php:6098 libs/searchfunctions.php:2179
+#: libs/searchfunctions.php:2399
 #: templates/dashboard-templates/add_new_agent.php:146
-#: templates/dashboard-templates/add_new_agent_template.php:250
-#: templates/dashboard-templates/user_profile_agency.php:146
-#: templates/dashboard-templates/user_profile_agency.php:210
-#: templates/dashboard-templates/user_profile_agent.php:214
-#: templates/dashboard-templates/user_profile_developer.php:127
-#: templates/dashboard-templates/user_profile_developer.php:184
-#: templates/listing_templates/property-page-templates/single-overview-section.php:99
+#: templates/dashboard-templates/add_new_agent_template.php:288
+#: templates/dashboard-templates/user_profile_agency.php:174
+#: templates/dashboard-templates/user_profile_agency.php:244
+#: templates/dashboard-templates/user_profile_agent.php:253
+#: templates/dashboard-templates/user_profile_developer.php:153
+#: templates/dashboard-templates/user_profile_developer.php:216
 #: templates/submit_templates/property_categories.php:55
 #: user_dashboard_favorite.php:41
 msgid "Category"
 msgstr "범주"
 
-#: libs/dashboard_actions_functions.php:755
+#: libs/dashboard_actions_functions.php:758
 msgid "Pay Status"
 msgstr "지불 상태"
 
-#: libs/dashboard_actions_functions.php:769
+#: libs/dashboard_actions_functions.php:772
 msgid "You don't have any properties!"
 msgstr "아직 속성이 없습니다!"
 
-#: libs/dashboard_actions_functions.php:942
+#: libs/dashboard_actions_functions.php:947
 msgid "Agent need a first & last name"
 msgstr "상담원은 성과 이름이 필요합니다."
 
-#: libs/dashboard_actions_functions.php:1125
+#: libs/dashboard_actions_functions.php:1144
 msgid "Agent was added... You will be redirected to your agent list..."
 msgstr "에이전트가 추가되었습니다 ... 에이전트 목록으로 리디렉션됩니다 ..."
 
-#: libs/dashboard_actions_functions.php:1131
+#: libs/dashboard_actions_functions.php:1150
 msgid "Agent profile edited"
 msgstr "에이전트 프로필 편집 됨"
 
-#: libs/dashboard_actions_functions.php:1297
+#: libs/dashboard_actions_functions.php:1317
 msgid "Started by"
 msgstr "시작"
 
-#: libs/dashboard_actions_functions.php:1298
+#: libs/dashboard_actions_functions.php:1318
 #: templates/dashboard-templates/message-listing-unit.php:36
 #: templates/email_templates/contact_email_template.php:39
 msgid "Subject"
 msgstr "제목"
 
-#: libs/dashboard_actions_functions.php:1300
+#: libs/dashboard_actions_functions.php:1320
 msgid "Action"
 msgstr "동작"
 
@@ -2360,7 +2383,7 @@ msgid "My Invoices"
 msgstr "내 인보이스"
 
 #: libs/dashboard_functions.php:1535
-#: templates/dashboard-templates/add_new_agent_template.php:357
+#: templates/dashboard-templates/add_new_agent_template.php:395
 msgid "Add New Agent"
 msgstr "새 에이전트 추가"
 
@@ -2376,17 +2399,17 @@ msgstr "받은 편지함"
 msgid "CRM"
 msgstr "CRM"
 
-#: libs/dashboard_functions.php:1585 libs/dashboard_functions.php:1667
+#: libs/dashboard_functions.php:1587 libs/dashboard_functions.php:1669
 msgid "Logout"
 msgstr "로그아웃"
 
-#: libs/dashboard_functions.php:1833
+#: libs/dashboard_functions.php:1835
 #: templates/dashboard-templates/add_new_agent.php:163
 #: templates/dashboard-templates/add_new_agent.php:190
-#: templates/dashboard-templates/add_new_agent_template.php:262
-#: templates/dashboard-templates/add_new_agent_template.php:282
-#: templates/dashboard-templates/user_profile_agent.php:240
-#: templates/dashboard-templates/user_profile_agent.php:260
+#: templates/dashboard-templates/add_new_agent_template.php:300
+#: templates/dashboard-templates/add_new_agent_template.php:320
+#: templates/dashboard-templates/user_profile_agent.php:279
+#: templates/dashboard-templates/user_profile_agent.php:299
 #: templates/submit_templates/property_categories.php:65
 #: templates/submit_templates/property_categories.php:84
 #: templates/submit_templates/property_location.php:116
@@ -2414,8 +2437,8 @@ msgid "Change Colors"
 msgstr "색상 변경"
 
 #: libs/dashboard_widgets.php:59
-msgid "You have %1$d pages published."
-msgstr "게시된 페이지가 %1$d개입니다."
+msgid "You have %d pages published."
+msgstr "게시된 페이지가 %d개입니다."
 
 #: libs/dashboard_widgets.php:76
 msgid "Page Title"
@@ -2434,8 +2457,8 @@ msgid "Add New Page"
 msgstr "새 페이지 추가"
 
 #: libs/dashboard_widgets.php:318
-msgid "You have %1$d listings published:"
-msgstr "게시된 목록이 %1$d개 있습니다:"
+msgid "You have %d listings published:"
+msgstr "게시한 목록이 %d개 있습니다:"
 
 #: libs/dashboard_widgets.php:383
 msgid "Your Payment system is in SANDBOX mode."
@@ -2446,8 +2469,8 @@ msgid "Your Payment system is in LIVE mode."
 msgstr "결제 시스템이 라이브 모드입니다."
 
 #: libs/dashboard_widgets.php:395
-msgid "Payments will be procesed in %1$s.Prices are displayed in %2$s"
-msgstr "결제는 %1$s에서 처리되며, 가격은 %2$s에 표시됩니다"
+msgid "Payments will be procesed in %s.Prices are displayed in %s"
+msgstr "결제는 %s에서 진행되며 가격은 %s에 표시됩니다"
 
 #: libs/dashboard_widgets.php:403
 msgid ""
@@ -2474,8 +2497,8 @@ msgstr "Stripe Api Keys가 추가됩니다. 결제가 처리됩니다."
 msgid "Edit Payment Details"
 msgstr "지불 세부 사항 수정"
 
-#: libs/design_functions.php:1969 libs/design_functions.php:1971
-#: libs/design_functions.php:1974 libs/design_functions.php:1978
+#: libs/design_functions.php:2088 libs/design_functions.php:2090
+#: libs/design_functions.php:2093 libs/design_functions.php:2097
 #: templates/featured_property_3.php:141 templates/featured_property_4.php:155
 #: templates/property_cards_templates/property_card_actions_type2.php:7
 #: templates/property_cards_templates/property_card_actions_type_default.php:26
@@ -2483,49 +2506,49 @@ msgstr "지불 세부 사항 수정"
 msgid "share"
 msgstr "몫"
 
-#: libs/design_functions.php:1991
+#: libs/design_functions.php:2110
 #: templates/property_cards_templates/property_card_details_default.php:58
 #: templates/property_slider_shortcode_v3_test.php:112
 #: templates/property_unit_type3.php:56
 msgid "details"
 msgstr "세부"
 
-#: libs/design_functions.php:2027 libs/design_functions.php:2032
-#: libs/design_functions.php:2037 libs/design_functions.php:2043
+#: libs/design_functions.php:2146 libs/design_functions.php:2151
+#: libs/design_functions.php:2156 libs/design_functions.php:2162
 #: templates/property_cards_templates/property_card_actions_type2.php:11
 #: templates/property_cards_templates/property_card_actions_type_default.php:49
 #: templates/property_cards_templates/property_card_favorite_single.php:49
 msgid "compare"
 msgstr "비교"
 
-#: libs/design_functions.php:2034 libs/design_functions.php:2071
-#: libs/design_functions.php:2086
+#: libs/design_functions.php:2153 libs/design_functions.php:2190
+#: libs/design_functions.php:2205
 msgid "featured icon"
 msgstr "추천 아이콘"
 
-#: libs/design_functions.php:2198
+#: libs/design_functions.php:2317
 msgid "icon"
 msgstr "아이콘"
 
-#: libs/design_functions.php:2291
+#: libs/design_functions.php:2410
 msgid "Facebook"
 msgstr "페이스북"
 
-#: libs/design_functions.php:2292
-msgid "Twitter"
-msgstr "트위터"
+#: libs/design_functions.php:2411
+msgid "X - Twitter"
+msgstr "X - 트위터"
 
-#: libs/design_functions.php:2293
+#: libs/design_functions.php:2412
 msgid "Pinterest"
 msgstr "핀터레스트"
 
-#: libs/design_functions.php:2294
+#: libs/design_functions.php:2413
 #: templates/realtor_templates/agent_contact_bar.php:37
 msgid "WhatsApp"
 msgstr "앱이라"
 
-#: libs/elementor_help_files.php:16 libs/searchfunctions.php:2308
-#: libs/searchfunctions.php:2476
+#: libs/elementor_help_files.php:16 libs/searchfunctions.php:2276
+#: libs/searchfunctions.php:2450
 msgid "categories"
 msgstr "카테고리"
 
@@ -2533,13 +2556,13 @@ msgstr "카테고리"
 msgid "county"
 msgstr "county"
 
-#: libs/elementor_help_files.php:18 libs/searchfunctions.php:2309
-#: libs/searchfunctions.php:2477
+#: libs/elementor_help_files.php:18 libs/searchfunctions.php:2277
+#: libs/searchfunctions.php:2451
 msgid "cities"
 msgstr "도시들"
 
-#: libs/elementor_help_files.php:19 libs/searchfunctions.php:2310
-#: libs/searchfunctions.php:2478
+#: libs/elementor_help_files.php:19 libs/searchfunctions.php:2278
+#: libs/searchfunctions.php:2452
 msgid "areas"
 msgstr "지역"
 
@@ -2551,33 +2574,106 @@ msgstr "부동산 위치"
 msgid "price"
 msgstr "가격"
 
-#: libs/elementor_help_files.php:27 libs/searchfunctions.php:2339
+#: libs/elementor_help_files.php:22
+msgid "price v2"
+msgstr "가격 V2"
+
+#: libs/elementor_help_files.php:23
+msgid "price v3"
+msgstr "가격 V3"
+
+#: libs/elementor_help_files.php:29
+msgid "beds&baths"
+msgstr "침대 & 욕실"
+
+#: libs/elementor_help_files.php:30 libs/searchfunctions.php:2307
 msgid "address"
 msgstr "주소"
 
-#: libs/elementor_help_files.php:29
+#: libs/elementor_help_files.php:32
 msgid "country"
 msgstr "국가"
 
-#: libs/elementor_help_files.php:30
+#: libs/elementor_help_files.php:33
 msgid "status"
 msgstr "상태"
 
-#: libs/elementor_help_files.php:31
+#: libs/elementor_help_files.php:34
 msgid "id"
 msgstr "ID"
 
-#: libs/elementor_help_files.php:32 templates/directory_filters.php:306
+#: libs/elementor_help_files.php:35 templates/directory_filters.php:306
 msgid "keyword"
 msgstr "예어"
 
-#: libs/elementor_help_files.php:33
+#: libs/elementor_help_files.php:36
 msgid "geolocation"
 msgstr "지리적 위치"
 
-#: libs/elementor_help_files.php:34
+#: libs/elementor_help_files.php:37
 msgid "radius for geolocation"
 msgstr "지리적 위치 반경"
+
+#: libs/elementor_help_files2.php:14 libs/elementor_help_files2.php:347
+#: libs/help_functions.php:3963 libs/help_functions.php:4370
+#: libs/help_functions.php:4829 libs/searchfunctions.php:555
+#: libs/searchfunctions2.php:54 property_list_directory.php:106
+#: property_list_half.php:79 templates/advanced_property_list_filters.php:53
+#: templates/advanced_property_list_filters.php:102
+#: templates/advanced_search/advanced_search_type2.php:33
+#: templates/advanced_search/advanced_search_type8.php:111
+#: templates/advanced_search/advanced_search_type9.php:115
+#: templates/advanced_search/advanced_search_type_half.php:211
+#: templates/advanced_search/advanced_search_type_half.php:221
+#: templates/advanced_search/adv_search_mobile.php:104
+#: templates/advanced_search/adv_search_mobile.php:174
+#: templates/advanced_search_type2.php:33
+#: templates/advanced_search_type8.php:111
+#: templates/advanced_search_type9.php:115
+#: templates/advanced_search_type_half.php:203
+#: templates/advanced_search_type_half.php:213
+#: templates/adv_search_mobile.php:104 templates/adv_search_mobile.php:167
+#: templates/directory_filters.php:39
+#: templates/property_ajax_tax_hidden_filters.php:25
+#: templates/property_ajax_tax_hidden_filters.php:70
+#: templates/property_list_filters.php:53
+#: templates/property_list_filters.php:102
+#: templates/taxonomy_agent_hidden_filters.php:22
+msgid "Categories"
+msgstr "카테고리"
+
+#: libs/elementor_help_files2.php:52 libs/elementor_help_files2.php:365
+#: libs/help_functions.php:3973 libs/help_functions.php:4412
+#: libs/help_functions.php:5037 property_list_half.php:101
+#: templates/advanced_property_list_filters.php:56
+#: templates/advanced_property_list_filters.php:113
+#: templates/directory_filters.php:69
+#: templates/property_ajax_tax_hidden_filters.php:28
+#: templates/property_list_filters.php:56
+#: templates/property_list_filters.php:113
+#: templates/taxonomy_agent_hidden_filters.php:25
+msgid "States"
+msgstr "상태"
+
+#: libs/elementor_help_files2.php:309
+msgid "items selected"
+msgstr "선택한 항목"
+
+#: libs/elementor_help_files2.php:310
+msgid "Select All"
+msgstr "모두 선택"
+
+#: libs/elementor_help_files2.php:311
+msgid "Select None"
+msgstr "없음을 선택"
+
+#: libs/elementor_help_files2.php:591
+msgid "Beds/Baths"
+msgstr "침대/욕실"
+
+#: libs/elementor_help_files2.php:954 libs/elementor_help_files2.php:966
+msgid "No Value"
+msgstr "가치 없음"
 
 #: libs/events.php:11
 msgid "Once Weekly"
@@ -2599,150 +2695,150 @@ msgstr "사진들"
 #: libs/gallery_functions.php:764 libs/gallery_functions.php:814
 #: templates/featured_property_1.php:92 templates/featured_property_1.php:112
 #: templates/featured_property_2.php:86 templates/header5.php:22
-#: templates/header_agency.php:44 templates/header_developer.php:40
+#: templates/header_agency.php:44 templates/header_developer.php:38
 #: templates/image_gallery.php:54 templates/image_gallery.php:87
 #: templates/mobile_menu_header.php:8 templates/mobile_menu_header.php:10
 #: word_remove.php:11 zillow_estimate_page.php:79
 msgid "image"
 msgstr "이미지"
 
-#: libs/general-settings.php:307 libs/general-settings.php:323
+#: libs/general-settings.php:364 libs/general-settings.php:380
 msgid " ..."
 msgstr " ..."
 
-#: libs/general-settings.php:388
+#: libs/general-settings.php:445
 msgid "Primary Menu"
 msgstr "기본 메뉴"
 
-#: libs/general-settings.php:389
+#: libs/general-settings.php:446
 msgid "Mobile Menu"
 msgstr "모바일 메뉴"
 
-#: libs/general-settings.php:390
+#: libs/general-settings.php:447
 msgid "Footer Menu"
 msgstr "바닥 글 메뉴"
 
-#: libs/general-settings.php:391
+#: libs/general-settings.php:448
 msgid "Header 6 Second Menu"
 msgstr "헤더 6초 메뉴"
 
-#: libs/general-settings.php:393
+#: libs/general-settings.php:450
 msgid "Primary Widget Area"
 msgstr "기본 위젯 영역"
 
-#: libs/general-settings.php:395
+#: libs/general-settings.php:452
 msgid "The primary widget area"
 msgstr "기본 위젯 영역"
 
-#: libs/general-settings.php:404
+#: libs/general-settings.php:461
 msgid "Secondary Widget Area"
 msgstr "보조 위젯 영역"
 
-#: libs/general-settings.php:406
+#: libs/general-settings.php:463
 msgid "The secondary widget area"
 msgstr "보조 위젯 영역"
 
-#: libs/general-settings.php:415
+#: libs/general-settings.php:472
 msgid "First Footer Widget Area"
 msgstr "첫 번째 바닥 글 위젯 영역"
 
-#: libs/general-settings.php:417
+#: libs/general-settings.php:474
 msgid "The first footer widget area"
 msgstr "첫 번째 바닥 글 위젯 영역"
 
-#: libs/general-settings.php:426
+#: libs/general-settings.php:483
 msgid "Second Footer Widget Area"
 msgstr "두 번째 바닥 글 위젯 영역"
 
-#: libs/general-settings.php:428
+#: libs/general-settings.php:485
 msgid "The second footer widget area"
 msgstr "두 번째 바닥 글 위젯 영역"
 
-#: libs/general-settings.php:437
+#: libs/general-settings.php:494
 msgid "Third Footer Widget Area"
 msgstr "세 번째 바닥 글 위젯 영역"
 
-#: libs/general-settings.php:439
+#: libs/general-settings.php:496
 msgid "The third footer widget area"
 msgstr "세 번째 바닥 글 위젯 영역"
 
-#: libs/general-settings.php:448
+#: libs/general-settings.php:505
 msgid "Fourth Footer Widget Area"
 msgstr "넷째 바닥 글 위젯 영역"
 
-#: libs/general-settings.php:450
+#: libs/general-settings.php:507
 msgid "The fourth footer widget area"
 msgstr "네 번째 바닥 글 위젯 영역"
 
-#: libs/general-settings.php:459
+#: libs/general-settings.php:516
 msgid "Top Bar Left Widget Area"
 msgstr "상단 바 왼쪽 위젯 영역"
 
-#: libs/general-settings.php:461
+#: libs/general-settings.php:518
 msgid "The top bar left widget area"
 msgstr "상단 막대 왼쪽 위젯 영역"
 
-#: libs/general-settings.php:469
+#: libs/general-settings.php:526
 msgid "Top Bar Right Widget Area"
 msgstr "상단 바로 위젯 영역"
 
-#: libs/general-settings.php:471
+#: libs/general-settings.php:528
 msgid "The top bar right widget area"
 msgstr "상단 막대 오른쪽 위젯 영역"
 
-#: libs/general-settings.php:478
+#: libs/general-settings.php:535
 msgid "Sidebar Menu Widget Area - Before Menu"
 msgstr "사이드 바 메뉴 위젯 영역 - 메뉴 이전"
 
-#: libs/general-settings.php:480
+#: libs/general-settings.php:537
 msgid "Sidebar for header type 3 - before menu"
 msgstr "헤더 유형 3의 사이드 바 - 메뉴 전"
 
-#: libs/general-settings.php:487
+#: libs/general-settings.php:544
 msgid "Sidebar Menu Widget Area - After Menu"
 msgstr "사이드 바 메뉴 위젯 영역 - 메뉴 이후"
 
-#: libs/general-settings.php:489
+#: libs/general-settings.php:546
 msgid "Sidebar for header type 3 - after menu"
 msgstr "헤더 유형 3 용 사이드 바 - 메뉴 이후"
 
-#: libs/general-settings.php:499
+#: libs/general-settings.php:556
 msgid "Header4 Widget Area"
 msgstr "Header4 위젯 영역"
 
-#: libs/general-settings.php:501
+#: libs/general-settings.php:558
 msgid "Header4 widget area"
 msgstr "Header4 위젯 영역"
 
-#: libs/general-settings.php:510
+#: libs/general-settings.php:567
 msgid "Dashboard Top Bar Left Widget Area"
 msgstr "대시 보드 상단 바 왼쪽 위젯 영역"
 
-#: libs/general-settings.php:512
+#: libs/general-settings.php:569
 msgid "User Dashboard - The top bar left widget area"
 msgstr "사용자 대시 보드 - 위 막대 왼쪽 위젯 영역"
 
-#: libs/general-settings.php:520
+#: libs/general-settings.php:577
 msgid "Dashboard Top Bar Right Widget Area"
 msgstr "대시 보드 상단 바로 위젯 영역"
 
-#: libs/general-settings.php:522
+#: libs/general-settings.php:579
 msgid "User Dashboard - The top bar right widget area"
 msgstr "사용자 대시 보드 - 상단 바 오른쪽 위젯 영역"
 
-#: libs/general-settings.php:530
+#: libs/general-settings.php:587
 msgid "Splash Page Bottom Right Widget Area"
 msgstr "스플래쉬 페이지 하단 오른쪽 위젯 영역"
 
-#: libs/general-settings.php:532
+#: libs/general-settings.php:589
 msgid "Splash Page - Bottom right area"
 msgstr "스플래시 페이지 - 오른쪽 하단 영역"
 
-#: libs/general-settings.php:540
+#: libs/general-settings.php:597
 msgid "Splash Page Bottom Left Widget Area"
 msgstr "스플래시 페이지 하단 왼쪽 위젯 영역"
 
-#: libs/general-settings.php:542
+#: libs/general-settings.php:599
 msgid "Splash Page - Bottom left area"
 msgstr "스플래시 페이지 - 왼쪽 하단 영역"
 
@@ -2793,7 +2889,7 @@ msgstr "다른 에이전트"
 msgid "Property Reviews"
 msgstr "숙소 리뷰"
 
-#: libs/header_filter_functions.php:205 libs/help_functions.php:2258
+#: libs/header_filter_functions.php:205 libs/help_functions.php:2466
 #: templates/listing_templates/property-page-templates/similar_listings.php:159
 #: templates/listing_templates/property-page-templates/similar_listings.php:190
 #: templates/listing_templates/similar_listings.php:133
@@ -2804,366 +2900,360 @@ msgstr "숙소 리뷰"
 msgid "Similar Listings"
 msgstr "비슷한 목록"
 
-#: libs/help_functions.php:980 libs/help_functions.php:983
+#: libs/help_functions.php:17 libs/listing_functions.php:1798
+#: templates/listing_templates/single-overview-section.php:31
+#: templates/property_cards_templates/property_card_details_type3.php:30
+#: templates/property_cards_templates/property_card_details_type4.php:12
+#: templates/property_cards_templates/property_card_details_type7.php:30
+msgid "Bedrooms"
+msgstr "침실"
+
+#: libs/help_functions.php:21 libs/listing_functions.php:1801
+#: templates/listing_templates/single-overview-section.php:42
+#: templates/property_cards_templates/property_card_details_type3.php:39
+#: templates/property_cards_templates/property_card_details_type7.php:39
+#: templates/property_slider_shortcode.php:67
+msgid "Bathrooms"
+msgstr "욕실"
+
+#: libs/help_functions.php:25 libs/listing_functions.php:1795
+#: templates/property_cards_templates/property_card_details_type6.php:17
+#: templates/property_slider_shortcode.php:64
+#: templates/shortcode_templates/content_grid_small_estate_property_type_1.php:32
+msgid "Rooms"
+msgstr "객실"
+
+#: libs/help_functions.php:29
+#: templates/listing_templates/single-overview-section.php:53
+msgid "Garages"
+msgstr "주차장"
+
+#: libs/help_functions.php:43
+#: templates/listing_templates/single-overview-section.php:73
+msgid "Year Built:"
+msgstr "구축 연도:"
+
+#: libs/help_functions.php:1187 libs/help_functions.php:1190
 msgid "all"
 msgstr "전체"
 
-#: libs/help_functions.php:987 libs/listing_functions.php:1830
+#: libs/help_functions.php:1194 libs/listing_functions.php:1830
 msgid "Not Available"
 msgstr "사용 불가"
 
-#: libs/help_functions.php:1004
+#: libs/help_functions.php:1211
 msgid "Please submit the"
 msgstr "제출하십시오."
 
-#: libs/help_functions.php:1004
+#: libs/help_functions.php:1211
 msgid "field"
 msgstr "들"
 
-#: libs/help_functions.php:1929
+#: libs/help_functions.php:2136
 msgid "Transport"
 msgstr "수송"
 
-#: libs/help_functions.php:1930
+#: libs/help_functions.php:2137
 msgid "Supermarkets"
 msgstr "슈퍼마켓"
 
-#: libs/help_functions.php:1931
+#: libs/help_functions.php:2138
 msgid "Schools"
 msgstr "학교"
 
-#: libs/help_functions.php:1932 libs/help_functions.php:2135
+#: libs/help_functions.php:2139 libs/help_functions.php:2343
 msgid "Restaurants"
 msgstr "레스토랑"
 
-#: libs/help_functions.php:1933
+#: libs/help_functions.php:2140
 msgid "Pharmacies"
 msgstr "약국"
 
-#: libs/help_functions.php:1934
+#: libs/help_functions.php:2141
 msgid "Hospitals"
 msgstr "병원"
 
-#: libs/help_functions.php:1978 libs/help_functions.php:2016
+#: libs/help_functions.php:2186 libs/help_functions.php:2224
 msgid "K"
 msgstr "케이"
 
-#: libs/help_functions.php:1981 libs/help_functions.php:2019
+#: libs/help_functions.php:2189 libs/help_functions.php:2227
 msgid "M"
 msgstr "엠"
 
-#: libs/help_functions.php:2095
+#: libs/help_functions.php:2303
 msgid "Active Life"
 msgstr "활발한 생활"
 
-#: libs/help_functions.php:2097
+#: libs/help_functions.php:2305
 msgid "Arts & Entertainment"
 msgstr "예술 및 엔터테인먼트"
 
-#: libs/help_functions.php:2099
+#: libs/help_functions.php:2307
 msgid "Automotive"
 msgstr "자동차"
 
-#: libs/help_functions.php:2101
+#: libs/help_functions.php:2309
 msgid "Beauty & Spas"
 msgstr "뷰티 &amp; 스파"
 
-#: libs/help_functions.php:2103
+#: libs/help_functions.php:2311
 msgid "Education"
 msgstr "교육"
 
-#: libs/help_functions.php:2105
+#: libs/help_functions.php:2313
 msgid "Event Planning & Services"
 msgstr "이벤트 기획 및 서비스"
 
-#: libs/help_functions.php:2107
+#: libs/help_functions.php:2315
 msgid "Financial Services"
 msgstr "금융 서비스"
 
-#: libs/help_functions.php:2109
+#: libs/help_functions.php:2317
 msgid "Food"
 msgstr "식품"
 
-#: libs/help_functions.php:2111
+#: libs/help_functions.php:2319
 msgid "Health & Medical"
 msgstr "건강 및 의료"
 
-#: libs/help_functions.php:2113
+#: libs/help_functions.php:2321
 msgid "Home Services "
 msgstr "홈 서비스"
 
-#: libs/help_functions.php:2115
+#: libs/help_functions.php:2323
 msgid "Hotels & Travel"
 msgstr "호텔 및 여행"
 
-#: libs/help_functions.php:2117
+#: libs/help_functions.php:2325
 msgid "Local Flavor"
 msgstr "향토 요리"
 
-#: libs/help_functions.php:2119
+#: libs/help_functions.php:2327
 msgid "Local Services"
 msgstr "지역 서비스"
 
-#: libs/help_functions.php:2121
+#: libs/help_functions.php:2329
 msgid "Mass Media"
 msgstr "매스 미디어"
 
-#: libs/help_functions.php:2123
+#: libs/help_functions.php:2331
 msgid "Nightlife"
 msgstr "나이트 라이프"
 
-#: libs/help_functions.php:2125
+#: libs/help_functions.php:2333
 msgid "Pets"
 msgstr "애완 동물"
 
-#: libs/help_functions.php:2127
+#: libs/help_functions.php:2335
 msgid "Professional Services"
 msgstr "전문적인 서비스"
 
-#: libs/help_functions.php:2129
+#: libs/help_functions.php:2337
 msgid "Public Services & Government"
 msgstr "공공 서비스 및 정부"
 
-#: libs/help_functions.php:2131
+#: libs/help_functions.php:2339
 msgid "Real Estate"
 msgstr "부동산"
 
-#: libs/help_functions.php:2133
+#: libs/help_functions.php:2341
 msgid "Religious Organizations"
 msgstr "종교 단체"
 
-#: libs/help_functions.php:2137
+#: libs/help_functions.php:2345
 msgid "Shopping"
 msgstr "쇼핑"
 
-#: libs/help_functions.php:2139
+#: libs/help_functions.php:2347
 msgid "Transportation"
 msgstr "교통"
 
-#: libs/help_functions.php:2193
+#: libs/help_functions.php:2401
 msgid "There are no results found for this property address. "
 msgstr "이 숙소 주소에 대한 검색 결과가 없습니다."
 
-#: libs/help_functions.php:3466
+#: libs/help_functions.php:3674
 msgid "All Countries"
 msgstr "모든 나라들"
 
-#: libs/help_functions.php:3724 libs/help_functions.php:3888
-#: libs/help_functions.php:4118 libs/help_functions.php:4249
-#: libs/help_functions.php:4708 libs/searchfunctions.php:518
-#: libs/searchfunctions2.php:54 property_list_directory.php:106
-#: property_list_half.php:79
-#: templates/advanced_search/advanced_search_type2.php:33
-#: templates/advanced_search/advanced_search_type8.php:111
-#: templates/advanced_search/advanced_search_type9.php:115
-#: templates/advanced_search/advanced_search_type_half.php:202
-#: templates/advanced_search/advanced_search_type_half.php:212
-#: templates/advanced_search/adv_search_mobile.php:104
-#: templates/advanced_search/adv_search_mobile.php:167
-#: templates/advanced_search_type2.php:33
-#: templates/advanced_search_type8.php:111
-#: templates/advanced_search_type9.php:115
-#: templates/advanced_search_type_half.php:203
-#: templates/advanced_search_type_half.php:213
-#: templates/adv_search_mobile.php:104 templates/adv_search_mobile.php:167
-#: templates/directory_filters.php:39
-#: templates/property_ajax_tax_hidden_filters.php:25
-#: templates/property_ajax_tax_hidden_filters.php:70
-#: templates/property_list_filters.php:53
-#: templates/property_list_filters.php:102
-#: templates/taxonomy_agent_hidden_filters.php:22
-msgid "Categories"
-msgstr "카테고리"
-
-#: libs/help_functions.php:3734 libs/help_functions.php:3935
-#: libs/help_functions.php:4160 libs/help_functions.php:4291
-#: libs/help_functions.php:4916 property_list_half.php:101
-#: templates/directory_filters.php:69
-#: templates/property_ajax_tax_hidden_filters.php:28
-#: templates/property_list_filters.php:56
-#: templates/property_list_filters.php:113
-#: templates/taxonomy_agent_hidden_filters.php:25
-msgid "States"
-msgstr "상태"
-
-#: libs/help_functions.php:3736 libs/help_functions.php:3853
-#: libs/help_functions.php:4087 libs/help_functions.php:4218
-#: libs/help_functions.php:4559 libs/help_functions.php:5982
+#: libs/help_functions.php:3975 libs/help_functions.php:4339
+#: libs/help_functions.php:4680 libs/help_functions.php:6103
 #: templates/directory_filters.php:298
 #: templates/submit_templates/property_status.php:42
 msgid "Property Status"
 msgstr "속성 상태"
 
-#: libs/help_functions.php:4472
+#: libs/help_functions.php:4593
 msgid "More Search Options"
 msgstr "추가 검색 옵션"
 
-#: libs/help_functions.php:5091
+#: libs/help_functions.php:5212
 msgid "Pay Submission Fee"
 msgstr "제출 수수료 지불"
 
-#: libs/help_functions.php:5198
+#: libs/help_functions.php:5319
 msgid "Pay with Credit Card"
 msgstr "신용 카드로 지불"
 
-#: libs/help_functions.php:5199
+#: libs/help_functions.php:5320
 #: templates/dashboard-templates/user_memebership_profile.php:132
 msgid "Package Payment"
 msgstr "패키지 지불"
 
-#: libs/help_functions.php:5746
+#: libs/help_functions.php:5867
 #: templates/submit_templates/property_description.php:65
 msgid "Property Price"
 msgstr "부동산 가격"
 
-#: libs/help_functions.php:5747
+#: libs/help_functions.php:5868
 msgid "Property Price Label"
 msgstr "부동산 가격 라벨"
 
-#: libs/help_functions.php:5748
+#: libs/help_functions.php:5869
 msgid "Property Price Label Before"
 msgstr "이전 부동산 가격 레이블"
 
-#: libs/help_functions.php:5751
+#: libs/help_functions.php:5872
 msgid "After Label for Additional Price info"
 msgstr "추가 가격 정보를 위한 애프터 라벨"
 
-#: libs/help_functions.php:5753
+#: libs/help_functions.php:5874
 msgid "Property Category Submit"
 msgstr "부동산 카테고리 제출"
 
-#: libs/help_functions.php:5754
+#: libs/help_functions.php:5875
 msgid "Property Action Category"
 msgstr "속성 작업 범주"
 
-#: libs/help_functions.php:5755
+#: libs/help_functions.php:5876
 msgid "Property Media"
 msgstr "부동산 미디어"
 
-#: libs/help_functions.php:5757 libs/help_functions.php:5979
+#: libs/help_functions.php:5878 libs/help_functions.php:6100
 msgid "Property City"
 msgstr "부동산 도시"
 
-#: libs/help_functions.php:5758 libs/help_functions.php:5980
+#: libs/help_functions.php:5879 libs/help_functions.php:6101
 msgid "Property Area"
 msgstr "부동산 지역"
 
-#: libs/help_functions.php:5760
+#: libs/help_functions.php:5881
 msgid "Property County"
 msgstr "부동산 카운티"
 
-#: libs/help_functions.php:5761 libs/help_functions.php:5992
+#: libs/help_functions.php:5882 libs/help_functions.php:6113
 msgid "Property Country"
 msgstr "재산 국가"
 
-#: libs/help_functions.php:5762
+#: libs/help_functions.php:5883
 msgid "Property Map"
 msgstr "부동산지도"
 
-#: libs/help_functions.php:5764
+#: libs/help_functions.php:5885
 msgid "Property Longitude"
 msgstr "재산 경도"
 
-#: libs/help_functions.php:5766
+#: libs/help_functions.php:5887
 msgid "Property Google View"
 msgstr "속성 Google보기"
 
-#: libs/help_functions.php:5768
+#: libs/help_functions.php:5889
 msgid "property Size"
 msgstr "속성 크기"
 
-#: libs/help_functions.php:5774 libs/searchfunctions.php:2322
-#: libs/searchfunctions.php:2490
+#: libs/help_functions.php:5895 libs/searchfunctions.php:2290
+#: libs/searchfunctions.php:2464
 msgid "property status"
 msgstr "재산 상태"
 
-#: libs/help_functions.php:5775
+#: libs/help_functions.php:5896
 msgid "Embed Video Id"
 msgstr "동영상 ID 삽입"
 
-#: libs/help_functions.php:5776
+#: libs/help_functions.php:5897
 msgid "Embed Video Type"
 msgstr "소스 비디오 유형"
 
-#: libs/help_functions.php:5777
+#: libs/help_functions.php:5898
 msgid "Embed Virtual Tour"
 msgstr "가상 투어 포함"
 
-#: libs/help_functions.php:5778
+#: libs/help_functions.php:5899
 msgid "Property Subunits"
 msgstr "속성 하위 단위"
 
-#: libs/help_functions.php:5781
+#: libs/help_functions.php:5902
 msgid "Greenhouse gas emissions Class"
 msgstr "온실가스 배출 등급"
 
-#: libs/help_functions.php:5782
+#: libs/help_functions.php:5903
 msgid "Greenhouse gas emissions Index"
 msgstr "온실가스 배출 지수"
 
-#: libs/help_functions.php:5897
+#: libs/help_functions.php:6018
 msgid "per month"
 msgstr "달마다"
 
-#: libs/help_functions.php:5904
+#: libs/help_functions.php:6025
 msgid "HOA fee"
 msgstr "HOA 수수료"
 
-#: libs/help_functions.php:5914
+#: libs/help_functions.php:6035
 msgid "Homeowners Association Fee"
 msgstr "주택 소유자 협회 수수료"
 
-#: libs/help_functions.php:5922
+#: libs/help_functions.php:6043
 msgid "Home Price"
 msgstr "주택 가격"
 
-#: libs/help_functions.php:5925
+#: libs/help_functions.php:6046
 msgid "Down Payment"
 msgstr "다운페이"
 
-#: libs/help_functions.php:5932
+#: libs/help_functions.php:6053
 msgid "Term(*in years)"
 msgstr "기간(*년)"
 
-#: libs/help_functions.php:5935
+#: libs/help_functions.php:6056
 msgid "Interest"
 msgstr "이자"
 
-#: libs/help_functions.php:5976
+#: libs/help_functions.php:6097
 msgid "Leave Blank"
 msgstr "비워두기"
 
-#: libs/help_functions.php:5978
+#: libs/help_functions.php:6099
 #: templates/dashboard-templates/add_new_agent.php:174
-#: templates/dashboard-templates/add_new_agent_template.php:272
-#: templates/dashboard-templates/user_profile_agency.php:153
-#: templates/dashboard-templates/user_profile_agent.php:250
-#: templates/dashboard-templates/user_profile_developer.php:134
+#: templates/dashboard-templates/add_new_agent_template.php:310
+#: templates/dashboard-templates/user_profile_agency.php:181
+#: templates/dashboard-templates/user_profile_agent.php:289
+#: templates/dashboard-templates/user_profile_developer.php:160
 msgid "Action Category"
 msgstr "액션 카테고리"
 
-#: libs/help_functions.php:5981
+#: libs/help_functions.php:6102
 msgid "Property County/State"
 msgstr "부동산 카운티/주"
 
-#: libs/help_functions.php:5984
+#: libs/help_functions.php:6105
 msgid "Homeowners Association Fee(Monthly)"
 msgstr "주택 소유자 협회 수수료(월별)"
 
-#: libs/help_functions.php:5993 libs/listing_functions.php:1903
+#: libs/help_functions.php:6114 libs/listing_functions.php:1903
 #: templates/submit_templates/property_energy_effective.php:49
 msgid "Energy Index in kWh/m2a"
 msgstr "에너지 지수 (kWh / m2a)"
 
-#: libs/help_functions.php:5996
+#: libs/help_functions.php:6117
 msgid "Greenhouse gas emissions index class "
 msgstr "온실가스 배출 지수 등급"
 
-#: libs/help_functions.php:5997
+#: libs/help_functions.php:6118
 msgid "Renewable energy performance index "
 msgstr "재생 에너지 성능 지수"
 
-#: libs/help_functions.php:6000
+#: libs/help_functions.php:6121
 msgid "EPC potential rating"
 msgstr "EPC 잠재 등급"
 
@@ -3237,38 +3327,44 @@ msgid "Other Features"
 msgstr "옵션 선택"
 
 #: libs/listing_functions.php:1560 libs/listing_functions.php:1610
-#: templates/dashboard-templates/user_profile_agency.php:136
-#: templates/dashboard-templates/user_profile_developer.php:117
+#: templates/dashboard-templates/add_new_agent_template.php:70
+#: templates/dashboard-templates/user_profile_agency.php:55
+#: templates/dashboard-templates/user_profile_agency.php:164
+#: templates/dashboard-templates/user_profile_agent.php:51
+#: templates/dashboard-templates/user_profile_developer.php:43
+#: templates/dashboard-templates/user_profile_developer.php:143
 msgid "Address"
 msgstr "주소"
 
 #: libs/listing_functions.php:1563 libs/listing_functions.php:1613
-#: libs/searchfunctions.php:2218 libs/searchfunctions.php:2448
+#: libs/searchfunctions.php:287 libs/searchfunctions.php:2181
+#: libs/searchfunctions.php:2422
 #: templates/dashboard-templates/add_new_agent.php:232
-#: templates/dashboard-templates/add_new_agent_template.php:109
-#: templates/dashboard-templates/user_profile_agency.php:118
-#: templates/dashboard-templates/user_profile_agent.php:98
-#: templates/dashboard-templates/user_profile_developer.php:99
+#: templates/dashboard-templates/add_new_agent_template.php:135
+#: templates/dashboard-templates/user_profile_agency.php:146
+#: templates/dashboard-templates/user_profile_agent.php:124
+#: templates/dashboard-templates/user_profile_developer.php:125
 #: templates/submit_templates/property_location.php:134
 msgid "City"
 msgstr "시티"
 
 #: libs/listing_functions.php:1566 libs/listing_functions.php:1616
-#: libs/searchfunctions.php:2225 libs/searchfunctions.php:2455
+#: libs/searchfunctions.php:299 libs/searchfunctions.php:2182
+#: libs/searchfunctions.php:2429
 #: templates/dashboard-templates/add_new_agent.php:236
-#: templates/dashboard-templates/add_new_agent_template.php:121
-#: templates/dashboard-templates/user_profile_agency.php:130
-#: templates/dashboard-templates/user_profile_agent.php:110
-#: templates/dashboard-templates/user_profile_developer.php:111
+#: templates/dashboard-templates/add_new_agent_template.php:147
+#: templates/dashboard-templates/user_profile_agency.php:158
+#: templates/dashboard-templates/user_profile_agent.php:136
+#: templates/dashboard-templates/user_profile_developer.php:137
 msgid "Area"
 msgstr "지역"
 
 #: libs/listing_functions.php:1569 libs/listing_functions.php:1619
 #: templates/dashboard-templates/add_new_agent.php:243
-#: templates/dashboard-templates/add_new_agent_template.php:115
-#: templates/dashboard-templates/user_profile_agency.php:124
-#: templates/dashboard-templates/user_profile_agent.php:104
-#: templates/dashboard-templates/user_profile_developer.php:105
+#: templates/dashboard-templates/add_new_agent_template.php:141
+#: templates/dashboard-templates/user_profile_agency.php:152
+#: templates/dashboard-templates/user_profile_agent.php:130
+#: templates/dashboard-templates/user_profile_developer.php:131
 msgid "State/County"
 msgstr "주 / 카운티"
 
@@ -3287,31 +3383,6 @@ msgstr "부동산 ID"
 #: libs/listing_functions.php:1785
 msgid "Price Info"
 msgstr "가격 정보"
-
-#: libs/listing_functions.php:1795
-#: templates/listing_templates/property-page-templates/single-overview-section.php:127
-#: templates/property_cards_templates/property_card_details_type6.php:17
-#: templates/property_slider_shortcode.php:64
-msgid "Rooms"
-msgstr "객실"
-
-#: libs/listing_functions.php:1798
-#: templates/listing_templates/property-page-templates/single-overview-section.php:36
-#: templates/listing_templates/single-overview-section.php:31
-#: templates/property_cards_templates/property_card_details_type3.php:30
-#: templates/property_cards_templates/property_card_details_type4.php:12
-#: templates/property_cards_templates/property_card_details_type7.php:30
-msgid "Bedrooms"
-msgstr "침실"
-
-#: libs/listing_functions.php:1801
-#: templates/listing_templates/property-page-templates/single-overview-section.php:50
-#: templates/listing_templates/single-overview-section.php:42
-#: templates/property_cards_templates/property_card_details_type3.php:39
-#: templates/property_cards_templates/property_card_details_type7.php:39
-#: templates/property_slider_shortcode.php:67
-msgid "Bathrooms"
-msgstr "욕실"
 
 #: libs/listing_functions.php:1882
 msgid "Energy class "
@@ -3424,10 +3495,10 @@ msgid "Original: %s"
 msgstr "원본 :  %s"
 
 #: libs/megamenu.php:357
-#: templates/dashboard-templates/add_new_agent_template.php:307
-#: templates/dashboard-templates/add_new_agent_template.php:328
-#: templates/dashboard-templates/user_profile_agent.php:285
-#: templates/dashboard-templates/user_profile_agent.php:306
+#: templates/dashboard-templates/add_new_agent_template.php:345
+#: templates/dashboard-templates/add_new_agent_template.php:366
+#: templates/dashboard-templates/user_profile_agent.php:324
+#: templates/dashboard-templates/user_profile_agent.php:345
 msgid "Remove"
 msgstr "풀다"
 
@@ -3435,33 +3506,33 @@ msgstr "풀다"
 msgid "Cancel"
 msgstr "취소"
 
-#: libs/plugins.php:128
+#: libs/plugins.php:137
 msgid "Install Required Plugins"
 msgstr "필수 플러그인 설치"
 
-#: libs/plugins.php:129
+#: libs/plugins.php:138
 msgid "Install Plugins"
 msgstr "플러그인 설치"
 
-#: libs/plugins.php:130
+#: libs/plugins.php:139
 msgid "Installing Plugin: %s"
 msgstr "플러그인 설치 :  %s"
 
-#: libs/plugins.php:131
+#: libs/plugins.php:140
 msgid "Something went wrong with the plugin API."
 msgstr "플러그인 API에 문제가 발생했습니다."
 
-#: libs/plugins.php:132
+#: libs/plugins.php:141
 msgid "This theme requires the following plugin: %1$s."
 msgid_plural "This theme requires the following plugins: %1$s."
 msgstr[0] "이 테마에는 다음 플러그인이 필요합니다: %1$s"
 
-#: libs/plugins.php:133
+#: libs/plugins.php:142
 msgid "This theme recommends the following plugin: %1$s."
 msgid_plural "This theme recommends the following plugins: %1$s."
 msgstr[0] "이 테마에는 다음 플러그인을 권장합니다:  %1$s."
 
-#: libs/plugins.php:134
+#: libs/plugins.php:143
 msgid ""
 "Sorry, but you do not have the correct permissions to install the %s plugin. "
 "Contact the administrator of this site for help on getting the plugin "
@@ -3474,17 +3545,17 @@ msgstr[0] ""
 "죄송하지만 %s 플러그인을 설치할 수 있는 올바른 권한이 없습니다. 플러그인을 설"
 "치하는 방법에 대한 도움말은 이 사이트의 관리자에게 문의하십시오."
 
-#: libs/plugins.php:135
+#: libs/plugins.php:144
 msgid "The following required plugin is currently inactive: %1$s."
 msgid_plural "The following required plugins are currently inactive: %1$s."
 msgstr[0] "다음 필수 플러그인이 현재 비활성 상태입니다: %1$s."
 
-#: libs/plugins.php:136
+#: libs/plugins.php:145
 msgid "The following recommended plugin is currently inactive: %1$s."
 msgid_plural "The following recommended plugins are currently inactive: %1$s."
 msgstr[0] "다음 권장 플러그인이 현재 비활성 상태입니다: %1$s."
 
-#: libs/plugins.php:137
+#: libs/plugins.php:146
 msgid ""
 "Sorry, but you do not have the correct permissions to activate the %s "
 "plugin. Contact the administrator of this site for help on getting the "
@@ -3497,7 +3568,7 @@ msgstr[0] ""
 "죄송합니다만 당신은 %s 플러그인을 활성화할 수 있는 올바른 권한이 없습니다. 플"
 "러그인을 활성화하는 방법에 대한 도움말은 이 사이트의 관리자에게 문의하십시오."
 
-#: libs/plugins.php:138
+#: libs/plugins.php:147
 msgid ""
 "The following plugin needs to be updated to its latest version to ensure "
 "maximum compatibility with this theme: %1$s."
@@ -3508,7 +3579,7 @@ msgstr[0] ""
 "이 테마와의 호환성을 최대한 보장하려면 다음 플러그인을 최신 버전으로 업데이트"
 "해야 합니다: %1$s."
 
-#: libs/plugins.php:139
+#: libs/plugins.php:148
 msgid ""
 "Sorry, but you do not have the correct permissions to update the %s plugin. "
 "Contact the administrator of this site for help on getting the plugin "
@@ -3522,29 +3593,29 @@ msgstr[0] ""
 "다. 플러그인을 업데이트 하는 방법에 대한 도움말은 이 사이트의 관리자에게 문의"
 "하십시오."
 
-#: libs/plugins.php:140
+#: libs/plugins.php:149
 msgid "Begin installing plugin"
 msgid_plural "Begin installing plugins"
 msgstr[0] "플러그인 설치 시작"
 
-#: libs/plugins.php:141
+#: libs/plugins.php:150
 msgid "Activate installed plugin"
 msgid_plural "Activate installed plugins"
 msgstr[0] "설치된 플러그인 활성화"
 
-#: libs/plugins.php:142
+#: libs/plugins.php:151
 msgid "Return to Required Plugins Installer"
 msgstr "필요한 플러그인 설치 프로그램으로 돌아 가기"
 
-#: libs/plugins.php:143
+#: libs/plugins.php:152
 msgid "Plugin activated successfully."
 msgstr "플러그인이 성공적으로 활성화되었습니다."
 
-#: libs/plugins.php:144
+#: libs/plugins.php:153
 msgid "All plugins installed and activated successfully. %s"
 msgstr "모든 플러그인이 설치되고 성공적으로 활성화되었습니다. %에스"
 
-#: libs/property-card-functions.php:353
+#: libs/property-card-functions.php:380
 #: templates/agent_card_templates/agent_unit.php:11
 #: templates/agent_card_templates/agent_unit_4.php:11
 #: templates/agent_card_templates/agent_unit_featured.php:31
@@ -3555,12 +3626,12 @@ msgstr "모든 플러그인이 설치되고 성공적으로 활성화되었습�
 #: templates/blog_card_templates/blog_unit4.php:72 templates/blog_unit.php:33
 #: templates/blog_unit2.php:72
 #: templates/dashboard-templates/add_new_agent.php:38
-#: templates/dashboard-templates/add_new_agent_template.php:380
+#: templates/dashboard-templates/add_new_agent_template.php:418
 #: templates/dashboard-templates/dashboard_agent_unit.php:18
 #: templates/dashboard-templates/user_profile.php:145
-#: templates/dashboard-templates/user_profile_agency.php:256
-#: templates/dashboard-templates/user_profile_agent.php:362
-#: templates/dashboard-templates/user_profile_developer.php:232
+#: templates/dashboard-templates/user_profile_agency.php:290
+#: templates/dashboard-templates/user_profile_agent.php:401
+#: templates/dashboard-templates/user_profile_developer.php:264
 #: templates/featured_property_1.php:123 templates/featured_property_1.php:127
 #: templates/featured_property_2.php:106
 #: templates/property_animation_slider.php:70
@@ -3576,8 +3647,8 @@ msgstr "사용자 이미지"
 #: templates/advanced_search/advanced_search_type_half.php:82
 #: templates/advanced_search_type_half.php:82
 #: templates/dashboard-templates/add_new_agent.php:226
-#: templates/dashboard-templates/user_profile_agency.php:216
-#: templates/dashboard-templates/user_profile_developer.php:190
+#: templates/dashboard-templates/user_profile_agency.php:250
+#: templates/dashboard-templates/user_profile_developer.php:222
 msgid "Location"
 msgstr "위치"
 
@@ -3585,148 +3656,152 @@ msgstr "위치"
 msgid "Radius: "
 msgstr "반경:"
 
-#: libs/searchfunctions.php:229
+#: libs/searchfunctions.php:226
 msgid "Enter an address, state, city, area or zip code"
 msgstr "주소, 주, 도시, 지역 또는 우편 번호 입력"
 
-#: libs/searchfunctions.php:435
+#: libs/searchfunctions.php:310
+msgid "County or State"
+msgstr "카운티 또는 주"
+
+#: libs/searchfunctions.php:459
 #: templates/advanced_search/advanced_search_type10.php:37
 #: templates/advanced_search/adv_search_mobile.php:81
 #: templates/advanced_search_type10.php:37 templates/adv_search_mobile.php:81
 msgid "Type address, state, city or area"
 msgstr "주소, 주, 도시 또는 지역을 입력하십시오."
 
-#: libs/searchfunctions.php:485 searchform.php:2
+#: libs/searchfunctions.php:522 searchform.php:2
 #: templates/advanced_search/advanced_search_type11.php:36
 #: templates/advanced_search/adv_search_mobile.php:108
 #: templates/advanced_search_type11.php:36 templates/adv_search_mobile.php:108
 msgid "Type Keyword"
 msgstr "유형 키워드"
 
-#: libs/searchfunctions.php:2178 libs/searchfunctions.php:2411
+#: libs/searchfunctions.php:2175 libs/searchfunctions.php:2385
 msgid "County, City or Area is "
 msgstr "카운티,시 또는 구는"
 
-#: libs/searchfunctions.php:2211 libs/searchfunctions.php:2441
+#: libs/searchfunctions.php:2180 libs/searchfunctions.php:2415
 msgid "For"
 msgstr "위해서"
 
-#: libs/searchfunctions.php:2231 libs/searchfunctions.php:2461
+#: libs/searchfunctions.php:2183 libs/searchfunctions.php:2435
 #: templates/submit_templates/property_location.php:99
 msgid "County / State"
 msgstr "카운티 / 주"
 
-#: libs/searchfunctions.php:2252
+#: libs/searchfunctions.php:2213
 msgid "Has"
 msgstr "Has"
 
-#: libs/searchfunctions.php:2307 libs/searchfunctions.php:2475
+#: libs/searchfunctions.php:2275 libs/searchfunctions.php:2449
 msgid "types"
 msgstr "유형"
 
-#: libs/searchfunctions.php:2311 libs/searchfunctions.php:2479
+#: libs/searchfunctions.php:2279 libs/searchfunctions.php:2453
 msgid "property price"
 msgstr "부동산 가격"
 
-#: libs/searchfunctions.php:2312 libs/searchfunctions.php:2480
+#: libs/searchfunctions.php:2280 libs/searchfunctions.php:2454
 msgid "property size"
 msgstr "부동산 크기"
 
-#: libs/searchfunctions.php:2313 libs/searchfunctions.php:2481
+#: libs/searchfunctions.php:2281 libs/searchfunctions.php:2455
 msgid "property lot size"
 msgstr "부동산 부지 크기"
 
-#: libs/searchfunctions.php:2314 libs/searchfunctions.php:2482
+#: libs/searchfunctions.php:2282 libs/searchfunctions.php:2456
 msgid "property rooms"
 msgstr "속성 방"
 
-#: libs/searchfunctions.php:2315 libs/searchfunctions.php:2483
+#: libs/searchfunctions.php:2283 libs/searchfunctions.php:2457
 msgid "property bedrooms"
 msgstr "부동산 침실"
 
-#: libs/searchfunctions.php:2316 libs/searchfunctions.php:2484
+#: libs/searchfunctions.php:2284 libs/searchfunctions.php:2458
 msgid "property bathrooms"
 msgstr "속성 욕실"
 
-#: libs/searchfunctions.php:2317 libs/searchfunctions.php:2485
+#: libs/searchfunctions.php:2285 libs/searchfunctions.php:2459
 msgid "property address"
 msgstr "부동산 주소"
 
-#: libs/searchfunctions.php:2318 libs/searchfunctions.php:2486
+#: libs/searchfunctions.php:2286 libs/searchfunctions.php:2460
 msgid "property county"
 msgstr "재산 군"
 
-#: libs/searchfunctions.php:2319 libs/searchfunctions.php:2487
+#: libs/searchfunctions.php:2287 libs/searchfunctions.php:2461
 msgid "property state"
 msgstr "재산 상태"
 
-#: libs/searchfunctions.php:2320 libs/searchfunctions.php:2488
+#: libs/searchfunctions.php:2288 libs/searchfunctions.php:2462
 msgid "property zip"
 msgstr "재산 zip"
 
-#: libs/searchfunctions.php:2321 libs/searchfunctions.php:2489
+#: libs/searchfunctions.php:2289 libs/searchfunctions.php:2463
 msgid "property country"
 msgstr "재산 국가"
 
-#: libs/searchfunctions.php:2353
+#: libs/searchfunctions.php:2327
 msgid "between "
 msgstr "중에서"
 
-#: libs/searchfunctions.php:2353 libs/searchfunctions.php:2355
-#: libs/searchfunctions.php:2359
+#: libs/searchfunctions.php:2327 libs/searchfunctions.php:2329
+#: libs/searchfunctions.php:2333
 msgid "and"
 msgstr "그리고"
 
-#: libs/searchfunctions.php:2355 libs/searchfunctions.php:2359
+#: libs/searchfunctions.php:2329 libs/searchfunctions.php:2333
 msgid "between"
 msgstr "중에서"
 
-#: libs/searchfunctions.php:2363 libs/searchfunctions.php:2516
+#: libs/searchfunctions.php:2337 libs/searchfunctions.php:2490
 msgid " similar with "
 msgstr "~와 비슷한"
 
-#: libs/searchfunctions.php:2365 libs/searchfunctions.php:2520
-#: libs/searchfunctions.php:2554
+#: libs/searchfunctions.php:2339 libs/searchfunctions.php:2494
+#: libs/searchfunctions.php:2528
 msgid " has"
 msgstr "있다"
 
-#: libs/searchfunctions.php:2367 libs/searchfunctions.php:2524
+#: libs/searchfunctions.php:2341 libs/searchfunctions.php:2498
 msgid " equal with "
 msgstr "동등한"
 
-#: libs/searchfunctions.php:2369 libs/searchfunctions.php:2532
-#: libs/searchfunctions.php:2561
+#: libs/searchfunctions.php:2343 libs/searchfunctions.php:2506
+#: libs/searchfunctions.php:2535
 msgid "smaller than "
 msgstr "보다 작은"
 
-#: libs/searchfunctions.php:2371
+#: libs/searchfunctions.php:2345
 msgid "bigger than "
 msgstr "보다 큰"
 
-#: libs/searchfunctions.php:2510 libs/searchfunctions.php:2570
+#: libs/searchfunctions.php:2484 libs/searchfunctions.php:2544
 msgid "price range from: "
 msgstr "가격 범위 :"
 
-#: libs/searchfunctions.php:2512 libs/searchfunctions.php:2540
-#: libs/searchfunctions.php:2572
+#: libs/searchfunctions.php:2486 libs/searchfunctions.php:2514
+#: libs/searchfunctions.php:2546
 msgid "bigger than"
 msgstr "보다 큰"
 
-#: libs/searchfunctions.php:2538
+#: libs/searchfunctions.php:2512
 msgid "price range from "
 msgstr "에서 가격 범위"
 
-#: libs/searchfunctions2.php:310
+#: libs/searchfunctions2.php:354
 #: templates/advanced_search/advanced_search_type2.php:58
-#: templates/advanced_search/advanced_search_type4.php:74
-#: templates/advanced_search/advanced_search_type4.php:80
-#: templates/advanced_search/advanced_search_type5.php:77
-#: templates/advanced_search/advanced_search_type5.php:83
+#: templates/advanced_search/advanced_search_type4.php:83
+#: templates/advanced_search/advanced_search_type4.php:89
+#: templates/advanced_search/advanced_search_type5.php:85
+#: templates/advanced_search/advanced_search_type5.php:91
 #: templates/advanced_search/advanced_search_type7.php:112
 #: templates/advanced_search/advanced_search_type7.php:151
 #: templates/advanced_search/advanced_search_type8.php:168
 #: templates/advanced_search/advanced_search_type9.php:170
-#: templates/advanced_search/adv_search_mobile.php:211
+#: templates/advanced_search/adv_search_mobile.php:218
 #: templates/advanced_search_type2.php:58
 #: templates/advanced_search_type4.php:74
 #: templates/advanced_search_type4.php:80
@@ -3775,12 +3850,12 @@ msgid ""
 msgstr ""
 "우리는 결과를 찾지 못했습니다. 다른 검색 매개 변수로 다시 시도하십시오."
 
-#: single-estate_agency.php:43
+#: single-estate_agency.php:42
 msgid "About Us"
 msgstr "회사 소개"
 
-#: single-estate_agency.php:117 templates/header_agency.php:56
-#: templates/header_developer.php:74 zillow_estimate_page.php:83
+#: single-estate_agency.php:97 templates/header_agency.php:56
+#: templates/header_developer.php:55 zillow_estimate_page.php:83
 msgid "Address:"
 msgstr "주소:"
 
@@ -3842,16 +3917,6 @@ msgstr "의"
 #: templates/property_page!/property_reviews.php:96
 msgid "Posted on "
 msgstr "에 게시 됨"
-
-#: templates/!property_reviews.php:118 templates/agency_reviews.php:124
-#: templates/agency_templates/agency_reviews.php:124
-#: templates/agent_reviews.php:102 templates/developer_reviews.php:105
-#: templates/developer_templates/developer_reviews.php:109
-#: templates/listing_templates/property-page-templates/property_reviews.php:126
-#: templates/listing_templates/property_reviews.php:121
-#: templates/property_page!/property_reviews.php:118
-msgid "Reviews"
-msgstr "리뷰"
 
 #: templates/!property_reviews.php:169 templates/agency_reviews.php:179
 #: templates/agency_templates/agency_reviews.php:179
@@ -3963,6 +4028,13 @@ msgstr "로그인"
 msgid "in order to post a review "
 msgstr "리뷰를 게시하려면"
 
+#: templates/advanced_property_list_filters.php:20
+#: templates/normal_directory.php:64 templates/property_list_filters.php:20
+#: templates/property_list_filters_search.php:7
+#: templates/property_list_filter_half.php:3
+msgid "Sort by"
+msgstr "정렬 기준"
+
 #: templates/advanced_search/advanced_search_type1.php:29
 #: templates/advanced_search/advanced_search_type3.php:22
 #: templates/advanced_search/advanced_search_type5.php:31
@@ -3973,8 +4045,8 @@ msgstr "리뷰를 게시하려면"
 msgid "Advanced Search"
 msgstr "고급 검색"
 
-#: templates/advanced_search/advanced_search_type1.php:78
-#: templates/advanced_search/advanced_search_type_half.php:397
+#: templates/advanced_search/advanced_search_type1.php:92
+#: templates/advanced_search/advanced_search_type_half.php:406
 #: templates/advanced_search_type1.php:78
 #: templates/advanced_search_type_half.php:398
 msgid "SEARCH PROPERTIES"
@@ -3983,7 +4055,7 @@ msgstr "검색 속성"
 #: templates/advanced_search/advanced_search_type2.php:24
 #: templates/advanced_search/advanced_search_type8.php:95
 #: templates/advanced_search/advanced_search_type9.php:98
-#: templates/advanced_search/adv_search_mobile.php:161
+#: templates/advanced_search/adv_search_mobile.php:168
 #: templates/advanced_search_type2.php:24
 #: templates/advanced_search_type8.php:95
 #: templates/advanced_search_type9.php:98 templates/adv_search_mobile.php:161
@@ -4000,22 +4072,22 @@ msgstr "고급 검색"
 msgid "Radius:"
 msgstr "반지름:"
 
-#: templates/advanced_search/advanced_search_type_half.php:402
+#: templates/advanced_search/advanced_search_type_half.php:411
 #: templates/advanced_search_type_half.php:403 templates/preview_template.php:8
 msgid "We found "
 msgstr "우리는 발견"
 
-#: templates/advanced_search/advanced_search_type_half.php:402
+#: templates/advanced_search/advanced_search_type_half.php:411
 #: templates/advanced_search_type_half.php:403 templates/preview_template.php:8
 msgid "results."
 msgstr "결과."
 
-#: templates/advanced_search/adv_search_mobile.php:215
+#: templates/advanced_search/adv_search_mobile.php:222
 #: templates/adv_search_mobile.php:215
 msgid "we found"
 msgstr "우리는 발견"
 
-#: templates/advanced_search/adv_search_mobile.php:215
+#: templates/advanced_search/adv_search_mobile.php:222
 #: templates/adv_search_mobile.php:215
 msgid "results"
 msgstr "결과들"
@@ -4042,19 +4114,14 @@ msgstr "추가 속성로드"
 msgid "Agency Reviews "
 msgstr "대행사 리뷰"
 
-#: templates/agency_unit.php:151
+#: templates/agency_unit.php:140
 #: templates/agent_card_templates/agent_unit.php:26
 #: templates/agent_card_templates/agent_unit_4.php:26
 #: templates/agent_unit.php:24 templates/agent_unit_widget.php:111
 msgid "listing"
 msgstr "목록"
 
-#: templates/agentdetails.php:87
-#: templates/listing_templates/agent_section/agentdetails.php:86
-msgid "Member of:"
-msgstr "의 멤버이다:"
-
-#: templates/agent_card_templates/agent_unit_featured.php:100
+#: templates/agent_card_templates/agent_unit_featured.php:83
 #: templates/agent_listings.php:177 templates/agent_unit_featured.php:85
 #: templates/featured_property_1.php:131
 msgid "My Listings"
@@ -4121,27 +4188,27 @@ msgstr "비교"
 
 #: templates/dashboard-templates/add_new_agent.php:19
 #: templates/dashboard-templates/user_menu.php:7
-#: templates/dashboard-templates/user_profile_agency.php:293
-#: templates/dashboard-templates/user_profile_agent.php:402
-#: templates/dashboard-templates/user_profile_developer.php:292
+#: templates/dashboard-templates/user_profile_agency.php:327
+#: templates/dashboard-templates/user_profile_agent.php:441
+#: templates/dashboard-templates/user_profile_developer.php:324
 msgid "Your account is pending approval. Please wait for admin to approve it. "
 msgstr ""
 "귀하의 계정은 승인 대기 중입니다. 관리자가 승인 될 때까지 기다려주십시오."
 
 #: templates/dashboard-templates/add_new_agent.php:22
 #: templates/dashboard-templates/user_menu.php:10
-#: templates/dashboard-templates/user_profile_agency.php:296
-#: templates/dashboard-templates/user_profile_agent.php:405
-#: templates/dashboard-templates/user_profile_developer.php:295
+#: templates/dashboard-templates/user_profile_agency.php:330
+#: templates/dashboard-templates/user_profile_agent.php:444
+#: templates/dashboard-templates/user_profile_developer.php:327
 msgid "Your account is disabled."
 msgstr "계정이 사용 중지되었습니다."
 
 #: templates/dashboard-templates/add_new_agent.php:33
-#: templates/dashboard-templates/add_new_agent_template.php:378
+#: templates/dashboard-templates/add_new_agent_template.php:416
 #: templates/dashboard-templates/user_profile.php:141
-#: templates/dashboard-templates/user_profile_agency.php:252
-#: templates/dashboard-templates/user_profile_agent.php:360
-#: templates/dashboard-templates/user_profile_developer.php:228
+#: templates/dashboard-templates/user_profile_agency.php:286
+#: templates/dashboard-templates/user_profile_agent.php:399
+#: templates/dashboard-templates/user_profile_developer.php:260
 msgid "Photo"
 msgstr "사진"
 
@@ -4150,20 +4217,20 @@ msgid "Upload your profile photo."
 msgstr "프로필 사진을 업로드하십시오."
 
 #: templates/dashboard-templates/add_new_agent.php:44
-#: templates/dashboard-templates/add_new_agent_template.php:385
+#: templates/dashboard-templates/add_new_agent_template.php:423
 #: templates/dashboard-templates/user_profile.php:149
-#: templates/dashboard-templates/user_profile_agency.php:261
-#: templates/dashboard-templates/user_profile_agent.php:366
-#: templates/dashboard-templates/user_profile_developer.php:237
+#: templates/dashboard-templates/user_profile_agency.php:295
+#: templates/dashboard-templates/user_profile_agent.php:405
+#: templates/dashboard-templates/user_profile_developer.php:269
 msgid "Upload  profile image."
 msgstr "프로필 이미지 업로드."
 
 #: templates/dashboard-templates/add_new_agent.php:50
-#: templates/dashboard-templates/add_new_agent_template.php:391
+#: templates/dashboard-templates/add_new_agent_template.php:429
 #: templates/dashboard-templates/user_profile.php:157
-#: templates/dashboard-templates/user_profile_agency.php:268
-#: templates/dashboard-templates/user_profile_agent.php:373
-#: templates/dashboard-templates/user_profile_developer.php:244
+#: templates/dashboard-templates/user_profile_agency.php:302
+#: templates/dashboard-templates/user_profile_agent.php:412
+#: templates/dashboard-templates/user_profile_developer.php:276
 msgid "*minimum 500px x 500px"
 msgstr "* 최소 500px x 500px"
 
@@ -4215,64 +4282,64 @@ msgid "Add your social media information."
 msgstr "소셜 미디어 정보를 추가하십시오."
 
 #: templates/dashboard-templates/add_new_agent.php:104
-#: templates/dashboard-templates/add_new_agent_template.php:73
+#: templates/dashboard-templates/add_new_agent_template.php:79
 #: templates/dashboard-templates/user_profile.php:52
-#: templates/dashboard-templates/user_profile_agency.php:72
-#: templates/dashboard-templates/user_profile_agency.php:105
-#: templates/dashboard-templates/user_profile_agent.php:63
-#: templates/dashboard-templates/user_profile_developer.php:66
+#: templates/dashboard-templates/user_profile_agency.php:77
+#: templates/dashboard-templates/user_profile_agency.php:133
+#: templates/dashboard-templates/user_profile_agent.php:68
+#: templates/dashboard-templates/user_profile_developer.php:71
 msgid "Facebook Url"
 msgstr "Facebook URL"
 
 #: templates/dashboard-templates/add_new_agent.php:109
-#: templates/dashboard-templates/add_new_agent_template.php:84
+#: templates/dashboard-templates/add_new_agent_template.php:90
 #: templates/dashboard-templates/user_profile.php:57
-#: templates/dashboard-templates/user_profile_agency.php:82
-#: templates/dashboard-templates/user_profile_agent.php:73
-#: templates/dashboard-templates/user_profile_developer.php:76
-msgid "Twitter Url"
-msgstr "트위터 URL"
+#: templates/dashboard-templates/user_profile_agency.php:87
+#: templates/dashboard-templates/user_profile_agent.php:78
+#: templates/dashboard-templates/user_profile_developer.php:81
+msgid "X - Twitter Url"
+msgstr "X - 트위터 URL"
 
 #: templates/dashboard-templates/add_new_agent.php:114
-#: templates/dashboard-templates/add_new_agent_template.php:94
+#: templates/dashboard-templates/add_new_agent_template.php:100
 #: templates/dashboard-templates/user_profile.php:62
-#: templates/dashboard-templates/user_profile_agency.php:92
-#: templates/dashboard-templates/user_profile_agent.php:83
-#: templates/dashboard-templates/user_profile_developer.php:86
+#: templates/dashboard-templates/user_profile_agency.php:97
+#: templates/dashboard-templates/user_profile_agent.php:88
+#: templates/dashboard-templates/user_profile_developer.php:91
 msgid "Linkedin Url"
 msgstr "Linkedin Url"
 
 #: templates/dashboard-templates/add_new_agent.php:120
-#: templates/dashboard-templates/add_new_agent_template.php:79
+#: templates/dashboard-templates/add_new_agent_template.php:85
 #: templates/dashboard-templates/user_profile.php:67
-#: templates/dashboard-templates/user_profile_agency.php:77
-#: templates/dashboard-templates/user_profile_agency.php:110
-#: templates/dashboard-templates/user_profile_agent.php:68
-#: templates/dashboard-templates/user_profile_developer.php:71
+#: templates/dashboard-templates/user_profile_agency.php:82
+#: templates/dashboard-templates/user_profile_agency.php:138
+#: templates/dashboard-templates/user_profile_agent.php:73
+#: templates/dashboard-templates/user_profile_developer.php:76
 msgid "Instagram Url"
 msgstr "Instagram Url"
 
 #: templates/dashboard-templates/add_new_agent.php:125
-#: templates/dashboard-templates/add_new_agent_template.php:89
+#: templates/dashboard-templates/add_new_agent_template.php:95
 #: templates/dashboard-templates/user_profile.php:72
-#: templates/dashboard-templates/user_profile_agency.php:87
-#: templates/dashboard-templates/user_profile_agent.php:78
-#: templates/dashboard-templates/user_profile_developer.php:81
+#: templates/dashboard-templates/user_profile_agency.php:92
+#: templates/dashboard-templates/user_profile_agent.php:83
+#: templates/dashboard-templates/user_profile_developer.php:86
 msgid "Pinterest Url"
 msgstr "Pinterest URL"
 
 #: templates/dashboard-templates/add_new_agent.php:130
-#: templates/dashboard-templates/add_new_agent_template.php:99
+#: templates/dashboard-templates/add_new_agent_template.php:125
 #: templates/dashboard-templates/user_profile.php:78
-#: templates/dashboard-templates/user_profile_agency.php:97
-#: templates/dashboard-templates/user_profile_agent.php:88
-#: templates/dashboard-templates/user_profile_developer.php:91
+#: templates/dashboard-templates/user_profile_agency.php:125
+#: templates/dashboard-templates/user_profile_agent.php:114
+#: templates/dashboard-templates/user_profile_developer.php:117
 msgid "Website Url (without http)"
 msgstr "웹 사이트 URL (http없이)"
 
 #: templates/dashboard-templates/add_new_agent.php:140
-#: templates/dashboard-templates/add_new_agent_template.php:247
-#: templates/dashboard-templates/user_profile_agent.php:211
+#: templates/dashboard-templates/add_new_agent_template.php:285
+#: templates/dashboard-templates/user_profile_agent.php:250
 msgid "Agent Area/Categories"
 msgstr "에이전트 영역 / 카테고리"
 
@@ -4281,8 +4348,8 @@ msgid "What kind of listings do you handle?"
 msgstr "어떤 종류의 업체 정보를 처리합니까?"
 
 #: templates/dashboard-templates/add_new_agent.php:205
-#: templates/dashboard-templates/add_new_agent_template.php:295
-#: templates/dashboard-templates/user_profile_agent.php:273
+#: templates/dashboard-templates/add_new_agent_template.php:333
+#: templates/dashboard-templates/user_profile_agent.php:312
 msgid "Agent Custom Data"
 msgstr "상담원 맞춤 데이터"
 
@@ -4291,8 +4358,8 @@ msgid "Any custom parameters for agent"
 msgstr "에이전트의 모든 사용자 지정 매개 변수"
 
 #: templates/dashboard-templates/add_new_agent.php:210
-#: templates/dashboard-templates/add_new_agent_template.php:335
-#: templates/dashboard-templates/user_profile_agent.php:313
+#: templates/dashboard-templates/add_new_agent_template.php:373
+#: templates/dashboard-templates/user_profile_agent.php:352
 msgid "Add Custom Field"
 msgstr "사용자 정의 필드 추가"
 
@@ -4309,31 +4376,31 @@ msgid "Add some information about yourself."
 msgstr "자신에 대한 정보를 추가하십시오."
 
 #: templates/dashboard-templates/add_new_agent.php:256
-#: templates/dashboard-templates/add_new_agent_template.php:131
+#: templates/dashboard-templates/add_new_agent_template.php:157
 #: templates/dashboard-templates/user_profile.php:87
-#: templates/dashboard-templates/user_profile_agent.php:122
+#: templates/dashboard-templates/user_profile_agent.php:148
 msgid "Title/Position"
 msgstr "직위 / 직책"
 
 #: templates/dashboard-templates/add_new_agent.php:261
-#: templates/dashboard-templates/add_new_agent_template.php:137
-#: templates/dashboard-templates/user_profile_agent.php:128
+#: templates/dashboard-templates/add_new_agent_template.php:163
+#: templates/dashboard-templates/user_profile_agent.php:154
 msgid "About Me"
 msgstr "나에 대해서"
 
 #: templates/dashboard-templates/add_new_agent.php:265
 #: templates/dashboard-templates/user_profile.php:122
-#: templates/dashboard-templates/user_profile_agency.php:233
-#: templates/dashboard-templates/user_profile_agent.php:332
-#: templates/dashboard-templates/user_profile_developer.php:207
+#: templates/dashboard-templates/user_profile_agency.php:267
+#: templates/dashboard-templates/user_profile_agent.php:371
+#: templates/dashboard-templates/user_profile_developer.php:239
 msgid "Update profile"
 msgstr "프로필 업데이트"
 
 #: templates/dashboard-templates/add_new_agent.php:266
 #: templates/dashboard-templates/user_profile.php:123
-#: templates/dashboard-templates/user_profile_agency.php:243
-#: templates/dashboard-templates/user_profile_agent.php:344
-#: templates/dashboard-templates/user_profile_developer.php:219
+#: templates/dashboard-templates/user_profile_agency.php:277
+#: templates/dashboard-templates/user_profile_agent.php:383
+#: templates/dashboard-templates/user_profile_developer.php:251
 msgid "Delete profile"
 msgstr "프로필 삭제"
 
@@ -4350,48 +4417,83 @@ msgstr "암호 다시 입력"
 msgid "Member of"
 msgstr "의 멤버이다"
 
-#: templates/dashboard-templates/add_new_agent_template.php:223
-#: templates/dashboard-templates/add_new_agent_template.php:348
-#: templates/dashboard-templates/user_profile_agent.php:323
+#: templates/dashboard-templates/add_new_agent_template.php:105
+#: templates/dashboard-templates/user_profile_agency.php:103
+#: templates/dashboard-templates/user_profile_agent.php:93
+#: templates/dashboard-templates/user_profile_developer.php:97
+msgid "Youtube Url"
+msgstr "유튜브 Url"
+
+#: templates/dashboard-templates/add_new_agent_template.php:110
+#: templates/dashboard-templates/user_profile_agency.php:108
+#: templates/dashboard-templates/user_profile_agent.php:98
+#: templates/dashboard-templates/user_profile_developer.php:102
+msgid "TikTok Url"
+msgstr "틱톡 URL"
+
+#: templates/dashboard-templates/add_new_agent_template.php:115
+#: templates/dashboard-templates/user_profile_agency.php:113
+#: templates/dashboard-templates/user_profile_agent.php:103
+#: templates/dashboard-templates/user_profile_developer.php:107
+msgid "Telegram Url"
+msgstr "텔레그램 URL"
+
+#: templates/dashboard-templates/add_new_agent_template.php:120
+#: templates/dashboard-templates/user_profile_agency.php:118
+#: templates/dashboard-templates/user_profile_agent.php:108
+#: templates/dashboard-templates/user_profile_developer.php:112
+msgid "Vimeo Url"
+msgstr "비메오 URL"
+
+#: templates/dashboard-templates/add_new_agent_template.php:170
+#: templates/dashboard-templates/user_profile_agency.php:201
+#: templates/dashboard-templates/user_profile_agent.php:161
+#: templates/dashboard-templates/user_profile_developer.php:179
+msgid "Private Notes"
+msgstr "비공개 노트"
+
+#: templates/dashboard-templates/add_new_agent_template.php:261
+#: templates/dashboard-templates/add_new_agent_template.php:386
+#: templates/dashboard-templates/user_profile_agent.php:362
 msgid "Agent Details"
 msgstr "대행사 세부 정보"
 
-#: templates/dashboard-templates/add_new_agent_template.php:227
+#: templates/dashboard-templates/add_new_agent_template.php:265
 msgid "Agent Username"
 msgstr "에이전트 사용자 이름"
 
-#: templates/dashboard-templates/add_new_agent_template.php:231
+#: templates/dashboard-templates/add_new_agent_template.php:269
 msgid "Username:"
 msgstr "사용자 이름:"
 
-#: templates/dashboard-templates/add_new_agent_template.php:231
+#: templates/dashboard-templates/add_new_agent_template.php:269
 msgid "is not editable"
 msgstr "편집 할 수 없다."
 
-#: templates/dashboard-templates/add_new_agent_template.php:241
+#: templates/dashboard-templates/add_new_agent_template.php:279
 msgid "Agent Social Details"
 msgstr "에이전트 소셜 세부 정보"
 
-#: templates/dashboard-templates/add_new_agent_template.php:299
-#: templates/dashboard-templates/add_new_agent_template.php:320
-#: templates/dashboard-templates/user_profile_agent.php:277
-#: templates/dashboard-templates/user_profile_agent.php:298
+#: templates/dashboard-templates/add_new_agent_template.php:337
+#: templates/dashboard-templates/add_new_agent_template.php:358
+#: templates/dashboard-templates/user_profile_agent.php:316
+#: templates/dashboard-templates/user_profile_agent.php:337
 msgid "Parameter Label"
 msgstr "매개 변수 레이블"
 
-#: templates/dashboard-templates/add_new_agent_template.php:303
-#: templates/dashboard-templates/add_new_agent_template.php:324
-#: templates/dashboard-templates/user_profile_agent.php:281
-#: templates/dashboard-templates/user_profile_agent.php:302
+#: templates/dashboard-templates/add_new_agent_template.php:341
+#: templates/dashboard-templates/add_new_agent_template.php:362
+#: templates/dashboard-templates/user_profile_agent.php:320
+#: templates/dashboard-templates/user_profile_agent.php:341
 msgid "Parameter Value"
 msgstr "매개 변수 값"
 
-#: templates/dashboard-templates/add_new_agent_template.php:342
-#: templates/dashboard-templates/user_profile_agent.php:318
+#: templates/dashboard-templates/add_new_agent_template.php:380
+#: templates/dashboard-templates/user_profile_agent.php:357
 msgid "Agent Location"
 msgstr "에이전트 위치"
 
-#: templates/dashboard-templates/add_new_agent_template.php:359
+#: templates/dashboard-templates/add_new_agent_template.php:397
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:16
 msgid "Edit Agent"
 msgstr "에이전트 편집"
@@ -4504,16 +4606,16 @@ msgstr "추천 기능으로 설정"
 msgid "Submission Fee"
 msgstr "제출 수수료"
 
-#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:34
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:42
 #: templates/dashboard-templates/user_memebership_profile.php:193
 msgid "Wire Transfer"
 msgstr "송금"
 
-#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:43
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:51
 msgid "Featured  Fee"
 msgstr "추천 요금"
 
-#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:59
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:67
 msgid "Upgrade to featured"
 msgstr "추천으로 업그레이드"
 
@@ -4532,27 +4634,27 @@ msgstr "사용자 ID :"
 msgid "Featured"
 msgstr "추천"
 
-#: templates/dashboard-templates/dashboard_listing_unit.php:79
+#: templates/dashboard-templates/dashboard_listing_unit.php:80
 msgid "Expires on "
 msgstr "만료일"
 
-#: templates/dashboard-templates/dashboard_listing_unit.php:119
+#: templates/dashboard-templates/dashboard_listing_unit.php:120
 msgid "Remove From Favorites"
 msgstr "즐겨찾기 삭제"
 
-#: templates/dashboard-templates/invoice_listing_unit.php:27
+#: templates/dashboard-templates/invoice_listing_unit.php:26
 msgid "Publish Listing with Feature"
 msgstr "지형지 물을 사용하여 지형지 물 게시"
 
-#: templates/dashboard-templates/invoice_listing_unit.php:40
+#: templates/dashboard-templates/invoice_listing_unit.php:39
 msgid "One Time"
 msgstr "한 번"
 
-#: templates/dashboard-templates/invoice_listing_unit.php:42
+#: templates/dashboard-templates/invoice_listing_unit.php:41
 msgid "Recurring"
 msgstr "되풀이"
 
-#: templates/dashboard-templates/invoice_listing_unit.php:69
+#: templates/dashboard-templates/invoice_listing_unit.php:68
 #: templates/listing_templates/overview_template.php:35
 msgid "Print"
 msgstr "인쇄"
@@ -4585,12 +4687,12 @@ msgstr "에서:"
 msgid "Send Reply"
 msgstr "답장 보내기"
 
-#: templates/dashboard-templates/search_unit.php:16
-#: templates/half_map_core.php:83 templates/normal_map_core.php:90
+#: templates/dashboard-templates/search_unit.php:18
+#: templates/half_map_core.php:84 templates/normal_map_core.php:90
 msgid "Search Parameters: "
 msgstr "검색 매개 변수 :"
 
-#: templates/dashboard-templates/search_unit.php:22
+#: templates/dashboard-templates/search_unit.php:24
 msgid "delete search"
 msgstr "검색 삭제"
 
@@ -4668,47 +4770,47 @@ msgid "Languages"
 msgstr "언어"
 
 #: templates/dashboard-templates/user_profile_agency.php:45
-#: templates/dashboard-templates/user_profile_developer.php:43
+#: templates/dashboard-templates/user_profile_developer.php:48
 msgid "Taxes"
 msgstr "구실"
 
 #: templates/dashboard-templates/user_profile_agency.php:50
-#: templates/dashboard-templates/user_profile_developer.php:48
+#: templates/dashboard-templates/user_profile_developer.php:53
 msgid "License"
 msgstr "라이센스"
 
-#: templates/dashboard-templates/user_profile_agency.php:55
+#: templates/dashboard-templates/user_profile_agency.php:60
 #: templates/google-map-contact-details.php:49
 msgid "Opening Hours"
 msgstr "개관 시간"
 
-#: templates/dashboard-templates/user_profile_agency.php:64
-#: templates/dashboard-templates/user_profile_agent.php:54
-#: templates/dashboard-templates/user_profile_developer.php:57
+#: templates/dashboard-templates/user_profile_agency.php:69
+#: templates/dashboard-templates/user_profile_agent.php:59
+#: templates/dashboard-templates/user_profile_developer.php:62
 msgid "HubSpot Private Application Token"
 msgstr "HubSpot 개인 애플리케이션 토큰"
 
-#: templates/dashboard-templates/user_profile_agency.php:166
-#: templates/dashboard-templates/user_profile_agency.php:229
-#: templates/dashboard-templates/user_profile_developer.php:146
-#: templates/dashboard-templates/user_profile_developer.php:203
+#: templates/dashboard-templates/user_profile_agency.php:194
+#: templates/dashboard-templates/user_profile_agency.php:263
+#: templates/dashboard-templates/user_profile_developer.php:172
+#: templates/dashboard-templates/user_profile_developer.php:235
 msgid "About Agency"
 msgstr "에이전시 정보"
 
-#: templates/dashboard-templates/user_profile_agency.php:205
-#: templates/dashboard-templates/user_profile_agent.php:205
-#: templates/dashboard-templates/user_profile_developer.php:179
+#: templates/dashboard-templates/user_profile_agency.php:239
+#: templates/dashboard-templates/user_profile_agent.php:244
+#: templates/dashboard-templates/user_profile_developer.php:211
 msgid "Social Information"
 msgstr "SNS 정보 추가"
 
-#: templates/dashboard-templates/user_profile_agency.php:221
-#: templates/dashboard-templates/user_profile_developer.php:195
+#: templates/dashboard-templates/user_profile_agency.php:255
+#: templates/dashboard-templates/user_profile_developer.php:227
 msgid "Place Pin with Agency Address"
 msgstr "대행사 주소로 핀 배치"
 
-#: templates/dashboard-templates/user_profile_agency.php:240
-#: templates/dashboard-templates/user_profile_agent.php:340
-#: templates/dashboard-templates/user_profile_developer.php:216
+#: templates/dashboard-templates/user_profile_agency.php:274
+#: templates/dashboard-templates/user_profile_agent.php:379
+#: templates/dashboard-templates/user_profile_developer.php:248
 msgid "View public profile"
 msgstr "공개 프로필보기"
 
@@ -4889,25 +4991,25 @@ msgstr "다음 것"
 msgid "Google Maps Search"
 msgstr "Google지도 검색"
 
-#: templates/half_map_core.php:87 templates/normal_map_core.php:95
+#: templates/half_map_core.php:90 templates/normal_map_core.php:95
 msgid "Save this Search?"
 msgstr "이 검색 결과를 저장 하시겠습니까?"
 
-#: templates/half_map_core.php:88 templates/normal_map_core.php:96
+#: templates/half_map_core.php:91 templates/normal_map_core.php:96
 msgid "Search name"
 msgstr "검색 이름"
 
-#: templates/half_map_core.php:89 templates/normal_map_core.php:97
+#: templates/half_map_core.php:92 templates/normal_map_core.php:97
 msgid "Save Search"
 msgstr "검색 저장"
 
-#: templates/half_map_core.php:105 templates/login_register_modal.php:65
+#: templates/half_map_core.php:108 templates/login_register_modal.php:65
 #: templates/mobile_menu.php:89 templates/mobile_menu.php:100
 #: templates/normal_map_core.php:113
 msgid "Login"
 msgstr "로그인"
 
-#: templates/half_map_core.php:105 templates/normal_map_core.php:113
+#: templates/half_map_core.php:108 templates/normal_map_core.php:113
 msgid ""
 "to save search and you will receive an email notification when new "
 "properties matching your search will be published."
@@ -4915,15 +5017,15 @@ msgstr ""
 "을 클릭해 검색을 저장하면 검색과 일치하는 새 숙소가 게시될 때 이메일 알림을 "
 "받게 됩니다."
 
-#: templates/half_map_core.php:124 templates/normal_map_core.php:167
+#: templates/half_map_core.php:127 templates/normal_map_core.php:167
 msgid "Properties listed in "
 msgstr "에 나열된 속성"
 
-#: templates/half_map_core.php:176
+#: templates/half_map_core.php:179
 msgid "Map View"
 msgstr "지도 보기"
 
-#: templates/header_agency.php:85 templates/header_developer.php:130
+#: templates/header_agency.php:85 templates/header_developer.php:111
 msgid "Website:"
 msgstr "웹 사이트 :"
 
@@ -4935,17 +5037,22 @@ msgstr "우리는 말을:"
 msgid "Opening Hours:"
 msgstr "개관 시간:"
 
-#: templates/header_agency.php:103 templates/header_developer.php:140
+#: templates/header_agency.php:103 templates/header_developer.php:121
 msgid "License:"
 msgstr "특허:"
 
-#: templates/header_agency.php:109 templates/header_developer.php:145
+#: templates/header_agency.php:109 templates/header_developer.php:126
 msgid "Our Taxes:"
 msgstr "우리 세금 :"
 
 #: templates/image_gallery.php:103
 msgid "Want to find out more?"
 msgstr "더 자세한 정보를 원하십니까?"
+
+#: templates/listing_templates/agent_section/agent_details_2.php:52
+#: templates/realtor_templates/agent_about_me.php:5
+msgid "About Me "
+msgstr "나에 대해서"
 
 #: templates/listing_templates/contact_form/contact_form_simple.php:10
 msgid "I would like to schedule a tour for "
@@ -4972,16 +5079,6 @@ msgstr "인쇄 페이지"
 #: templates/listing_templates/single-overview-section.php:20
 msgid "Updated On:"
 msgstr "업데이트됨:"
-
-#: templates/listing_templates/property-page-templates/single-overview-section.php:63
-#: templates/listing_templates/single-overview-section.php:53
-msgid "Garages"
-msgstr "주차장"
-
-#: templates/listing_templates/property-page-templates/single-overview-section.php:89
-#: templates/listing_templates/single-overview-section.php:73
-msgid "Year Built:"
-msgstr "구축 연도:"
 
 #: templates/listing_templates/property_multi_units.php:103
 #: templates/multi_units.php:137
@@ -5112,12 +5209,6 @@ msgstr "로그인으로 돌아 가기"
 msgid "Return to Login"
 msgstr "로그인으로 돌아 가기"
 
-#: templates/normal_directory.php:64 templates/property_list_filters.php:20
-#: templates/property_list_filters_search.php:7
-#: templates/property_list_filter_half.php:3
-msgid "Sort by"
-msgstr "정렬 기준"
-
 #: templates/normal_directory.php:212 templates/normal_map_core.php:271
 msgid ""
 "There are no properties listed on this page at this moment. Please try again "
@@ -5223,6 +5314,7 @@ msgstr "차고 크기"
 
 #: templates/property_cards_templates/property_card_details_type4.php:22
 #: templates/property_cards_templates/property_card_details_type6.php:34
+#: templates/shortcode_templates/content_grid_small_estate_property_type_1.php:33
 msgid "Baths"
 msgstr "화장실"
 
@@ -5255,10 +5347,6 @@ msgstr "범주"
 #: templates/property_slider_shortcode.php:60
 msgid "location"
 msgstr "위치"
-
-#: templates/realtor_templates/agent_about_me.php:5
-msgid "About Me "
-msgstr "나에 대해서"
 
 #: templates/realtor_templates/agent_taxonomies.php:15
 msgid "Specialties & Service Areas"
@@ -5535,10 +5623,6 @@ msgstr "추천 (추가) :"
 #: templates/submit_templates/video_tour.php:31
 msgid "Virtual Tour: "
 msgstr "가상 투어:"
-
-#. Template Name of the theme
-msgid "Terms and Conditions"
-msgstr "이용약관"
 
 #. Template Name of the theme
 msgid "User Dashboard"
@@ -5823,6 +5907,21 @@ msgstr "죄송합니다. 현재이 호텔에 대한 평가가 없습니다."
 msgid "Please fill in the form correctly and try again!"
 msgstr "양식을 올바르게 작성하고 다시 시도하십시오!"
 
+#~ msgid "Terms and Conditions"
+#~ msgstr "이용약관"
+
+#~ msgid ""
+#~ "Please validate your purchase code in order to use the theme! See this "
+#~ "link link  "
+#~ msgstr "테마를 사용하려면 구매 코드를 인증해 주세요! 이 링크를 참조하세요"
+
+#~ msgid "if you don't know how to get your license key. Thank you!"
+#~ msgstr ""
+#~ "라이선스 키를 받는 방법을 모르는 경우 여기를 참조하세요. 감사합니다!"
+
+#~ msgid "Publish Listing with Featured"
+#~ msgstr "추천 목록 게시"
+
 #~ msgid "Adress:"
 #~ msgstr "주소 :"
 
@@ -6014,9 +6113,6 @@ msgstr "양식을 올바르게 작성하고 다시 시도하십시오!"
 
 #~ msgid "Croatia (Hrvatska)"
 #~ msgstr "크로아티아 (Hrvatska)"
-
-#~ msgid "Cuba"
-#~ msgstr "쿠바"
 
 #~ msgid "Curacao"
 #~ msgstr "큐라 소"
@@ -6701,9 +6797,6 @@ msgstr "양식을 올바르게 작성하고 다시 시도하십시오!"
 
 #~ msgid "My details "
 #~ msgstr "내 세부 정보"
-
-#~ msgid "beds"
-#~ msgstr "침대"
 
 #~ msgid "Rooms:"
 #~ msgstr "객실 :"

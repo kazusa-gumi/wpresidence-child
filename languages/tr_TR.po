@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wpresidence\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/wpresidence\n"
-"POT-Creation-Date: 2023-08-23T07:07:46+00:00\n"
-"PO-Revision-Date: 2023-08-23 11:02+0300\n"
+"POT-Creation-Date: 2024-02-20T08:54:54+00:00\n"
+"PO-Revision-Date: 2024-02-20 12:55+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr_TR\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;esc_html_e;esc_html__\n"
 "X-Poedit-Basepath: .\n"
 
@@ -93,108 +93,108 @@ msgstr "Emlak Ofisi listesi"
 msgid "Agents list"
 msgstr "Akrediteler listesi"
 
-#: api/test.php:305 libs/help_functions.php:5317 libs/help_functions.php:5464
+#: api/test.php:305 libs/help_functions.php:5438 libs/help_functions.php:5585
 #: word_remove.php:92
 msgid "feet"
 msgstr "ayaklar"
 
 #: api/test.php:305 api/test.php:314 api/test.php:315 api/test.php:316
 #: api/test.php:317 api/test.php:318 api/test.php:320 api/test.php:325
-#: api/test.php:330 api/test.php:335 libs/help_functions.php:5317
-#: libs/help_functions.php:5398 libs/help_functions.php:5399
-#: libs/help_functions.php:5400 libs/help_functions.php:5401
-#: libs/help_functions.php:5402 libs/help_functions.php:5404
-#: libs/help_functions.php:5409 libs/help_functions.php:5414
-#: libs/help_functions.php:5419 libs/help_functions.php:5464
-#: libs/help_functions.php:5473 libs/help_functions.php:5474
-#: libs/help_functions.php:5475 libs/help_functions.php:5476
-#: libs/help_functions.php:5477 libs/help_functions.php:5479
-#: libs/help_functions.php:5484 libs/help_functions.php:5489
-#: libs/help_functions.php:5494 word_remove.php:92
+#: api/test.php:330 api/test.php:335 libs/help_functions.php:5438
+#: libs/help_functions.php:5519 libs/help_functions.php:5520
+#: libs/help_functions.php:5521 libs/help_functions.php:5522
+#: libs/help_functions.php:5523 libs/help_functions.php:5525
+#: libs/help_functions.php:5530 libs/help_functions.php:5535
+#: libs/help_functions.php:5540 libs/help_functions.php:5585
+#: libs/help_functions.php:5594 libs/help_functions.php:5595
+#: libs/help_functions.php:5596 libs/help_functions.php:5597
+#: libs/help_functions.php:5598 libs/help_functions.php:5600
+#: libs/help_functions.php:5605 libs/help_functions.php:5610
+#: libs/help_functions.php:5615 word_remove.php:92
 msgid "ft"
 msgstr "ft"
 
-#: api/test.php:306 libs/help_functions.php:5318 libs/help_functions.php:5465
+#: api/test.php:306 libs/help_functions.php:5439 libs/help_functions.php:5586
 #: word_remove.php:93
 msgid "meters"
 msgstr "metre"
 
 #: api/test.php:306 api/test.php:315 api/test.php:319 api/test.php:320
 #: api/test.php:321 api/test.php:322 api/test.php:323 api/test.php:326
-#: api/test.php:331 api/test.php:336 libs/help_functions.php:5318
-#: libs/help_functions.php:5399 libs/help_functions.php:5403
-#: libs/help_functions.php:5404 libs/help_functions.php:5405
-#: libs/help_functions.php:5406 libs/help_functions.php:5407
-#: libs/help_functions.php:5410 libs/help_functions.php:5415
-#: libs/help_functions.php:5420 libs/help_functions.php:5465
-#: libs/help_functions.php:5474 libs/help_functions.php:5478
-#: libs/help_functions.php:5479 libs/help_functions.php:5480
-#: libs/help_functions.php:5481 libs/help_functions.php:5482
-#: libs/help_functions.php:5485 libs/help_functions.php:5490
-#: libs/help_functions.php:5495 word_remove.php:93
+#: api/test.php:331 api/test.php:336 libs/help_functions.php:5439
+#: libs/help_functions.php:5520 libs/help_functions.php:5524
+#: libs/help_functions.php:5525 libs/help_functions.php:5526
+#: libs/help_functions.php:5527 libs/help_functions.php:5528
+#: libs/help_functions.php:5531 libs/help_functions.php:5536
+#: libs/help_functions.php:5541 libs/help_functions.php:5586
+#: libs/help_functions.php:5595 libs/help_functions.php:5599
+#: libs/help_functions.php:5600 libs/help_functions.php:5601
+#: libs/help_functions.php:5602 libs/help_functions.php:5603
+#: libs/help_functions.php:5606 libs/help_functions.php:5611
+#: libs/help_functions.php:5616 word_remove.php:93
 msgid "m"
 msgstr "m"
 
-#: api/test.php:307 libs/help_functions.php:5319 libs/help_functions.php:5466
+#: api/test.php:307 libs/help_functions.php:5440 libs/help_functions.php:5587
 #: word_remove.php:94
 msgid "acres"
 msgstr "dönüm"
 
 #: api/test.php:307 api/test.php:316 api/test.php:321 api/test.php:324
 #: api/test.php:325 api/test.php:326 api/test.php:327 api/test.php:328
-#: api/test.php:332 api/test.php:337 libs/help_functions.php:5319
-#: libs/help_functions.php:5400 libs/help_functions.php:5405
-#: libs/help_functions.php:5408 libs/help_functions.php:5409
-#: libs/help_functions.php:5410 libs/help_functions.php:5411
-#: libs/help_functions.php:5412 libs/help_functions.php:5416
-#: libs/help_functions.php:5421 libs/help_functions.php:5466
-#: libs/help_functions.php:5475 libs/help_functions.php:5480
-#: libs/help_functions.php:5483 libs/help_functions.php:5484
-#: libs/help_functions.php:5485 libs/help_functions.php:5486
-#: libs/help_functions.php:5487 libs/help_functions.php:5491
-#: libs/help_functions.php:5496 word_remove.php:94
+#: api/test.php:332 api/test.php:337 libs/help_functions.php:5440
+#: libs/help_functions.php:5521 libs/help_functions.php:5526
+#: libs/help_functions.php:5529 libs/help_functions.php:5530
+#: libs/help_functions.php:5531 libs/help_functions.php:5532
+#: libs/help_functions.php:5533 libs/help_functions.php:5537
+#: libs/help_functions.php:5542 libs/help_functions.php:5587
+#: libs/help_functions.php:5596 libs/help_functions.php:5601
+#: libs/help_functions.php:5604 libs/help_functions.php:5605
+#: libs/help_functions.php:5606 libs/help_functions.php:5607
+#: libs/help_functions.php:5608 libs/help_functions.php:5612
+#: libs/help_functions.php:5617 word_remove.php:94
 msgid "ac"
 msgstr "AC"
 
-#: api/test.php:308 libs/help_functions.php:5320 libs/help_functions.php:5467
+#: api/test.php:308 libs/help_functions.php:5441 libs/help_functions.php:5588
 #: word_remove.php:95
 msgid "yards"
 msgstr "kilometre"
 
 #: api/test.php:308 api/test.php:317 api/test.php:322 api/test.php:327
 #: api/test.php:329 api/test.php:330 api/test.php:331 api/test.php:332
-#: api/test.php:333 api/test.php:338 libs/help_functions.php:5320
-#: libs/help_functions.php:5401 libs/help_functions.php:5406
-#: libs/help_functions.php:5411 libs/help_functions.php:5413
-#: libs/help_functions.php:5414 libs/help_functions.php:5415
-#: libs/help_functions.php:5416 libs/help_functions.php:5417
-#: libs/help_functions.php:5422 libs/help_functions.php:5467
-#: libs/help_functions.php:5476 libs/help_functions.php:5481
-#: libs/help_functions.php:5486 libs/help_functions.php:5488
-#: libs/help_functions.php:5489 libs/help_functions.php:5490
-#: libs/help_functions.php:5491 libs/help_functions.php:5492
-#: libs/help_functions.php:5497 word_remove.php:95
+#: api/test.php:333 api/test.php:338 libs/help_functions.php:5441
+#: libs/help_functions.php:5522 libs/help_functions.php:5527
+#: libs/help_functions.php:5532 libs/help_functions.php:5534
+#: libs/help_functions.php:5535 libs/help_functions.php:5536
+#: libs/help_functions.php:5537 libs/help_functions.php:5538
+#: libs/help_functions.php:5543 libs/help_functions.php:5588
+#: libs/help_functions.php:5597 libs/help_functions.php:5602
+#: libs/help_functions.php:5607 libs/help_functions.php:5609
+#: libs/help_functions.php:5610 libs/help_functions.php:5611
+#: libs/help_functions.php:5612 libs/help_functions.php:5613
+#: libs/help_functions.php:5618 word_remove.php:95
 msgid "yd"
 msgstr "yd"
 
-#: api/test.php:309 libs/help_functions.php:5321 libs/help_functions.php:5468
+#: api/test.php:309 libs/help_functions.php:5442 libs/help_functions.php:5589
 #: word_remove.php:96
 msgid "hectares"
 msgstr "hektar"
 
 #: api/test.php:309 api/test.php:318 api/test.php:323 api/test.php:328
 #: api/test.php:333 api/test.php:334 api/test.php:335 api/test.php:336
-#: api/test.php:337 api/test.php:338 libs/help_functions.php:5321
-#: libs/help_functions.php:5402 libs/help_functions.php:5407
-#: libs/help_functions.php:5412 libs/help_functions.php:5417
-#: libs/help_functions.php:5418 libs/help_functions.php:5419
-#: libs/help_functions.php:5420 libs/help_functions.php:5421
-#: libs/help_functions.php:5422 libs/help_functions.php:5468
-#: libs/help_functions.php:5477 libs/help_functions.php:5482
-#: libs/help_functions.php:5487 libs/help_functions.php:5492
-#: libs/help_functions.php:5493 libs/help_functions.php:5494
-#: libs/help_functions.php:5495 libs/help_functions.php:5496
-#: libs/help_functions.php:5497 word_remove.php:96
+#: api/test.php:337 api/test.php:338 libs/help_functions.php:5442
+#: libs/help_functions.php:5523 libs/help_functions.php:5528
+#: libs/help_functions.php:5533 libs/help_functions.php:5538
+#: libs/help_functions.php:5539 libs/help_functions.php:5540
+#: libs/help_functions.php:5541 libs/help_functions.php:5542
+#: libs/help_functions.php:5543 libs/help_functions.php:5589
+#: libs/help_functions.php:5598 libs/help_functions.php:5603
+#: libs/help_functions.php:5608 libs/help_functions.php:5613
+#: libs/help_functions.php:5614 libs/help_functions.php:5615
+#: libs/help_functions.php:5616 libs/help_functions.php:5617
+#: libs/help_functions.php:5618 word_remove.php:96
 msgid "ha"
 msgstr "Ha"
 
@@ -238,20 +238,20 @@ msgstr "Kullanıcı Paneli Arama Sonuçları"
 msgid "Sorry, your nonce did not verify."
 msgstr "Üzgünüz, kimliğiniz doğrulamadı."
 
-#: auser_dashboard_search_result.php:98 templates/half_map_core.php:157
+#: auser_dashboard_search_result.php:98 templates/half_map_core.php:160
 msgid "You don't have any properties yet!"
 msgstr "Henüz bir mülkünüz yok!"
 
 #: auser_dashboard_search_result.php:103
-#: libs/dashboard_actions_functions.php:739
+#: libs/dashboard_actions_functions.php:742
 msgid "Search a listing"
 msgstr "Bir girişi ara"
 
 #: auser_dashboard_search_result.php:104
-#: libs/dashboard_actions_functions.php:625
-#: libs/dashboard_actions_functions.php:740 search.php:30 search.php:31
-#: searchform.php:3 templates/advanced_search/advanced_search_type3.php:62
-#: templates/advanced_search/advanced_search_type10.php:81
+#: libs/dashboard_actions_functions.php:628
+#: libs/dashboard_actions_functions.php:743 search.php:30 search.php:31
+#: searchform.php:3 templates/advanced_search/advanced_search_type3.php:72
+#: templates/advanced_search/advanced_search_type10.php:94
 #: templates/advanced_search/advanced_search_type11.php:106
 #: templates/advanced_search_type3.php:62
 #: templates/advanced_search_type10.php:81
@@ -321,7 +321,7 @@ msgid "Name"
 msgstr "isim"
 
 #: comments.php:78 crm_functions/crm_functions.php:317
-#: libs/dashboard_actions_functions.php:634 libs/design_functions.php:2295
+#: libs/dashboard_actions_functions.php:637 libs/design_functions.php:2414
 #: templates/dashboard-templates/add_new_agent.php:72
 #: templates/dashboard-templates/add_new_agent_template.php:53
 #: templates/dashboard-templates/user_profile.php:28
@@ -360,44 +360,43 @@ msgstr "Kent"
 msgid "area"
 msgstr "alan"
 
-#: compare_listings.php:123 libs/elementor_help_files.php:28
+#: compare_listings.php:123 libs/elementor_help_files.php:31
 msgid "zip"
 msgstr "zip"
 
-#: compare_listings.php:124 libs/elementor_help_files.php:22
+#: compare_listings.php:124 libs/elementor_help_files.php:24
 msgid "size"
 msgstr "boyut"
 
-#: compare_listings.php:125 libs/elementor_help_files.php:23
+#: compare_listings.php:125 libs/elementor_help_files.php:25
 msgid "lot size"
 msgstr "lot büyüklüğü"
 
-#: compare_listings.php:126 libs/elementor_help_files.php:24
+#: compare_listings.php:126 libs/elementor_help_files.php:26
 msgid "rooms"
 msgstr "Odalar"
 
-#: compare_listings.php:127 libs/elementor_help_files.php:25
+#: compare_listings.php:127 libs/elementor_help_files.php:27
 msgid "bedrooms"
 msgstr "yatak odaları"
 
-#: compare_listings.php:128 libs/elementor_help_files.php:26
+#: compare_listings.php:128 libs/elementor_help_files.php:28
 msgid "bathrooms"
 msgstr "banyolar"
 
 #: compare_listings.php:129 libs/dashboard_actions_functions.php:174
-#: libs/help_functions.php:5780
+#: libs/help_functions.php:5901
 msgid "Energy Index"
 msgstr "Enerji Endeksi"
 
 #: compare_listings.php:130 libs/dashboard_actions_functions.php:166
-#: libs/help_functions.php:5779 libs/help_functions.php:5994
+#: libs/help_functions.php:5900 libs/help_functions.php:6115
 #: libs/listing_functions.php:1906
 #: templates/submit_templates/property_energy_effective.php:35
 msgid "Energy Class"
 msgstr "Enerji sınıfı"
 
-#: compare_listings.php:131
-#: templates/listing_templates/property-page-templates/single-overview-section.php:112
+#: compare_listings.php:131 libs/help_functions.php:55
 msgid "Property ID"
 msgstr "Emlak Kimliği"
 
@@ -405,18 +404,18 @@ msgstr "Emlak Kimliği"
 msgid "Contact Page"
 msgstr "İletişim"
 
-#: contact_page.php:72 single-estate_agency.php:132
-#: templates/header_agency.php:71 templates/header_developer.php:92
+#: contact_page.php:72 single-estate_agency.php:112
+#: templates/header_agency.php:71 templates/header_developer.php:73
 msgid "Phone:"
 msgstr "Telefon:"
 
-#: contact_page.php:76 single-estate_agency.php:127
-#: templates/header_agency.php:66 templates/header_developer.php:87
+#: contact_page.php:76 single-estate_agency.php:107
+#: templates/header_agency.php:66 templates/header_developer.php:68
 msgid "Mobile:"
 msgstr "Mobil:"
 
-#: contact_page.php:80 single-estate_agency.php:122
-#: templates/header_agency.php:61 templates/header_developer.php:80
+#: contact_page.php:80 single-estate_agency.php:102
+#: templates/header_agency.php:61 templates/header_developer.php:61
 msgid "Email:"
 msgstr "E-posta:"
 
@@ -424,30 +423,30 @@ msgstr "E-posta:"
 msgid "Fax:"
 msgstr "Faks:"
 
-#: contact_page.php:88 single-estate_agency.php:138
-#: templates/header_agency.php:77 templates/header_developer.php:135
+#: contact_page.php:88 single-estate_agency.php:118
+#: templates/header_agency.php:77 templates/header_developer.php:116
 msgid "Skype:"
 msgstr "Skype:"
 
 #: contact_page.php:104 libs/dashboard_widgets.php:8
-#: libs/dashboard_widgets.php:10 libs/help_functions.php:778
-#: libs/help_functions.php:780
+#: libs/dashboard_widgets.php:10 libs/help_functions.php:984
+#: libs/help_functions.php:986
 msgid "company logo"
 msgstr "şirket logosu"
 
 #: crm_functions/crm_functions.php:14
 msgid "Lead Info"
-msgstr ""
+msgstr "Müşteri Adayı Bilgisi"
 
 #: crm_functions/crm_functions.php:29
 #: crm_functions/templates/dashboard_contact_unit.php:29
 #: crm_functions/templates/dashboard_lead_unit.php:61
 msgid "New"
-msgstr ""
+msgstr "Yeni"
 
 #: crm_functions/crm_functions.php:96 crm_functions/crm_functions.php:238
 msgid "You are not allowed to edit this!!!"
-msgstr ""
+msgstr "Bunu düzenlemeye izniniz yok!!!"
 
 #: crm_functions/crm_functions.php:165 crm_functions/crm_functions.php:193
 msgid "You are not allowed to delete this !"
@@ -478,18 +477,20 @@ msgid "Added on"
 msgstr "Eklendi"
 
 #: crm_functions/crm_functions.php:320 crm_functions/crm_functions.php:370
-#: libs/dashboard_actions_functions.php:577
-#: libs/dashboard_actions_functions.php:635
-#: libs/dashboard_actions_functions.php:754
-#: libs/dashboard_actions_functions.php:760 user_dashboard_favorite.php:42
+#: libs/dashboard_actions_functions.php:580
+#: libs/dashboard_actions_functions.php:638
+#: libs/dashboard_actions_functions.php:757
+#: libs/dashboard_actions_functions.php:763 libs/elementor_help_files2.php:62
+#: libs/elementor_help_files2.php:370 libs/searchfunctions.php:2184
+#: user_dashboard_favorite.php:42
 msgid "Status"
 msgstr "durum"
 
 #: crm_functions/crm_functions.php:321 crm_functions/crm_functions.php:371
 #: crm_functions/templates/crm_contact_unit_actions.php:12
 #: crm_functions/templates/crm_lead_unit_actions.php:14
-#: libs/dashboard_actions_functions.php:636
-#: libs/dashboard_actions_functions.php:765
+#: libs/dashboard_actions_functions.php:639
+#: libs/dashboard_actions_functions.php:768
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:11
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:30
 #: user_dashboard_favorite.php:44
@@ -502,7 +503,7 @@ msgstr "Hiç müşteri adayın yok!"
 
 #: crm_functions/crm_functions.php:360
 msgid "Your Leads/Deals"
-msgstr ""
+msgstr "Potansiyel Müşterileriniz / Fırsatlarınız"
 
 #: crm_functions/crm_functions.php:361
 msgid "Add New Lead/Deal"
@@ -514,14 +515,14 @@ msgstr "Müşteri Adayı No"
 
 #: crm_functions/crm_functions.php:365
 msgid "Request By"
-msgstr ""
+msgstr "Talep Eden"
 
 #: crm_functions/crm_functions.php:366
 msgid "Agent in Charge"
 msgstr "Sorumlu Danışman"
 
-#: crm_functions/crm_functions.php:367 libs/dashboard_actions_functions.php:574
-#: libs/dashboard_actions_functions.php:1299
+#: crm_functions/crm_functions.php:367 libs/dashboard_actions_functions.php:577
+#: libs/dashboard_actions_functions.php:1319
 msgid "Date"
 msgstr "tarih"
 
@@ -542,15 +543,15 @@ msgstr "Potansiyel Müşteri Ekle"
 
 #: crm_functions/templates/crm_contact_submit.php:1
 #: templates/dashboard-templates/user_profile.php:105
-#: templates/dashboard-templates/user_profile_agency.php:199
-#: templates/dashboard-templates/user_profile_agent.php:197
-#: templates/dashboard-templates/user_profile_developer.php:173
+#: templates/dashboard-templates/user_profile_agency.php:233
+#: templates/dashboard-templates/user_profile_agent.php:236
+#: templates/dashboard-templates/user_profile_developer.php:205
 msgid "Contact Information"
 msgstr "İletişim Bilgileri"
 
 #: crm_functions/templates/crm_contact_unit_actions.php:17
 msgid "View/Edit Contact"
-msgstr ""
+msgstr "Kişiyi Görüntüle / Düzenle"
 
 #: crm_functions/templates/crm_contact_unit_actions.php:21
 #: crm_functions/templates/crm_lead_unit_actions.php:23
@@ -567,7 +568,7 @@ msgstr "Kişiyi silmek"
 msgid "Lead Information"
 msgstr "Olası Satış Bilgileri"
 
-#: crm_functions/templates/crm_leads_submit.php:10
+#: crm_functions/templates/crm_leads_submit.php:13
 msgid "Contact"
 msgstr "İletişim"
 
@@ -581,11 +582,11 @@ msgstr "Müşteri Adayı sil"
 
 #: crm_functions/templates/dashboard_lead_unit.php:3
 msgid "Lead no "
-msgstr ""
+msgstr "Müşteri Adayı No "
 
 #: crm_functions/templates/dashboard_lead_unit.php:23
 msgid "added manually"
-msgstr ""
+msgstr "manuel olarak eklendi"
 
 #. Template Name of the theme
 msgid "Developer list"
@@ -652,7 +653,7 @@ msgstr "Sonraki adım"
 msgid "Submit Property"
 msgstr "Emlak Gönder"
 
-#: functions.php:79
+#: functions.php:98
 msgid ""
 "For better speed results, the theme offers a built-in caching system for "
 "properties and categories. Check this article how to enable - disable theme "
@@ -662,11 +663,11 @@ msgstr ""
 "bir önbellekleme sistemi sunar. Bu makalenin nasıl etkinleştirileceğini "
 "kontrol edin - tema önbelleğini devre dışı bırakın: "
 
-#: functions.php:79
+#: functions.php:98
 msgid "help article"
 msgstr "yardım makalesi"
 
-#: functions.php:91 word_remove.php:63
+#: functions.php:110 word_remove.php:63
 msgid ""
 "The Google Maps JavaScript API v3 REQUIRES an API key to function correctly. "
 "Get an APIs Console key and post the code in Theme Options. You can get it "
@@ -676,27 +677,27 @@ msgstr ""
 "GEREKTİRİR. API&#39;lar Konsolu anahtarını alın ve Tema Seçenekleri&#39;nde "
 "kodu yayınlayın. Onu alabilirsiniz"
 
-#: functions.php:92 word_remove.php:63
+#: functions.php:111 word_remove.php:63
 msgid "here"
 msgstr "İşte"
 
-#: functions.php:104
+#: functions.php:123
 msgid "WordPress Memory Limit is set to "
 msgstr "WordPress Bellek Sınırı olarak ayarlandı"
 
-#: functions.php:104
+#: functions.php:123
 msgid "Recommended memory limit should be at least 96MB. Please refer to : "
 msgstr "Tavsiye edilen bellek limiti en az 96 MB olmalıdır. Bakınız :"
 
-#: functions.php:104
+#: functions.php:123
 msgid "Increasing memory allocated to PHP"
 msgstr "PHP&#39;ye ayrılan bellek artırılıyor"
 
-#: functions.php:124
+#: functions.php:143
 msgid "Your PHP version is "
 msgstr "PHP sürümünüz"
 
-#: functions.php:137
+#: functions.php:156
 msgid ""
 "PHP GD library is NOT installed on your web server and because of that the "
 "theme will not be able to work with images. Please contact your hosting "
@@ -706,7 +707,7 @@ msgstr ""
 "resimlerle çalışamayacaktır. Bu kütüphaneyi aktif hale getirmek için lütfen "
 "hosting firmanız ile iletişime geçin."
 
-#: functions.php:149
+#: functions.php:168
 msgid ""
 "MbString extension not detected. Please contact your hosting provider in "
 "order to enable it."
@@ -714,7 +715,7 @@ msgstr ""
 "MbString uzantısı tespit edilmedi. Etkinleştirmek için lütfen barındırma "
 "sağlayıcınıza başvurun."
 
-#: functions.php:167
+#: functions.php:186
 msgid ""
 "Half Map Template - make sure your page has the \"media header type\" set as "
 "google map "
@@ -722,7 +723,7 @@ msgstr ""
 "Yarım Harita Şablonu - sayfanızın google harita olarak ayarlanmış &quot;"
 "medya başlığı türü&quot; olduğundan emin olun"
 
-#: functions.php:183
+#: functions.php:202
 msgid ""
 "Please do not manually change the slugs when adding new terms. If you need "
 "to edit a term name copy the new name in the slug field also."
@@ -730,87 +731,88 @@ msgstr ""
 "Yeni şartlar eklerken lütfen sümüklü böcekleri elle değiştirmeyin. Bir terim "
 "adını düzenlemeniz gerekiyorsa, yeni adı sümüklübölgede de kopyalayın."
 
-#: functions.php:355
+#: functions.php:374
 msgid "Post navigation"
 msgstr "navigasyon gönderisi"
 
-#: functions.php:356
+#: functions.php:375
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
 msgstr "<span class=\"meta-nav\">←</span> Eski yazılar"
 
-#: functions.php:357
+#: functions.php:376
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
 msgstr "Yeni yazılar <span class=\"meta-nav\">→</span>"
 
-#: functions.php:381
+#: functions.php:400
 msgid "Pingback:"
 msgstr "Pingback:"
 
-#: functions.php:381 functions.php:397
+#: functions.php:400 functions.php:416
 msgid "Edit"
 msgstr "Düzenle"
 
-#: functions.php:392 templates/dashboard-templates/message-listing-unit.php:92
+#: functions.php:411 templates/dashboard-templates/message-listing-unit.php:92
 #: templates/dashboard-templates/message-listing-unit.php:98
 msgid "Reply"
 msgstr "cevap"
 
-#: functions.php:402
+#: functions.php:421
 msgid " on "
 msgstr "üzerinde"
 
-#: functions.php:407
+#: functions.php:426
 msgid "Your comment is awaiting moderation."
 msgstr "Yorumunuz onay bekliyor."
 
-#: functions.php:440 functions.php:444
+#: functions.php:459 functions.php:463
 msgid "Please edit your profile page from site interface."
 msgstr "Lütfen profil sayfanızı site arayüzünden düzenleyin."
 
-#: functions.php:562
+#: functions.php:581
 msgid "Your new password for the account at:"
 msgstr "Hesap için yeni şifreniz:"
 
-#: functions.php:564
+#: functions.php:583
 msgid "Username: %s"
 msgstr "Kullanıcı adı: %s"
 
-#: functions.php:565
+#: functions.php:584
 msgid "Password: %s"
 msgstr "Şifre: %s"
 
-#: functions.php:566
+#: functions.php:585
 msgid "You can now login with your new password at: "
 msgstr "Şimdi yeni şifreniz ile giriş yapabilirsiniz:"
 
-#: functions.php:577
+#: functions.php:596
 msgid "A new password was sent via email!"
 msgstr "E-posta ile yeni bir şifre gönderildi!"
 
-#: functions.php:584
+#: functions.php:603
 msgid "We have just sent you a new password. Please check your email!"
 msgstr "Size yeni bir şifre gönderdik. Lütfen emailinizi kontrol edin!"
 
-#: functions.php:607 functions.php:622
+#: functions.php:626 functions.php:641
 msgid "Message sent from page: "
 msgstr "Mesaj sayfadan gönderildi:"
 
-#: functions.php:727 functions.php:754 libs/elementor_help_files.php:15
-#: libs/help_functions.php:3726 libs/help_functions.php:3732
-#: libs/help_functions.php:3871 libs/help_functions.php:4103
-#: libs/help_functions.php:4234 libs/help_functions.php:4623
-#: libs/searchfunctions.php:449 libs/searchfunctions.php:500
+#: functions.php:746 functions.php:773 libs/elementor_help_files.php:15
+#: libs/elementor_help_files2.php:23 libs/elementor_help_files2.php:351
+#: libs/help_functions.php:3965 libs/help_functions.php:3971
+#: libs/help_functions.php:4355 libs/help_functions.php:4744
+#: libs/searchfunctions.php:486 libs/searchfunctions.php:537
 #: libs/searchfunctions2.php:53 property_list_directory.php:79
-#: property_list_half.php:69
+#: property_list_half.php:69 templates/advanced_property_list_filters.php:52
+#: templates/advanced_property_list_filters.php:92
 #: templates/advanced_search/advanced_search_type2.php:46
 #: templates/advanced_search/advanced_search_type8.php:144
 #: templates/advanced_search/advanced_search_type9.php:146
 #: templates/advanced_search/advanced_search_type_half.php:129
-#: templates/advanced_search/advanced_search_type_half.php:162
-#: templates/advanced_search/advanced_search_type_half.php:173
+#: templates/advanced_search/advanced_search_type_half.php:171
+#: templates/advanced_search/advanced_search_type_half.php:182
 #: templates/advanced_search/adv_search_mobile.php:77
 #: templates/advanced_search/adv_search_mobile.php:102
-#: templates/advanced_search/adv_search_mobile.php:179
+#: templates/advanced_search/adv_search_mobile.php:186
 #: templates/advanced_search_type2.php:46
 #: templates/advanced_search_type8.php:144
 #: templates/advanced_search_type9.php:146
@@ -827,12 +829,14 @@ msgstr "Mesaj sayfadan gönderildi:"
 msgid "Types"
 msgstr "Tipler"
 
-#: functions.php:780 libs/help_functions.php:3728 libs/help_functions.php:3905
-#: libs/help_functions.php:4132 libs/help_functions.php:4263
-#: libs/help_functions.php:4859 property_list_directory.php:130
-#: property_list_half.php:86
-#: templates/advanced_search/advanced_search_type_half.php:246
-#: templates/advanced_search/advanced_search_type_half.php:256
+#: functions.php:799 libs/elementor_help_files2.php:32
+#: libs/elementor_help_files2.php:355 libs/help_functions.php:3967
+#: libs/help_functions.php:4384 libs/help_functions.php:4980
+#: property_list_directory.php:130 property_list_half.php:86
+#: templates/advanced_property_list_filters.php:54
+#: templates/advanced_property_list_filters.php:134
+#: templates/advanced_search/advanced_search_type_half.php:255
+#: templates/advanced_search/advanced_search_type_half.php:265
 #: templates/advanced_search_type_half.php:247
 #: templates/advanced_search_type_half.php:257
 #: templates/directory_filters.php:49
@@ -846,12 +850,14 @@ msgstr "Tipler"
 msgid "Cities"
 msgstr "Şehirler"
 
-#: functions.php:808 libs/help_functions.php:3730 libs/help_functions.php:3920
-#: libs/help_functions.php:4146 libs/help_functions.php:4277
-#: libs/help_functions.php:4966 property_list_directory.php:155
-#: property_list_directory.php:182 property_list_half.php:93
-#: templates/advanced_search/advanced_search_type_half.php:284
-#: templates/advanced_search/advanced_search_type_half.php:294
+#: functions.php:827 libs/elementor_help_files2.php:42
+#: libs/elementor_help_files2.php:360 libs/help_functions.php:3969
+#: libs/help_functions.php:4398 libs/help_functions.php:5087
+#: property_list_directory.php:155 property_list_directory.php:182
+#: property_list_half.php:93 templates/advanced_property_list_filters.php:55
+#: templates/advanced_property_list_filters.php:124
+#: templates/advanced_search/advanced_search_type_half.php:293
+#: templates/advanced_search/advanced_search_type_half.php:303
 #: templates/advanced_search_type_half.php:285
 #: templates/advanced_search_type_half.php:295
 #: templates/directory_filters.php:59
@@ -865,53 +871,53 @@ msgstr "Şehirler"
 msgid "Areas"
 msgstr "Alanlar"
 
-#: functions.php:832 libs/css_js_include.php:802
+#: functions.php:851 libs/css_js_include.php:810
 #: libs/css_js_include_bkc.php:803
-#: templates/advanced_search/advanced_search_type_half.php:318
+#: templates/advanced_search/advanced_search_type_half.php:327
 #: templates/advanced_search_type_half.php:319
 msgid "Type Bedrooms No."
 msgstr "Yatak Odası No"
 
-#: functions.php:841 libs/css_js_include.php:803
+#: functions.php:860 libs/css_js_include.php:811
 #: libs/css_js_include_bkc.php:804
-#: templates/advanced_search/advanced_search_type_half.php:323
+#: templates/advanced_search/advanced_search_type_half.php:332
 #: templates/advanced_search_type_half.php:324
 msgid "Type Bathrooms No."
 msgstr "Türü Banyo Sayısı"
 
-#: functions.php:872 libs/help_functions.php:3540 libs/searchfunctions2.php:127
-#: libs/searchfunctions2.php:218
-#: templates/advanced_search/advanced_search_type_half.php:350
+#: functions.php:891 libs/help_functions.php:3780 libs/searchfunctions2.php:142
+#: libs/searchfunctions2.php:267
+#: templates/advanced_search/advanced_search_type_half.php:359
 #: templates/advanced_search_type_half.php:351
 #: templates/directory_filters.php:159
 msgid "Price range:"
 msgstr "Fiyat aralığı:"
 
-#: functions.php:893 libs/css_js_include.php:804
+#: functions.php:912 libs/css_js_include.php:812
 #: libs/css_js_include_bkc.php:805
-#: templates/advanced_search/advanced_search_type_half.php:361
+#: templates/advanced_search/advanced_search_type_half.php:370
 #: templates/advanced_search_type_half.php:362
 msgid "Type Min. Price"
 msgstr "Min yazın. Fiyat"
 
-#: functions.php:897 libs/css_js_include.php:805
+#: functions.php:916 libs/css_js_include.php:813
 #: libs/css_js_include_bkc.php:806
-#: templates/advanced_search/advanced_search_type_half.php:365
+#: templates/advanced_search/advanced_search_type_half.php:374
 #: templates/advanced_search_type_half.php:366
 msgid "Type Max. Price"
 msgstr "Max yazın. Fiyat"
 
-#: functions.php:1550 functions.php:1565 functions.php:1580 functions.php:1594
-#: functions.php:1608 functions.php:1623 functions.php:1637 functions.php:1651
-#: functions.php:1666 functions.php:1682 functions.php:1698 functions.php:1714
-#: functions.php:1729 functions.php:1745 functions.php:1761 functions.php:1778
-#: functions.php:1793 functions.php:1809 functions.php:1827 functions.php:1842
-#: functions.php:1857 functions.php:1869 functions.php:1885 functions.php:1902
-#: functions.php:1918 functions.php:1933 functions.php:1950 functions.php:1967
-#: functions.php:1983 functions.php:1998 functions.php:2013 functions.php:2028
-#: functions.php:2043 functions.php:2058 functions.php:2073 functions.php:2089
-#: functions.php:2104 functions.php:2121 functions.php:2136 functions.php:2151
-#: functions.php:2167
+#: functions.php:1563 functions.php:1577 functions.php:1593 functions.php:1609
+#: functions.php:1628 functions.php:1643 functions.php:1657 functions.php:1671
+#: functions.php:1686 functions.php:1700 functions.php:1714 functions.php:1729
+#: functions.php:1745 functions.php:1761 functions.php:1777 functions.php:1792
+#: functions.php:1808 functions.php:1824 functions.php:1841 functions.php:1856
+#: functions.php:1872 functions.php:1890 functions.php:1905 functions.php:1920
+#: functions.php:1932 functions.php:1948 functions.php:1965 functions.php:1981
+#: functions.php:1996 functions.php:2013 functions.php:2030 functions.php:2046
+#: functions.php:2061 functions.php:2076 functions.php:2091 functions.php:2106
+#: functions.php:2121 functions.php:2136 functions.php:2152 functions.php:2167
+#: functions.php:2184 functions.php:2199 functions.php:2214 functions.php:2230
 msgid "Clear theme cache after demo import is complete!"
 msgstr "Demo içe aktarma tamamlandıktan sonra tema önbelleğini temizle!"
 
@@ -970,11 +976,27 @@ msgstr "PayPal ödeme sözleşmesi"
 
 #: libs/agent_functions.php:16
 msgid "Hello I'm interested in one of your listings."
-msgstr ""
+msgstr "Merhaba, ilanlarınızdan biriyle ilgileniyorum."
 
 #: libs/agent_functions.php:18
 msgid "Hello I'm interested in "
 msgstr "Merhaba ilgileniyorum "
+
+#: libs/agent_functions.php:377 templates/agentdetails.php:87
+#: templates/listing_templates/agent_section/agent_details_2.php:27
+msgid "Member of:"
+msgstr "Üyesi:"
+
+#: libs/agent_functions.php:440 templates/!property_reviews.php:118
+#: templates/agency_reviews.php:124
+#: templates/agency_templates/agency_reviews.php:124
+#: templates/agent_reviews.php:102 templates/developer_reviews.php:105
+#: templates/developer_templates/developer_reviews.php:109
+#: templates/listing_templates/property-page-templates/property_reviews.php:126
+#: templates/listing_templates/property_reviews.php:121
+#: templates/property_page!/property_reviews.php:118
+msgid "Reviews"
+msgstr "yorumlar"
 
 #: libs/ajax_functions.php:19 libs/gallery_functions.php:33
 #: libs/header_filter_functions.php:149 libs/listing_functions.php:878
@@ -985,8 +1007,8 @@ msgid "Map"
 msgstr "Harita"
 
 #: libs/ajax_functions.php:97 libs/ajax_functions.php:209
-#: libs/css_js_include.php:919 libs/css_js_include_bkc.php:917
-#: libs/design_functions.php:2005 templates/featured_property_3.php:34
+#: libs/css_js_include.php:931 libs/css_js_include_bkc.php:917
+#: libs/design_functions.php:2124 templates/featured_property_3.php:34
 #: templates/featured_property_4.php:48
 #: templates/listing_templates/favorite_under_title.php:8
 #: templates/listing_templates/property-page-templates/favorite_under_title.php:8
@@ -997,7 +1019,7 @@ msgid "add to favorites"
 msgstr "favorilere ekle"
 
 #: libs/ajax_functions.php:112 libs/ajax_functions.php:214
-#: libs/css_js_include.php:918 libs/css_js_include_bkc.php:916
+#: libs/css_js_include.php:930 libs/css_js_include_bkc.php:916
 msgid "favorite"
 msgstr "favori"
 
@@ -1035,7 +1057,7 @@ msgstr "Yakınlarda Neler Var?"
 msgid "WalkScore"
 msgstr "WalkScore"
 
-#: libs/ajax_functions.php:340 libs/dashboard_actions_functions.php:295
+#: libs/ajax_functions.php:341 libs/dashboard_actions_functions.php:295
 #: libs/gallery_functions.php:47 libs/header_filter_functions.php:154
 #: templates/property_page_acc_content.php:240
 #: templates/property_page_acc_content.php:254
@@ -1044,80 +1066,68 @@ msgstr "WalkScore"
 msgid "Virtual Tour"
 msgstr "Sanal Tur"
 
-#: libs/ajax_functions.php:370 libs/gallery_functions.php:42
+#: libs/ajax_functions.php:371 libs/gallery_functions.php:42
 #: libs/header_filter_functions.php:144
 #: templates/property_page_acc_content.php:164
 #: templates/property_page_tab_content.php:161
 msgid "Video"
 msgstr "Video"
 
-#: libs/ajax_functions.php:397 libs/header_filter_functions.php:139
+#: libs/ajax_functions.php:398 libs/header_filter_functions.php:139
 #: templates/property_page_acc_content.php:126
 #: templates/property_page_tab_content.php:62
 #: templates/submit_templates/property_amenities.php:109
 msgid "Amenities and Features"
 msgstr "Özellikler ve Özellikler"
 
-#: libs/ajax_functions.php:427 libs/header_filter_functions.php:134
+#: libs/ajax_functions.php:428 libs/header_filter_functions.php:134
 #: templates/property_page_acc_content.php:92
 #: templates/property_page_tab_content.php:49
 msgid "Property Details"
 msgstr "Mülk Detayları"
 
-#: libs/ajax_functions.php:455 libs/dashboard_actions_functions.php:140
-#: libs/header_filter_functions.php:129 libs/help_functions.php:5756
-#: libs/help_functions.php:5990 templates/property_page_acc_content.php:64
+#: libs/ajax_functions.php:456 libs/dashboard_actions_functions.php:140
+#: libs/header_filter_functions.php:129 libs/help_functions.php:5877
+#: libs/help_functions.php:6111 templates/property_page_acc_content.php:64
 #: templates/property_page_tab_content.php:39
 msgid "Property Address"
 msgstr "Emlak Adresi"
 
-#: libs/ajax_functions.php:486 libs/dashboard_actions_functions.php:16
-#: libs/header_filter_functions.php:108 libs/help_functions.php:5745
+#: libs/ajax_functions.php:487 libs/dashboard_actions_functions.php:16
+#: libs/header_filter_functions.php:108 libs/help_functions.php:5866
 #: libs/megamenu.php:255 templates/property_page_acc_content.php:23
 #: templates/property_page_tab_content.php:26
 #: templates/submit_templates/property_description.php:17
 msgid "Description"
 msgstr "Açıklama"
 
-#: libs/ajax_functions.php:709 libs/ajax_functions.php:881
-#: libs/ajax_functions.php:1239 libs/ajax_functions.php:1843
-#: libs/ajax_functions.php:2567 libs/ajax_functions.php:4232
-#: libs/ajax_functions.php:4485 libs/ajax_functions.php:4767
+#: libs/ajax_functions.php:710 libs/ajax_functions.php:888
+#: libs/ajax_functions.php:1246 libs/ajax_functions.php:1783
+#: libs/ajax_functions.php:2508 libs/ajax_functions.php:4224
+#: libs/ajax_functions.php:4477 libs/ajax_functions.php:4760
 #: templates/google_maps_base.php:75
 msgid "We didn't find any results"
 msgstr "Hiçbir sonuç bulamadık"
 
-#: libs/ajax_functions.php:1232 templates/agency_unit.php:149
+#: libs/ajax_functions.php:1239 templates/agency_unit.php:138
 #: templates/agent_card_templates/agent_unit.php:24
 #: templates/agent_card_templates/agent_unit_4.php:24
 #: templates/agent_unit.php:22 templates/agent_unit_widget.php:109
 msgid "listings"
 msgstr "listeleri"
 
-#: libs/ajax_functions.php:1302
-msgid ""
-"Please validate your purchase code in order to use the theme! See this link "
-"link  "
-msgstr ""
-"Bu temayı kullanmak için lütfen tema satın alma kodunuzu doğrulayın! Bu "
-"bağlantıdan "
-
-#: libs/ajax_functions.php:1302
-msgid "if you don't know how to get your license key. Thank you!"
-msgstr "lisans anahtarınızı nasıl alacağınızı bilmiyorsanız. Teşekkürler!"
-
-#: libs/ajax_functions.php:1851 libs/ajax_functions.php:4776
+#: libs/ajax_functions.php:1791 libs/ajax_functions.php:4784
 #: templates/dashboard-templates/user_memebership_profile.php:138
-#: templates/half_map_core.php:175
+#: templates/half_map_core.php:178
 msgid "Listings"
 msgstr "Listeler"
 
-#: libs/ajax_functions.php:2333 libs/ajax_functions.php:2446
-#: libs/help_functions.php:5219
+#: libs/ajax_functions.php:2273 libs/ajax_functions.php:2387
+#: libs/help_functions.php:5340
 msgid "Hi there,"
 msgstr "Merhaba,"
 
-#: libs/ajax_functions.php:2334
+#: libs/ajax_functions.php:2274
 msgid ""
 "We received your  Wire Transfer payment request on %s ! Please follow the "
 "instructions below in order to start submitting properties as soon as "
@@ -1126,23 +1136,23 @@ msgstr ""
 "Banka Havalesi ödeme isteğinizi %s olarak aldık! Mülklerinizi mümkün olan en "
 "kısa zamanda göndermeye başlamak için lütfen aşağıdaki talimatları izleyin."
 
-#: libs/ajax_functions.php:2335
+#: libs/ajax_functions.php:2275
 msgid "The invoice number is: "
 msgstr "Fatura numarası:"
 
-#: libs/ajax_functions.php:2335
+#: libs/ajax_functions.php:2275
 msgid "Amount:"
 msgstr "Miktar:"
 
-#: libs/ajax_functions.php:2336
+#: libs/ajax_functions.php:2276
 msgid "Instructions: "
 msgstr "Talimatlar:"
 
-#: libs/ajax_functions.php:2619
+#: libs/ajax_functions.php:2560
 msgid "you don't have the right to delete this"
 msgstr "bunu silme hakkın yok"
 
-#: libs/ajax_functions.php:2677
+#: libs/ajax_functions.php:2618
 msgid ""
 "Search has been saved. You will receive an email notification when new "
 "properties matching your search have been published"
@@ -1150,58 +1160,58 @@ msgstr ""
 "Arama kaydedildi. Aramanızla eşleşen yeni mülkler yayınlandığında bir e-"
 "posta bildirimi alacaksınız"
 
-#: libs/ajax_functions.php:2863
+#: libs/ajax_functions.php:2804
 msgid "Wrong captcha"
-msgstr ""
+msgstr "Yanlış CAPTCHA"
 
-#: libs/ajax_functions.php:2881
+#: libs/ajax_functions.php:2822
 msgid "Captcha Invalidated - Refresh and try again."
-msgstr ""
+msgstr "Captcha Geçersiz - Yenileyin ve tekrar deneyin."
 
-#: libs/ajax_functions.php:2899 libs/dashboard_actions_functions.php:902
+#: libs/ajax_functions.php:2840 libs/dashboard_actions_functions.php:907
 msgid "Invalid username (do not use special characters or spaces)!"
 msgstr "Geçersiz kullanıcı adı (özel karakter veya boşluk kullanmayın)!"
 
-#: libs/ajax_functions.php:2907 libs/dashboard_actions_functions.php:906
-#: libs/dashboard_actions_functions.php:932
+#: libs/ajax_functions.php:2848 libs/dashboard_actions_functions.php:911
+#: libs/dashboard_actions_functions.php:937
 msgid "Username and/or Email field is empty!"
 msgstr "Kullanıcı adı ve / veya Email alanı boş!"
 
-#: libs/ajax_functions.php:2915 libs/dashboard_actions_functions.php:947
+#: libs/ajax_functions.php:2856 libs/dashboard_actions_functions.php:952
 msgid "The email doesn't look right !"
 msgstr "E-posta doğru görünmüyor!"
 
-#: libs/ajax_functions.php:2924 libs/dashboard_actions_functions.php:952
+#: libs/ajax_functions.php:2865 libs/dashboard_actions_functions.php:957
 msgid "The email's domain doesn't look right."
 msgstr "E-postanın alan adı doğru görünmüyor."
 
-#: libs/ajax_functions.php:2934 libs/dashboard_actions_functions.php:911
+#: libs/ajax_functions.php:2875 libs/dashboard_actions_functions.php:916
 msgid "Username already exists.  Please choose a new one."
 msgstr "Kullanıcı adı zaten var. Lütfen yeni bir tane seçin."
 
-#: libs/ajax_functions.php:2946 libs/dashboard_actions_functions.php:918
+#: libs/ajax_functions.php:2887 libs/dashboard_actions_functions.php:923
 msgid "One of the password field is empty!"
 msgstr "Şifre alanlarından biri boş!"
 
-#: libs/ajax_functions.php:2954 libs/ajax_functions.php:3944
-#: libs/dashboard_actions_functions.php:922
+#: libs/ajax_functions.php:2895 libs/ajax_functions.php:3936
+#: libs/dashboard_actions_functions.php:927
 msgid "Passwords do not match"
 msgstr "Parolalar uyuşmuyor"
 
-#: libs/ajax_functions.php:2977
+#: libs/ajax_functions.php:2918
 msgid "Your account was created and you can login now!"
 msgstr "Hesabınız oluşturuldu ve şimdi giriş yapabilirsiniz!"
 
-#: libs/ajax_functions.php:2982
+#: libs/ajax_functions.php:2923
 msgid "An email with the generated password was sent!"
 msgstr "Oluşturulan şifre ile bir e-posta gönderildi!"
 
-#: libs/ajax_functions.php:2999 libs/dashboard_actions_functions.php:926
-#: libs/dashboard_actions_functions.php:936
+#: libs/ajax_functions.php:2940 libs/dashboard_actions_functions.php:931
+#: libs/dashboard_actions_functions.php:941
 msgid "Email already exists.  Please choose a new one."
 msgstr "Bu e-posta zaten var. Lütfen yeni bir tane seçin."
 
-#: libs/ajax_functions.php:3020 libs/dashboard_actions_functions.php:632
+#: libs/ajax_functions.php:2961 libs/dashboard_actions_functions.php:635
 #: libs/header_filter_functions.php:189 single-estate_property-obsolete.php:218
 #: single-estate_property-obsolete.php:223
 #: templates/dashboard-templates/user_memebership_profile.php:73
@@ -1209,136 +1219,136 @@ msgstr "Bu e-posta zaten var. Lütfen yeni bir tane seçin."
 msgid "Agent"
 msgstr "ajan"
 
-#: libs/ajax_functions.php:3024
+#: libs/ajax_functions.php:2965
 #: templates/dashboard-templates/user_memebership_profile.php:73
 msgid "Agency"
 msgstr "Ajans"
 
-#: libs/ajax_functions.php:3028
+#: libs/ajax_functions.php:2969
 #: templates/dashboard-templates/user_memebership_profile.php:73
 msgid "Developer"
 msgstr "Geliştirici"
 
-#: libs/ajax_functions.php:3082 libs/ajax_functions.php:3137
-#: libs/ajax_functions.php:3194
+#: libs/ajax_functions.php:3023 libs/ajax_functions.php:3078
+#: libs/ajax_functions.php:3135
 msgid "You are already logged in! redirecting..."
 msgstr "Zaten giriş yaptınız! yönlendirme ..."
 
-#: libs/ajax_functions.php:3092 libs/ajax_functions.php:3148
-#: libs/ajax_functions.php:3205
+#: libs/ajax_functions.php:3033 libs/ajax_functions.php:3089
+#: libs/ajax_functions.php:3146
 msgid "Username and/or Password field is empty!"
 msgstr "Kullanıcı adı ve / veya Şifre alanı boş!"
 
-#: libs/ajax_functions.php:3112 libs/ajax_functions.php:3169
-#: libs/ajax_functions.php:3217
+#: libs/ajax_functions.php:3053 libs/ajax_functions.php:3110
+#: libs/ajax_functions.php:3158
 msgid "Wrong username or password!"
 msgstr "Yanlış kullanıcı adı veya parola!"
 
-#: libs/ajax_functions.php:3118 libs/ajax_functions.php:3175
-#: libs/ajax_functions.php:3225
+#: libs/ajax_functions.php:3059 libs/ajax_functions.php:3116
+#: libs/ajax_functions.php:3166
 msgid "Login successful, redirecting..."
 msgstr "Giriş başarılı, yönlendiriliyor ..."
 
-#: libs/ajax_functions.php:3254
+#: libs/ajax_functions.php:3195
 msgid "Email field is empty!"
 msgstr "E-posta alanı boş!"
 
-#: libs/ajax_functions.php:3263
+#: libs/ajax_functions.php:3204
 msgid "Invalid E-mail address!"
 msgstr "Geçersiz e-posta adresi!"
 
-#: libs/ajax_functions.php:3271
+#: libs/ajax_functions.php:3212
 msgid "Invalid Username!"
 msgstr "Geçersiz kullanıcı adı!"
 
-#: libs/ajax_functions.php:3293
+#: libs/ajax_functions.php:3234
 msgid "We have just sent you an email with Password reset instructions."
 msgstr "Şifre sıfırlama talimatlarını içeren bir e-posta gönderdik."
 
-#: libs/ajax_functions.php:3412 libs/ajax_functions.php:3587
-#: libs/ajax_functions.php:3755
+#: libs/ajax_functions.php:3365 libs/ajax_functions.php:3555
+#: libs/ajax_functions.php:3736
 msgid "The email was not saved because it is used by another user."
 msgstr "E-posta başka bir kullanıcı tarafından kullanıldığı için kaydedilmedi."
 
-#: libs/ajax_functions.php:3427 libs/ajax_functions.php:3602
-#: libs/ajax_functions.php:3770
+#: libs/ajax_functions.php:3380 libs/ajax_functions.php:3570
+#: libs/ajax_functions.php:3751
 msgid "Profile updated"
 msgstr "Profil güncellendi"
 
-#: libs/ajax_functions.php:3939
+#: libs/ajax_functions.php:3931
 msgid "The new password is blank"
 msgstr "Yeni şifre boş"
 
-#: libs/ajax_functions.php:3952
+#: libs/ajax_functions.php:3944
 msgid "Password Updated"
 msgstr "Şifre güncellendi"
 
-#: libs/ajax_functions.php:3954
+#: libs/ajax_functions.php:3946
 msgid "Old Password is not correct"
 msgstr "Eski Şifre doğru değil"
 
-#: libs/ajax_functions.php:3995 libs/ajax_functions.php:4001
+#: libs/ajax_functions.php:3987 libs/ajax_functions.php:3993
 msgid "addded"
 msgstr "addded"
 
-#: libs/ajax_functions.php:4008
+#: libs/ajax_functions.php:4000
 msgid "removed"
 msgstr "çıkarıldı"
 
-#: libs/ajax_functions.php:4915
+#: libs/ajax_functions.php:4923
 msgid "Listing payment on "
 msgstr "Üzerinde ödeme listeleniyor"
 
-#: libs/ajax_functions.php:4927
+#: libs/ajax_functions.php:4935
 msgid "Upgrade to featured listing on "
 msgstr "Öne çıkan listelemeye geçme"
 
-#: libs/ajax_functions.php:5014
+#: libs/ajax_functions.php:5022
 msgid "Upgrade to Featured Listing"
 msgstr "Öne Çıkan Listelere Yükseltme"
 
-#: libs/ajax_functions.php:5023
+#: libs/ajax_functions.php:5031
 msgid "Listing Payment"
 msgstr "Giriş Ödeme"
 
-#: libs/ajax_functions.php:5033
+#: libs/ajax_functions.php:5041
 msgid "Listing Payment with Featured option"
 msgstr "Öne çıkan seçenekle ödeme listeleme"
 
-#: libs/ajax_functions.php:5146
+#: libs/ajax_functions.php:5154
 msgid "Sent for approval"
 msgstr "Onay için gönderildi"
 
-#: libs/ajax_functions.php:5158
+#: libs/ajax_functions.php:5166
 msgid "no listings available"
 msgstr "müsait ilan yok"
 
-#: libs/ajax_functions.php:5187
+#: libs/ajax_functions.php:5195
 msgid "The date & time is already booked. Please choose a new one"
 msgstr "Tarih ve saat zaten rezerve edildi. Lütfen yeni bir tane seçin"
 
-#: libs/ajax_functions.php:5276
+#: libs/ajax_functions.php:5284
 msgid "membership payment on "
 msgstr "üyelik ödemesi"
 
-#: libs/ajax_functions.php:5283 libs/ajax_functions.php:5286
+#: libs/ajax_functions.php:5291 libs/ajax_functions.php:5294
 msgid "Membership Payment"
 msgstr "Üyelik Ödeme"
 
-#: libs/ajax_functions.php:5348
+#: libs/ajax_functions.php:5356
 msgid "Unable to login. Please, check login/password and try again"
 msgstr ""
 "Giriş yapılamıyor. Lütfen, giriş / şifre kontrol edin ve tekrar deneyin."
 
-#: libs/ajax_functions.php:5356
+#: libs/ajax_functions.php:5364
 msgid "Please, enter correct email"
 msgstr "Lütfen doğru e-posta adresini girin"
 
-#: libs/ajax_functions.php:5370
+#: libs/ajax_functions.php:5378
 msgid "Can\\t create user with this credentials"
 msgstr "Bu kimlik bilgileri ile kullanıcı oluşturulamıyor"
 
-#: libs/ajax_functions.php:5374
+#: libs/ajax_functions.php:5382
 msgid "Sorry, user already exists. Try different username/email"
 msgstr ""
 "Üzgünüz, kullanıcı zaten var. Farklı kullanıcı adı / e-posta adresini deneyin"
@@ -1355,11 +1365,12 @@ msgstr "Zaman"
 #: libs/contact_functions.php:80 libs/contact_functions.php:92
 #: templates/agent_contact.php:31 templates/agent_contact.php:47
 #: templates/footer_buttons.php:21 templates/header_agency.php:114
-#: templates/header_developer.php:96
+#: templates/header_developer.php:77
 msgid "Contact Us"
 msgstr "Bizimle iletişime geçin"
 
 #: libs/contact_functions.php:82 templates/agent_contact.php:33
+#: templates/listing_templates/agent_section/agent_details_2.php:71
 msgid "Contact Me"
 msgstr "Benimle irtibata geçin"
 
@@ -1371,107 +1382,109 @@ msgstr "Bir gösterme mi planlıyorsunuz?"
 msgid "I consent to the"
 msgstr "Kabul ediyorum"
 
-#: libs/css_js_include.php:263 libs/css_js_include_bkc.php:263
+#: libs/css_js_include.php:271 libs/css_js_include_bkc.php:263
 msgid "payment failed"
 msgstr "ödeme başarısız"
 
-#: libs/css_js_include.php:582
+#: libs/css_js_include.php:590
 msgid " in "
 msgstr "içinde"
 
-#: libs/css_js_include.php:589
+#: libs/css_js_include.php:597
 msgid "The browser couldn't detect your position!"
 msgstr "Tarayıcı pozisyonunuzu tespit edemedi!"
 
-#: libs/css_js_include.php:590
+#: libs/css_js_include.php:598
 msgid "Geolocation is not supported by this browser."
 msgstr "Coğrafi konum bu tarayıcı tarafından desteklenmiyor."
 
-#: libs/css_js_include.php:591
+#: libs/css_js_include.php:599
 msgid "m radius"
 msgstr "m yarıçapı"
 
-#: libs/css_js_include.php:598 libs/css_js_include.php:822
+#: libs/css_js_include.php:606 libs/css_js_include.php:830
 #: libs/css_js_include_bkc.php:826
 msgid "close map"
 msgstr "yakın harita"
 
-#: libs/css_js_include.php:609
+#: libs/css_js_include.php:617
 msgid "No results found!"
 msgstr "Sonuç bulunamadı!"
 
-#: libs/css_js_include.php:615
+#: libs/css_js_include.php:623
 msgid "loading results..."
 msgstr "sonuç yükleniyor ..."
 
-#: libs/css_js_include.php:622 libs/theme-slider.php:454
+#: libs/css_js_include.php:630 libs/theme-slider.php:454
 #: templates/featured_property_5.php:32
 #: templates/property_cards_templates/property_card_details_type5.php:14
+#: templates/property_cards_templates/property_unit_saved_search.php:29
 msgid "BA"
 msgstr "BAN"
 
-#: libs/css_js_include.php:623 libs/theme-slider.php:450
+#: libs/css_js_include.php:631 libs/theme-slider.php:450
 #: templates/featured_property_5.php:28
 #: templates/property_cards_templates/property_card_details_type5.php:10
+#: templates/property_cards_templates/property_unit_saved_search.php:26
 msgid "BD"
 msgstr "Y.O"
 
-#: libs/css_js_include.php:692 libs/css_js_include.php:1192
+#: libs/css_js_include.php:700 libs/css_js_include.php:1204
 #: libs/css_js_include_bkc.php:1190
 msgid "Geolocation was not successful"
 msgstr "Coğrafi konum başarılı olamadı"
 
-#: libs/css_js_include.php:750 libs/css_js_include_bkc.php:751
-#: libs/help_functions.php:5902 libs/help_functions.php:5910
+#: libs/css_js_include.php:758 libs/css_js_include_bkc.php:751
+#: libs/help_functions.php:6023 libs/help_functions.php:6031
 msgid "Principal and Interest"
 msgstr "Ana Para ve Faiz"
 
-#: libs/css_js_include.php:751 libs/css_js_include_bkc.php:752
+#: libs/css_js_include.php:759 libs/css_js_include_bkc.php:752
 msgid "HOO fees"
 msgstr "Diğer Ücretler/aylık"
 
-#: libs/css_js_include.php:752 libs/css_js_include_bkc.php:753
-#: libs/help_functions.php:5903 libs/help_functions.php:5911
+#: libs/css_js_include.php:760 libs/css_js_include_bkc.php:753
+#: libs/help_functions.php:6024 libs/help_functions.php:6032
 msgid "Property Tax"
 msgstr "Emlak Vergisi/aylık"
 
-#: libs/css_js_include.php:753 libs/css_js_include.php:939
+#: libs/css_js_include.php:761 libs/css_js_include.php:951
 #: libs/css_js_include_bkc.php:754 libs/css_js_include_bkc.php:937
 msgid "Property Views"
 msgstr "İlan Görüntülenme"
 
-#: libs/css_js_include.php:780 libs/css_js_include_bkc.php:781
-#: libs/help_functions.php:2239
+#: libs/css_js_include.php:788 libs/css_js_include_bkc.php:781
+#: libs/help_functions.php:2447
 msgid "miles"
 msgstr "mil"
 
-#: libs/css_js_include.php:781 libs/css_js_include_bkc.php:782
-#: libs/help_functions.php:2242
+#: libs/css_js_include.php:789 libs/css_js_include_bkc.php:782
+#: libs/help_functions.php:2450
 msgid "km"
 msgstr "km"
 
-#: libs/css_js_include.php:796 libs/css_js_include_bkc.php:797
+#: libs/css_js_include.php:804 libs/css_js_include_bkc.php:797
 msgid "Amount Financed:"
 msgstr "Finansman Tutarı:"
 
-#: libs/css_js_include.php:797 libs/css_js_include_bkc.php:798
+#: libs/css_js_include.php:805 libs/css_js_include_bkc.php:798
 msgid "Mortgage Payments:"
 msgstr "Ev kredisi ödemeleri:"
 
-#: libs/css_js_include.php:798 libs/css_js_include_bkc.php:799
+#: libs/css_js_include.php:806 libs/css_js_include_bkc.php:799
 msgid "Annual cost of Loan:"
 msgstr "Kredi Yıllık maliyeti:"
 
-#: libs/css_js_include.php:799 libs/css_js_include_bkc.php:800
+#: libs/css_js_include.php:807 libs/css_js_include_bkc.php:800
 msgid "SEARCH"
 msgstr "ARAMA"
 
-#: libs/css_js_include.php:800 libs/css_js_include_bkc.php:801
+#: libs/css_js_include.php:808 libs/css_js_include_bkc.php:801
 msgid "Search here..."
 msgstr "Burada ara..."
 
-#: libs/css_js_include.php:806 libs/css_js_include.php:810
-#: libs/css_js_include.php:900 libs/css_js_include.php:904
+#: libs/css_js_include.php:814 libs/css_js_include.php:818
+#: libs/css_js_include.php:912 libs/css_js_include.php:916
 #: libs/css_js_include_bkc.php:807 libs/css_js_include_bkc.php:814
 #: libs/css_js_include_bkc.php:898 libs/css_js_include_bkc.php:902
 #: templates/agent_contact.php:84 templates/footer_buttons.php:28
@@ -1480,8 +1493,8 @@ msgstr "Burada ara..."
 msgid "Your Name"
 msgstr "Adınız"
 
-#: libs/css_js_include.php:807 libs/css_js_include.php:811
-#: libs/css_js_include.php:901 libs/css_js_include.php:905
+#: libs/css_js_include.php:815 libs/css_js_include.php:819
+#: libs/css_js_include.php:913 libs/css_js_include.php:917
 #: libs/css_js_include_bkc.php:808 libs/css_js_include_bkc.php:815
 #: libs/css_js_include_bkc.php:899 libs/css_js_include_bkc.php:903
 #: templates/agent_contact.php:86 templates/footer_buttons.php:29
@@ -1490,8 +1503,8 @@ msgstr "Adınız"
 msgid "Your Email"
 msgstr "E-posta adresiniz"
 
-#: libs/css_js_include.php:808 libs/css_js_include.php:812
-#: libs/css_js_include.php:902 libs/css_js_include.php:906
+#: libs/css_js_include.php:816 libs/css_js_include.php:820
+#: libs/css_js_include.php:914 libs/css_js_include.php:918
 #: libs/css_js_include_bkc.php:809 libs/css_js_include_bkc.php:816
 #: libs/css_js_include_bkc.php:900 libs/css_js_include_bkc.php:904
 #: templates/agent_contact.php:87 templates/footer_buttons.php:30
@@ -1500,91 +1513,93 @@ msgstr "E-posta adresiniz"
 msgid "Your Phone"
 msgstr "Telefonunuz"
 
-#: libs/css_js_include.php:809 libs/css_js_include.php:813
-#: libs/css_js_include.php:903 libs/css_js_include.php:907
+#: libs/css_js_include.php:817 libs/css_js_include.php:821
+#: libs/css_js_include.php:915 libs/css_js_include.php:919
 #: libs/css_js_include_bkc.php:810 libs/css_js_include_bkc.php:817
 #: libs/css_js_include_bkc.php:901 libs/css_js_include_bkc.php:905
 msgid "Your Message"
 msgstr "Mesajın"
 
-#: libs/css_js_include.php:814 libs/css_js_include.php:908
+#: libs/css_js_include.php:822 libs/css_js_include.php:920
 #: libs/css_js_include_bkc.php:818 libs/css_js_include_bkc.php:906
 msgid "Send Message"
 msgstr "Mesaj gönder"
 
-#: libs/css_js_include.php:817 libs/css_js_include.php:914
+#: libs/css_js_include.php:825 libs/css_js_include.php:926
 #: libs/css_js_include_bkc.php:821 libs/css_js_include_bkc.php:912
 msgid "Sending user info, please wait..."
 msgstr "Kullanıcı bilgisi gönderiliyor, lütfen bekleyin ..."
 
-#: libs/css_js_include.php:818 libs/css_js_include_bkc.php:822
+#: libs/css_js_include.php:826 libs/css_js_include_bkc.php:822
 #: libs/gallery_functions.php:37 libs/listing_functions.php:883
 #: libs/listing_functions.php:906 templates/google_maps_base.php:125
 msgid "Street View"
 msgstr "sokak Görünümü"
 
-#: libs/css_js_include.php:819 libs/css_js_include_bkc.php:823
+#: libs/css_js_include.php:827 libs/css_js_include_bkc.php:823
 msgid "Close Street View"
 msgstr "Sokak Görünümü&#39;nü Kapat"
 
-#: libs/css_js_include.php:823 libs/css_js_include_bkc.php:827
+#: libs/css_js_include.php:831 libs/css_js_include_bkc.php:827
 #: templates/google_maps_base.php:84 templates/google_maps_base.php:88
 msgid "open map"
 msgstr "haritayı aç"
 
-#: libs/css_js_include.php:824 libs/css_js_include_bkc.php:828
+#: libs/css_js_include.php:832 libs/css_js_include_bkc.php:828
 #: templates/google_maps_base.php:99 templates/google_maps_base_map_list.php:12
 msgid "Fullscreen"
 msgstr "Tam ekran"
 
-#: libs/css_js_include.php:825 libs/css_js_include_bkc.php:829
+#: libs/css_js_include.php:833 libs/css_js_include_bkc.php:829
 #: libs/help_functions_cards.php:152
 msgid "Default"
 msgstr "Varsayılan"
 
-#: libs/css_js_include.php:826 libs/css_js_include_bkc.php:830
+#: libs/css_js_include.php:834 libs/css_js_include_bkc.php:830
 msgid "Please wait while we are processing your submission!"
 msgstr "Gönderinizi işlerken lütfen bekleyin!"
 
-#: libs/css_js_include.php:827 libs/css_js_include_bkc.php:831
+#: libs/css_js_include.php:835 libs/css_js_include_bkc.php:831
 msgid "Are you sure you wish to delete?"
 msgstr "Silmek istediğine emin misin?"
 
-#: libs/css_js_include.php:828 libs/css_js_include_bkc.php:832
+#: libs/css_js_include.php:836 libs/css_js_include_bkc.php:832
 msgid "You need to agree with terms and conditions !"
 msgstr "Şartları ve koşulları kabul etmeniz gerekiyor!"
 
-#: libs/css_js_include.php:829 libs/css_js_include_bkc.php:833
+#: libs/css_js_include.php:837 libs/css_js_include_bkc.php:833
 msgid "Please select the user type !"
 msgstr "Lütfen kullanıcı tipini seçin!"
 
-#: libs/css_js_include.php:830 libs/css_js_include_bkc.php:834
+#: libs/css_js_include.php:838 libs/css_js_include_bkc.php:834
 msgid "Processing..."
 msgstr "İşleme..."
 
-#: libs/css_js_include.php:836 libs/css_js_include_bkc.php:840
-#: libs/general-settings.php:50 libs/general-settings.php:52
-#: libs/general-settings.php:62 libs/general-settings.php:64
-#: libs/searchfunctions.php:2510 libs/searchfunctions.php:2538
-#: libs/searchfunctions.php:2570 templates/directory_filters.php:191
+#: libs/css_js_include.php:844 libs/css_js_include_bkc.php:840
+#: libs/general-settings.php:48 libs/general-settings.php:50
+#: libs/general-settings.php:59 libs/general-settings.php:61
+#: libs/general-settings.php:94 libs/general-settings.php:99
+#: libs/general-settings.php:110 libs/general-settings.php:114
+#: libs/searchfunctions.php:2484 libs/searchfunctions.php:2512
+#: libs/searchfunctions.php:2544 templates/directory_filters.php:191
 #: templates/directory_filters.php:208 templates/directory_filters.php:227
 #: templates/directory_filters.php:246 templates/directory_filters.php:265
 msgid "to"
 msgstr "için"
 
-#: libs/css_js_include.php:838 libs/css_js_include_bkc.php:842
+#: libs/css_js_include.php:846 libs/css_js_include_bkc.php:842
 msgid "Send me the invoice"
 msgstr "Faturayı bana gönder"
 
-#: libs/css_js_include.php:839 libs/css_js_include_bkc.php:843
+#: libs/css_js_include.php:847 libs/css_js_include_bkc.php:843
 msgid "Direct payment instructions"
 msgstr "Doğrudan ödeme talimatları"
 
-#: libs/css_js_include.php:840 libs/css_js_include_bkc.php:844
+#: libs/css_js_include.php:848 libs/css_js_include_bkc.php:844
 msgid "To be paid"
 msgstr "Ödenecek"
 
-#: libs/css_js_include.php:842 libs/css_js_include.php:1111
+#: libs/css_js_include.php:850 libs/css_js_include.php:1123
 #: libs/css_js_include_bkc.php:846 libs/css_js_include_bkc.php:1109
 #: libs/dashboard_functions.php:1308
 #: templates/submit_templates/floor_plans.php:24
@@ -1593,14 +1608,14 @@ msgstr "Ödenecek"
 msgid "Plan Title"
 msgstr "Plan Başlığı"
 
-#: libs/css_js_include.php:843 libs/css_js_include.php:1112
+#: libs/css_js_include.php:851 libs/css_js_include.php:1124
 #: libs/css_js_include_bkc.php:847 libs/css_js_include_bkc.php:1110
 #: templates/submit_templates/floor_plans.php:54
 #: templates/submit_templates/floor_plans.php:141
 msgid "Plan Image"
 msgstr "Plan Resmi"
 
-#: libs/css_js_include.php:844 libs/css_js_include.php:1113
+#: libs/css_js_include.php:852 libs/css_js_include.php:1125
 #: libs/css_js_include_bkc.php:848 libs/css_js_include_bkc.php:1111
 #: libs/dashboard_functions.php:1311
 #: templates/submit_templates/floor_plans.php:29
@@ -1609,7 +1624,7 @@ msgstr "Plan Resmi"
 msgid "Plan Description"
 msgstr "Plan Açıklaması"
 
-#: libs/css_js_include.php:845 libs/css_js_include_bkc.php:849
+#: libs/css_js_include.php:853 libs/css_js_include_bkc.php:849
 #: libs/css_js_include_bkc.php:1112 libs/dashboard_functions.php:1312
 #: templates/submit_templates/floor_plans.php:34
 #: templates/submit_templates/floor_plans.php:147
@@ -1617,7 +1632,7 @@ msgstr "Plan Açıklaması"
 msgid "Plan Size"
 msgstr "Plan boyutu"
 
-#: libs/css_js_include.php:846 libs/css_js_include.php:1115
+#: libs/css_js_include.php:854 libs/css_js_include.php:1127
 #: libs/css_js_include_bkc.php:850 libs/css_js_include_bkc.php:1113
 #: libs/dashboard_functions.php:1313
 #: templates/submit_templates/floor_plans.php:39
@@ -1626,7 +1641,7 @@ msgstr "Plan boyutu"
 msgid "Plan Rooms"
 msgstr "Plan Odaları"
 
-#: libs/css_js_include.php:847 libs/css_js_include.php:1116
+#: libs/css_js_include.php:855 libs/css_js_include.php:1128
 #: libs/css_js_include_bkc.php:851 libs/css_js_include_bkc.php:1114
 #: libs/dashboard_functions.php:1314
 #: templates/submit_templates/floor_plans.php:44
@@ -1635,84 +1650,92 @@ msgstr "Plan Odaları"
 msgid "Plan Bathrooms"
 msgstr "Banyoları Planla"
 
-#: libs/css_js_include.php:848 libs/css_js_include.php:1117
+#: libs/css_js_include.php:856 libs/css_js_include.php:1129
 #: libs/css_js_include_bkc.php:852 libs/css_js_include_bkc.php:1115
 #: templates/submit_templates/floor_plans.php:49
 #: templates/submit_templates/floor_plans.php:162
 msgid "Plan Price"
 msgstr "Plan Fiyatı"
 
-#: libs/css_js_include.php:851 libs/css_js_include_bkc.php:855
+#: libs/css_js_include.php:859 libs/css_js_include_bkc.php:855
 msgid "deleting..."
 msgstr "silme ..."
 
-#: libs/css_js_include.php:852 libs/css_js_include_bkc.php:856
+#: libs/css_js_include.php:860 libs/css_js_include_bkc.php:856
 msgid "saving..."
 msgstr "tasarruf ..."
 
-#: libs/css_js_include.php:862 libs/css_js_include_bkc.php:866
+#: libs/css_js_include.php:870 libs/css_js_include_bkc.php:866
 msgid "posting"
 msgstr "gönderme"
 
-#: libs/css_js_include.php:863 libs/css_js_include_bkc.php:867
+#: libs/css_js_include.php:871 libs/css_js_include_bkc.php:867
 msgid "Review Sent "
 msgstr "İnceleme Gönderildi"
 
-#: libs/css_js_include.php:864 libs/css_js_include_bkc.php:868
+#: libs/css_js_include.php:872 libs/css_js_include_bkc.php:868
 msgid "Review Edit Saved"
 msgstr "Düzenlemeyi Düzenle&#39;yi Kaydedin"
 
-#: libs/css_js_include.php:867 libs/css_js_include_bkc.php:871
+#: libs/css_js_include.php:875 libs/css_js_include_bkc.php:871
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:93
 msgid "Pay"
 msgstr "Ödeme"
 
-#: libs/css_js_include.php:868 libs/css_js_include_bkc.php:872
+#: libs/css_js_include.php:876 libs/css_js_include_bkc.php:872
 msgid "Payment for package"
 msgstr "Paket için ödeme"
 
-#: libs/css_js_include.php:874 libs/css_js_include_bkc.php:878
+#: libs/css_js_include.php:882 libs/css_js_include_bkc.php:878
 msgid "there are no results"
 msgstr "sonuç yok"
 
-#: libs/css_js_include.php:879
+#: libs/css_js_include.php:887
 msgid "Please wait while we gather data!"
 msgstr "Biz veri toplarken lütfen bekleyin!"
 
-#: libs/css_js_include.php:880
+#: libs/css_js_include.php:888
 msgid "Please complete the form!"
 msgstr "Lütfen formu doldurun!"
 
-#: libs/css_js_include.php:909 libs/css_js_include_bkc.php:907
+#: libs/css_js_include.php:889 libs/elementor_help_files2.php:620
+msgid "bd"
+msgstr "Y.oda"
+
+#: libs/css_js_include.php:890 libs/elementor_help_files2.php:620
+msgid "ba"
+msgstr "banyo"
+
+#: libs/css_js_include.php:921 libs/css_js_include_bkc.php:907
 #: libs/dashboard_functions.php:1301 libs/dashboard_functions.php:1473
 #: templates/dashboard-templates/dashboard-list-filter-categories.php:13
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:11
 msgid "Disabled"
 msgstr "engelli"
 
-#: libs/css_js_include.php:910 libs/css_js_include_bkc.php:908
+#: libs/css_js_include.php:922 libs/css_js_include_bkc.php:908
 #: libs/dashboard_functions.php:1302 libs/dashboard_functions.php:1469
 #: templates/dashboard-templates/dashboard-list-filter-categories.php:9
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:8
 msgid "Published"
 msgstr "Yayınlanan"
 
-#: libs/css_js_include.php:911 libs/css_js_include.php:925
+#: libs/css_js_include.php:923 libs/css_js_include.php:937
 #: libs/css_js_include_bkc.php:909 libs/css_js_include_bkc.php:923
 msgid "Please, enter property title"
 msgstr "Lütfen mülkiyet başlığını girin"
 
-#: libs/css_js_include.php:916 libs/css_js_include_bkc.php:914
-#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:39
+#: libs/css_js_include.php:928 libs/css_js_include_bkc.php:914
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:47
 msgid "Property is featured"
 msgstr "Özellik özellikli"
 
-#: libs/css_js_include.php:917 libs/css_js_include_bkc.php:915
+#: libs/css_js_include.php:929 libs/css_js_include_bkc.php:915
 msgid "You have used all the \"Featured\" listings in your package."
 msgstr "Paketinizdeki tüm &quot;Öne Çıkan&quot; listeleri kullandınız."
 
-#: libs/css_js_include.php:920 libs/css_js_include_bkc.php:918
-#: libs/design_functions.php:2011 templates/featured_property_3.php:38
+#: libs/css_js_include.php:932 libs/css_js_include_bkc.php:918
+#: libs/design_functions.php:2130 templates/featured_property_3.php:38
 #: templates/featured_property_4.php:52
 #: templates/listing_templates/favorite_under_title.php:13
 #: templates/listing_templates/property-page-templates/favorite_under_title.php:13
@@ -1722,60 +1745,60 @@ msgstr "Paketinizdeki tüm &quot;Öne Çıkan&quot; listeleri kullandınız."
 msgid "remove from favorites"
 msgstr "favorilerden çıkar"
 
-#: libs/css_js_include.php:921 libs/css_js_include_bkc.php:919
+#: libs/css_js_include.php:933 libs/css_js_include_bkc.php:919
 msgid "saving.."
 msgstr "tasarrufu .."
 
-#: libs/css_js_include.php:922 libs/css_js_include_bkc.php:920
+#: libs/css_js_include.php:934 libs/css_js_include_bkc.php:920
 msgid "sending message.."
 msgstr "mesaj göndermek.."
 
-#: libs/css_js_include.php:923 libs/css_js_include_bkc.php:921
+#: libs/css_js_include.php:935 libs/css_js_include_bkc.php:921
 msgid "Please, enter field:"
 msgstr "Lütfen alan girin:"
 
-#: libs/css_js_include.php:924 libs/css_js_include_bkc.php:922
+#: libs/css_js_include.php:936 libs/css_js_include_bkc.php:922
 msgid "You need to upload at last one image"
 msgstr "Son bir resme yüklemeniz gerekiyor"
 
-#: libs/css_js_include.php:926 libs/css_js_include_bkc.php:924
+#: libs/css_js_include.php:938 libs/css_js_include_bkc.php:924
 msgid "Connecting to Paypal! Please wait..."
 msgstr "Paypal&#39;a Bağlanma! Lütfen bekle..."
 
-#: libs/css_js_include.php:927 libs/css_js_include_bkc.php:925
+#: libs/css_js_include.php:939 libs/css_js_include_bkc.php:925
 #: templates/dashboard-templates/user_memebership_profile.php:43
 msgid "subscription will be cancelled at the end of current period"
 msgstr "abonelik cari dönem sonunda iptal edilecektir"
 
-#: libs/css_js_include.php:929 libs/css_js_include_bkc.php:927
+#: libs/css_js_include.php:941 libs/css_js_include_bkc.php:927
 #: libs/dashboard_functions.php:1303
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:102
 msgid "Disable Listing"
 msgstr "Listeyi Devre Dışı Bırak"
 
-#: libs/css_js_include.php:930 libs/css_js_include_bkc.php:928
+#: libs/css_js_include.php:942 libs/css_js_include_bkc.php:928
 #: libs/dashboard_functions.php:1304
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:106
 msgid "Enable Listing"
 msgstr "Listeyi Etkinleştir"
 
-#: libs/css_js_include.php:931 libs/css_js_include_bkc.php:929
+#: libs/css_js_include.php:943 libs/css_js_include_bkc.php:929
 #: libs/dashboard_functions.php:1305
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:26
 msgid "Disable Agent"
 msgstr "Aracıyı Devre Dışı Bırak"
 
-#: libs/css_js_include.php:932 libs/css_js_include_bkc.php:930
+#: libs/css_js_include.php:944 libs/css_js_include_bkc.php:930
 #: libs/dashboard_functions.php:1306
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:28
 msgid "Enable Agent"
 msgstr "Aracıyı Etkinleştir"
 
-#: libs/css_js_include.php:935 libs/css_js_include_bkc.php:933
+#: libs/css_js_include.php:947 libs/css_js_include_bkc.php:933
 msgid "You must agree with GDPR terms"
 msgstr "GDPR şartlarını onaylamalısınız"
 
-#: libs/css_js_include.php:936 libs/css_js_include_bkc.php:934
+#: libs/css_js_include.php:948 libs/css_js_include_bkc.php:934
 msgid ""
 "Confirm your ACCOUNT DELETION request! Clicking the button below will delete "
 "your account and data. This means you will no longer be able to login to "
@@ -1788,53 +1811,53 @@ msgstr ""
 "Özelliklerim, Gelen Kutusu, Kayıtlı Aramalar ve Mesajlar. Bu işlem TERS "
 "DEĞİLDİR!"
 
-#: libs/css_js_include.php:940 libs/css_js_include_bkc.php:938
+#: libs/css_js_include.php:952 libs/css_js_include_bkc.php:938
 #: libs/theme-slider.php:29 templates/property_details_modal.php:28
 msgid "Contact Agent"
 msgstr "Danışman İletişim"
 
-#: libs/css_js_include.php:950 libs/css_js_include_bkc.php:948
+#: libs/css_js_include.php:962 libs/css_js_include_bkc.php:948
 msgid "Thank you. Please check your email for payment instructions."
 msgstr ""
 "Teşekkür ederim. Ödeme talimatları için lütfen e-postanızı kontrol edin."
 
-#: libs/css_js_include.php:951 libs/css_js_include_bkc.php:949
+#: libs/css_js_include.php:963 libs/css_js_include_bkc.php:949
 msgid "Sending"
 msgstr "gönderme"
 
-#: libs/css_js_include.php:975 libs/css_js_include_bkc.php:973
+#: libs/css_js_include.php:987 libs/css_js_include_bkc.php:973
 msgid "No More Listings"
 msgstr "Daha Fazla İlan Yok"
 
-#: libs/css_js_include.php:1034 libs/css_js_include_bkc.php:1032
+#: libs/css_js_include.php:1046 libs/css_js_include_bkc.php:1032
 msgid "Allowed Files"
 msgstr "İzin Verilen Dosyalar"
 
-#: libs/css_js_include.php:1049 libs/css_js_include_bkc.php:1047
+#: libs/css_js_include.php:1061 libs/css_js_include_bkc.php:1047
 msgid "Image needs to be at least 500px height  x 500px wide!"
 msgstr "Görüntü en az 500 piksel x 500 piksel genişliğinde olmalı!"
 
-#: libs/css_js_include.php:1053 libs/css_js_include_bkc.php:1051
+#: libs/css_js_include.php:1065 libs/css_js_include_bkc.php:1051
 msgid "You cannot upload more than"
 msgstr "Daha fazla yükleyemezsiniz"
 
-#: libs/css_js_include.php:1053 libs/css_js_include_bkc.php:1051
+#: libs/css_js_include.php:1065 libs/css_js_include_bkc.php:1051
 msgid "images"
 msgstr "Görüntüler"
 
-#: libs/css_js_include.php:1054 libs/css_js_include_bkc.php:1052
+#: libs/css_js_include.php:1066 libs/css_js_include_bkc.php:1052
 msgid "Are you sure you want to delete this?"
 msgstr "Bunu silmek istediğinizden emin misiniz?"
 
-#: libs/css_js_include.php:1114
+#: libs/css_js_include.php:1126
 msgid "Plan Size(*only numbers)"
 msgstr "Plan Boyutu (*sadece sayılar)"
 
-#: libs/css_js_include.php:1208 libs/css_js_include_bkc.php:1206
+#: libs/css_js_include.php:1220 libs/css_js_include_bkc.php:1206
 msgid "Warning !"
 msgstr "Uyarı!"
 
-#: libs/css_js_include.php:1211
+#: libs/css_js_include.php:1223
 msgid ""
 " Are you sure you want to delete this image? It will be removed from "
 "property gallery and WordPress media gallery."
@@ -1879,7 +1902,7 @@ msgstr "Içindeki fiyat"
 msgid "(only numbers)"
 msgstr "(Sadece sayılar)"
 
-#: libs/dashboard_actions_functions.php:34 libs/help_functions.php:5983
+#: libs/dashboard_actions_functions.php:34 libs/help_functions.php:6104
 #: templates/submit_templates/property_description.php:131
 msgid "Yearly Tax Rate"
 msgstr "Yıllık Vergi Oranı"
@@ -1899,7 +1922,7 @@ msgstr "Fiyat Etiketinden Sonra (örn .: &quot;/ month&quot;)"
 msgid "Before Price Label (ex: \"from \")"
 msgstr "Fiyat Etiketinden Önce (örn: &quot;from&quot;)"
 
-#: libs/dashboard_actions_functions.php:66 libs/help_functions.php:5750
+#: libs/dashboard_actions_functions.php:66 libs/help_functions.php:5871
 msgid "Additional Price Info"
 msgstr "Ek Fiyat Bilgisi"
 
@@ -1907,7 +1930,7 @@ msgstr "Ek Fiyat Bilgisi"
 msgid " After Label for Additional Price info "
 msgstr " Ek Fiyat bilgisi için Etiketten Sonra"
 
-#: libs/dashboard_actions_functions.php:83 libs/help_functions.php:5752
+#: libs/dashboard_actions_functions.php:83 libs/help_functions.php:5873
 msgid "Before Label for Additional Price Info"
 msgstr "Ek Fiyat Bilgisi için Etiketten Önce"
 
@@ -1919,8 +1942,8 @@ msgstr "Kategori Seç"
 msgid "Listed In"
 msgstr "Listelenen"
 
-#: libs/dashboard_actions_functions.php:149 libs/help_functions.php:5759
-#: libs/help_functions.php:5991
+#: libs/dashboard_actions_functions.php:149 libs/help_functions.php:5880
+#: libs/help_functions.php:6112
 msgid "Property Zip"
 msgstr "Mülkiyet Zip"
 
@@ -1929,7 +1952,7 @@ msgstr "Mülkiyet Zip"
 msgid "Country"
 msgstr "ülke"
 
-#: libs/dashboard_actions_functions.php:182 libs/help_functions.php:5995
+#: libs/dashboard_actions_functions.php:182 libs/help_functions.php:6116
 msgid "Greenhouse gas emissions kgCO2/m2a"
 msgstr "Sera gazı emisyonları kgCO2/m2a"
 
@@ -1938,58 +1961,59 @@ msgstr "Sera gazı emisyonları kgCO2/m2a"
 msgid "Greenhouse gas emissions index class"
 msgstr "Sera gazı emisyonları endeks sınıfı"
 
-#: libs/dashboard_actions_functions.php:198 libs/help_functions.php:5783
+#: libs/dashboard_actions_functions.php:198 libs/help_functions.php:5904
 #: libs/listing_functions.php:1944
 #: templates/submit_templates/property_energy_effective.php:83
 msgid "Renewable energy performance index"
 msgstr "Yenilenebilir enerji performans endeksi"
 
-#: libs/dashboard_actions_functions.php:206 libs/help_functions.php:5784
-#: libs/help_functions.php:5998 libs/listing_functions.php:1945
+#: libs/dashboard_actions_functions.php:206 libs/help_functions.php:5905
+#: libs/help_functions.php:6119 libs/listing_functions.php:1945
 #: templates/submit_templates/property_energy_effective.php:84
 msgid "Energy performance of the building"
 msgstr "Binanın enerji performansı"
 
-#: libs/dashboard_actions_functions.php:214 libs/help_functions.php:5785
-#: libs/help_functions.php:5999 libs/listing_functions.php:1946
+#: libs/dashboard_actions_functions.php:214 libs/help_functions.php:5906
+#: libs/help_functions.php:6120 libs/listing_functions.php:1946
 #: templates/submit_templates/property_energy_effective.php:85
 msgid "EPC current rating"
 msgstr "EPC akım derecesi"
 
-#: libs/dashboard_actions_functions.php:222 libs/help_functions.php:5786
+#: libs/dashboard_actions_functions.php:222 libs/help_functions.php:5907
 #: libs/listing_functions.php:1947
 #: templates/submit_templates/property_energy_effective.php:86
 msgid "EPC Potential Rating"
 msgstr "EPC Potansiyel Derecelendirmesi"
 
-#: libs/dashboard_actions_functions.php:231 libs/help_functions.php:5985
-#: libs/listing_functions.php:1789
+#: libs/dashboard_actions_functions.php:231 libs/help_functions.php:34
+#: libs/help_functions.php:6106 libs/listing_functions.php:1789
 #: templates/property_cards_templates/property_card_details_type3.php:48
 #: templates/property_cards_templates/property_card_details_type7.php:48
 msgid "Property Size"
 msgstr "Özellik boyutu"
 
-#: libs/dashboard_actions_functions.php:239 libs/help_functions.php:5773
+#: libs/dashboard_actions_functions.php:239 libs/help_functions.php:5894
 msgid "Owner Notes"
 msgstr "Sahip notları"
 
-#: libs/dashboard_actions_functions.php:247 libs/help_functions.php:5769
-#: libs/help_functions.php:5986 libs/listing_functions.php:1792
+#: libs/dashboard_actions_functions.php:247 libs/help_functions.php:39
+#: libs/help_functions.php:5890 libs/help_functions.php:6107
+#: libs/listing_functions.php:1792
 msgid "Property Lot Size"
 msgstr "Emlak Lot Büyüklüğü"
 
-#: libs/dashboard_actions_functions.php:255 libs/help_functions.php:5770
-#: libs/help_functions.php:5987
+#: libs/dashboard_actions_functions.php:255 libs/help_functions.php:5891
+#: libs/help_functions.php:6108
 msgid "Property Rooms"
 msgstr "Emlak Odaları"
 
-#: libs/dashboard_actions_functions.php:263 libs/help_functions.php:5771
-#: libs/help_functions.php:5988
+#: libs/dashboard_actions_functions.php:263 libs/help_functions.php:5892
+#: libs/help_functions.php:6109
 msgid "Property Bedrooms"
 msgstr "Emlak Yatak Odaları"
 
-#: libs/dashboard_actions_functions.php:271 libs/help_functions.php:5772
-#: libs/help_functions.php:5989
+#: libs/dashboard_actions_functions.php:271 libs/help_functions.php:5893
+#: libs/help_functions.php:6110
 msgid "Property Bathrooms"
 msgstr "Emlak Banyoları"
 
@@ -1998,7 +2022,7 @@ msgstr "Emlak Banyoları"
 msgid "Video Type"
 msgstr "Video Türü"
 
-#: libs/dashboard_actions_functions.php:303 libs/help_functions.php:5763
+#: libs/dashboard_actions_functions.php:303 libs/help_functions.php:5884
 msgid "Property Latitude"
 msgstr "Mülkiyet Latitude"
 
@@ -2010,12 +2034,12 @@ msgstr "Mülk Boylam"
 msgid "Google View"
 msgstr "Google View Kamera Açısı"
 
-#: libs/dashboard_actions_functions.php:327 libs/help_functions.php:5767
+#: libs/dashboard_actions_functions.php:327 libs/help_functions.php:5888
 #: templates/submit_templates/property_location.php:314
 msgid "Hide Map Marker"
-msgstr ""
+msgstr "Harita İşaretleyicisini Gizle"
 
-#: libs/dashboard_actions_functions.php:336 libs/help_functions.php:5765
+#: libs/dashboard_actions_functions.php:336 libs/help_functions.php:5886
 msgid "Google Camera Angle"
 msgstr "Google Kamera Açısı"
 
@@ -2027,140 +2051,137 @@ msgstr "Mülk alt birimleri listesi"
 msgid "Property has subunits"
 msgstr "Mülkün alt birimleri var"
 
-#: libs/dashboard_actions_functions.php:543
+#: libs/dashboard_actions_functions.php:547
 msgid "from date"
 msgstr "itibaren"
 
-#: libs/dashboard_actions_functions.php:544
+#: libs/dashboard_actions_functions.php:548
 msgid "to date"
 msgstr "bugüne kadar"
 
-#: libs/dashboard_actions_functions.php:549
-#: libs/dashboard_actions_functions.php:559
+#: libs/dashboard_actions_functions.php:553
+#: libs/dashboard_actions_functions.php:562
 msgid "Any"
 msgstr "herhangi"
 
-#: libs/dashboard_actions_functions.php:550 libs/help_functions.php:5257
+#: libs/dashboard_actions_functions.php:554 libs/help_functions.php:5378
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:90
-#: templates/dashboard-templates/invoice_listing_unit.php:25
+#: templates/dashboard-templates/invoice_listing_unit.php:24
 msgid "Upgrade to Featured"
 msgstr "Öne Çıkanlara Yükseltme"
 
-#: libs/dashboard_actions_functions.php:551
-msgid "Publish Listing with Featured"
-msgstr "Öne Çıkanlar ile Yayınlama"
-
-#: libs/dashboard_actions_functions.php:552
-#: templates/dashboard-templates/invoice_listing_unit.php:29
+#: libs/dashboard_actions_functions.php:555
+#: templates/dashboard-templates/invoice_listing_unit.php:28
 msgid "Package"
 msgstr "paket"
 
-#: libs/dashboard_actions_functions.php:553
-#: templates/dashboard-templates/invoice_listing_unit.php:23
+#: libs/dashboard_actions_functions.php:556
+#: templates/dashboard-templates/invoice_listing_unit.php:22
 msgid "Listing"
 msgstr "listeleme"
 
-#: libs/dashboard_actions_functions.php:560
+#: libs/dashboard_actions_functions.php:563
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:5
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:23
-#: templates/dashboard-templates/invoice_listing_unit.php:53
+#: templates/dashboard-templates/invoice_listing_unit.php:52
 msgid "Paid"
 msgstr "ödenmiş"
 
-#: libs/dashboard_actions_functions.php:561
+#: libs/dashboard_actions_functions.php:564
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:7
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:25
-#: templates/dashboard-templates/invoice_listing_unit.php:51
+#: templates/dashboard-templates/invoice_listing_unit.php:50
 msgid "Not Paid"
 msgstr "Ödenmeyen"
 
-#: libs/dashboard_actions_functions.php:566
+#: libs/dashboard_actions_functions.php:569
 msgid "Total Invoices: "
 msgstr "Toplam Faturalar:"
 
-#: libs/dashboard_actions_functions.php:573
+#: libs/dashboard_actions_functions.php:576
 msgid "Title"
 msgstr "Başlık"
 
-#: libs/dashboard_actions_functions.php:575
+#: libs/dashboard_actions_functions.php:578
 msgid "Invoice Type"
 msgstr "Fatura türü"
 
-#: libs/dashboard_actions_functions.php:576
+#: libs/dashboard_actions_functions.php:579
 msgid "Billing Type"
 msgstr "Fatura Türü"
 
-#: libs/dashboard_actions_functions.php:578
-#: libs/dashboard_actions_functions.php:756
-#: libs/dashboard_actions_functions.php:761 libs/listing_functions.php:1781
-#: user_dashboard_favorite.php:43
+#: libs/dashboard_actions_functions.php:581
+#: libs/dashboard_actions_functions.php:759
+#: libs/dashboard_actions_functions.php:764 libs/elementor_help_files2.php:710
+#: libs/elementor_help_files2.php:784 libs/elementor_help_files2.php:837
+#: libs/listing_functions.php:1781 user_dashboard_favorite.php:43
 msgid "Price"
 msgstr "Fiyat"
 
-#: libs/dashboard_actions_functions.php:624
+#: libs/dashboard_actions_functions.php:627
 msgid "Search for an Agent"
 msgstr "Bir Ajan Arayın"
 
-#: libs/dashboard_actions_functions.php:633
+#: libs/dashboard_actions_functions.php:636
 msgid "Phone/Mobile"
 msgstr "Telefon/Cep telefonu"
 
-#: libs/dashboard_actions_functions.php:642
+#: libs/dashboard_actions_functions.php:645
 msgid "You don't have any agents added!"
 msgstr "Eklenen ajan yok!"
 
-#: libs/dashboard_actions_functions.php:752
-#: libs/dashboard_actions_functions.php:758 user_dashboard_favorite.php:40
+#: libs/dashboard_actions_functions.php:755
+#: libs/dashboard_actions_functions.php:761 user_dashboard_favorite.php:40
 msgid "Property"
 msgstr "Emlak"
 
-#: libs/dashboard_actions_functions.php:753
-#: libs/dashboard_actions_functions.php:759 libs/help_functions.php:5977
-#: libs/searchfunctions.php:2195 libs/searchfunctions.php:2425
+#: libs/dashboard_actions_functions.php:756
+#: libs/dashboard_actions_functions.php:762 libs/help_functions.php:48
+#: libs/help_functions.php:6098 libs/searchfunctions.php:2179
+#: libs/searchfunctions.php:2399
 #: templates/dashboard-templates/add_new_agent.php:146
-#: templates/dashboard-templates/add_new_agent_template.php:250
-#: templates/dashboard-templates/user_profile_agency.php:146
-#: templates/dashboard-templates/user_profile_agency.php:210
-#: templates/dashboard-templates/user_profile_agent.php:214
-#: templates/dashboard-templates/user_profile_developer.php:127
-#: templates/dashboard-templates/user_profile_developer.php:184
-#: templates/listing_templates/property-page-templates/single-overview-section.php:99
+#: templates/dashboard-templates/add_new_agent_template.php:288
+#: templates/dashboard-templates/user_profile_agency.php:174
+#: templates/dashboard-templates/user_profile_agency.php:244
+#: templates/dashboard-templates/user_profile_agent.php:253
+#: templates/dashboard-templates/user_profile_developer.php:153
+#: templates/dashboard-templates/user_profile_developer.php:216
 #: templates/submit_templates/property_categories.php:55
 #: user_dashboard_favorite.php:41
 msgid "Category"
 msgstr "Kategori"
 
-#: libs/dashboard_actions_functions.php:755
+#: libs/dashboard_actions_functions.php:758
 msgid "Pay Status"
 msgstr "Ödeme durumu:"
 
-#: libs/dashboard_actions_functions.php:769
+#: libs/dashboard_actions_functions.php:772
 msgid "You don't have any properties!"
 msgstr "Henüz bir mülkünüz yok!"
 
-#: libs/dashboard_actions_functions.php:942
+#: libs/dashboard_actions_functions.php:947
 msgid "Agent need a first & last name"
 msgstr "Ajan adının soyadı ve soyadı"
 
-#: libs/dashboard_actions_functions.php:1125
+#: libs/dashboard_actions_functions.php:1144
 msgid "Agent was added... You will be redirected to your agent list..."
 msgstr "Ajan eklendi ... Aracı listenize yönlendirileceksiniz ..."
 
-#: libs/dashboard_actions_functions.php:1131
+#: libs/dashboard_actions_functions.php:1150
 msgid "Agent profile edited"
 msgstr "Ajan profili düzenlendi"
 
-#: libs/dashboard_actions_functions.php:1297
+#: libs/dashboard_actions_functions.php:1317
 msgid "Started by"
 msgstr "Başlatan"
 
-#: libs/dashboard_actions_functions.php:1298
+#: libs/dashboard_actions_functions.php:1318
 #: templates/dashboard-templates/message-listing-unit.php:36
 #: templates/email_templates/contact_email_template.php:39
 msgid "Subject"
 msgstr "konu"
 
-#: libs/dashboard_actions_functions.php:1300
+#: libs/dashboard_actions_functions.php:1320
 msgid "Action"
 msgstr "Aksiyon"
 
@@ -2368,7 +2389,7 @@ msgid "My Invoices"
 msgstr "Faturalarım"
 
 #: libs/dashboard_functions.php:1535
-#: templates/dashboard-templates/add_new_agent_template.php:357
+#: templates/dashboard-templates/add_new_agent_template.php:395
 msgid "Add New Agent"
 msgstr "Yeni Ajan ekle"
 
@@ -2384,17 +2405,17 @@ msgstr "Gelen kutusu"
 msgid "CRM"
 msgstr "CRM"
 
-#: libs/dashboard_functions.php:1585 libs/dashboard_functions.php:1667
+#: libs/dashboard_functions.php:1587 libs/dashboard_functions.php:1669
 msgid "Logout"
 msgstr "Çıkış"
 
-#: libs/dashboard_functions.php:1833
+#: libs/dashboard_functions.php:1835
 #: templates/dashboard-templates/add_new_agent.php:163
 #: templates/dashboard-templates/add_new_agent.php:190
-#: templates/dashboard-templates/add_new_agent_template.php:262
-#: templates/dashboard-templates/add_new_agent_template.php:282
-#: templates/dashboard-templates/user_profile_agent.php:240
-#: templates/dashboard-templates/user_profile_agent.php:260
+#: templates/dashboard-templates/add_new_agent_template.php:300
+#: templates/dashboard-templates/add_new_agent_template.php:320
+#: templates/dashboard-templates/user_profile_agent.php:279
+#: templates/dashboard-templates/user_profile_agent.php:299
 #: templates/submit_templates/property_categories.php:65
 #: templates/submit_templates/property_categories.php:84
 #: templates/submit_templates/property_location.php:116
@@ -2422,8 +2443,8 @@ msgid "Change Colors"
 msgstr "Renkleri Değiştir"
 
 #: libs/dashboard_widgets.php:59
-msgid "You have %1$d pages published."
-msgstr "Toplam %1$d adet sayfanız yayınlanmıştır:"
+msgid "You have %d pages published."
+msgstr "Yayınlanmış %d sayfanız var."
 
 #: libs/dashboard_widgets.php:76
 msgid "Page Title"
@@ -2442,8 +2463,8 @@ msgid "Add New Page"
 msgstr "Yeni Sayfa Ekle"
 
 #: libs/dashboard_widgets.php:318
-msgid "You have %1$d listings published:"
-msgstr "Yayımlanmış %1$d listeniz var:"
+msgid "You have %d listings published:"
+msgstr "Yayınlanmış %d listeniz var:"
 
 #: libs/dashboard_widgets.php:383
 msgid "Your Payment system is in SANDBOX mode."
@@ -2454,8 +2475,8 @@ msgid "Your Payment system is in LIVE mode."
 msgstr "Ödeme sisteminiz LIVE modunda."
 
 #: libs/dashboard_widgets.php:395
-msgid "Payments will be procesed in %1$s.Prices are displayed in %2$s"
-msgstr "Ödemeler %1$s'da işlenecektir. Fiyatlar %2$s'de görüntülenir"
+msgid "Payments will be procesed in %s.Prices are displayed in %s"
+msgstr "Ödemeler %s'da işlenecektir. Fiyatlar %s'de görüntülenir"
 
 #: libs/dashboard_widgets.php:403
 msgid ""
@@ -2479,8 +2500,8 @@ msgstr "Şerit Api Anahtarları eklenmiştir. Ödemeler işlenecektir."
 msgid "Edit Payment Details"
 msgstr "Ödeme Ayrıntılarını Düzenle"
 
-#: libs/design_functions.php:1969 libs/design_functions.php:1971
-#: libs/design_functions.php:1974 libs/design_functions.php:1978
+#: libs/design_functions.php:2088 libs/design_functions.php:2090
+#: libs/design_functions.php:2093 libs/design_functions.php:2097
 #: templates/featured_property_3.php:141 templates/featured_property_4.php:155
 #: templates/property_cards_templates/property_card_actions_type2.php:7
 #: templates/property_cards_templates/property_card_actions_type_default.php:26
@@ -2488,49 +2509,49 @@ msgstr "Ödeme Ayrıntılarını Düzenle"
 msgid "share"
 msgstr "pay"
 
-#: libs/design_functions.php:1991
+#: libs/design_functions.php:2110
 #: templates/property_cards_templates/property_card_details_default.php:58
 #: templates/property_slider_shortcode_v3_test.php:112
 #: templates/property_unit_type3.php:56
 msgid "details"
 msgstr "ayrıntılar"
 
-#: libs/design_functions.php:2027 libs/design_functions.php:2032
-#: libs/design_functions.php:2037 libs/design_functions.php:2043
+#: libs/design_functions.php:2146 libs/design_functions.php:2151
+#: libs/design_functions.php:2156 libs/design_functions.php:2162
 #: templates/property_cards_templates/property_card_actions_type2.php:11
 #: templates/property_cards_templates/property_card_actions_type_default.php:49
 #: templates/property_cards_templates/property_card_favorite_single.php:49
 msgid "compare"
 msgstr "karşılaştırmak"
 
-#: libs/design_functions.php:2034 libs/design_functions.php:2071
-#: libs/design_functions.php:2086
+#: libs/design_functions.php:2153 libs/design_functions.php:2190
+#: libs/design_functions.php:2205
 msgid "featured icon"
 msgstr "öne çıkarılmış ilan simgesi"
 
-#: libs/design_functions.php:2198
+#: libs/design_functions.php:2317
 msgid "icon"
 msgstr "simge"
 
-#: libs/design_functions.php:2291
+#: libs/design_functions.php:2410
 msgid "Facebook"
 msgstr "Facebook"
 
-#: libs/design_functions.php:2292
-msgid "Twitter"
-msgstr "Twitter"
+#: libs/design_functions.php:2411
+msgid "X - Twitter"
+msgstr "X - Twitter"
 
-#: libs/design_functions.php:2293
+#: libs/design_functions.php:2412
 msgid "Pinterest"
 msgstr "Pinterest"
 
-#: libs/design_functions.php:2294
+#: libs/design_functions.php:2413
 #: templates/realtor_templates/agent_contact_bar.php:37
 msgid "WhatsApp"
 msgstr "WhatsApp"
 
-#: libs/elementor_help_files.php:16 libs/searchfunctions.php:2308
-#: libs/searchfunctions.php:2476
+#: libs/elementor_help_files.php:16 libs/searchfunctions.php:2276
+#: libs/searchfunctions.php:2450
 msgid "categories"
 msgstr "kategoriler"
 
@@ -2538,13 +2559,13 @@ msgstr "kategoriler"
 msgid "county"
 msgstr "Şehir"
 
-#: libs/elementor_help_files.php:18 libs/searchfunctions.php:2309
-#: libs/searchfunctions.php:2477
+#: libs/elementor_help_files.php:18 libs/searchfunctions.php:2277
+#: libs/searchfunctions.php:2451
 msgid "cities"
 msgstr "markalar"
 
-#: libs/elementor_help_files.php:19 libs/searchfunctions.php:2310
-#: libs/searchfunctions.php:2478
+#: libs/elementor_help_files.php:19 libs/searchfunctions.php:2278
+#: libs/searchfunctions.php:2452
 msgid "areas"
 msgstr "alanlar"
 
@@ -2556,33 +2577,106 @@ msgstr "mülk konumu"
 msgid "price"
 msgstr "Fiyat"
 
-#: libs/elementor_help_files.php:27 libs/searchfunctions.php:2339
+#: libs/elementor_help_files.php:22
+msgid "price v2"
+msgstr "fiyat v2"
+
+#: libs/elementor_help_files.php:23
+msgid "price v3"
+msgstr "fiyat v3"
+
+#: libs/elementor_help_files.php:29
+msgid "beds&baths"
+msgstr "yataklar ve banyolar"
+
+#: libs/elementor_help_files.php:30 libs/searchfunctions.php:2307
 msgid "address"
 msgstr "adres"
 
-#: libs/elementor_help_files.php:29
+#: libs/elementor_help_files.php:32
 msgid "country"
 msgstr "Ülke"
 
-#: libs/elementor_help_files.php:30
+#: libs/elementor_help_files.php:33
 msgid "status"
 msgstr "durumlar"
 
-#: libs/elementor_help_files.php:31
+#: libs/elementor_help_files.php:34
 msgid "id"
 msgstr "İd"
 
-#: libs/elementor_help_files.php:32 templates/directory_filters.php:306
+#: libs/elementor_help_files.php:35 templates/directory_filters.php:306
 msgid "keyword"
 msgstr "anahtar kelime"
 
-#: libs/elementor_help_files.php:33
+#: libs/elementor_help_files.php:36
 msgid "geolocation"
 msgstr "Coğrafi konum"
 
-#: libs/elementor_help_files.php:34
+#: libs/elementor_help_files.php:37
 msgid "radius for geolocation"
 msgstr "coğrafi konum için yarıçap"
+
+#: libs/elementor_help_files2.php:14 libs/elementor_help_files2.php:347
+#: libs/help_functions.php:3963 libs/help_functions.php:4370
+#: libs/help_functions.php:4829 libs/searchfunctions.php:555
+#: libs/searchfunctions2.php:54 property_list_directory.php:106
+#: property_list_half.php:79 templates/advanced_property_list_filters.php:53
+#: templates/advanced_property_list_filters.php:102
+#: templates/advanced_search/advanced_search_type2.php:33
+#: templates/advanced_search/advanced_search_type8.php:111
+#: templates/advanced_search/advanced_search_type9.php:115
+#: templates/advanced_search/advanced_search_type_half.php:211
+#: templates/advanced_search/advanced_search_type_half.php:221
+#: templates/advanced_search/adv_search_mobile.php:104
+#: templates/advanced_search/adv_search_mobile.php:174
+#: templates/advanced_search_type2.php:33
+#: templates/advanced_search_type8.php:111
+#: templates/advanced_search_type9.php:115
+#: templates/advanced_search_type_half.php:203
+#: templates/advanced_search_type_half.php:213
+#: templates/adv_search_mobile.php:104 templates/adv_search_mobile.php:167
+#: templates/directory_filters.php:39
+#: templates/property_ajax_tax_hidden_filters.php:25
+#: templates/property_ajax_tax_hidden_filters.php:70
+#: templates/property_list_filters.php:53
+#: templates/property_list_filters.php:102
+#: templates/taxonomy_agent_hidden_filters.php:22
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: libs/elementor_help_files2.php:52 libs/elementor_help_files2.php:365
+#: libs/help_functions.php:3973 libs/help_functions.php:4412
+#: libs/help_functions.php:5037 property_list_half.php:101
+#: templates/advanced_property_list_filters.php:56
+#: templates/advanced_property_list_filters.php:113
+#: templates/directory_filters.php:69
+#: templates/property_ajax_tax_hidden_filters.php:28
+#: templates/property_list_filters.php:56
+#: templates/property_list_filters.php:113
+#: templates/taxonomy_agent_hidden_filters.php:25
+msgid "States"
+msgstr "İlçeler"
+
+#: libs/elementor_help_files2.php:309
+msgid "items selected"
+msgstr "öge seçildi"
+
+#: libs/elementor_help_files2.php:310
+msgid "Select All"
+msgstr "Tümünü Seç"
+
+#: libs/elementor_help_files2.php:311
+msgid "Select None"
+msgstr "Hiçbirini Seçme"
+
+#: libs/elementor_help_files2.php:591
+msgid "Beds/Baths"
+msgstr "Yataklar/Banyolar"
+
+#: libs/elementor_help_files2.php:954 libs/elementor_help_files2.php:966
+msgid "No Value"
+msgstr "Değer Yok"
 
 #: libs/events.php:11
 msgid "Once Weekly"
@@ -2604,150 +2698,150 @@ msgstr "fotoğraflar"
 #: libs/gallery_functions.php:764 libs/gallery_functions.php:814
 #: templates/featured_property_1.php:92 templates/featured_property_1.php:112
 #: templates/featured_property_2.php:86 templates/header5.php:22
-#: templates/header_agency.php:44 templates/header_developer.php:40
+#: templates/header_agency.php:44 templates/header_developer.php:38
 #: templates/image_gallery.php:54 templates/image_gallery.php:87
 #: templates/mobile_menu_header.php:8 templates/mobile_menu_header.php:10
 #: word_remove.php:11 zillow_estimate_page.php:79
 msgid "image"
 msgstr "resim"
 
-#: libs/general-settings.php:307 libs/general-settings.php:323
+#: libs/general-settings.php:364 libs/general-settings.php:380
 msgid " ..."
 msgstr " ..."
 
-#: libs/general-settings.php:388
+#: libs/general-settings.php:445
 msgid "Primary Menu"
 msgstr "Ana Menü"
 
-#: libs/general-settings.php:389
+#: libs/general-settings.php:446
 msgid "Mobile Menu"
 msgstr "Mobil Menü"
 
-#: libs/general-settings.php:390
+#: libs/general-settings.php:447
 msgid "Footer Menu"
 msgstr "Altbilgi Menüsü"
 
-#: libs/general-settings.php:391
+#: libs/general-settings.php:448
 msgid "Header 6 Second Menu"
 msgstr "Başlık 6 İkinci Menü"
 
-#: libs/general-settings.php:393
+#: libs/general-settings.php:450
 msgid "Primary Widget Area"
 msgstr "Birincil Widget Alanı"
 
-#: libs/general-settings.php:395
+#: libs/general-settings.php:452
 msgid "The primary widget area"
 msgstr "Birincil widget alanı"
 
-#: libs/general-settings.php:404
+#: libs/general-settings.php:461
 msgid "Secondary Widget Area"
 msgstr "İkincil Widget Alanı"
 
-#: libs/general-settings.php:406
+#: libs/general-settings.php:463
 msgid "The secondary widget area"
 msgstr "İkincil widget alanı"
 
-#: libs/general-settings.php:415
+#: libs/general-settings.php:472
 msgid "First Footer Widget Area"
 msgstr "İlk Footer Widget Alanı"
 
-#: libs/general-settings.php:417
+#: libs/general-settings.php:474
 msgid "The first footer widget area"
 msgstr "İlk alt bilgi aracı alanı"
 
-#: libs/general-settings.php:426
+#: libs/general-settings.php:483
 msgid "Second Footer Widget Area"
 msgstr "İkinci Alt Widget Alanı"
 
-#: libs/general-settings.php:428
+#: libs/general-settings.php:485
 msgid "The second footer widget area"
 msgstr "İkinci alt bilgi aracı alanı"
 
-#: libs/general-settings.php:437
+#: libs/general-settings.php:494
 msgid "Third Footer Widget Area"
 msgstr "Üçüncü Alt Widget Alanı"
 
-#: libs/general-settings.php:439
+#: libs/general-settings.php:496
 msgid "The third footer widget area"
 msgstr "Üçüncü altyazı widget alanı"
 
-#: libs/general-settings.php:448
+#: libs/general-settings.php:505
 msgid "Fourth Footer Widget Area"
 msgstr "Dördüncü Altbilgi Widget Alanı"
 
-#: libs/general-settings.php:450
+#: libs/general-settings.php:507
 msgid "The fourth footer widget area"
 msgstr "Dördüncü altyazı widget alanı"
 
-#: libs/general-settings.php:459
+#: libs/general-settings.php:516
 msgid "Top Bar Left Widget Area"
 msgstr "Üst Bar Sol Widget Alanı"
 
-#: libs/general-settings.php:461
+#: libs/general-settings.php:518
 msgid "The top bar left widget area"
 msgstr "Üst çubuk, widget alanını bıraktı"
 
-#: libs/general-settings.php:469
+#: libs/general-settings.php:526
 msgid "Top Bar Right Widget Area"
 msgstr "Üst Bar Sağ Widget Alanı"
 
-#: libs/general-settings.php:471
+#: libs/general-settings.php:528
 msgid "The top bar right widget area"
 msgstr "Üst çubuk sağ widget alanı"
 
-#: libs/general-settings.php:478
+#: libs/general-settings.php:535
 msgid "Sidebar Menu Widget Area - Before Menu"
 msgstr "Kenar Çubuğu Menü Widget Alanı - Menüden Önce"
 
-#: libs/general-settings.php:480
+#: libs/general-settings.php:537
 msgid "Sidebar for header type 3 - before menu"
 msgstr "Başlık 3 için kenar çubuğu - menüden önce"
 
-#: libs/general-settings.php:487
+#: libs/general-settings.php:544
 msgid "Sidebar Menu Widget Area - After Menu"
 msgstr "Kenar Çubuğu Menü Widget Alanı - Menüden Sonra"
 
-#: libs/general-settings.php:489
+#: libs/general-settings.php:546
 msgid "Sidebar for header type 3 - after menu"
 msgstr "Başlık 3 için kenar çubuğu - menüden sonra"
 
-#: libs/general-settings.php:499
+#: libs/general-settings.php:556
 msgid "Header4 Widget Area"
 msgstr "Header4 Widget Alanı"
 
-#: libs/general-settings.php:501
+#: libs/general-settings.php:558
 msgid "Header4 widget area"
 msgstr "Header4 widget alanı"
 
-#: libs/general-settings.php:510
+#: libs/general-settings.php:567
 msgid "Dashboard Top Bar Left Widget Area"
 msgstr "Pano Üst Bar Sol Widget Alanı"
 
-#: libs/general-settings.php:512
+#: libs/general-settings.php:569
 msgid "User Dashboard - The top bar left widget area"
 msgstr "Kullanıcı Gösterge Tablosu - Üst çubuk sol pencere alanı"
 
-#: libs/general-settings.php:520
+#: libs/general-settings.php:577
 msgid "Dashboard Top Bar Right Widget Area"
 msgstr "Pano Üst Bar Sağ Widget Alanı"
 
-#: libs/general-settings.php:522
+#: libs/general-settings.php:579
 msgid "User Dashboard - The top bar right widget area"
 msgstr "Kullanıcı Kontrol Paneli - Üst çubuk sağ widget alanı"
 
-#: libs/general-settings.php:530
+#: libs/general-settings.php:587
 msgid "Splash Page Bottom Right Widget Area"
 msgstr "Splash Sayfa Alt Sağ Widget Alanı"
 
-#: libs/general-settings.php:532
+#: libs/general-settings.php:589
 msgid "Splash Page - Bottom right area"
 msgstr "Splash Sayfası - Alt sağ alan"
 
-#: libs/general-settings.php:540
+#: libs/general-settings.php:597
 msgid "Splash Page Bottom Left Widget Area"
 msgstr "Splash Sayfa Alt Sol Widget Alanı"
 
-#: libs/general-settings.php:542
+#: libs/general-settings.php:599
 msgid "Splash Page - Bottom left area"
 msgstr "Splash Sayfası - Sol alt bölge"
 
@@ -2798,7 +2892,7 @@ msgstr "Diğer Ajanlar"
 msgid "Property Reviews"
 msgstr "İlan Yorumları "
 
-#: libs/header_filter_functions.php:205 libs/help_functions.php:2258
+#: libs/header_filter_functions.php:205 libs/help_functions.php:2466
 #: templates/listing_templates/property-page-templates/similar_listings.php:159
 #: templates/listing_templates/property-page-templates/similar_listings.php:190
 #: templates/listing_templates/similar_listings.php:133
@@ -2809,366 +2903,360 @@ msgstr "İlan Yorumları "
 msgid "Similar Listings"
 msgstr "Benzer İlanlar"
 
-#: libs/help_functions.php:980 libs/help_functions.php:983
+#: libs/help_functions.php:17 libs/listing_functions.php:1798
+#: templates/listing_templates/single-overview-section.php:31
+#: templates/property_cards_templates/property_card_details_type3.php:30
+#: templates/property_cards_templates/property_card_details_type4.php:12
+#: templates/property_cards_templates/property_card_details_type7.php:30
+msgid "Bedrooms"
+msgstr "Yatak odaları"
+
+#: libs/help_functions.php:21 libs/listing_functions.php:1801
+#: templates/listing_templates/single-overview-section.php:42
+#: templates/property_cards_templates/property_card_details_type3.php:39
+#: templates/property_cards_templates/property_card_details_type7.php:39
+#: templates/property_slider_shortcode.php:67
+msgid "Bathrooms"
+msgstr "Banyolar"
+
+#: libs/help_functions.php:25 libs/listing_functions.php:1795
+#: templates/property_cards_templates/property_card_details_type6.php:17
+#: templates/property_slider_shortcode.php:64
+#: templates/shortcode_templates/content_grid_small_estate_property_type_1.php:32
+msgid "Rooms"
+msgstr "Odalar"
+
+#: libs/help_functions.php:29
+#: templates/listing_templates/single-overview-section.php:53
+msgid "Garages"
+msgstr "Garaj"
+
+#: libs/help_functions.php:43
+#: templates/listing_templates/single-overview-section.php:73
+msgid "Year Built:"
+msgstr "Yapım Yılı:"
+
+#: libs/help_functions.php:1187 libs/help_functions.php:1190
 msgid "all"
 msgstr "tümü"
 
-#: libs/help_functions.php:987 libs/listing_functions.php:1830
+#: libs/help_functions.php:1194 libs/listing_functions.php:1830
 msgid "Not Available"
 msgstr "Mevcut Değil"
 
-#: libs/help_functions.php:1004
+#: libs/help_functions.php:1211
 msgid "Please submit the"
 msgstr "Lütfen gönderin"
 
-#: libs/help_functions.php:1004
+#: libs/help_functions.php:1211
 msgid "field"
 msgstr "alan"
 
-#: libs/help_functions.php:1929
+#: libs/help_functions.php:2136
 msgid "Transport"
 msgstr "taşıma"
 
-#: libs/help_functions.php:1930
+#: libs/help_functions.php:2137
 msgid "Supermarkets"
 msgstr "Süpermarketler"
 
-#: libs/help_functions.php:1931
+#: libs/help_functions.php:2138
 msgid "Schools"
 msgstr "Okullar"
 
-#: libs/help_functions.php:1932 libs/help_functions.php:2135
+#: libs/help_functions.php:2139 libs/help_functions.php:2343
 msgid "Restaurants"
 msgstr "Restoranlar"
 
-#: libs/help_functions.php:1933
+#: libs/help_functions.php:2140
 msgid "Pharmacies"
 msgstr "Eczaneler"
 
-#: libs/help_functions.php:1934
+#: libs/help_functions.php:2141
 msgid "Hospitals"
 msgstr "Hastaneler"
 
-#: libs/help_functions.php:1978 libs/help_functions.php:2016
+#: libs/help_functions.php:2186 libs/help_functions.php:2224
 msgid "K"
 msgstr "K"
 
-#: libs/help_functions.php:1981 libs/help_functions.php:2019
+#: libs/help_functions.php:2189 libs/help_functions.php:2227
 msgid "M"
 msgstr "M"
 
-#: libs/help_functions.php:2095
+#: libs/help_functions.php:2303
 msgid "Active Life"
 msgstr "Aktif yaşam"
 
-#: libs/help_functions.php:2097
+#: libs/help_functions.php:2305
 msgid "Arts & Entertainment"
 msgstr "Sanat ve Eğlence"
 
-#: libs/help_functions.php:2099
+#: libs/help_functions.php:2307
 msgid "Automotive"
 msgstr "Otomotiv"
 
-#: libs/help_functions.php:2101
+#: libs/help_functions.php:2309
 msgid "Beauty & Spas"
 msgstr "Güzellik ve Spalar"
 
-#: libs/help_functions.php:2103
+#: libs/help_functions.php:2311
 msgid "Education"
 msgstr "Eğitim"
 
-#: libs/help_functions.php:2105
+#: libs/help_functions.php:2313
 msgid "Event Planning & Services"
 msgstr "Etkinlik Planlama ve Hizmetleri"
 
-#: libs/help_functions.php:2107
+#: libs/help_functions.php:2315
 msgid "Financial Services"
 msgstr "Finansal hizmetler"
 
-#: libs/help_functions.php:2109
+#: libs/help_functions.php:2317
 msgid "Food"
 msgstr "Gıda"
 
-#: libs/help_functions.php:2111
+#: libs/help_functions.php:2319
 msgid "Health & Medical"
 msgstr "Sağlık ve Tıp"
 
-#: libs/help_functions.php:2113
+#: libs/help_functions.php:2321
 msgid "Home Services "
 msgstr "Ev Hizmetleri"
 
-#: libs/help_functions.php:2115
+#: libs/help_functions.php:2323
 msgid "Hotels & Travel"
 msgstr "Oteller ve Seyahat"
 
-#: libs/help_functions.php:2117
+#: libs/help_functions.php:2325
 msgid "Local Flavor"
 msgstr "Yerel Lezzet"
 
-#: libs/help_functions.php:2119
+#: libs/help_functions.php:2327
 msgid "Local Services"
 msgstr "Yerel Hizmetler"
 
-#: libs/help_functions.php:2121
+#: libs/help_functions.php:2329
 msgid "Mass Media"
 msgstr "Kitle İletişim"
 
-#: libs/help_functions.php:2123
+#: libs/help_functions.php:2331
 msgid "Nightlife"
 msgstr "gece hayatı"
 
-#: libs/help_functions.php:2125
+#: libs/help_functions.php:2333
 msgid "Pets"
 msgstr "Evcil Hayvanlar"
 
-#: libs/help_functions.php:2127
+#: libs/help_functions.php:2335
 msgid "Professional Services"
 msgstr "Profesyonel hizmetler"
 
-#: libs/help_functions.php:2129
+#: libs/help_functions.php:2337
 msgid "Public Services & Government"
 msgstr "Kamu Hizmetleri ve Devlet"
 
-#: libs/help_functions.php:2131
+#: libs/help_functions.php:2339
 msgid "Real Estate"
 msgstr "Emlak"
 
-#: libs/help_functions.php:2133
+#: libs/help_functions.php:2341
 msgid "Religious Organizations"
 msgstr "Dini Organizasyonlar"
 
-#: libs/help_functions.php:2137
+#: libs/help_functions.php:2345
 msgid "Shopping"
 msgstr "Alışveriş yapmak"
 
-#: libs/help_functions.php:2139
+#: libs/help_functions.php:2347
 msgid "Transportation"
 msgstr "taşımacılık"
 
-#: libs/help_functions.php:2193
+#: libs/help_functions.php:2401
 msgid "There are no results found for this property address. "
 msgstr "Bu mülk adresi için herhangi bir sonuç bulunamadı."
 
-#: libs/help_functions.php:3466
+#: libs/help_functions.php:3674
 msgid "All Countries"
 msgstr "Tüm ülkeler"
 
-#: libs/help_functions.php:3724 libs/help_functions.php:3888
-#: libs/help_functions.php:4118 libs/help_functions.php:4249
-#: libs/help_functions.php:4708 libs/searchfunctions.php:518
-#: libs/searchfunctions2.php:54 property_list_directory.php:106
-#: property_list_half.php:79
-#: templates/advanced_search/advanced_search_type2.php:33
-#: templates/advanced_search/advanced_search_type8.php:111
-#: templates/advanced_search/advanced_search_type9.php:115
-#: templates/advanced_search/advanced_search_type_half.php:202
-#: templates/advanced_search/advanced_search_type_half.php:212
-#: templates/advanced_search/adv_search_mobile.php:104
-#: templates/advanced_search/adv_search_mobile.php:167
-#: templates/advanced_search_type2.php:33
-#: templates/advanced_search_type8.php:111
-#: templates/advanced_search_type9.php:115
-#: templates/advanced_search_type_half.php:203
-#: templates/advanced_search_type_half.php:213
-#: templates/adv_search_mobile.php:104 templates/adv_search_mobile.php:167
-#: templates/directory_filters.php:39
-#: templates/property_ajax_tax_hidden_filters.php:25
-#: templates/property_ajax_tax_hidden_filters.php:70
-#: templates/property_list_filters.php:53
-#: templates/property_list_filters.php:102
-#: templates/taxonomy_agent_hidden_filters.php:22
-msgid "Categories"
-msgstr "Kategoriler"
-
-#: libs/help_functions.php:3734 libs/help_functions.php:3935
-#: libs/help_functions.php:4160 libs/help_functions.php:4291
-#: libs/help_functions.php:4916 property_list_half.php:101
-#: templates/directory_filters.php:69
-#: templates/property_ajax_tax_hidden_filters.php:28
-#: templates/property_list_filters.php:56
-#: templates/property_list_filters.php:113
-#: templates/taxonomy_agent_hidden_filters.php:25
-msgid "States"
-msgstr "İlçeler"
-
-#: libs/help_functions.php:3736 libs/help_functions.php:3853
-#: libs/help_functions.php:4087 libs/help_functions.php:4218
-#: libs/help_functions.php:4559 libs/help_functions.php:5982
+#: libs/help_functions.php:3975 libs/help_functions.php:4339
+#: libs/help_functions.php:4680 libs/help_functions.php:6103
 #: templates/directory_filters.php:298
 #: templates/submit_templates/property_status.php:42
 msgid "Property Status"
 msgstr "Emlak Durumu"
 
-#: libs/help_functions.php:4472
+#: libs/help_functions.php:4593
 msgid "More Search Options"
 msgstr "Diğer Arama Seçenekleri"
 
-#: libs/help_functions.php:5091
+#: libs/help_functions.php:5212
 msgid "Pay Submission Fee"
 msgstr "Gönderim Ücretini Öde"
 
-#: libs/help_functions.php:5198
+#: libs/help_functions.php:5319
 msgid "Pay with Credit Card"
 msgstr "Kredi kartıyla öde"
 
-#: libs/help_functions.php:5199
+#: libs/help_functions.php:5320
 #: templates/dashboard-templates/user_memebership_profile.php:132
 msgid "Package Payment"
 msgstr "Paket ödeme"
 
-#: libs/help_functions.php:5746
+#: libs/help_functions.php:5867
 #: templates/submit_templates/property_description.php:65
 msgid "Property Price"
 msgstr "Emlak fiyatı"
 
-#: libs/help_functions.php:5747
+#: libs/help_functions.php:5868
 msgid "Property Price Label"
 msgstr "Emlak Fiyatı Etiketi"
 
-#: libs/help_functions.php:5748
+#: libs/help_functions.php:5869
 msgid "Property Price Label Before"
 msgstr "Mülk Fiyat Etiketi Öncesi"
 
-#: libs/help_functions.php:5751
+#: libs/help_functions.php:5872
 msgid "After Label for Additional Price info"
 msgstr "Ek Fiyat bilgisi için Etiketten Sonra"
 
-#: libs/help_functions.php:5753
+#: libs/help_functions.php:5874
 msgid "Property Category Submit"
 msgstr "Emlak Kategori Gönder"
 
-#: libs/help_functions.php:5754
+#: libs/help_functions.php:5875
 msgid "Property Action Category"
 msgstr "Emlak Aksiyon Kategorisi"
 
-#: libs/help_functions.php:5755
+#: libs/help_functions.php:5876
 msgid "Property Media"
 msgstr "Emlak Medyası"
 
-#: libs/help_functions.php:5757 libs/help_functions.php:5979
+#: libs/help_functions.php:5878 libs/help_functions.php:6100
 msgid "Property City"
 msgstr "Emlak şehir"
 
-#: libs/help_functions.php:5758 libs/help_functions.php:5980
+#: libs/help_functions.php:5879 libs/help_functions.php:6101
 msgid "Property Area"
 msgstr "Emlak Alanı"
 
-#: libs/help_functions.php:5760
+#: libs/help_functions.php:5881
 msgid "Property County"
 msgstr "Emlak Bölgesi"
 
-#: libs/help_functions.php:5761 libs/help_functions.php:5992
+#: libs/help_functions.php:5882 libs/help_functions.php:6113
 msgid "Property Country"
 msgstr "Emlak Ülke"
 
-#: libs/help_functions.php:5762
+#: libs/help_functions.php:5883
 msgid "Property Map"
 msgstr "Emlak Haritası"
 
-#: libs/help_functions.php:5764
+#: libs/help_functions.php:5885
 msgid "Property Longitude"
 msgstr "Mülkiyet Boylamı"
 
-#: libs/help_functions.php:5766
+#: libs/help_functions.php:5887
 msgid "Property Google View"
 msgstr "Mülk Google Görünümü"
 
-#: libs/help_functions.php:5768
+#: libs/help_functions.php:5889
 msgid "property Size"
 msgstr "özellik Boyut"
 
-#: libs/help_functions.php:5774 libs/searchfunctions.php:2322
-#: libs/searchfunctions.php:2490
+#: libs/help_functions.php:5895 libs/searchfunctions.php:2290
+#: libs/searchfunctions.php:2464
 msgid "property status"
 msgstr "mülk durumu"
 
-#: libs/help_functions.php:5775
+#: libs/help_functions.php:5896
 msgid "Embed Video Id"
 msgstr "Gömülü Video Kimliği"
 
-#: libs/help_functions.php:5776
+#: libs/help_functions.php:5897
 msgid "Embed Video Type"
 msgstr "Gömülü Video Türü"
 
-#: libs/help_functions.php:5777
+#: libs/help_functions.php:5898
 msgid "Embed Virtual Tour"
 msgstr "Gömülü Sanal Tur"
 
-#: libs/help_functions.php:5778
+#: libs/help_functions.php:5899
 msgid "Property Subunits"
 msgstr "Mülk Alt Birimleri"
 
-#: libs/help_functions.php:5781
+#: libs/help_functions.php:5902
 msgid "Greenhouse gas emissions Class"
 msgstr "Sera gazı emisyonları Sınıf"
 
-#: libs/help_functions.php:5782
+#: libs/help_functions.php:5903
 msgid "Greenhouse gas emissions Index"
 msgstr "Sera gazı emisyonları Endeksi"
 
-#: libs/help_functions.php:5897
+#: libs/help_functions.php:6018
 msgid "per month"
 msgstr "Aylık"
 
-#: libs/help_functions.php:5904
+#: libs/help_functions.php:6025
 msgid "HOA fee"
 msgstr "HOA ücreti"
 
-#: libs/help_functions.php:5914
+#: libs/help_functions.php:6035
 msgid "Homeowners Association Fee"
 msgstr "Ev Sahipleri Dernek Ücreti "
 
-#: libs/help_functions.php:5922
+#: libs/help_functions.php:6043
 msgid "Home Price"
 msgstr "Ev Fiyatı"
 
-#: libs/help_functions.php:5925
+#: libs/help_functions.php:6046
 msgid "Down Payment"
 msgstr "Peşinat"
 
-#: libs/help_functions.php:5932
+#: libs/help_functions.php:6053
 msgid "Term(*in years)"
 msgstr "Vade (*yıl içinde)"
 
-#: libs/help_functions.php:5935
+#: libs/help_functions.php:6056
 msgid "Interest"
 msgstr "Faiz"
 
-#: libs/help_functions.php:5976
+#: libs/help_functions.php:6097
 msgid "Leave Blank"
 msgstr "Boş Bırak"
 
-#: libs/help_functions.php:5978
+#: libs/help_functions.php:6099
 #: templates/dashboard-templates/add_new_agent.php:174
-#: templates/dashboard-templates/add_new_agent_template.php:272
-#: templates/dashboard-templates/user_profile_agency.php:153
-#: templates/dashboard-templates/user_profile_agent.php:250
-#: templates/dashboard-templates/user_profile_developer.php:134
+#: templates/dashboard-templates/add_new_agent_template.php:310
+#: templates/dashboard-templates/user_profile_agency.php:181
+#: templates/dashboard-templates/user_profile_agent.php:289
+#: templates/dashboard-templates/user_profile_developer.php:160
 msgid "Action Category"
 msgstr "Aksiyon kategorisi"
 
-#: libs/help_functions.php:5981
+#: libs/help_functions.php:6102
 msgid "Property County/State"
 msgstr "Gayrimenkul Ülke/Şehir"
 
-#: libs/help_functions.php:5984
+#: libs/help_functions.php:6105
 msgid "Homeowners Association Fee(Monthly)"
 msgstr "Ev Sahipleri Derneği Aidatı(Aylık)"
 
-#: libs/help_functions.php:5993 libs/listing_functions.php:1903
+#: libs/help_functions.php:6114 libs/listing_functions.php:1903
 #: templates/submit_templates/property_energy_effective.php:49
 msgid "Energy Index in kWh/m2a"
 msgstr "KWh / m2a cinsinden Enerji Endeksi"
 
-#: libs/help_functions.php:5996
+#: libs/help_functions.php:6117
 msgid "Greenhouse gas emissions index class "
 msgstr "Sera gazı emisyonları endeks sınıfı"
 
-#: libs/help_functions.php:5997
+#: libs/help_functions.php:6118
 msgid "Renewable energy performance index "
 msgstr "Yenilenebilir enerji performans endeksi"
 
-#: libs/help_functions.php:6000
+#: libs/help_functions.php:6121
 msgid "EPC potential rating"
 msgstr "EPC potansiyel değerlendirmesi"
 
@@ -3242,38 +3330,44 @@ msgid "Other Features"
 msgstr "Diğer özellikler"
 
 #: libs/listing_functions.php:1560 libs/listing_functions.php:1610
-#: templates/dashboard-templates/user_profile_agency.php:136
-#: templates/dashboard-templates/user_profile_developer.php:117
+#: templates/dashboard-templates/add_new_agent_template.php:70
+#: templates/dashboard-templates/user_profile_agency.php:55
+#: templates/dashboard-templates/user_profile_agency.php:164
+#: templates/dashboard-templates/user_profile_agent.php:51
+#: templates/dashboard-templates/user_profile_developer.php:43
+#: templates/dashboard-templates/user_profile_developer.php:143
 msgid "Address"
 msgstr "Adres"
 
 #: libs/listing_functions.php:1563 libs/listing_functions.php:1613
-#: libs/searchfunctions.php:2218 libs/searchfunctions.php:2448
+#: libs/searchfunctions.php:287 libs/searchfunctions.php:2181
+#: libs/searchfunctions.php:2422
 #: templates/dashboard-templates/add_new_agent.php:232
-#: templates/dashboard-templates/add_new_agent_template.php:109
-#: templates/dashboard-templates/user_profile_agency.php:118
-#: templates/dashboard-templates/user_profile_agent.php:98
-#: templates/dashboard-templates/user_profile_developer.php:99
+#: templates/dashboard-templates/add_new_agent_template.php:135
+#: templates/dashboard-templates/user_profile_agency.php:146
+#: templates/dashboard-templates/user_profile_agent.php:124
+#: templates/dashboard-templates/user_profile_developer.php:125
 #: templates/submit_templates/property_location.php:134
 msgid "City"
 msgstr "Kent"
 
 #: libs/listing_functions.php:1566 libs/listing_functions.php:1616
-#: libs/searchfunctions.php:2225 libs/searchfunctions.php:2455
+#: libs/searchfunctions.php:299 libs/searchfunctions.php:2182
+#: libs/searchfunctions.php:2429
 #: templates/dashboard-templates/add_new_agent.php:236
-#: templates/dashboard-templates/add_new_agent_template.php:121
-#: templates/dashboard-templates/user_profile_agency.php:130
-#: templates/dashboard-templates/user_profile_agent.php:110
-#: templates/dashboard-templates/user_profile_developer.php:111
+#: templates/dashboard-templates/add_new_agent_template.php:147
+#: templates/dashboard-templates/user_profile_agency.php:158
+#: templates/dashboard-templates/user_profile_agent.php:136
+#: templates/dashboard-templates/user_profile_developer.php:137
 msgid "Area"
 msgstr "alan"
 
 #: libs/listing_functions.php:1569 libs/listing_functions.php:1619
 #: templates/dashboard-templates/add_new_agent.php:243
-#: templates/dashboard-templates/add_new_agent_template.php:115
-#: templates/dashboard-templates/user_profile_agency.php:124
-#: templates/dashboard-templates/user_profile_agent.php:104
-#: templates/dashboard-templates/user_profile_developer.php:105
+#: templates/dashboard-templates/add_new_agent_template.php:141
+#: templates/dashboard-templates/user_profile_agency.php:152
+#: templates/dashboard-templates/user_profile_agent.php:130
+#: templates/dashboard-templates/user_profile_developer.php:131
 msgid "State/County"
 msgstr "Devlet / İlçe"
 
@@ -3292,31 +3386,6 @@ msgstr "Emlak Kimliği"
 #: libs/listing_functions.php:1785
 msgid "Price Info"
 msgstr "Fiyat Bilgisi"
-
-#: libs/listing_functions.php:1795
-#: templates/listing_templates/property-page-templates/single-overview-section.php:127
-#: templates/property_cards_templates/property_card_details_type6.php:17
-#: templates/property_slider_shortcode.php:64
-msgid "Rooms"
-msgstr "Odalar"
-
-#: libs/listing_functions.php:1798
-#: templates/listing_templates/property-page-templates/single-overview-section.php:36
-#: templates/listing_templates/single-overview-section.php:31
-#: templates/property_cards_templates/property_card_details_type3.php:30
-#: templates/property_cards_templates/property_card_details_type4.php:12
-#: templates/property_cards_templates/property_card_details_type7.php:30
-msgid "Bedrooms"
-msgstr "Yatak odaları"
-
-#: libs/listing_functions.php:1801
-#: templates/listing_templates/property-page-templates/single-overview-section.php:50
-#: templates/listing_templates/single-overview-section.php:42
-#: templates/property_cards_templates/property_card_details_type3.php:39
-#: templates/property_cards_templates/property_card_details_type7.php:39
-#: templates/property_slider_shortcode.php:67
-msgid "Bathrooms"
-msgstr "Banyolar"
 
 #: libs/listing_functions.php:1882
 msgid "Energy class "
@@ -3429,10 +3498,10 @@ msgid "Original: %s"
 msgstr "Orijinal: %s"
 
 #: libs/megamenu.php:357
-#: templates/dashboard-templates/add_new_agent_template.php:307
-#: templates/dashboard-templates/add_new_agent_template.php:328
-#: templates/dashboard-templates/user_profile_agent.php:285
-#: templates/dashboard-templates/user_profile_agent.php:306
+#: templates/dashboard-templates/add_new_agent_template.php:345
+#: templates/dashboard-templates/add_new_agent_template.php:366
+#: templates/dashboard-templates/user_profile_agent.php:324
+#: templates/dashboard-templates/user_profile_agent.php:345
 msgid "Remove"
 msgstr "Kaldır"
 
@@ -3440,35 +3509,35 @@ msgstr "Kaldır"
 msgid "Cancel"
 msgstr "İptal etmek"
 
-#: libs/plugins.php:128
+#: libs/plugins.php:137
 msgid "Install Required Plugins"
 msgstr "Gerekli Eklentileri yükleyin"
 
-#: libs/plugins.php:129
+#: libs/plugins.php:138
 msgid "Install Plugins"
 msgstr "Eklentileri Yükle"
 
-#: libs/plugins.php:130
+#: libs/plugins.php:139
 msgid "Installing Plugin: %s"
 msgstr "Eklentinin Yüklenmesi: %s"
 
-#: libs/plugins.php:131
+#: libs/plugins.php:140
 msgid "Something went wrong with the plugin API."
 msgstr "Eklenti API&#39;sında bir sorun oluştu."
 
-#: libs/plugins.php:132
+#: libs/plugins.php:141
 msgid "This theme requires the following plugin: %1$s."
 msgid_plural "This theme requires the following plugins: %1$s."
 msgstr[0] "Bu tema aşağıdaki eklentiyi gerektirir:%1$s."
 msgstr[1] "Bu tema aşağıdaki eklentileri gerektirir: %1$s."
 
-#: libs/plugins.php:133
+#: libs/plugins.php:142
 msgid "This theme recommends the following plugin: %1$s."
 msgid_plural "This theme recommends the following plugins: %1$s."
 msgstr[0] "Bu tema aşağıdaki eklentiyi önermektedir:%1$s."
 msgstr[1] "Bu tema aşağıdaki eklentileri önerir: %1$s."
 
-#: libs/plugins.php:134
+#: libs/plugins.php:143
 msgid ""
 "Sorry, but you do not have the correct permissions to install the %s plugin. "
 "Contact the administrator of this site for help on getting the plugin "
@@ -3484,19 +3553,19 @@ msgstr[1] ""
 "Üzgünüz, ancak %s eklentisini yüklemek için doğru izinlere sahip değilsiniz. "
 "Eklentinin yüklenmesiyle ilgili yardım için bu sitenin yöneticisine başvurun."
 
-#: libs/plugins.php:135
+#: libs/plugins.php:144
 msgid "The following required plugin is currently inactive: %1$s."
 msgid_plural "The following required plugins are currently inactive: %1$s."
 msgstr[0] "Aşağıdaki zorunlu eklenti şu anda etkin değil:%1$s."
 msgstr[1] "Aşağıdaki gerekli eklentiler şu anda etkin değil: %1$s."
 
-#: libs/plugins.php:136
+#: libs/plugins.php:145
 msgid "The following recommended plugin is currently inactive: %1$s."
 msgid_plural "The following recommended plugins are currently inactive: %1$s."
 msgstr[0] "Aşağıdaki önerilen eklenti şu anda etkin değil:%1$s."
 msgstr[1] "Aşağıdaki önerilen eklentiler şu anda etkin değil: %1$s."
 
-#: libs/plugins.php:137
+#: libs/plugins.php:146
 msgid ""
 "Sorry, but you do not have the correct permissions to activate the %s "
 "plugin. Contact the administrator of this site for help on getting the "
@@ -3514,7 +3583,7 @@ msgstr[1] ""
 "değilsiniz. Eklentinin etkinleştirilmesi ile ilgili yardım için bu sitenin "
 "yöneticisine başvurun."
 
-#: libs/plugins.php:138
+#: libs/plugins.php:147
 msgid ""
 "The following plugin needs to be updated to its latest version to ensure "
 "maximum compatibility with this theme: %1$s."
@@ -3526,7 +3595,7 @@ msgstr[0] ""
 "sürümüne güncellenmesi gerekiyor:% 1$s."
 msgstr[1] "Eklentileri güncellemeniz gerekmektedir %1$s."
 
-#: libs/plugins.php:139
+#: libs/plugins.php:148
 msgid ""
 "Sorry, but you do not have the correct permissions to update the %s plugin. "
 "Contact the administrator of this site for help on getting the plugin "
@@ -3544,31 +3613,31 @@ msgstr[1] ""
 "değilsiniz. Eklentinin güncellenmesi konusunda yardım için bu sitenin "
 "yöneticisine başvurun."
 
-#: libs/plugins.php:140
+#: libs/plugins.php:149
 msgid "Begin installing plugin"
 msgid_plural "Begin installing plugins"
 msgstr[0] "Eklentiyi yüklemeye başla"
 msgstr[1] "Eklentileri yüklemeye başla"
 
-#: libs/plugins.php:141
+#: libs/plugins.php:150
 msgid "Activate installed plugin"
 msgid_plural "Activate installed plugins"
 msgstr[0] "Yüklü eklentiyi etkinleştir"
 msgstr[1] "Yüklü eklentileri etkinleştir"
 
-#: libs/plugins.php:142
+#: libs/plugins.php:151
 msgid "Return to Required Plugins Installer"
 msgstr "Gerekli Eklentiler Yükleyicisine Geri Dön"
 
-#: libs/plugins.php:143
+#: libs/plugins.php:152
 msgid "Plugin activated successfully."
 msgstr "Eklenti başarıyla etkinleştirildi."
 
-#: libs/plugins.php:144
+#: libs/plugins.php:153
 msgid "All plugins installed and activated successfully. %s"
 msgstr "Tüm eklentiler başarıyla yüklendi ve etkinleştirildi.  %s"
 
-#: libs/property-card-functions.php:353
+#: libs/property-card-functions.php:380
 #: templates/agent_card_templates/agent_unit.php:11
 #: templates/agent_card_templates/agent_unit_4.php:11
 #: templates/agent_card_templates/agent_unit_featured.php:31
@@ -3579,12 +3648,12 @@ msgstr "Tüm eklentiler başarıyla yüklendi ve etkinleştirildi.  %s"
 #: templates/blog_card_templates/blog_unit4.php:72 templates/blog_unit.php:33
 #: templates/blog_unit2.php:72
 #: templates/dashboard-templates/add_new_agent.php:38
-#: templates/dashboard-templates/add_new_agent_template.php:380
+#: templates/dashboard-templates/add_new_agent_template.php:418
 #: templates/dashboard-templates/dashboard_agent_unit.php:18
 #: templates/dashboard-templates/user_profile.php:145
-#: templates/dashboard-templates/user_profile_agency.php:256
-#: templates/dashboard-templates/user_profile_agent.php:362
-#: templates/dashboard-templates/user_profile_developer.php:232
+#: templates/dashboard-templates/user_profile_agency.php:290
+#: templates/dashboard-templates/user_profile_agent.php:401
+#: templates/dashboard-templates/user_profile_developer.php:264
 #: templates/featured_property_1.php:123 templates/featured_property_1.php:127
 #: templates/featured_property_2.php:106
 #: templates/property_animation_slider.php:70
@@ -3600,8 +3669,8 @@ msgstr "kullanıcı resmi"
 #: templates/advanced_search/advanced_search_type_half.php:82
 #: templates/advanced_search_type_half.php:82
 #: templates/dashboard-templates/add_new_agent.php:226
-#: templates/dashboard-templates/user_profile_agency.php:216
-#: templates/dashboard-templates/user_profile_developer.php:190
+#: templates/dashboard-templates/user_profile_agency.php:250
+#: templates/dashboard-templates/user_profile_developer.php:222
 msgid "Location"
 msgstr "yer"
 
@@ -3609,148 +3678,152 @@ msgstr "yer"
 msgid "Radius: "
 msgstr "Yarı çapı"
 
-#: libs/searchfunctions.php:229
+#: libs/searchfunctions.php:226
 msgid "Enter an address, state, city, area or zip code"
 msgstr "Bir adres, şehir, ilçe, mahalle veya posta kodu girin"
 
-#: libs/searchfunctions.php:435
+#: libs/searchfunctions.php:310
+msgid "County or State"
+msgstr "İlçe veya Eyalet"
+
+#: libs/searchfunctions.php:459
 #: templates/advanced_search/advanced_search_type10.php:37
 #: templates/advanced_search/adv_search_mobile.php:81
 #: templates/advanced_search_type10.php:37 templates/adv_search_mobile.php:81
 msgid "Type address, state, city or area"
 msgstr "Adres, eyalet, şehir veya alan yazın"
 
-#: libs/searchfunctions.php:485 searchform.php:2
+#: libs/searchfunctions.php:522 searchform.php:2
 #: templates/advanced_search/advanced_search_type11.php:36
 #: templates/advanced_search/adv_search_mobile.php:108
 #: templates/advanced_search_type11.php:36 templates/adv_search_mobile.php:108
 msgid "Type Keyword"
 msgstr "Anahtar Kelime Yaz"
 
-#: libs/searchfunctions.php:2178 libs/searchfunctions.php:2411
+#: libs/searchfunctions.php:2175 libs/searchfunctions.php:2385
 msgid "County, City or Area is "
 msgstr "İlçe, Şehir veya Bölge"
 
-#: libs/searchfunctions.php:2211 libs/searchfunctions.php:2441
+#: libs/searchfunctions.php:2180 libs/searchfunctions.php:2415
 msgid "For"
 msgstr "İçin"
 
-#: libs/searchfunctions.php:2231 libs/searchfunctions.php:2461
+#: libs/searchfunctions.php:2183 libs/searchfunctions.php:2435
 #: templates/submit_templates/property_location.php:99
 msgid "County / State"
 msgstr "İlçe / Eyalet"
 
-#: libs/searchfunctions.php:2252
+#: libs/searchfunctions.php:2213
 msgid "Has"
 msgstr "Toplam"
 
-#: libs/searchfunctions.php:2307 libs/searchfunctions.php:2475
+#: libs/searchfunctions.php:2275 libs/searchfunctions.php:2449
 msgid "types"
 msgstr "türleri"
 
-#: libs/searchfunctions.php:2311 libs/searchfunctions.php:2479
+#: libs/searchfunctions.php:2279 libs/searchfunctions.php:2453
 msgid "property price"
 msgstr "Emlak fiyatı"
 
-#: libs/searchfunctions.php:2312 libs/searchfunctions.php:2480
+#: libs/searchfunctions.php:2280 libs/searchfunctions.php:2454
 msgid "property size"
 msgstr "özellik boyutu"
 
-#: libs/searchfunctions.php:2313 libs/searchfunctions.php:2481
+#: libs/searchfunctions.php:2281 libs/searchfunctions.php:2455
 msgid "property lot size"
 msgstr "özellik büyüklüğü"
 
-#: libs/searchfunctions.php:2314 libs/searchfunctions.php:2482
+#: libs/searchfunctions.php:2282 libs/searchfunctions.php:2456
 msgid "property rooms"
 msgstr "mülk odaları"
 
-#: libs/searchfunctions.php:2315 libs/searchfunctions.php:2483
+#: libs/searchfunctions.php:2283 libs/searchfunctions.php:2457
 msgid "property bedrooms"
 msgstr "mülk yatak odası"
 
-#: libs/searchfunctions.php:2316 libs/searchfunctions.php:2484
+#: libs/searchfunctions.php:2284 libs/searchfunctions.php:2458
 msgid "property bathrooms"
 msgstr "mülkiyet banyoları"
 
-#: libs/searchfunctions.php:2317 libs/searchfunctions.php:2485
+#: libs/searchfunctions.php:2285 libs/searchfunctions.php:2459
 msgid "property address"
 msgstr "mülk adresi"
 
-#: libs/searchfunctions.php:2318 libs/searchfunctions.php:2486
+#: libs/searchfunctions.php:2286 libs/searchfunctions.php:2460
 msgid "property county"
 msgstr "mülk ilçesi"
 
-#: libs/searchfunctions.php:2319 libs/searchfunctions.php:2487
+#: libs/searchfunctions.php:2287 libs/searchfunctions.php:2461
 msgid "property state"
 msgstr "mülkiyet durumu"
 
-#: libs/searchfunctions.php:2320 libs/searchfunctions.php:2488
+#: libs/searchfunctions.php:2288 libs/searchfunctions.php:2462
 msgid "property zip"
 msgstr "mülkiyet zip"
 
-#: libs/searchfunctions.php:2321 libs/searchfunctions.php:2489
+#: libs/searchfunctions.php:2289 libs/searchfunctions.php:2463
 msgid "property country"
 msgstr "mülk ülke"
 
-#: libs/searchfunctions.php:2353
+#: libs/searchfunctions.php:2327
 msgid "between "
 msgstr "arasında"
 
-#: libs/searchfunctions.php:2353 libs/searchfunctions.php:2355
-#: libs/searchfunctions.php:2359
+#: libs/searchfunctions.php:2327 libs/searchfunctions.php:2329
+#: libs/searchfunctions.php:2333
 msgid "and"
 msgstr "ve"
 
-#: libs/searchfunctions.php:2355 libs/searchfunctions.php:2359
+#: libs/searchfunctions.php:2329 libs/searchfunctions.php:2333
 msgid "between"
 msgstr "arasında"
 
-#: libs/searchfunctions.php:2363 libs/searchfunctions.php:2516
+#: libs/searchfunctions.php:2337 libs/searchfunctions.php:2490
 msgid " similar with "
 msgstr "Benzer"
 
-#: libs/searchfunctions.php:2365 libs/searchfunctions.php:2520
-#: libs/searchfunctions.php:2554
+#: libs/searchfunctions.php:2339 libs/searchfunctions.php:2494
+#: libs/searchfunctions.php:2528
 msgid " has"
 msgstr "vardır"
 
-#: libs/searchfunctions.php:2367 libs/searchfunctions.php:2524
+#: libs/searchfunctions.php:2341 libs/searchfunctions.php:2498
 msgid " equal with "
 msgstr "ile eşit"
 
-#: libs/searchfunctions.php:2369 libs/searchfunctions.php:2532
-#: libs/searchfunctions.php:2561
+#: libs/searchfunctions.php:2343 libs/searchfunctions.php:2506
+#: libs/searchfunctions.php:2535
 msgid "smaller than "
 msgstr "daha küçük"
 
-#: libs/searchfunctions.php:2371
+#: libs/searchfunctions.php:2345
 msgid "bigger than "
 msgstr "daha büyük"
 
-#: libs/searchfunctions.php:2510 libs/searchfunctions.php:2570
+#: libs/searchfunctions.php:2484 libs/searchfunctions.php:2544
 msgid "price range from: "
 msgstr "fiyat aralığı:"
 
-#: libs/searchfunctions.php:2512 libs/searchfunctions.php:2540
-#: libs/searchfunctions.php:2572
+#: libs/searchfunctions.php:2486 libs/searchfunctions.php:2514
+#: libs/searchfunctions.php:2546
 msgid "bigger than"
 msgstr "daha büyük"
 
-#: libs/searchfunctions.php:2538
+#: libs/searchfunctions.php:2512
 msgid "price range from "
 msgstr "fiyat aralığı"
 
-#: libs/searchfunctions2.php:310
+#: libs/searchfunctions2.php:354
 #: templates/advanced_search/advanced_search_type2.php:58
-#: templates/advanced_search/advanced_search_type4.php:74
-#: templates/advanced_search/advanced_search_type4.php:80
-#: templates/advanced_search/advanced_search_type5.php:77
-#: templates/advanced_search/advanced_search_type5.php:83
+#: templates/advanced_search/advanced_search_type4.php:83
+#: templates/advanced_search/advanced_search_type4.php:89
+#: templates/advanced_search/advanced_search_type5.php:85
+#: templates/advanced_search/advanced_search_type5.php:91
 #: templates/advanced_search/advanced_search_type7.php:112
 #: templates/advanced_search/advanced_search_type7.php:151
 #: templates/advanced_search/advanced_search_type8.php:168
 #: templates/advanced_search/advanced_search_type9.php:170
-#: templates/advanced_search/adv_search_mobile.php:211
+#: templates/advanced_search/adv_search_mobile.php:218
 #: templates/advanced_search_type2.php:58
 #: templates/advanced_search_type4.php:74
 #: templates/advanced_search_type4.php:80
@@ -3799,12 +3872,12 @@ msgid ""
 msgstr ""
 "Hiçbir sonuç bulamadık. Lütfen farklı arama parametrelerini tekrar deneyin."
 
-#: single-estate_agency.php:43
+#: single-estate_agency.php:42
 msgid "About Us"
 msgstr "Hakkımızda"
 
-#: single-estate_agency.php:117 templates/header_agency.php:56
-#: templates/header_developer.php:74 zillow_estimate_page.php:83
+#: single-estate_agency.php:97 templates/header_agency.php:56
+#: templates/header_developer.php:55 zillow_estimate_page.php:83
 msgid "Address:"
 msgstr "Adres:"
 
@@ -3866,16 +3939,6 @@ msgstr "arasında"
 #: templates/property_page!/property_reviews.php:96
 msgid "Posted on "
 msgstr "Yayınlanan"
-
-#: templates/!property_reviews.php:118 templates/agency_reviews.php:124
-#: templates/agency_templates/agency_reviews.php:124
-#: templates/agent_reviews.php:102 templates/developer_reviews.php:105
-#: templates/developer_templates/developer_reviews.php:109
-#: templates/listing_templates/property-page-templates/property_reviews.php:126
-#: templates/listing_templates/property_reviews.php:121
-#: templates/property_page!/property_reviews.php:118
-msgid "Reviews"
-msgstr "yorumlar"
 
 #: templates/!property_reviews.php:169 templates/agency_reviews.php:179
 #: templates/agency_templates/agency_reviews.php:179
@@ -3987,6 +4050,13 @@ msgstr "oturum aç"
 msgid "in order to post a review "
 msgstr "Yorum yapmak için"
 
+#: templates/advanced_property_list_filters.php:20
+#: templates/normal_directory.php:64 templates/property_list_filters.php:20
+#: templates/property_list_filters_search.php:7
+#: templates/property_list_filter_half.php:3
+msgid "Sort by"
+msgstr "Göre sırala"
+
 #: templates/advanced_search/advanced_search_type1.php:29
 #: templates/advanced_search/advanced_search_type3.php:22
 #: templates/advanced_search/advanced_search_type5.php:31
@@ -3997,8 +4067,8 @@ msgstr "Yorum yapmak için"
 msgid "Advanced Search"
 msgstr "gelişmiş Arama"
 
-#: templates/advanced_search/advanced_search_type1.php:78
-#: templates/advanced_search/advanced_search_type_half.php:397
+#: templates/advanced_search/advanced_search_type1.php:92
+#: templates/advanced_search/advanced_search_type_half.php:406
 #: templates/advanced_search_type1.php:78
 #: templates/advanced_search_type_half.php:398
 msgid "SEARCH PROPERTIES"
@@ -4007,7 +4077,7 @@ msgstr "ARAMA ÖZELLİKLERİ"
 #: templates/advanced_search/advanced_search_type2.php:24
 #: templates/advanced_search/advanced_search_type8.php:95
 #: templates/advanced_search/advanced_search_type9.php:98
-#: templates/advanced_search/adv_search_mobile.php:161
+#: templates/advanced_search/adv_search_mobile.php:168
 #: templates/advanced_search_type2.php:24
 #: templates/advanced_search_type8.php:95
 #: templates/advanced_search_type9.php:98 templates/adv_search_mobile.php:161
@@ -4024,22 +4094,22 @@ msgstr "gelişmiş Arama"
 msgid "Radius:"
 msgstr "radius:"
 
-#: templates/advanced_search/advanced_search_type_half.php:402
+#: templates/advanced_search/advanced_search_type_half.php:411
 #: templates/advanced_search_type_half.php:403 templates/preview_template.php:8
 msgid "We found "
 msgstr "Bulduk"
 
-#: templates/advanced_search/advanced_search_type_half.php:402
+#: templates/advanced_search/advanced_search_type_half.php:411
 #: templates/advanced_search_type_half.php:403 templates/preview_template.php:8
 msgid "results."
 msgstr "Sonuçlar."
 
-#: templates/advanced_search/adv_search_mobile.php:215
+#: templates/advanced_search/adv_search_mobile.php:222
 #: templates/adv_search_mobile.php:215
 msgid "we found"
 msgstr "bulduk"
 
-#: templates/advanced_search/adv_search_mobile.php:215
+#: templates/advanced_search/adv_search_mobile.php:222
 #: templates/adv_search_mobile.php:215
 msgid "results"
 msgstr "Sonuçlar"
@@ -4066,19 +4136,14 @@ msgstr "Daha Fazla Özellik Yükle"
 msgid "Agency Reviews "
 msgstr "Ajans Yorumları"
 
-#: templates/agency_unit.php:151
+#: templates/agency_unit.php:140
 #: templates/agent_card_templates/agent_unit.php:26
 #: templates/agent_card_templates/agent_unit_4.php:26
 #: templates/agent_unit.php:24 templates/agent_unit_widget.php:111
 msgid "listing"
 msgstr "listeleme"
 
-#: templates/agentdetails.php:87
-#: templates/listing_templates/agent_section/agentdetails.php:86
-msgid "Member of:"
-msgstr "Üyesi:"
-
-#: templates/agent_card_templates/agent_unit_featured.php:100
+#: templates/agent_card_templates/agent_unit_featured.php:83
 #: templates/agent_listings.php:177 templates/agent_unit_featured.php:85
 #: templates/featured_property_1.php:131
 msgid "My Listings"
@@ -4145,26 +4210,26 @@ msgstr "Karşılaştırmak"
 
 #: templates/dashboard-templates/add_new_agent.php:19
 #: templates/dashboard-templates/user_menu.php:7
-#: templates/dashboard-templates/user_profile_agency.php:293
-#: templates/dashboard-templates/user_profile_agent.php:402
-#: templates/dashboard-templates/user_profile_developer.php:292
+#: templates/dashboard-templates/user_profile_agency.php:327
+#: templates/dashboard-templates/user_profile_agent.php:441
+#: templates/dashboard-templates/user_profile_developer.php:324
 msgid "Your account is pending approval. Please wait for admin to approve it. "
 msgstr "Hesabınız onay bekliyor. Lütfen yöneticinin onaylaması için bekleyin."
 
 #: templates/dashboard-templates/add_new_agent.php:22
 #: templates/dashboard-templates/user_menu.php:10
-#: templates/dashboard-templates/user_profile_agency.php:296
-#: templates/dashboard-templates/user_profile_agent.php:405
-#: templates/dashboard-templates/user_profile_developer.php:295
+#: templates/dashboard-templates/user_profile_agency.php:330
+#: templates/dashboard-templates/user_profile_agent.php:444
+#: templates/dashboard-templates/user_profile_developer.php:327
 msgid "Your account is disabled."
 msgstr "Hesabınız devre dışı."
 
 #: templates/dashboard-templates/add_new_agent.php:33
-#: templates/dashboard-templates/add_new_agent_template.php:378
+#: templates/dashboard-templates/add_new_agent_template.php:416
 #: templates/dashboard-templates/user_profile.php:141
-#: templates/dashboard-templates/user_profile_agency.php:252
-#: templates/dashboard-templates/user_profile_agent.php:360
-#: templates/dashboard-templates/user_profile_developer.php:228
+#: templates/dashboard-templates/user_profile_agency.php:286
+#: templates/dashboard-templates/user_profile_agent.php:399
+#: templates/dashboard-templates/user_profile_developer.php:260
 msgid "Photo"
 msgstr "Fotoğraf"
 
@@ -4173,20 +4238,20 @@ msgid "Upload your profile photo."
 msgstr "Profil fotoğrafını yükle."
 
 #: templates/dashboard-templates/add_new_agent.php:44
-#: templates/dashboard-templates/add_new_agent_template.php:385
+#: templates/dashboard-templates/add_new_agent_template.php:423
 #: templates/dashboard-templates/user_profile.php:149
-#: templates/dashboard-templates/user_profile_agency.php:261
-#: templates/dashboard-templates/user_profile_agent.php:366
-#: templates/dashboard-templates/user_profile_developer.php:237
+#: templates/dashboard-templates/user_profile_agency.php:295
+#: templates/dashboard-templates/user_profile_agent.php:405
+#: templates/dashboard-templates/user_profile_developer.php:269
 msgid "Upload  profile image."
 msgstr "Profil resmini yükle."
 
 #: templates/dashboard-templates/add_new_agent.php:50
-#: templates/dashboard-templates/add_new_agent_template.php:391
+#: templates/dashboard-templates/add_new_agent_template.php:429
 #: templates/dashboard-templates/user_profile.php:157
-#: templates/dashboard-templates/user_profile_agency.php:268
-#: templates/dashboard-templates/user_profile_agent.php:373
-#: templates/dashboard-templates/user_profile_developer.php:244
+#: templates/dashboard-templates/user_profile_agency.php:302
+#: templates/dashboard-templates/user_profile_agent.php:412
+#: templates/dashboard-templates/user_profile_developer.php:276
 msgid "*minimum 500px x 500px"
 msgstr "* minimum 500 piksel x 500 piksel"
 
@@ -4238,64 +4303,64 @@ msgid "Add your social media information."
 msgstr "Sosyal medya bilgilerinizi ekleyin."
 
 #: templates/dashboard-templates/add_new_agent.php:104
-#: templates/dashboard-templates/add_new_agent_template.php:73
+#: templates/dashboard-templates/add_new_agent_template.php:79
 #: templates/dashboard-templates/user_profile.php:52
-#: templates/dashboard-templates/user_profile_agency.php:72
-#: templates/dashboard-templates/user_profile_agency.php:105
-#: templates/dashboard-templates/user_profile_agent.php:63
-#: templates/dashboard-templates/user_profile_developer.php:66
+#: templates/dashboard-templates/user_profile_agency.php:77
+#: templates/dashboard-templates/user_profile_agency.php:133
+#: templates/dashboard-templates/user_profile_agent.php:68
+#: templates/dashboard-templates/user_profile_developer.php:71
 msgid "Facebook Url"
 msgstr "Facebook URL"
 
 #: templates/dashboard-templates/add_new_agent.php:109
-#: templates/dashboard-templates/add_new_agent_template.php:84
+#: templates/dashboard-templates/add_new_agent_template.php:90
 #: templates/dashboard-templates/user_profile.php:57
-#: templates/dashboard-templates/user_profile_agency.php:82
-#: templates/dashboard-templates/user_profile_agent.php:73
-#: templates/dashboard-templates/user_profile_developer.php:76
-msgid "Twitter Url"
-msgstr "Twitter URL&#39;si"
+#: templates/dashboard-templates/user_profile_agency.php:87
+#: templates/dashboard-templates/user_profile_agent.php:78
+#: templates/dashboard-templates/user_profile_developer.php:81
+msgid "X - Twitter Url"
+msgstr "X - Twitter Url"
 
 #: templates/dashboard-templates/add_new_agent.php:114
-#: templates/dashboard-templates/add_new_agent_template.php:94
+#: templates/dashboard-templates/add_new_agent_template.php:100
 #: templates/dashboard-templates/user_profile.php:62
-#: templates/dashboard-templates/user_profile_agency.php:92
-#: templates/dashboard-templates/user_profile_agent.php:83
-#: templates/dashboard-templates/user_profile_developer.php:86
+#: templates/dashboard-templates/user_profile_agency.php:97
+#: templates/dashboard-templates/user_profile_agent.php:88
+#: templates/dashboard-templates/user_profile_developer.php:91
 msgid "Linkedin Url"
 msgstr "Linkedin URL&#39;si"
 
 #: templates/dashboard-templates/add_new_agent.php:120
-#: templates/dashboard-templates/add_new_agent_template.php:79
+#: templates/dashboard-templates/add_new_agent_template.php:85
 #: templates/dashboard-templates/user_profile.php:67
-#: templates/dashboard-templates/user_profile_agency.php:77
-#: templates/dashboard-templates/user_profile_agency.php:110
-#: templates/dashboard-templates/user_profile_agent.php:68
-#: templates/dashboard-templates/user_profile_developer.php:71
+#: templates/dashboard-templates/user_profile_agency.php:82
+#: templates/dashboard-templates/user_profile_agency.php:138
+#: templates/dashboard-templates/user_profile_agent.php:73
+#: templates/dashboard-templates/user_profile_developer.php:76
 msgid "Instagram Url"
 msgstr "Instagram URL"
 
 #: templates/dashboard-templates/add_new_agent.php:125
-#: templates/dashboard-templates/add_new_agent_template.php:89
+#: templates/dashboard-templates/add_new_agent_template.php:95
 #: templates/dashboard-templates/user_profile.php:72
-#: templates/dashboard-templates/user_profile_agency.php:87
-#: templates/dashboard-templates/user_profile_agent.php:78
-#: templates/dashboard-templates/user_profile_developer.php:81
+#: templates/dashboard-templates/user_profile_agency.php:92
+#: templates/dashboard-templates/user_profile_agent.php:83
+#: templates/dashboard-templates/user_profile_developer.php:86
 msgid "Pinterest Url"
 msgstr "Pinterest Url"
 
 #: templates/dashboard-templates/add_new_agent.php:130
-#: templates/dashboard-templates/add_new_agent_template.php:99
+#: templates/dashboard-templates/add_new_agent_template.php:125
 #: templates/dashboard-templates/user_profile.php:78
-#: templates/dashboard-templates/user_profile_agency.php:97
-#: templates/dashboard-templates/user_profile_agent.php:88
-#: templates/dashboard-templates/user_profile_developer.php:91
+#: templates/dashboard-templates/user_profile_agency.php:125
+#: templates/dashboard-templates/user_profile_agent.php:114
+#: templates/dashboard-templates/user_profile_developer.php:117
 msgid "Website Url (without http)"
 msgstr "Web Sitesi URL&#39;si (http değil)"
 
 #: templates/dashboard-templates/add_new_agent.php:140
-#: templates/dashboard-templates/add_new_agent_template.php:247
-#: templates/dashboard-templates/user_profile_agent.php:211
+#: templates/dashboard-templates/add_new_agent_template.php:285
+#: templates/dashboard-templates/user_profile_agent.php:250
 msgid "Agent Area/Categories"
 msgstr "Ajan Alanı / Kategoriler"
 
@@ -4304,8 +4369,8 @@ msgid "What kind of listings do you handle?"
 msgstr "Ne tür girişimlerde bulunuyorsunuz?"
 
 #: templates/dashboard-templates/add_new_agent.php:205
-#: templates/dashboard-templates/add_new_agent_template.php:295
-#: templates/dashboard-templates/user_profile_agent.php:273
+#: templates/dashboard-templates/add_new_agent_template.php:333
+#: templates/dashboard-templates/user_profile_agent.php:312
 msgid "Agent Custom Data"
 msgstr "Ajan Özel Veriler"
 
@@ -4314,8 +4379,8 @@ msgid "Any custom parameters for agent"
 msgstr "Ajan için herhangi bir özel parametre"
 
 #: templates/dashboard-templates/add_new_agent.php:210
-#: templates/dashboard-templates/add_new_agent_template.php:335
-#: templates/dashboard-templates/user_profile_agent.php:313
+#: templates/dashboard-templates/add_new_agent_template.php:373
+#: templates/dashboard-templates/user_profile_agent.php:352
 msgid "Add Custom Field"
 msgstr "Özel Alan Ekle"
 
@@ -4332,31 +4397,31 @@ msgid "Add some information about yourself."
 msgstr "Kendiniz hakkında biraz bilgi ekleyin."
 
 #: templates/dashboard-templates/add_new_agent.php:256
-#: templates/dashboard-templates/add_new_agent_template.php:131
+#: templates/dashboard-templates/add_new_agent_template.php:157
 #: templates/dashboard-templates/user_profile.php:87
-#: templates/dashboard-templates/user_profile_agent.php:122
+#: templates/dashboard-templates/user_profile_agent.php:148
 msgid "Title/Position"
 msgstr "Başlık / Görev"
 
 #: templates/dashboard-templates/add_new_agent.php:261
-#: templates/dashboard-templates/add_new_agent_template.php:137
-#: templates/dashboard-templates/user_profile_agent.php:128
+#: templates/dashboard-templates/add_new_agent_template.php:163
+#: templates/dashboard-templates/user_profile_agent.php:154
 msgid "About Me"
 msgstr "Benim hakkımda"
 
 #: templates/dashboard-templates/add_new_agent.php:265
 #: templates/dashboard-templates/user_profile.php:122
-#: templates/dashboard-templates/user_profile_agency.php:233
-#: templates/dashboard-templates/user_profile_agent.php:332
-#: templates/dashboard-templates/user_profile_developer.php:207
+#: templates/dashboard-templates/user_profile_agency.php:267
+#: templates/dashboard-templates/user_profile_agent.php:371
+#: templates/dashboard-templates/user_profile_developer.php:239
 msgid "Update profile"
 msgstr "Profili Güncelle"
 
 #: templates/dashboard-templates/add_new_agent.php:266
 #: templates/dashboard-templates/user_profile.php:123
-#: templates/dashboard-templates/user_profile_agency.php:243
-#: templates/dashboard-templates/user_profile_agent.php:344
-#: templates/dashboard-templates/user_profile_developer.php:219
+#: templates/dashboard-templates/user_profile_agency.php:277
+#: templates/dashboard-templates/user_profile_agent.php:383
+#: templates/dashboard-templates/user_profile_developer.php:251
 msgid "Delete profile"
 msgstr "Profili sil"
 
@@ -4373,48 +4438,83 @@ msgstr "Şifrenizi yeniden yazın"
 msgid "Member of"
 msgstr "Üyesi"
 
-#: templates/dashboard-templates/add_new_agent_template.php:223
-#: templates/dashboard-templates/add_new_agent_template.php:348
-#: templates/dashboard-templates/user_profile_agent.php:323
+#: templates/dashboard-templates/add_new_agent_template.php:105
+#: templates/dashboard-templates/user_profile_agency.php:103
+#: templates/dashboard-templates/user_profile_agent.php:93
+#: templates/dashboard-templates/user_profile_developer.php:97
+msgid "Youtube Url"
+msgstr "Youtube Url"
+
+#: templates/dashboard-templates/add_new_agent_template.php:110
+#: templates/dashboard-templates/user_profile_agency.php:108
+#: templates/dashboard-templates/user_profile_agent.php:98
+#: templates/dashboard-templates/user_profile_developer.php:102
+msgid "TikTok Url"
+msgstr "TikTok Url"
+
+#: templates/dashboard-templates/add_new_agent_template.php:115
+#: templates/dashboard-templates/user_profile_agency.php:113
+#: templates/dashboard-templates/user_profile_agent.php:103
+#: templates/dashboard-templates/user_profile_developer.php:107
+msgid "Telegram Url"
+msgstr "Telegram Url"
+
+#: templates/dashboard-templates/add_new_agent_template.php:120
+#: templates/dashboard-templates/user_profile_agency.php:118
+#: templates/dashboard-templates/user_profile_agent.php:108
+#: templates/dashboard-templates/user_profile_developer.php:112
+msgid "Vimeo Url"
+msgstr "Vimeo Url"
+
+#: templates/dashboard-templates/add_new_agent_template.php:170
+#: templates/dashboard-templates/user_profile_agency.php:201
+#: templates/dashboard-templates/user_profile_agent.php:161
+#: templates/dashboard-templates/user_profile_developer.php:179
+msgid "Private Notes"
+msgstr "Özel Notlar"
+
+#: templates/dashboard-templates/add_new_agent_template.php:261
+#: templates/dashboard-templates/add_new_agent_template.php:386
+#: templates/dashboard-templates/user_profile_agent.php:362
 msgid "Agent Details"
 msgstr "Ajan Detayları"
 
-#: templates/dashboard-templates/add_new_agent_template.php:227
+#: templates/dashboard-templates/add_new_agent_template.php:265
 msgid "Agent Username"
 msgstr "Ajan Kullanıcı Adı"
 
-#: templates/dashboard-templates/add_new_agent_template.php:231
+#: templates/dashboard-templates/add_new_agent_template.php:269
 msgid "Username:"
 msgstr "Kullanıcı adı:"
 
-#: templates/dashboard-templates/add_new_agent_template.php:231
+#: templates/dashboard-templates/add_new_agent_template.php:269
 msgid "is not editable"
 msgstr "düzenlenebilir değil"
 
-#: templates/dashboard-templates/add_new_agent_template.php:241
+#: templates/dashboard-templates/add_new_agent_template.php:279
 msgid "Agent Social Details"
 msgstr "Temsilci Sosyal Ayrıntıları"
 
-#: templates/dashboard-templates/add_new_agent_template.php:299
-#: templates/dashboard-templates/add_new_agent_template.php:320
-#: templates/dashboard-templates/user_profile_agent.php:277
-#: templates/dashboard-templates/user_profile_agent.php:298
+#: templates/dashboard-templates/add_new_agent_template.php:337
+#: templates/dashboard-templates/add_new_agent_template.php:358
+#: templates/dashboard-templates/user_profile_agent.php:316
+#: templates/dashboard-templates/user_profile_agent.php:337
 msgid "Parameter Label"
 msgstr "Parametre Etiketi"
 
-#: templates/dashboard-templates/add_new_agent_template.php:303
-#: templates/dashboard-templates/add_new_agent_template.php:324
-#: templates/dashboard-templates/user_profile_agent.php:281
-#: templates/dashboard-templates/user_profile_agent.php:302
+#: templates/dashboard-templates/add_new_agent_template.php:341
+#: templates/dashboard-templates/add_new_agent_template.php:362
+#: templates/dashboard-templates/user_profile_agent.php:320
+#: templates/dashboard-templates/user_profile_agent.php:341
 msgid "Parameter Value"
 msgstr "Parametre değeri"
 
-#: templates/dashboard-templates/add_new_agent_template.php:342
-#: templates/dashboard-templates/user_profile_agent.php:318
+#: templates/dashboard-templates/add_new_agent_template.php:380
+#: templates/dashboard-templates/user_profile_agent.php:357
 msgid "Agent Location"
 msgstr "Temsilci Konumu"
 
-#: templates/dashboard-templates/add_new_agent_template.php:359
+#: templates/dashboard-templates/add_new_agent_template.php:397
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:16
 msgid "Edit Agent"
 msgstr "Aracıyı Düzenle"
@@ -4529,16 +4629,16 @@ msgstr "Özellikli olarak ayarla"
 msgid "Submission Fee"
 msgstr "Başvuru Ücreti"
 
-#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:34
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:42
 #: templates/dashboard-templates/user_memebership_profile.php:193
 msgid "Wire Transfer"
 msgstr "Elektronik transfer"
 
-#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:43
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:51
 msgid "Featured  Fee"
 msgstr "Sunulan Ücret"
 
-#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:59
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:67
 msgid "Upgrade to featured"
 msgstr "Öne çıkarıldı"
 
@@ -4557,27 +4657,27 @@ msgstr "Kullanıcı adı:"
 msgid "Featured"
 msgstr "Öne çıkan"
 
-#: templates/dashboard-templates/dashboard_listing_unit.php:79
+#: templates/dashboard-templates/dashboard_listing_unit.php:80
 msgid "Expires on "
 msgstr "Sona ereceği tarih"
 
-#: templates/dashboard-templates/dashboard_listing_unit.php:119
+#: templates/dashboard-templates/dashboard_listing_unit.php:120
 msgid "Remove From Favorites"
 msgstr "Favorilerimden Sil"
 
-#: templates/dashboard-templates/invoice_listing_unit.php:27
+#: templates/dashboard-templates/invoice_listing_unit.php:26
 msgid "Publish Listing with Feature"
 msgstr "Özellikle Yayınlama İsteği"
 
-#: templates/dashboard-templates/invoice_listing_unit.php:40
+#: templates/dashboard-templates/invoice_listing_unit.php:39
 msgid "One Time"
 msgstr "Bir kere"
 
-#: templates/dashboard-templates/invoice_listing_unit.php:42
+#: templates/dashboard-templates/invoice_listing_unit.php:41
 msgid "Recurring"
 msgstr "yinelenen"
 
-#: templates/dashboard-templates/invoice_listing_unit.php:69
+#: templates/dashboard-templates/invoice_listing_unit.php:68
 #: templates/listing_templates/overview_template.php:35
 msgid "Print"
 msgstr "Yazdır"
@@ -4610,12 +4710,12 @@ msgstr "Gönderen:"
 msgid "Send Reply"
 msgstr "Cevap Gönder"
 
-#: templates/dashboard-templates/search_unit.php:16
-#: templates/half_map_core.php:83 templates/normal_map_core.php:90
+#: templates/dashboard-templates/search_unit.php:18
+#: templates/half_map_core.php:84 templates/normal_map_core.php:90
 msgid "Search Parameters: "
 msgstr "Arama Parametreleri:"
 
-#: templates/dashboard-templates/search_unit.php:22
+#: templates/dashboard-templates/search_unit.php:24
 msgid "delete search"
 msgstr "aramayı sil"
 
@@ -4693,47 +4793,47 @@ msgid "Languages"
 msgstr "duujjil"
 
 #: templates/dashboard-templates/user_profile_agency.php:45
-#: templates/dashboard-templates/user_profile_developer.php:43
+#: templates/dashboard-templates/user_profile_developer.php:48
 msgid "Taxes"
 msgstr "Vergiler"
 
 #: templates/dashboard-templates/user_profile_agency.php:50
-#: templates/dashboard-templates/user_profile_developer.php:48
+#: templates/dashboard-templates/user_profile_developer.php:53
 msgid "License"
 msgstr "Lisans"
 
-#: templates/dashboard-templates/user_profile_agency.php:55
+#: templates/dashboard-templates/user_profile_agency.php:60
 #: templates/google-map-contact-details.php:49
 msgid "Opening Hours"
 msgstr "Açılış saatleri"
 
-#: templates/dashboard-templates/user_profile_agency.php:64
-#: templates/dashboard-templates/user_profile_agent.php:54
-#: templates/dashboard-templates/user_profile_developer.php:57
+#: templates/dashboard-templates/user_profile_agency.php:69
+#: templates/dashboard-templates/user_profile_agent.php:59
+#: templates/dashboard-templates/user_profile_developer.php:62
 msgid "HubSpot Private Application Token"
 msgstr "HubSpot Özel Uygulama Simgesi"
 
-#: templates/dashboard-templates/user_profile_agency.php:166
-#: templates/dashboard-templates/user_profile_agency.php:229
-#: templates/dashboard-templates/user_profile_developer.php:146
-#: templates/dashboard-templates/user_profile_developer.php:203
+#: templates/dashboard-templates/user_profile_agency.php:194
+#: templates/dashboard-templates/user_profile_agency.php:263
+#: templates/dashboard-templates/user_profile_developer.php:172
+#: templates/dashboard-templates/user_profile_developer.php:235
 msgid "About Agency"
 msgstr "Emlakçı Hakkında"
 
-#: templates/dashboard-templates/user_profile_agency.php:205
-#: templates/dashboard-templates/user_profile_agent.php:205
-#: templates/dashboard-templates/user_profile_developer.php:179
+#: templates/dashboard-templates/user_profile_agency.php:239
+#: templates/dashboard-templates/user_profile_agent.php:244
+#: templates/dashboard-templates/user_profile_developer.php:211
 msgid "Social Information"
 msgstr "Sosyal Ağ Bilgisi"
 
-#: templates/dashboard-templates/user_profile_agency.php:221
-#: templates/dashboard-templates/user_profile_developer.php:195
+#: templates/dashboard-templates/user_profile_agency.php:255
+#: templates/dashboard-templates/user_profile_developer.php:227
 msgid "Place Pin with Agency Address"
 msgstr "Ajans Adresi ile Yer İğnesi"
 
-#: templates/dashboard-templates/user_profile_agency.php:240
-#: templates/dashboard-templates/user_profile_agent.php:340
-#: templates/dashboard-templates/user_profile_developer.php:216
+#: templates/dashboard-templates/user_profile_agency.php:274
+#: templates/dashboard-templates/user_profile_agent.php:379
+#: templates/dashboard-templates/user_profile_developer.php:248
 msgid "View public profile"
 msgstr "Genel profili görüntüle"
 
@@ -4914,25 +5014,25 @@ msgstr "Sonraki"
 msgid "Google Maps Search"
 msgstr "Google Haritalar Araması"
 
-#: templates/half_map_core.php:87 templates/normal_map_core.php:95
+#: templates/half_map_core.php:90 templates/normal_map_core.php:95
 msgid "Save this Search?"
 msgstr "Bu Aramayı Kaydet?"
 
-#: templates/half_map_core.php:88 templates/normal_map_core.php:96
+#: templates/half_map_core.php:91 templates/normal_map_core.php:96
 msgid "Search name"
 msgstr "Arama adı"
 
-#: templates/half_map_core.php:89 templates/normal_map_core.php:97
+#: templates/half_map_core.php:92 templates/normal_map_core.php:97
 msgid "Save Search"
 msgstr "Kaydet arama"
 
-#: templates/half_map_core.php:105 templates/login_register_modal.php:65
+#: templates/half_map_core.php:108 templates/login_register_modal.php:65
 #: templates/mobile_menu.php:89 templates/mobile_menu.php:100
 #: templates/normal_map_core.php:113
 msgid "Login"
 msgstr "Oturum aç"
 
-#: templates/half_map_core.php:105 templates/normal_map_core.php:113
+#: templates/half_map_core.php:108 templates/normal_map_core.php:113
 msgid ""
 "to save search and you will receive an email notification when new "
 "properties matching your search will be published."
@@ -4940,15 +5040,15 @@ msgstr ""
 "arama sonuçlarınızla eşleşen yeni ilanlar yayınladıkça bildirim almak için "
 "aramanızı kaydedin."
 
-#: templates/half_map_core.php:124 templates/normal_map_core.php:167
+#: templates/half_map_core.php:127 templates/normal_map_core.php:167
 msgid "Properties listed in "
 msgstr "Listelenen ilanlar"
 
-#: templates/half_map_core.php:176
+#: templates/half_map_core.php:179
 msgid "Map View"
 msgstr "Harita Görünümü"
 
-#: templates/header_agency.php:85 templates/header_developer.php:130
+#: templates/header_agency.php:85 templates/header_developer.php:111
 msgid "Website:"
 msgstr "Web sitesi:"
 
@@ -4960,17 +5060,22 @@ msgstr "Biz konuşuruz:"
 msgid "Opening Hours:"
 msgstr "Açılış saatleri:"
 
-#: templates/header_agency.php:103 templates/header_developer.php:140
+#: templates/header_agency.php:103 templates/header_developer.php:121
 msgid "License:"
 msgstr "Lisans:"
 
-#: templates/header_agency.php:109 templates/header_developer.php:145
+#: templates/header_agency.php:109 templates/header_developer.php:126
 msgid "Our Taxes:"
 msgstr "Vergilerimiz:"
 
 #: templates/image_gallery.php:103
 msgid "Want to find out more?"
 msgstr "Daha fazlasını öğrenmek ister misiniz?"
+
+#: templates/listing_templates/agent_section/agent_details_2.php:52
+#: templates/realtor_templates/agent_about_me.php:5
+msgid "About Me "
+msgstr "Benim Hakkımda"
 
 #: templates/listing_templates/contact_form/contact_form_simple.php:10
 msgid "I would like to schedule a tour for "
@@ -4997,16 +5102,6 @@ msgstr "sayfayı yazdır"
 #: templates/listing_templates/single-overview-section.php:20
 msgid "Updated On:"
 msgstr "Güncellendi:"
-
-#: templates/listing_templates/property-page-templates/single-overview-section.php:63
-#: templates/listing_templates/single-overview-section.php:53
-msgid "Garages"
-msgstr "Garaj"
-
-#: templates/listing_templates/property-page-templates/single-overview-section.php:89
-#: templates/listing_templates/single-overview-section.php:73
-msgid "Year Built:"
-msgstr "Yapım Yılı:"
 
 #: templates/listing_templates/property_multi_units.php:103
 #: templates/multi_units.php:137
@@ -5137,12 +5232,6 @@ msgstr "Giriş&#39;e geri dön"
 msgid "Return to Login"
 msgstr "Girişe Dön"
 
-#: templates/normal_directory.php:64 templates/property_list_filters.php:20
-#: templates/property_list_filters_search.php:7
-#: templates/property_list_filter_half.php:3
-msgid "Sort by"
-msgstr "Göre sırala"
-
 #: templates/normal_directory.php:212 templates/normal_map_core.php:271
 msgid ""
 "There are no properties listed on this page at this moment. Please try again "
@@ -5255,6 +5344,7 @@ msgstr "Garaj Büyüklüğü"
 
 #: templates/property_cards_templates/property_card_details_type4.php:22
 #: templates/property_cards_templates/property_card_details_type6.php:34
+#: templates/shortcode_templates/content_grid_small_estate_property_type_1.php:33
 msgid "Baths"
 msgstr "Banyolar"
 
@@ -5289,10 +5379,6 @@ msgstr "kategori"
 #: templates/property_slider_shortcode.php:60
 msgid "location"
 msgstr "konum"
-
-#: templates/realtor_templates/agent_about_me.php:5
-msgid "About Me "
-msgstr "Benim Hakkımda"
 
 #: templates/realtor_templates/agent_taxonomies.php:15
 msgid "Specialties & Service Areas"
@@ -5570,10 +5656,6 @@ msgstr "Featured (extra): "
 #: templates/submit_templates/video_tour.php:31
 msgid "Virtual Tour: "
 msgstr "Sanal Tur:"
-
-#. Template Name of the theme
-msgid "Terms and Conditions"
-msgstr "Şartlar ve Koşullar"
 
 #. Template Name of the theme
 msgid "User Dashboard"
@@ -5862,6 +5944,22 @@ msgstr "Maalesef, şu anda bu mülk için bir tahminimiz yok! "
 msgid "Please fill in the form correctly and try again!"
 msgstr "Lütfen formu doğru bir şekilde doldurun ve tekrar deneyin!"
 
+#~ msgid "Terms and Conditions"
+#~ msgstr "Şartlar ve Koşullar"
+
+#~ msgid ""
+#~ "Please validate your purchase code in order to use the theme! See this "
+#~ "link link  "
+#~ msgstr ""
+#~ "Bu temayı kullanmak için lütfen tema satın alma kodunuzu doğrulayın! Bu "
+#~ "bağlantıdan "
+
+#~ msgid "if you don't know how to get your license key. Thank you!"
+#~ msgstr "lisans anahtarınızı nasıl alacağınızı bilmiyorsanız. Teşekkürler!"
+
+#~ msgid "Publish Listing with Featured"
+#~ msgstr "Öne Çıkanlar ile Yayınlama"
+
 #~ msgid "Adress:"
 #~ msgstr "Adres:"
 
@@ -6056,9 +6154,6 @@ msgstr "Lütfen formu doğru bir şekilde doldurun ve tekrar deneyin!"
 
 #~ msgid "Croatia (Hrvatska)"
 #~ msgstr "Hırvatistan (Hrvatska)"
-
-#~ msgid "Cuba"
-#~ msgstr "Küba"
 
 #~ msgid "Curacao"
 #~ msgstr "Curacao"
@@ -6745,9 +6840,6 @@ msgstr "Lütfen formu doğru bir şekilde doldurun ve tekrar deneyin!"
 
 #~ msgid "video thumb"
 #~ msgstr "video başlık"
-
-#~ msgid "beds"
-#~ msgstr "yataklar"
 
 #~ msgid "Rooms:"
 #~ msgstr "Odalar:"

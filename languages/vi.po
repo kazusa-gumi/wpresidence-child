@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wpresidence\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/wpresidence\n"
-"POT-Creation-Date: 2023-08-23T07:07:46+00:00\n"
-"PO-Revision-Date: 2023-08-23 10:58+0300\n"
+"POT-Creation-Date: 2024-02-12T07:12:00+00:00\n"
+"PO-Revision-Date: 2024-02-12 11:57+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: vi_VN\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;esc_html_e;esc_html__\n"
 "X-Poedit-Basepath: .\n"
 
@@ -61,7 +61,7 @@ msgstr "Bài viết mới nhất"
 
 #. Template Name of the theme
 msgid "Agents Agencies Developers Search Results"
-msgstr ""
+msgstr "Các kết quả tìm kiếm Môi giới, Đại lý, Chủ đầu tư"
 
 #: aag_search_results.php:6 advanced_search_results.php:6 agency_list.php:6
 #: agents_list.php:5 compare_listings.php:6 contact_page.php:6
@@ -86,118 +86,118 @@ msgstr ""
 
 #. Template Name of the theme
 msgid "Advanced Search Results"
-msgstr ""
+msgstr "Kết quả Tìm kiếm Chi tiết"
 
 #. Template Name of the theme
 msgid "Agency list"
-msgstr ""
+msgstr "Danh sách Đại lý"
 
 #. Template Name of the theme
 msgid "Agents list"
 msgstr "Danh sách đại lý"
 
-#: api/test.php:305 libs/help_functions.php:5317 libs/help_functions.php:5464
+#: api/test.php:305 libs/help_functions.php:5438 libs/help_functions.php:5585
 #: word_remove.php:92
 msgid "feet"
 msgstr "đôi chân"
 
 #: api/test.php:305 api/test.php:314 api/test.php:315 api/test.php:316
 #: api/test.php:317 api/test.php:318 api/test.php:320 api/test.php:325
-#: api/test.php:330 api/test.php:335 libs/help_functions.php:5317
-#: libs/help_functions.php:5398 libs/help_functions.php:5399
-#: libs/help_functions.php:5400 libs/help_functions.php:5401
-#: libs/help_functions.php:5402 libs/help_functions.php:5404
-#: libs/help_functions.php:5409 libs/help_functions.php:5414
-#: libs/help_functions.php:5419 libs/help_functions.php:5464
-#: libs/help_functions.php:5473 libs/help_functions.php:5474
-#: libs/help_functions.php:5475 libs/help_functions.php:5476
-#: libs/help_functions.php:5477 libs/help_functions.php:5479
-#: libs/help_functions.php:5484 libs/help_functions.php:5489
-#: libs/help_functions.php:5494 word_remove.php:92
+#: api/test.php:330 api/test.php:335 libs/help_functions.php:5438
+#: libs/help_functions.php:5519 libs/help_functions.php:5520
+#: libs/help_functions.php:5521 libs/help_functions.php:5522
+#: libs/help_functions.php:5523 libs/help_functions.php:5525
+#: libs/help_functions.php:5530 libs/help_functions.php:5535
+#: libs/help_functions.php:5540 libs/help_functions.php:5585
+#: libs/help_functions.php:5594 libs/help_functions.php:5595
+#: libs/help_functions.php:5596 libs/help_functions.php:5597
+#: libs/help_functions.php:5598 libs/help_functions.php:5600
+#: libs/help_functions.php:5605 libs/help_functions.php:5610
+#: libs/help_functions.php:5615 word_remove.php:92
 msgid "ft"
 msgstr "ft"
 
-#: api/test.php:306 libs/help_functions.php:5318 libs/help_functions.php:5465
+#: api/test.php:306 libs/help_functions.php:5439 libs/help_functions.php:5586
 #: word_remove.php:93
 msgid "meters"
 msgstr "mét"
 
 #: api/test.php:306 api/test.php:315 api/test.php:319 api/test.php:320
 #: api/test.php:321 api/test.php:322 api/test.php:323 api/test.php:326
-#: api/test.php:331 api/test.php:336 libs/help_functions.php:5318
-#: libs/help_functions.php:5399 libs/help_functions.php:5403
-#: libs/help_functions.php:5404 libs/help_functions.php:5405
-#: libs/help_functions.php:5406 libs/help_functions.php:5407
-#: libs/help_functions.php:5410 libs/help_functions.php:5415
-#: libs/help_functions.php:5420 libs/help_functions.php:5465
-#: libs/help_functions.php:5474 libs/help_functions.php:5478
-#: libs/help_functions.php:5479 libs/help_functions.php:5480
-#: libs/help_functions.php:5481 libs/help_functions.php:5482
-#: libs/help_functions.php:5485 libs/help_functions.php:5490
-#: libs/help_functions.php:5495 word_remove.php:93
+#: api/test.php:331 api/test.php:336 libs/help_functions.php:5439
+#: libs/help_functions.php:5520 libs/help_functions.php:5524
+#: libs/help_functions.php:5525 libs/help_functions.php:5526
+#: libs/help_functions.php:5527 libs/help_functions.php:5528
+#: libs/help_functions.php:5531 libs/help_functions.php:5536
+#: libs/help_functions.php:5541 libs/help_functions.php:5586
+#: libs/help_functions.php:5595 libs/help_functions.php:5599
+#: libs/help_functions.php:5600 libs/help_functions.php:5601
+#: libs/help_functions.php:5602 libs/help_functions.php:5603
+#: libs/help_functions.php:5606 libs/help_functions.php:5611
+#: libs/help_functions.php:5616 word_remove.php:93
 msgid "m"
 msgstr "m"
 
-#: api/test.php:307 libs/help_functions.php:5319 libs/help_functions.php:5466
+#: api/test.php:307 libs/help_functions.php:5440 libs/help_functions.php:5587
 #: word_remove.php:94
 msgid "acres"
 msgstr "mẫu Anh"
 
 #: api/test.php:307 api/test.php:316 api/test.php:321 api/test.php:324
 #: api/test.php:325 api/test.php:326 api/test.php:327 api/test.php:328
-#: api/test.php:332 api/test.php:337 libs/help_functions.php:5319
-#: libs/help_functions.php:5400 libs/help_functions.php:5405
-#: libs/help_functions.php:5408 libs/help_functions.php:5409
-#: libs/help_functions.php:5410 libs/help_functions.php:5411
-#: libs/help_functions.php:5412 libs/help_functions.php:5416
-#: libs/help_functions.php:5421 libs/help_functions.php:5466
-#: libs/help_functions.php:5475 libs/help_functions.php:5480
-#: libs/help_functions.php:5483 libs/help_functions.php:5484
-#: libs/help_functions.php:5485 libs/help_functions.php:5486
-#: libs/help_functions.php:5487 libs/help_functions.php:5491
-#: libs/help_functions.php:5496 word_remove.php:94
+#: api/test.php:332 api/test.php:337 libs/help_functions.php:5440
+#: libs/help_functions.php:5521 libs/help_functions.php:5526
+#: libs/help_functions.php:5529 libs/help_functions.php:5530
+#: libs/help_functions.php:5531 libs/help_functions.php:5532
+#: libs/help_functions.php:5533 libs/help_functions.php:5537
+#: libs/help_functions.php:5542 libs/help_functions.php:5587
+#: libs/help_functions.php:5596 libs/help_functions.php:5601
+#: libs/help_functions.php:5604 libs/help_functions.php:5605
+#: libs/help_functions.php:5606 libs/help_functions.php:5607
+#: libs/help_functions.php:5608 libs/help_functions.php:5612
+#: libs/help_functions.php:5617 word_remove.php:94
 msgid "ac"
 msgstr "AC"
 
-#: api/test.php:308 libs/help_functions.php:5320 libs/help_functions.php:5467
+#: api/test.php:308 libs/help_functions.php:5441 libs/help_functions.php:5588
 #: word_remove.php:95
 msgid "yards"
 msgstr "bãi"
 
 #: api/test.php:308 api/test.php:317 api/test.php:322 api/test.php:327
 #: api/test.php:329 api/test.php:330 api/test.php:331 api/test.php:332
-#: api/test.php:333 api/test.php:338 libs/help_functions.php:5320
-#: libs/help_functions.php:5401 libs/help_functions.php:5406
-#: libs/help_functions.php:5411 libs/help_functions.php:5413
-#: libs/help_functions.php:5414 libs/help_functions.php:5415
-#: libs/help_functions.php:5416 libs/help_functions.php:5417
-#: libs/help_functions.php:5422 libs/help_functions.php:5467
-#: libs/help_functions.php:5476 libs/help_functions.php:5481
-#: libs/help_functions.php:5486 libs/help_functions.php:5488
-#: libs/help_functions.php:5489 libs/help_functions.php:5490
-#: libs/help_functions.php:5491 libs/help_functions.php:5492
-#: libs/help_functions.php:5497 word_remove.php:95
+#: api/test.php:333 api/test.php:338 libs/help_functions.php:5441
+#: libs/help_functions.php:5522 libs/help_functions.php:5527
+#: libs/help_functions.php:5532 libs/help_functions.php:5534
+#: libs/help_functions.php:5535 libs/help_functions.php:5536
+#: libs/help_functions.php:5537 libs/help_functions.php:5538
+#: libs/help_functions.php:5543 libs/help_functions.php:5588
+#: libs/help_functions.php:5597 libs/help_functions.php:5602
+#: libs/help_functions.php:5607 libs/help_functions.php:5609
+#: libs/help_functions.php:5610 libs/help_functions.php:5611
+#: libs/help_functions.php:5612 libs/help_functions.php:5613
+#: libs/help_functions.php:5618 word_remove.php:95
 msgid "yd"
 msgstr "yd"
 
-#: api/test.php:309 libs/help_functions.php:5321 libs/help_functions.php:5468
+#: api/test.php:309 libs/help_functions.php:5442 libs/help_functions.php:5589
 #: word_remove.php:96
 msgid "hectares"
 msgstr "hecta"
 
 #: api/test.php:309 api/test.php:318 api/test.php:323 api/test.php:328
 #: api/test.php:333 api/test.php:334 api/test.php:335 api/test.php:336
-#: api/test.php:337 api/test.php:338 libs/help_functions.php:5321
-#: libs/help_functions.php:5402 libs/help_functions.php:5407
-#: libs/help_functions.php:5412 libs/help_functions.php:5417
-#: libs/help_functions.php:5418 libs/help_functions.php:5419
-#: libs/help_functions.php:5420 libs/help_functions.php:5421
-#: libs/help_functions.php:5422 libs/help_functions.php:5468
-#: libs/help_functions.php:5477 libs/help_functions.php:5482
-#: libs/help_functions.php:5487 libs/help_functions.php:5492
-#: libs/help_functions.php:5493 libs/help_functions.php:5494
-#: libs/help_functions.php:5495 libs/help_functions.php:5496
-#: libs/help_functions.php:5497 word_remove.php:96
+#: api/test.php:337 api/test.php:338 libs/help_functions.php:5442
+#: libs/help_functions.php:5523 libs/help_functions.php:5528
+#: libs/help_functions.php:5533 libs/help_functions.php:5538
+#: libs/help_functions.php:5539 libs/help_functions.php:5540
+#: libs/help_functions.php:5541 libs/help_functions.php:5542
+#: libs/help_functions.php:5543 libs/help_functions.php:5589
+#: libs/help_functions.php:5598 libs/help_functions.php:5603
+#: libs/help_functions.php:5608 libs/help_functions.php:5613
+#: libs/help_functions.php:5614 libs/help_functions.php:5615
+#: libs/help_functions.php:5616 libs/help_functions.php:5617
+#: libs/help_functions.php:5618 word_remove.php:96
 msgid "ha"
 msgstr "ha"
 
@@ -241,20 +241,20 @@ msgstr "Bảng điều khiển người dùng Kết quả tìm kiếm"
 msgid "Sorry, your nonce did not verify."
 msgstr "Xin lỗi, dữ liệu của bạn nhập vào không được xác minh"
 
-#: auser_dashboard_search_result.php:98 templates/half_map_core.php:157
+#: auser_dashboard_search_result.php:98 templates/half_map_core.php:160
 msgid "You don't have any properties yet!"
 msgstr "Bạn chưa có bất kỳ thuộc tính nào!"
 
 #: auser_dashboard_search_result.php:103
-#: libs/dashboard_actions_functions.php:739
+#: libs/dashboard_actions_functions.php:742
 msgid "Search a listing"
 msgstr "Tìm kiếm danh sách"
 
 #: auser_dashboard_search_result.php:104
-#: libs/dashboard_actions_functions.php:625
-#: libs/dashboard_actions_functions.php:740 search.php:30 search.php:31
-#: searchform.php:3 templates/advanced_search/advanced_search_type3.php:62
-#: templates/advanced_search/advanced_search_type10.php:81
+#: libs/dashboard_actions_functions.php:628
+#: libs/dashboard_actions_functions.php:743 search.php:30 search.php:31
+#: searchform.php:3 templates/advanced_search/advanced_search_type3.php:72
+#: templates/advanced_search/advanced_search_type10.php:94
 #: templates/advanced_search/advanced_search_type11.php:106
 #: templates/advanced_search_type3.php:62
 #: templates/advanced_search_type10.php:81
@@ -264,7 +264,7 @@ msgstr "Tìm kiếm"
 
 #. Template Name of the theme
 msgid "Blog list page"
-msgstr ""
+msgstr "Trang danh sách blog"
 
 #: comments.php:4
 msgid ""
@@ -324,7 +324,7 @@ msgid "Name"
 msgstr "Tên"
 
 #: comments.php:78 crm_functions/crm_functions.php:317
-#: libs/dashboard_actions_functions.php:634 libs/design_functions.php:2295
+#: libs/dashboard_actions_functions.php:637 libs/design_functions.php:2411
 #: templates/dashboard-templates/add_new_agent.php:72
 #: templates/dashboard-templates/add_new_agent_template.php:53
 #: templates/dashboard-templates/user_profile.php:28
@@ -363,44 +363,43 @@ msgstr "thành phố"
 msgid "area"
 msgstr "khu vực"
 
-#: compare_listings.php:123 libs/elementor_help_files.php:28
+#: compare_listings.php:123 libs/elementor_help_files.php:31
 msgid "zip"
 msgstr "zip"
 
-#: compare_listings.php:124 libs/elementor_help_files.php:22
+#: compare_listings.php:124 libs/elementor_help_files.php:24
 msgid "size"
 msgstr "kích thước"
 
-#: compare_listings.php:125 libs/elementor_help_files.php:23
+#: compare_listings.php:125 libs/elementor_help_files.php:25
 msgid "lot size"
 msgstr "kích thước lô"
 
-#: compare_listings.php:126 libs/elementor_help_files.php:24
+#: compare_listings.php:126 libs/elementor_help_files.php:26
 msgid "rooms"
 msgstr "phòng"
 
-#: compare_listings.php:127 libs/elementor_help_files.php:25
+#: compare_listings.php:127 libs/elementor_help_files.php:27
 msgid "bedrooms"
 msgstr "phòng ngủ"
 
-#: compare_listings.php:128 libs/elementor_help_files.php:26
+#: compare_listings.php:128 libs/elementor_help_files.php:28
 msgid "bathrooms"
 msgstr "phòng tắm"
 
 #: compare_listings.php:129 libs/dashboard_actions_functions.php:174
-#: libs/help_functions.php:5780
+#: libs/help_functions.php:5901
 msgid "Energy Index"
 msgstr "Chỉ số năng lượng"
 
 #: compare_listings.php:130 libs/dashboard_actions_functions.php:166
-#: libs/help_functions.php:5779 libs/help_functions.php:5994
+#: libs/help_functions.php:5900 libs/help_functions.php:6115
 #: libs/listing_functions.php:1906
 #: templates/submit_templates/property_energy_effective.php:35
 msgid "Energy Class"
 msgstr "Lớp năng lượng"
 
-#: compare_listings.php:131
-#: templates/listing_templates/property-page-templates/single-overview-section.php:112
+#: compare_listings.php:131 libs/help_functions.php:55
 msgid "Property ID"
 msgstr "ID thuộc tính"
 
@@ -408,18 +407,18 @@ msgstr "ID thuộc tính"
 msgid "Contact Page"
 msgstr "Trang liên hệ"
 
-#: contact_page.php:72 single-estate_agency.php:132
-#: templates/header_agency.php:71 templates/header_developer.php:92
+#: contact_page.php:72 single-estate_agency.php:112
+#: templates/header_agency.php:71 templates/header_developer.php:73
 msgid "Phone:"
 msgstr "Điện thoại:"
 
-#: contact_page.php:76 single-estate_agency.php:127
-#: templates/header_agency.php:66 templates/header_developer.php:87
+#: contact_page.php:76 single-estate_agency.php:107
+#: templates/header_agency.php:66 templates/header_developer.php:68
 msgid "Mobile:"
 msgstr "Di động:"
 
-#: contact_page.php:80 single-estate_agency.php:122
-#: templates/header_agency.php:61 templates/header_developer.php:80
+#: contact_page.php:80 single-estate_agency.php:102
+#: templates/header_agency.php:61 templates/header_developer.php:61
 msgid "Email:"
 msgstr "E-mail:"
 
@@ -427,30 +426,30 @@ msgstr "E-mail:"
 msgid "Fax:"
 msgstr "Fax:"
 
-#: contact_page.php:88 single-estate_agency.php:138
-#: templates/header_agency.php:77 templates/header_developer.php:135
+#: contact_page.php:88 single-estate_agency.php:118
+#: templates/header_agency.php:77 templates/header_developer.php:116
 msgid "Skype:"
 msgstr "Skype:"
 
 #: contact_page.php:104 libs/dashboard_widgets.php:8
-#: libs/dashboard_widgets.php:10 libs/help_functions.php:778
-#: libs/help_functions.php:780
+#: libs/dashboard_widgets.php:10 libs/help_functions.php:984
+#: libs/help_functions.php:986
 msgid "company logo"
 msgstr "logo công ty"
 
 #: crm_functions/crm_functions.php:14
 msgid "Lead Info"
-msgstr ""
+msgstr "Thông tin khách hàng tiềm năng"
 
 #: crm_functions/crm_functions.php:29
 #: crm_functions/templates/dashboard_contact_unit.php:29
 #: crm_functions/templates/dashboard_lead_unit.php:61
 msgid "New"
-msgstr ""
+msgstr "Mới"
 
 #: crm_functions/crm_functions.php:96 crm_functions/crm_functions.php:238
 msgid "You are not allowed to edit this!!!"
-msgstr ""
+msgstr "Bạn không được phép chỉnh sửa điều này!!!"
 
 #: crm_functions/crm_functions.php:165 crm_functions/crm_functions.php:193
 msgid "You are not allowed to delete this !"
@@ -481,18 +480,20 @@ msgid "Added on"
 msgstr "Danh sách các tính năng và tiện nghi đã được thêm"
 
 #: crm_functions/crm_functions.php:320 crm_functions/crm_functions.php:370
-#: libs/dashboard_actions_functions.php:577
-#: libs/dashboard_actions_functions.php:635
-#: libs/dashboard_actions_functions.php:754
-#: libs/dashboard_actions_functions.php:760 user_dashboard_favorite.php:42
+#: libs/dashboard_actions_functions.php:580
+#: libs/dashboard_actions_functions.php:638
+#: libs/dashboard_actions_functions.php:757
+#: libs/dashboard_actions_functions.php:763 libs/elementor_help_files2.php:62
+#: libs/elementor_help_files2.php:366 libs/searchfunctions.php:2184
+#: user_dashboard_favorite.php:42
 msgid "Status"
 msgstr "Trạng thái"
 
 #: crm_functions/crm_functions.php:321 crm_functions/crm_functions.php:371
 #: crm_functions/templates/crm_contact_unit_actions.php:12
 #: crm_functions/templates/crm_lead_unit_actions.php:14
-#: libs/dashboard_actions_functions.php:636
-#: libs/dashboard_actions_functions.php:765
+#: libs/dashboard_actions_functions.php:639
+#: libs/dashboard_actions_functions.php:768
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:11
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:30
 #: user_dashboard_favorite.php:44
@@ -505,7 +506,7 @@ msgstr "Bạn không có bất kỳ khách hàng tiềm năng!"
 
 #: crm_functions/crm_functions.php:360
 msgid "Your Leads/Deals"
-msgstr ""
+msgstr "Khách tiềm năng/Giao dịch của bạn"
 
 #: crm_functions/crm_functions.php:361
 msgid "Add New Lead/Deal"
@@ -517,14 +518,14 @@ msgstr "Chì Không"
 
 #: crm_functions/crm_functions.php:365
 msgid "Request By"
-msgstr ""
+msgstr "Yêu cầu bởi"
 
 #: crm_functions/crm_functions.php:366
 msgid "Agent in Charge"
 msgstr "Đại lý phụ trách"
 
-#: crm_functions/crm_functions.php:367 libs/dashboard_actions_functions.php:574
-#: libs/dashboard_actions_functions.php:1299
+#: crm_functions/crm_functions.php:367 libs/dashboard_actions_functions.php:577
+#: libs/dashboard_actions_functions.php:1319
 msgid "Date"
 msgstr "Ngày"
 
@@ -545,15 +546,15 @@ msgstr "Thêm khách hàng tiềm năng"
 
 #: crm_functions/templates/crm_contact_submit.php:1
 #: templates/dashboard-templates/user_profile.php:105
-#: templates/dashboard-templates/user_profile_agency.php:199
-#: templates/dashboard-templates/user_profile_agent.php:197
-#: templates/dashboard-templates/user_profile_developer.php:173
+#: templates/dashboard-templates/user_profile_agency.php:233
+#: templates/dashboard-templates/user_profile_agent.php:236
+#: templates/dashboard-templates/user_profile_developer.php:205
 msgid "Contact Information"
 msgstr "Thông tin liên hệ"
 
 #: crm_functions/templates/crm_contact_unit_actions.php:17
 msgid "View/Edit Contact"
-msgstr ""
+msgstr "Xem/Chỉnh sửa liên hệ"
 
 #: crm_functions/templates/crm_contact_unit_actions.php:21
 #: crm_functions/templates/crm_lead_unit_actions.php:23
@@ -588,7 +589,7 @@ msgstr "Khách tiềm năng số "
 
 #: crm_functions/templates/dashboard_lead_unit.php:23
 msgid "added manually"
-msgstr ""
+msgstr "được thêm thủ công"
 
 #. Template Name of the theme
 msgid "Developer list"
@@ -656,7 +657,7 @@ msgstr "Bước tiếp theo"
 msgid "Submit Property"
 msgstr "Gửi thuộc tính"
 
-#: functions.php:79
+#: functions.php:98
 msgid ""
 "For better speed results, the theme offers a built-in caching system for "
 "properties and categories. Check this article how to enable - disable theme "
@@ -666,11 +667,11 @@ msgstr ""
 "hợp cho các tài sản và loại. Kiểm tra bài viết này làm thế nào để kích hoạt-"
 "vô hiệu hóa bộ nhớ cache chủ đề:"
 
-#: functions.php:79
+#: functions.php:98
 msgid "help article"
-msgstr ""
+msgstr "bài viết trợ giúp"
 
-#: functions.php:91 word_remove.php:63
+#: functions.php:110 word_remove.php:63
 msgid ""
 "The Google Maps JavaScript API v3 REQUIRES an API key to function correctly. "
 "Get an APIs Console key and post the code in Theme Options. You can get it "
@@ -680,29 +681,29 @@ msgstr ""
 "xác. Nhận khóa API Console và đăng mã trong Tùy chọn chủ đề. Bạn có thể lấy "
 "nó từ"
 
-#: functions.php:92 word_remove.php:63
+#: functions.php:111 word_remove.php:63
 msgid "here"
 msgstr "đây"
 
-#: functions.php:104
+#: functions.php:123
 msgid "WordPress Memory Limit is set to "
 msgstr "Giới hạn bộ nhớ WordPress được đặt thành"
 
-#: functions.php:104
+#: functions.php:123
 msgid "Recommended memory limit should be at least 96MB. Please refer to : "
 msgstr ""
 "Giới hạn bộ nhớ được đề xuất tối thiểu phải là 96MB. Vui lòng tham khảo "
 "trước :"
 
-#: functions.php:104
+#: functions.php:123
 msgid "Increasing memory allocated to PHP"
 msgstr "Tăng bộ nhớ được cấp phát cho PHP"
 
-#: functions.php:124
+#: functions.php:143
 msgid "Your PHP version is "
 msgstr "Phiên bản PHP của bạn là"
 
-#: functions.php:137
+#: functions.php:156
 msgid ""
 "PHP GD library is NOT installed on your web server and because of that the "
 "theme will not be able to work with images. Please contact your hosting "
@@ -712,7 +713,7 @@ msgstr ""
 "sẽ không thể hoạt động với hình ảnh. Vui lòng liên hệ với công ty lưu trữ "
 "của bạn để kích hoạt thư viện này."
 
-#: functions.php:149
+#: functions.php:168
 msgid ""
 "MbString extension not detected. Please contact your hosting provider in "
 "order to enable it."
@@ -720,7 +721,7 @@ msgstr ""
 "Không phát hiện thấy tiện ích mở rộng MbString. Vui lòng liên hệ với nhà "
 "cung cấp dịch vụ lưu trữ của bạn để bật."
 
-#: functions.php:167
+#: functions.php:186
 msgid ""
 "Half Map Template - make sure your page has the \"media header type\" set as "
 "google map "
@@ -728,7 +729,7 @@ msgstr ""
 "Bản đồ nửa bản mẫu - đảm bảo trang của bạn có &quot;loại tiêu đề phương "
 "tiện&quot; được đặt làm bản đồ google"
 
-#: functions.php:183
+#: functions.php:202
 msgid ""
 "Please do not manually change the slugs when adding new terms. If you need "
 "to edit a term name copy the new name in the slug field also."
@@ -737,88 +738,89 @@ msgstr ""
 "mới. Nếu bạn cần chỉnh sửa tên thuật ngữ, hãy sao chép tên mới vào trường "
 "slug."
 
-#: functions.php:355
+#: functions.php:374
 msgid "Post navigation"
 msgstr "bài chuyển hướng"
 
-#: functions.php:356
+#: functions.php:375
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
 msgstr "<span class=\"meta-nav\">← Bài</span> đăng cũ hơn"
 
-#: functions.php:357
+#: functions.php:376
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
 msgstr "Bài đăng mới hơn <span class=\"meta-nav\">→</span>"
 
-#: functions.php:381
+#: functions.php:400
 msgid "Pingback:"
 msgstr "Pingback:"
 
-#: functions.php:381 functions.php:397
+#: functions.php:400 functions.php:416
 msgid "Edit"
 msgstr "Chỉnh sửa"
 
-#: functions.php:392 templates/dashboard-templates/message-listing-unit.php:92
+#: functions.php:411 templates/dashboard-templates/message-listing-unit.php:92
 #: templates/dashboard-templates/message-listing-unit.php:98
 msgid "Reply"
 msgstr "Đáp lại"
 
-#: functions.php:402
+#: functions.php:421
 msgid " on "
 msgstr "trên"
 
-#: functions.php:407
+#: functions.php:426
 msgid "Your comment is awaiting moderation."
 msgstr "Bình luận của bạn đang chờ kiểm duyệt."
 
-#: functions.php:440 functions.php:444
+#: functions.php:459 functions.php:463
 msgid "Please edit your profile page from site interface."
 msgstr "Vui lòng chỉnh sửa trang tiểu sử của bạn từ giao diện trang web."
 
-#: functions.php:562
+#: functions.php:581
 msgid "Your new password for the account at:"
 msgstr "Mật khẩu mới của bạn cho tài khoản tại:"
 
-#: functions.php:564
+#: functions.php:583
 msgid "Username: %s"
 msgstr "Tên người dùng: %s"
 
-#: functions.php:565
+#: functions.php:584
 msgid "Password: %s"
 msgstr "Mật khẩu: %s"
 
-#: functions.php:566
+#: functions.php:585
 msgid "You can now login with your new password at: "
 msgstr "Bây giờ bạn có thể đăng nhập bằng mật khẩu mới của mình tại:"
 
-#: functions.php:577
+#: functions.php:596
 msgid "A new password was sent via email!"
 msgstr "Một mật khẩu mới đã được gửi qua email!"
 
-#: functions.php:584
+#: functions.php:603
 msgid "We have just sent you a new password. Please check your email!"
 msgstr ""
 "Chúng tôi vừa gửi cho bạn mật khẩu mới. Vui lòng kiểm tra email của bạn!"
 
-#: functions.php:607 functions.php:622
+#: functions.php:626 functions.php:641
 msgid "Message sent from page: "
 msgstr "Tin nhắn được gửi từ trang:"
 
-#: functions.php:727 functions.php:754 libs/elementor_help_files.php:15
-#: libs/help_functions.php:3726 libs/help_functions.php:3732
-#: libs/help_functions.php:3871 libs/help_functions.php:4103
-#: libs/help_functions.php:4234 libs/help_functions.php:4623
-#: libs/searchfunctions.php:449 libs/searchfunctions.php:500
+#: functions.php:746 functions.php:773 libs/elementor_help_files.php:15
+#: libs/elementor_help_files2.php:23 libs/elementor_help_files2.php:347
+#: libs/help_functions.php:3965 libs/help_functions.php:3971
+#: libs/help_functions.php:4355 libs/help_functions.php:4744
+#: libs/searchfunctions.php:486 libs/searchfunctions.php:537
 #: libs/searchfunctions2.php:53 property_list_directory.php:79
-#: property_list_half.php:69
+#: property_list_half.php:69 templates/advanced_property_list_filters.php:52
+#: templates/advanced_property_list_filters.php:92
 #: templates/advanced_search/advanced_search_type2.php:46
 #: templates/advanced_search/advanced_search_type8.php:144
 #: templates/advanced_search/advanced_search_type9.php:146
 #: templates/advanced_search/advanced_search_type_half.php:129
-#: templates/advanced_search/advanced_search_type_half.php:162
-#: templates/advanced_search/advanced_search_type_half.php:173
+#: templates/advanced_search/advanced_search_type_half.php:171
+#: templates/advanced_search/advanced_search_type_half.php:182
 #: templates/advanced_search/adv_search_mobile.php:77
 #: templates/advanced_search/adv_search_mobile.php:102
-#: templates/advanced_search/adv_search_mobile.php:179
+#: templates/advanced_search/adv_search_mobile.php:186
 #: templates/advanced_search_type2.php:46
 #: templates/advanced_search_type8.php:144
 #: templates/advanced_search_type9.php:146
@@ -835,12 +837,14 @@ msgstr "Tin nhắn được gửi từ trang:"
 msgid "Types"
 msgstr "Loại"
 
-#: functions.php:780 libs/help_functions.php:3728 libs/help_functions.php:3905
-#: libs/help_functions.php:4132 libs/help_functions.php:4263
-#: libs/help_functions.php:4859 property_list_directory.php:130
-#: property_list_half.php:86
-#: templates/advanced_search/advanced_search_type_half.php:246
-#: templates/advanced_search/advanced_search_type_half.php:256
+#: functions.php:799 libs/elementor_help_files2.php:32
+#: libs/elementor_help_files2.php:351 libs/help_functions.php:3967
+#: libs/help_functions.php:4384 libs/help_functions.php:4980
+#: property_list_directory.php:130 property_list_half.php:86
+#: templates/advanced_property_list_filters.php:54
+#: templates/advanced_property_list_filters.php:134
+#: templates/advanced_search/advanced_search_type_half.php:255
+#: templates/advanced_search/advanced_search_type_half.php:265
 #: templates/advanced_search_type_half.php:247
 #: templates/advanced_search_type_half.php:257
 #: templates/directory_filters.php:49
@@ -854,12 +858,14 @@ msgstr "Loại"
 msgid "Cities"
 msgstr "Thành phố"
 
-#: functions.php:808 libs/help_functions.php:3730 libs/help_functions.php:3920
-#: libs/help_functions.php:4146 libs/help_functions.php:4277
-#: libs/help_functions.php:4966 property_list_directory.php:155
-#: property_list_directory.php:182 property_list_half.php:93
-#: templates/advanced_search/advanced_search_type_half.php:284
-#: templates/advanced_search/advanced_search_type_half.php:294
+#: functions.php:827 libs/elementor_help_files2.php:42
+#: libs/elementor_help_files2.php:356 libs/help_functions.php:3969
+#: libs/help_functions.php:4398 libs/help_functions.php:5087
+#: property_list_directory.php:155 property_list_directory.php:182
+#: property_list_half.php:93 templates/advanced_property_list_filters.php:55
+#: templates/advanced_property_list_filters.php:124
+#: templates/advanced_search/advanced_search_type_half.php:293
+#: templates/advanced_search/advanced_search_type_half.php:303
 #: templates/advanced_search_type_half.php:285
 #: templates/advanced_search_type_half.php:295
 #: templates/directory_filters.php:59
@@ -873,60 +879,60 @@ msgstr "Thành phố"
 msgid "Areas"
 msgstr "Diện tích"
 
-#: functions.php:832 libs/css_js_include.php:802
+#: functions.php:851 libs/css_js_include.php:810
 #: libs/css_js_include_bkc.php:803
-#: templates/advanced_search/advanced_search_type_half.php:318
+#: templates/advanced_search/advanced_search_type_half.php:327
 #: templates/advanced_search_type_half.php:319
 msgid "Type Bedrooms No."
 msgstr "Loại phòng ngủ"
 
-#: functions.php:841 libs/css_js_include.php:803
+#: functions.php:860 libs/css_js_include.php:811
 #: libs/css_js_include_bkc.php:804
-#: templates/advanced_search/advanced_search_type_half.php:323
+#: templates/advanced_search/advanced_search_type_half.php:332
 #: templates/advanced_search_type_half.php:324
 msgid "Type Bathrooms No."
 msgstr "Loại phòng tắm"
 
-#: functions.php:872 libs/help_functions.php:3540 libs/searchfunctions2.php:127
-#: libs/searchfunctions2.php:218
-#: templates/advanced_search/advanced_search_type_half.php:350
+#: functions.php:891 libs/help_functions.php:3780 libs/searchfunctions2.php:142
+#: libs/searchfunctions2.php:267
+#: templates/advanced_search/advanced_search_type_half.php:359
 #: templates/advanced_search_type_half.php:351
 #: templates/directory_filters.php:159
 msgid "Price range:"
 msgstr "Phạm vi giá:"
 
-#: functions.php:893 libs/css_js_include.php:804
+#: functions.php:912 libs/css_js_include.php:812
 #: libs/css_js_include_bkc.php:805
-#: templates/advanced_search/advanced_search_type_half.php:361
+#: templates/advanced_search/advanced_search_type_half.php:370
 #: templates/advanced_search_type_half.php:362
 msgid "Type Min. Price"
 msgstr "Loại Min. Giá bán"
 
-#: functions.php:897 libs/css_js_include.php:805
+#: functions.php:916 libs/css_js_include.php:813
 #: libs/css_js_include_bkc.php:806
-#: templates/advanced_search/advanced_search_type_half.php:365
+#: templates/advanced_search/advanced_search_type_half.php:374
 #: templates/advanced_search_type_half.php:366
 msgid "Type Max. Price"
 msgstr "Nhập tối đa. Giá bán"
 
-#: functions.php:1550 functions.php:1565 functions.php:1580 functions.php:1594
-#: functions.php:1608 functions.php:1623 functions.php:1637 functions.php:1651
-#: functions.php:1666 functions.php:1682 functions.php:1698 functions.php:1714
-#: functions.php:1729 functions.php:1745 functions.php:1761 functions.php:1778
-#: functions.php:1793 functions.php:1809 functions.php:1827 functions.php:1842
-#: functions.php:1857 functions.php:1869 functions.php:1885 functions.php:1902
-#: functions.php:1918 functions.php:1933 functions.php:1950 functions.php:1967
-#: functions.php:1983 functions.php:1998 functions.php:2013 functions.php:2028
-#: functions.php:2043 functions.php:2058 functions.php:2073 functions.php:2089
-#: functions.php:2104 functions.php:2121 functions.php:2136 functions.php:2151
-#: functions.php:2167
+#: functions.php:1563 functions.php:1577 functions.php:1593 functions.php:1609
+#: functions.php:1628 functions.php:1643 functions.php:1657 functions.php:1671
+#: functions.php:1686 functions.php:1700 functions.php:1714 functions.php:1729
+#: functions.php:1745 functions.php:1761 functions.php:1777 functions.php:1792
+#: functions.php:1808 functions.php:1824 functions.php:1841 functions.php:1856
+#: functions.php:1872 functions.php:1890 functions.php:1905 functions.php:1920
+#: functions.php:1932 functions.php:1948 functions.php:1965 functions.php:1981
+#: functions.php:1996 functions.php:2013 functions.php:2030 functions.php:2046
+#: functions.php:2061 functions.php:2076 functions.php:2091 functions.php:2106
+#: functions.php:2121 functions.php:2136 functions.php:2152 functions.php:2167
+#: functions.php:2184 functions.php:2199 functions.php:2214 functions.php:2230
 msgid "Clear theme cache after demo import is complete!"
 msgstr "Xóa bộ nhớ cache chủ đề sau khi nhập demo hoàn tất!"
 
 #. Template Name of the theme
 #: libs/contact_functions.php:120
 msgid "GDPR Terms"
-msgstr ""
+msgstr "Các điều khoản GDPR"
 
 #: index.php:36
 msgid "There are no posts published!"
@@ -978,11 +984,27 @@ msgstr "Thỏa thuận thanh toán PayPal"
 
 #: libs/agent_functions.php:16
 msgid "Hello I'm interested in one of your listings."
-msgstr ""
+msgstr "Xin chào Tôi quan tâm đến một trong những bất động sản của bạn."
 
 #: libs/agent_functions.php:18
 msgid "Hello I'm interested in "
 msgstr "Xin chào Tôi quan tâm đến "
+
+#: libs/agent_functions.php:377 templates/agentdetails.php:87
+#: templates/listing_templates/agent_section/agent_details_2.php:27
+msgid "Member of:"
+msgstr "Thành viên của:"
+
+#: libs/agent_functions.php:440 templates/!property_reviews.php:118
+#: templates/agency_reviews.php:124
+#: templates/agency_templates/agency_reviews.php:124
+#: templates/agent_reviews.php:102 templates/developer_reviews.php:105
+#: templates/developer_templates/developer_reviews.php:109
+#: templates/listing_templates/property-page-templates/property_reviews.php:126
+#: templates/listing_templates/property_reviews.php:121
+#: templates/property_page!/property_reviews.php:118
+msgid "Reviews"
+msgstr "Nhận xét"
 
 #: libs/ajax_functions.php:19 libs/gallery_functions.php:33
 #: libs/header_filter_functions.php:149 libs/listing_functions.php:878
@@ -993,8 +1015,8 @@ msgid "Map"
 msgstr "Bản đồ"
 
 #: libs/ajax_functions.php:97 libs/ajax_functions.php:209
-#: libs/css_js_include.php:919 libs/css_js_include_bkc.php:917
-#: libs/design_functions.php:2005 templates/featured_property_3.php:34
+#: libs/css_js_include.php:931 libs/css_js_include_bkc.php:917
+#: libs/design_functions.php:2121 templates/featured_property_3.php:34
 #: templates/featured_property_4.php:48
 #: templates/listing_templates/favorite_under_title.php:8
 #: templates/listing_templates/property-page-templates/favorite_under_title.php:8
@@ -1005,7 +1027,7 @@ msgid "add to favorites"
 msgstr "thêm vào mục yêu thích"
 
 #: libs/ajax_functions.php:112 libs/ajax_functions.php:214
-#: libs/css_js_include.php:918 libs/css_js_include_bkc.php:916
+#: libs/css_js_include.php:930 libs/css_js_include_bkc.php:916
 msgid "favorite"
 msgstr "yêu thích"
 
@@ -1043,7 +1065,7 @@ msgstr "Có gì ở gần đây"
 msgid "WalkScore"
 msgstr "WalkScore"
 
-#: libs/ajax_functions.php:340 libs/dashboard_actions_functions.php:295
+#: libs/ajax_functions.php:341 libs/dashboard_actions_functions.php:295
 #: libs/gallery_functions.php:47 libs/header_filter_functions.php:154
 #: templates/property_page_acc_content.php:240
 #: templates/property_page_acc_content.php:254
@@ -1052,78 +1074,68 @@ msgstr "WalkScore"
 msgid "Virtual Tour"
 msgstr "Tham quan ảo"
 
-#: libs/ajax_functions.php:370 libs/gallery_functions.php:42
+#: libs/ajax_functions.php:371 libs/gallery_functions.php:42
 #: libs/header_filter_functions.php:144
 #: templates/property_page_acc_content.php:164
 #: templates/property_page_tab_content.php:161
 msgid "Video"
 msgstr "Video"
 
-#: libs/ajax_functions.php:397 libs/header_filter_functions.php:139
+#: libs/ajax_functions.php:398 libs/header_filter_functions.php:139
 #: templates/property_page_acc_content.php:126
 #: templates/property_page_tab_content.php:62
 #: templates/submit_templates/property_amenities.php:109
 msgid "Amenities and Features"
 msgstr "Tiện nghi và tính năng"
 
-#: libs/ajax_functions.php:427 libs/header_filter_functions.php:134
+#: libs/ajax_functions.php:428 libs/header_filter_functions.php:134
 #: templates/property_page_acc_content.php:92
 #: templates/property_page_tab_content.php:49
 msgid "Property Details"
 msgstr "Chi tiết tài sản"
 
-#: libs/ajax_functions.php:455 libs/dashboard_actions_functions.php:140
-#: libs/header_filter_functions.php:129 libs/help_functions.php:5756
-#: libs/help_functions.php:5990 templates/property_page_acc_content.php:64
+#: libs/ajax_functions.php:456 libs/dashboard_actions_functions.php:140
+#: libs/header_filter_functions.php:129 libs/help_functions.php:5877
+#: libs/help_functions.php:6111 templates/property_page_acc_content.php:64
 #: templates/property_page_tab_content.php:39
 msgid "Property Address"
 msgstr "Địa chỉ tài sản"
 
-#: libs/ajax_functions.php:486 libs/dashboard_actions_functions.php:16
-#: libs/header_filter_functions.php:108 libs/help_functions.php:5745
+#: libs/ajax_functions.php:487 libs/dashboard_actions_functions.php:16
+#: libs/header_filter_functions.php:108 libs/help_functions.php:5866
 #: libs/megamenu.php:255 templates/property_page_acc_content.php:23
 #: templates/property_page_tab_content.php:26
 #: templates/submit_templates/property_description.php:17
 msgid "Description"
 msgstr "Sự miêu tả"
 
-#: libs/ajax_functions.php:709 libs/ajax_functions.php:881
-#: libs/ajax_functions.php:1239 libs/ajax_functions.php:1843
-#: libs/ajax_functions.php:2567 libs/ajax_functions.php:4232
-#: libs/ajax_functions.php:4485 libs/ajax_functions.php:4767
+#: libs/ajax_functions.php:710 libs/ajax_functions.php:888
+#: libs/ajax_functions.php:1246 libs/ajax_functions.php:1783
+#: libs/ajax_functions.php:2508 libs/ajax_functions.php:4224
+#: libs/ajax_functions.php:4477 libs/ajax_functions.php:4760
 #: templates/google_maps_base.php:75
 msgid "We didn't find any results"
 msgstr "Chúng tôi không tìm thấy bất kỳ kết quả nào"
 
-#: libs/ajax_functions.php:1232 templates/agency_unit.php:149
+#: libs/ajax_functions.php:1239 templates/agency_unit.php:138
 #: templates/agent_card_templates/agent_unit.php:24
 #: templates/agent_card_templates/agent_unit_4.php:24
 #: templates/agent_unit.php:22 templates/agent_unit_widget.php:109
 msgid "listings"
 msgstr "danh sách"
 
-#: libs/ajax_functions.php:1302
-msgid ""
-"Please validate your purchase code in order to use the theme! See this link "
-"link  "
-msgstr ""
-
-#: libs/ajax_functions.php:1302
-msgid "if you don't know how to get your license key. Thank you!"
-msgstr "nếu bạn không biết cách lấy khóa cấp phép của mình. Cảm ơn bạn!"
-
-#: libs/ajax_functions.php:1851 libs/ajax_functions.php:4776
+#: libs/ajax_functions.php:1791 libs/ajax_functions.php:4784
 #: templates/dashboard-templates/user_memebership_profile.php:138
-#: templates/half_map_core.php:175
+#: templates/half_map_core.php:178
 msgid "Listings"
 msgstr "Danh sách"
 
-#: libs/ajax_functions.php:2333 libs/ajax_functions.php:2446
-#: libs/help_functions.php:5219
+#: libs/ajax_functions.php:2273 libs/ajax_functions.php:2387
+#: libs/help_functions.php:5340
 msgid "Hi there,"
 msgstr "Xin chào,"
 
-#: libs/ajax_functions.php:2334
+#: libs/ajax_functions.php:2274
 msgid ""
 "We received your  Wire Transfer payment request on %s ! Please follow the "
 "instructions below in order to start submitting properties as soon as "
@@ -1133,23 +1145,23 @@ msgstr ""
 "%s! Vui lòng làm theo hướng dẫn bên dưới để bắt đầu gửi thuộc tính càng sớm "
 "càng tốt."
 
-#: libs/ajax_functions.php:2335
+#: libs/ajax_functions.php:2275
 msgid "The invoice number is: "
 msgstr "Số hóa đơn là:"
 
-#: libs/ajax_functions.php:2335
+#: libs/ajax_functions.php:2275
 msgid "Amount:"
 msgstr "Số tiền:"
 
-#: libs/ajax_functions.php:2336
+#: libs/ajax_functions.php:2276
 msgid "Instructions: "
 msgstr "Hướng dẫn:"
 
-#: libs/ajax_functions.php:2619
+#: libs/ajax_functions.php:2560
 msgid "you don't have the right to delete this"
 msgstr "bạn không có quyền xóa cái này"
 
-#: libs/ajax_functions.php:2677
+#: libs/ajax_functions.php:2618
 msgid ""
 "Search has been saved. You will receive an email notification when new "
 "properties matching your search have been published"
@@ -1157,59 +1169,59 @@ msgstr ""
 "Tìm kiếm đã được lưu. Bạn sẽ nhận được thông báo qua email khi các thuộc "
 "tính mới phù hợp với tìm kiếm của bạn đã được xuất bản"
 
-#: libs/ajax_functions.php:2863
+#: libs/ajax_functions.php:2804
 msgid "Wrong captcha"
 msgstr "Sai xác thực"
 
-#: libs/ajax_functions.php:2881
+#: libs/ajax_functions.php:2822
 msgid "Captcha Invalidated - Refresh and try again."
 msgstr "Captcha không hợp lệ - Hãy làm mới và thử lại."
 
-#: libs/ajax_functions.php:2899 libs/dashboard_actions_functions.php:902
+#: libs/ajax_functions.php:2840 libs/dashboard_actions_functions.php:907
 msgid "Invalid username (do not use special characters or spaces)!"
 msgstr ""
 "Tên người dùng không hợp lệ (không sử dụng ký tự đặc biệt hoặc dấu cách)!"
 
-#: libs/ajax_functions.php:2907 libs/dashboard_actions_functions.php:906
-#: libs/dashboard_actions_functions.php:932
+#: libs/ajax_functions.php:2848 libs/dashboard_actions_functions.php:911
+#: libs/dashboard_actions_functions.php:937
 msgid "Username and/or Email field is empty!"
 msgstr "Tên người dùng và / hoặc trường Email trống!"
 
-#: libs/ajax_functions.php:2915 libs/dashboard_actions_functions.php:947
+#: libs/ajax_functions.php:2856 libs/dashboard_actions_functions.php:952
 msgid "The email doesn't look right !"
 msgstr "Email không đúng!"
 
-#: libs/ajax_functions.php:2924 libs/dashboard_actions_functions.php:952
+#: libs/ajax_functions.php:2865 libs/dashboard_actions_functions.php:957
 msgid "The email's domain doesn't look right."
 msgstr "Tên miền của email không đúng."
 
-#: libs/ajax_functions.php:2934 libs/dashboard_actions_functions.php:911
+#: libs/ajax_functions.php:2875 libs/dashboard_actions_functions.php:916
 msgid "Username already exists.  Please choose a new one."
 msgstr "Tên này đã có người dùng. Vui lòng chọn một cái mới."
 
-#: libs/ajax_functions.php:2946 libs/dashboard_actions_functions.php:918
+#: libs/ajax_functions.php:2887 libs/dashboard_actions_functions.php:923
 msgid "One of the password field is empty!"
 msgstr "Một trong các trường mật khẩu trống!"
 
-#: libs/ajax_functions.php:2954 libs/ajax_functions.php:3944
-#: libs/dashboard_actions_functions.php:922
+#: libs/ajax_functions.php:2895 libs/ajax_functions.php:3936
+#: libs/dashboard_actions_functions.php:927
 msgid "Passwords do not match"
 msgstr "Mật khẩu không phù hợp"
 
-#: libs/ajax_functions.php:2977
+#: libs/ajax_functions.php:2918
 msgid "Your account was created and you can login now!"
 msgstr "Tài khoản của bạn đã được tạo và bạn có thể đăng nhập ngay bây giờ!"
 
-#: libs/ajax_functions.php:2982
+#: libs/ajax_functions.php:2923
 msgid "An email with the generated password was sent!"
 msgstr "Một email với mật khẩu được tạo đã được gửi!"
 
-#: libs/ajax_functions.php:2999 libs/dashboard_actions_functions.php:926
-#: libs/dashboard_actions_functions.php:936
+#: libs/ajax_functions.php:2940 libs/dashboard_actions_functions.php:931
+#: libs/dashboard_actions_functions.php:941
 msgid "Email already exists.  Please choose a new one."
 msgstr "Email đã tồn tại. Vui lòng chọn một cái mới."
 
-#: libs/ajax_functions.php:3020 libs/dashboard_actions_functions.php:632
+#: libs/ajax_functions.php:2961 libs/dashboard_actions_functions.php:635
 #: libs/header_filter_functions.php:189 single-estate_property-obsolete.php:218
 #: single-estate_property-obsolete.php:223
 #: templates/dashboard-templates/user_memebership_profile.php:73
@@ -1217,137 +1229,137 @@ msgstr "Email đã tồn tại. Vui lòng chọn một cái mới."
 msgid "Agent"
 msgstr "Đặc vụ"
 
-#: libs/ajax_functions.php:3024
+#: libs/ajax_functions.php:2965
 #: templates/dashboard-templates/user_memebership_profile.php:73
 msgid "Agency"
 msgstr "Đại lý"
 
-#: libs/ajax_functions.php:3028
+#: libs/ajax_functions.php:2969
 #: templates/dashboard-templates/user_memebership_profile.php:73
 msgid "Developer"
 msgstr "Nhà phát triển"
 
-#: libs/ajax_functions.php:3082 libs/ajax_functions.php:3137
-#: libs/ajax_functions.php:3194
+#: libs/ajax_functions.php:3023 libs/ajax_functions.php:3078
+#: libs/ajax_functions.php:3135
 msgid "You are already logged in! redirecting..."
 msgstr "Bạn đã đăng nhập! đang chuyển hướng ..."
 
-#: libs/ajax_functions.php:3092 libs/ajax_functions.php:3148
-#: libs/ajax_functions.php:3205
+#: libs/ajax_functions.php:3033 libs/ajax_functions.php:3089
+#: libs/ajax_functions.php:3146
 msgid "Username and/or Password field is empty!"
 msgstr "Trường Tên người dùng và / hoặc Mật khẩu trống!"
 
-#: libs/ajax_functions.php:3112 libs/ajax_functions.php:3169
-#: libs/ajax_functions.php:3217
+#: libs/ajax_functions.php:3053 libs/ajax_functions.php:3110
+#: libs/ajax_functions.php:3158
 msgid "Wrong username or password!"
 msgstr "Tên người dùng hoặc mật khẩu sai!"
 
-#: libs/ajax_functions.php:3118 libs/ajax_functions.php:3175
-#: libs/ajax_functions.php:3225
+#: libs/ajax_functions.php:3059 libs/ajax_functions.php:3116
+#: libs/ajax_functions.php:3166
 msgid "Login successful, redirecting..."
 msgstr "Đăng nhập thành công, chuyển hướng ..."
 
-#: libs/ajax_functions.php:3254
+#: libs/ajax_functions.php:3195
 msgid "Email field is empty!"
 msgstr "Trường email trống!"
 
-#: libs/ajax_functions.php:3263
+#: libs/ajax_functions.php:3204
 msgid "Invalid E-mail address!"
 msgstr "Địa chỉ email không hợp lệ!"
 
-#: libs/ajax_functions.php:3271
+#: libs/ajax_functions.php:3212
 msgid "Invalid Username!"
 msgstr "Tên sử dụng không hợp lệ!"
 
-#: libs/ajax_functions.php:3293
+#: libs/ajax_functions.php:3234
 msgid "We have just sent you an email with Password reset instructions."
 msgstr "Chúng tôi vừa gửi cho bạn email có hướng dẫn Đặt lại mật khẩu."
 
-#: libs/ajax_functions.php:3412 libs/ajax_functions.php:3587
-#: libs/ajax_functions.php:3755
+#: libs/ajax_functions.php:3365 libs/ajax_functions.php:3555
+#: libs/ajax_functions.php:3736
 msgid "The email was not saved because it is used by another user."
 msgstr "Email không được lưu vì nó được người dùng khác sử dụng."
 
-#: libs/ajax_functions.php:3427 libs/ajax_functions.php:3602
-#: libs/ajax_functions.php:3770
+#: libs/ajax_functions.php:3380 libs/ajax_functions.php:3570
+#: libs/ajax_functions.php:3751
 msgid "Profile updated"
 msgstr "Hồ sơ cá nhân đã cập nhật"
 
-#: libs/ajax_functions.php:3939
+#: libs/ajax_functions.php:3931
 msgid "The new password is blank"
 msgstr "Mật khẩu mới trống"
 
-#: libs/ajax_functions.php:3952
+#: libs/ajax_functions.php:3944
 msgid "Password Updated"
 msgstr "Mật khẩu được cập nhật"
 
-#: libs/ajax_functions.php:3954
+#: libs/ajax_functions.php:3946
 msgid "Old Password is not correct"
 msgstr "Mật khẩu cũ không chính xác"
 
-#: libs/ajax_functions.php:3995 libs/ajax_functions.php:4001
+#: libs/ajax_functions.php:3987 libs/ajax_functions.php:3993
 msgid "addded"
 msgstr "thêm vào"
 
-#: libs/ajax_functions.php:4008
+#: libs/ajax_functions.php:4000
 msgid "removed"
 msgstr "đã xóa"
 
-#: libs/ajax_functions.php:4915
+#: libs/ajax_functions.php:4923
 msgid "Listing payment on "
 msgstr "Thanh toán danh sách trên"
 
-#: libs/ajax_functions.php:4927
+#: libs/ajax_functions.php:4935
 msgid "Upgrade to featured listing on "
 msgstr "Nâng cấp lên danh sách nổi bật trên"
 
-#: libs/ajax_functions.php:5014
+#: libs/ajax_functions.php:5022
 msgid "Upgrade to Featured Listing"
 msgstr "Nâng cấp lên danh sách nổi bật"
 
-#: libs/ajax_functions.php:5023
+#: libs/ajax_functions.php:5031
 msgid "Listing Payment"
 msgstr "Liệt kê thanh toán"
 
-#: libs/ajax_functions.php:5033
+#: libs/ajax_functions.php:5041
 msgid "Listing Payment with Featured option"
 msgstr "Liệt kê thanh toán với tùy chọn Nổi bật"
 
-#: libs/ajax_functions.php:5146
+#: libs/ajax_functions.php:5154
 msgid "Sent for approval"
 msgstr "Đã gửi để phê duyệt"
 
-#: libs/ajax_functions.php:5158
+#: libs/ajax_functions.php:5166
 msgid "no listings available"
 msgstr "không có danh sách nào"
 
-#: libs/ajax_functions.php:5187
+#: libs/ajax_functions.php:5195
 msgid "The date & time is already booked. Please choose a new one"
 msgstr "Ngày và giờ đã được đặt. Vui lòng chọn một cái mới"
 
-#: libs/ajax_functions.php:5276
+#: libs/ajax_functions.php:5284
 msgid "membership payment on "
 msgstr "thanh toán thành viên trên"
 
-#: libs/ajax_functions.php:5283 libs/ajax_functions.php:5286
+#: libs/ajax_functions.php:5291 libs/ajax_functions.php:5294
 msgid "Membership Payment"
 msgstr "Thanh toán thành viên"
 
-#: libs/ajax_functions.php:5348
+#: libs/ajax_functions.php:5356
 msgid "Unable to login. Please, check login/password and try again"
 msgstr ""
 "Không thể đăng nhập. Vui lòng kiểm tra thông tin đăng nhập / mật khẩu và thử "
 "lại"
 
-#: libs/ajax_functions.php:5356
+#: libs/ajax_functions.php:5364
 msgid "Please, enter correct email"
 msgstr "Vui lòng nhập email chính xác"
 
-#: libs/ajax_functions.php:5370
+#: libs/ajax_functions.php:5378
 msgid "Can\\t create user with this credentials"
 msgstr "Không thể tạo người dùng bằng thông tin xác thực này"
 
-#: libs/ajax_functions.php:5374
+#: libs/ajax_functions.php:5382
 msgid "Sorry, user already exists. Try different username/email"
 msgstr "Rất tiếc, người dùng đã tồn tại. Thử tên người dùng / email khác"
 
@@ -1363,11 +1375,12 @@ msgstr "Thời gian"
 #: libs/contact_functions.php:80 libs/contact_functions.php:92
 #: templates/agent_contact.php:31 templates/agent_contact.php:47
 #: templates/footer_buttons.php:21 templates/header_agency.php:114
-#: templates/header_developer.php:96
+#: templates/header_developer.php:77
 msgid "Contact Us"
 msgstr "Liên hệ chúng tôi"
 
 #: libs/contact_functions.php:82 templates/agent_contact.php:33
+#: templates/listing_templates/agent_section/agent_details_2.php:71
 msgid "Contact Me"
 msgstr "Liên hệ với tôi"
 
@@ -1377,109 +1390,111 @@ msgstr "Lên lịch hiển thị?"
 
 #: libs/contact_functions.php:120
 msgid "I consent to the"
-msgstr ""
+msgstr "Tôi đồng ý với"
 
-#: libs/css_js_include.php:263 libs/css_js_include_bkc.php:263
+#: libs/css_js_include.php:271 libs/css_js_include_bkc.php:263
 msgid "payment failed"
 msgstr "thanh toán không thành công"
 
-#: libs/css_js_include.php:582
+#: libs/css_js_include.php:590
 msgid " in "
 msgstr "trong"
 
-#: libs/css_js_include.php:589
+#: libs/css_js_include.php:597
 msgid "The browser couldn't detect your position!"
 msgstr "Trình duyệt không thể phát hiện vị trí của bạn!"
 
-#: libs/css_js_include.php:590
+#: libs/css_js_include.php:598
 msgid "Geolocation is not supported by this browser."
 msgstr "Định vị địa lý không được trình duyệt này hỗ trợ."
 
-#: libs/css_js_include.php:591
+#: libs/css_js_include.php:599
 msgid "m radius"
 msgstr "m bán kính"
 
-#: libs/css_js_include.php:598 libs/css_js_include.php:822
+#: libs/css_js_include.php:606 libs/css_js_include.php:830
 #: libs/css_js_include_bkc.php:826
 msgid "close map"
 msgstr "đóng bản đồ"
 
-#: libs/css_js_include.php:609
+#: libs/css_js_include.php:617
 msgid "No results found!"
 msgstr "Không có kết quả nào được tìm thấy!"
 
-#: libs/css_js_include.php:615
+#: libs/css_js_include.php:623
 msgid "loading results..."
 msgstr "đang tải kết quả ..."
 
-#: libs/css_js_include.php:622 libs/theme-slider.php:454
+#: libs/css_js_include.php:630 libs/theme-slider.php:454
 #: templates/featured_property_5.php:32
 #: templates/property_cards_templates/property_card_details_type5.php:14
+#: templates/property_cards_templates/property_unit_saved_search.php:29
 msgid "BA"
 msgstr "BA"
 
-#: libs/css_js_include.php:623 libs/theme-slider.php:450
+#: libs/css_js_include.php:631 libs/theme-slider.php:450
 #: templates/featured_property_5.php:28
 #: templates/property_cards_templates/property_card_details_type5.php:10
+#: templates/property_cards_templates/property_unit_saved_search.php:26
 msgid "BD"
 msgstr "BD"
 
-#: libs/css_js_include.php:692 libs/css_js_include.php:1192
+#: libs/css_js_include.php:700 libs/css_js_include.php:1204
 #: libs/css_js_include_bkc.php:1190
 msgid "Geolocation was not successful"
-msgstr ""
+msgstr "Định vị địa lý không thành công"
 
-#: libs/css_js_include.php:750 libs/css_js_include_bkc.php:751
-#: libs/help_functions.php:5902 libs/help_functions.php:5910
+#: libs/css_js_include.php:758 libs/css_js_include_bkc.php:751
+#: libs/help_functions.php:6023 libs/help_functions.php:6031
 msgid "Principal and Interest"
-msgstr ""
+msgstr "Gốc và lãi"
 
-#: libs/css_js_include.php:751 libs/css_js_include_bkc.php:752
+#: libs/css_js_include.php:759 libs/css_js_include_bkc.php:752
 msgid "HOO fees"
-msgstr ""
+msgstr "Phí quản lý"
 
-#: libs/css_js_include.php:752 libs/css_js_include_bkc.php:753
-#: libs/help_functions.php:5903 libs/help_functions.php:5911
+#: libs/css_js_include.php:760 libs/css_js_include_bkc.php:753
+#: libs/help_functions.php:6024 libs/help_functions.php:6032
 msgid "Property Tax"
 msgstr "Thuế tài sản"
 
-#: libs/css_js_include.php:753 libs/css_js_include.php:939
+#: libs/css_js_include.php:761 libs/css_js_include.php:951
 #: libs/css_js_include_bkc.php:754 libs/css_js_include_bkc.php:937
 msgid "Property Views"
 msgstr "Lượt xem sản phẩm"
 
-#: libs/css_js_include.php:780 libs/css_js_include_bkc.php:781
-#: libs/help_functions.php:2239
+#: libs/css_js_include.php:788 libs/css_js_include_bkc.php:781
+#: libs/help_functions.php:2447
 msgid "miles"
 msgstr "dặm"
 
-#: libs/css_js_include.php:781 libs/css_js_include_bkc.php:782
-#: libs/help_functions.php:2242
+#: libs/css_js_include.php:789 libs/css_js_include_bkc.php:782
+#: libs/help_functions.php:2450
 msgid "km"
 msgstr "km"
 
-#: libs/css_js_include.php:796 libs/css_js_include_bkc.php:797
+#: libs/css_js_include.php:804 libs/css_js_include_bkc.php:797
 msgid "Amount Financed:"
 msgstr "Số tiền được tài trợ:"
 
-#: libs/css_js_include.php:797 libs/css_js_include_bkc.php:798
+#: libs/css_js_include.php:805 libs/css_js_include_bkc.php:798
 msgid "Mortgage Payments:"
 msgstr "Thanh toán thế chấp:"
 
-#: libs/css_js_include.php:798 libs/css_js_include_bkc.php:799
+#: libs/css_js_include.php:806 libs/css_js_include_bkc.php:799
 msgid "Annual cost of Loan:"
 msgstr "Chi phí vay hàng năm:"
 
-#: libs/css_js_include.php:799 libs/css_js_include_bkc.php:800
+#: libs/css_js_include.php:807 libs/css_js_include_bkc.php:800
 msgid "SEARCH"
 msgstr "TÌM KIẾM"
 
-#: libs/css_js_include.php:800 libs/css_js_include_bkc.php:801
+#: libs/css_js_include.php:808 libs/css_js_include_bkc.php:801
 msgid "Search here..."
 msgstr "Tìm kiếm ở đây..."
 
-#: libs/css_js_include.php:806 libs/css_js_include.php:810
-#: libs/css_js_include.php:900 libs/css_js_include.php:904
+#: libs/css_js_include.php:814 libs/css_js_include.php:818
+#: libs/css_js_include.php:912 libs/css_js_include.php:916
 #: libs/css_js_include_bkc.php:807 libs/css_js_include_bkc.php:814
 #: libs/css_js_include_bkc.php:898 libs/css_js_include_bkc.php:902
 #: templates/agent_contact.php:84 templates/footer_buttons.php:28
@@ -1488,8 +1503,8 @@ msgstr "Tìm kiếm ở đây..."
 msgid "Your Name"
 msgstr "Tên của bạn"
 
-#: libs/css_js_include.php:807 libs/css_js_include.php:811
-#: libs/css_js_include.php:901 libs/css_js_include.php:905
+#: libs/css_js_include.php:815 libs/css_js_include.php:819
+#: libs/css_js_include.php:913 libs/css_js_include.php:917
 #: libs/css_js_include_bkc.php:808 libs/css_js_include_bkc.php:815
 #: libs/css_js_include_bkc.php:899 libs/css_js_include_bkc.php:903
 #: templates/agent_contact.php:86 templates/footer_buttons.php:29
@@ -1498,8 +1513,8 @@ msgstr "Tên của bạn"
 msgid "Your Email"
 msgstr "Email của bạn"
 
-#: libs/css_js_include.php:808 libs/css_js_include.php:812
-#: libs/css_js_include.php:902 libs/css_js_include.php:906
+#: libs/css_js_include.php:816 libs/css_js_include.php:820
+#: libs/css_js_include.php:914 libs/css_js_include.php:918
 #: libs/css_js_include_bkc.php:809 libs/css_js_include_bkc.php:816
 #: libs/css_js_include_bkc.php:900 libs/css_js_include_bkc.php:904
 #: templates/agent_contact.php:87 templates/footer_buttons.php:30
@@ -1508,91 +1523,93 @@ msgstr "Email của bạn"
 msgid "Your Phone"
 msgstr "Điện thoại của bạn"
 
-#: libs/css_js_include.php:809 libs/css_js_include.php:813
-#: libs/css_js_include.php:903 libs/css_js_include.php:907
+#: libs/css_js_include.php:817 libs/css_js_include.php:821
+#: libs/css_js_include.php:915 libs/css_js_include.php:919
 #: libs/css_js_include_bkc.php:810 libs/css_js_include_bkc.php:817
 #: libs/css_js_include_bkc.php:901 libs/css_js_include_bkc.php:905
 msgid "Your Message"
 msgstr "Tin nhắn của bạn"
 
-#: libs/css_js_include.php:814 libs/css_js_include.php:908
+#: libs/css_js_include.php:822 libs/css_js_include.php:920
 #: libs/css_js_include_bkc.php:818 libs/css_js_include_bkc.php:906
 msgid "Send Message"
 msgstr "Gửi tin nhắn"
 
-#: libs/css_js_include.php:817 libs/css_js_include.php:914
+#: libs/css_js_include.php:825 libs/css_js_include.php:926
 #: libs/css_js_include_bkc.php:821 libs/css_js_include_bkc.php:912
 msgid "Sending user info, please wait..."
 msgstr "Đang gửi thông tin người dùng, vui lòng chờ ..."
 
-#: libs/css_js_include.php:818 libs/css_js_include_bkc.php:822
+#: libs/css_js_include.php:826 libs/css_js_include_bkc.php:822
 #: libs/gallery_functions.php:37 libs/listing_functions.php:883
 #: libs/listing_functions.php:906 templates/google_maps_base.php:125
 msgid "Street View"
 msgstr "Quang cảnh đường phố"
 
-#: libs/css_js_include.php:819 libs/css_js_include_bkc.php:823
+#: libs/css_js_include.php:827 libs/css_js_include_bkc.php:823
 msgid "Close Street View"
 msgstr "Đóng Chế độ xem phố"
 
-#: libs/css_js_include.php:823 libs/css_js_include_bkc.php:827
+#: libs/css_js_include.php:831 libs/css_js_include_bkc.php:827
 #: templates/google_maps_base.php:84 templates/google_maps_base.php:88
 msgid "open map"
 msgstr "mở bản đồ"
 
-#: libs/css_js_include.php:824 libs/css_js_include_bkc.php:828
+#: libs/css_js_include.php:832 libs/css_js_include_bkc.php:828
 #: templates/google_maps_base.php:99 templates/google_maps_base_map_list.php:12
 msgid "Fullscreen"
 msgstr "Toàn màn hình"
 
-#: libs/css_js_include.php:825 libs/css_js_include_bkc.php:829
+#: libs/css_js_include.php:833 libs/css_js_include_bkc.php:829
 #: libs/help_functions_cards.php:152
 msgid "Default"
 msgstr "Mặc định"
 
-#: libs/css_js_include.php:826 libs/css_js_include_bkc.php:830
+#: libs/css_js_include.php:834 libs/css_js_include_bkc.php:830
 msgid "Please wait while we are processing your submission!"
 msgstr "Vui lòng chờ trong khi chúng tôi xử lý yêu cầu của bạn!"
 
-#: libs/css_js_include.php:827 libs/css_js_include_bkc.php:831
+#: libs/css_js_include.php:835 libs/css_js_include_bkc.php:831
 msgid "Are you sure you wish to delete?"
 msgstr "Bạn có chắc chắn muốn xóa không?"
 
-#: libs/css_js_include.php:828 libs/css_js_include_bkc.php:832
+#: libs/css_js_include.php:836 libs/css_js_include_bkc.php:832
 msgid "You need to agree with terms and conditions !"
 msgstr "Bạn cần đồng ý với các điều khoản và điều kiện!"
 
-#: libs/css_js_include.php:829 libs/css_js_include_bkc.php:833
+#: libs/css_js_include.php:837 libs/css_js_include_bkc.php:833
 msgid "Please select the user type !"
 msgstr "Vui lòng chọn loại người dùng!"
 
-#: libs/css_js_include.php:830 libs/css_js_include_bkc.php:834
+#: libs/css_js_include.php:838 libs/css_js_include_bkc.php:834
 msgid "Processing..."
 msgstr "Chế biến..."
 
-#: libs/css_js_include.php:836 libs/css_js_include_bkc.php:840
-#: libs/general-settings.php:50 libs/general-settings.php:52
-#: libs/general-settings.php:62 libs/general-settings.php:64
-#: libs/searchfunctions.php:2510 libs/searchfunctions.php:2538
-#: libs/searchfunctions.php:2570 templates/directory_filters.php:191
+#: libs/css_js_include.php:844 libs/css_js_include_bkc.php:840
+#: libs/general-settings.php:48 libs/general-settings.php:50
+#: libs/general-settings.php:59 libs/general-settings.php:61
+#: libs/general-settings.php:94 libs/general-settings.php:99
+#: libs/general-settings.php:110 libs/general-settings.php:114
+#: libs/searchfunctions.php:2484 libs/searchfunctions.php:2512
+#: libs/searchfunctions.php:2544 templates/directory_filters.php:191
 #: templates/directory_filters.php:208 templates/directory_filters.php:227
 #: templates/directory_filters.php:246 templates/directory_filters.php:265
 msgid "to"
 msgstr "đến"
 
-#: libs/css_js_include.php:838 libs/css_js_include_bkc.php:842
+#: libs/css_js_include.php:846 libs/css_js_include_bkc.php:842
 msgid "Send me the invoice"
 msgstr "Gửi cho tôi hóa đơn"
 
-#: libs/css_js_include.php:839 libs/css_js_include_bkc.php:843
+#: libs/css_js_include.php:847 libs/css_js_include_bkc.php:843
 msgid "Direct payment instructions"
 msgstr "Hướng dẫn thanh toán trực tiếp"
 
-#: libs/css_js_include.php:840 libs/css_js_include_bkc.php:844
+#: libs/css_js_include.php:848 libs/css_js_include_bkc.php:844
 msgid "To be paid"
 msgstr "Được trả tiền"
 
-#: libs/css_js_include.php:842 libs/css_js_include.php:1111
+#: libs/css_js_include.php:850 libs/css_js_include.php:1123
 #: libs/css_js_include_bkc.php:846 libs/css_js_include_bkc.php:1109
 #: libs/dashboard_functions.php:1308
 #: templates/submit_templates/floor_plans.php:24
@@ -1601,14 +1618,14 @@ msgstr "Được trả tiền"
 msgid "Plan Title"
 msgstr "Tên kế hoạch"
 
-#: libs/css_js_include.php:843 libs/css_js_include.php:1112
+#: libs/css_js_include.php:851 libs/css_js_include.php:1124
 #: libs/css_js_include_bkc.php:847 libs/css_js_include_bkc.php:1110
 #: templates/submit_templates/floor_plans.php:54
 #: templates/submit_templates/floor_plans.php:141
 msgid "Plan Image"
 msgstr "Hình ảnh kế hoạch"
 
-#: libs/css_js_include.php:844 libs/css_js_include.php:1113
+#: libs/css_js_include.php:852 libs/css_js_include.php:1125
 #: libs/css_js_include_bkc.php:848 libs/css_js_include_bkc.php:1111
 #: libs/dashboard_functions.php:1311
 #: templates/submit_templates/floor_plans.php:29
@@ -1617,7 +1634,7 @@ msgstr "Hình ảnh kế hoạch"
 msgid "Plan Description"
 msgstr "Mô tả gói"
 
-#: libs/css_js_include.php:845 libs/css_js_include_bkc.php:849
+#: libs/css_js_include.php:853 libs/css_js_include_bkc.php:849
 #: libs/css_js_include_bkc.php:1112 libs/dashboard_functions.php:1312
 #: templates/submit_templates/floor_plans.php:34
 #: templates/submit_templates/floor_plans.php:147
@@ -1625,7 +1642,7 @@ msgstr "Mô tả gói"
 msgid "Plan Size"
 msgstr "Kích thước kế hoạch"
 
-#: libs/css_js_include.php:846 libs/css_js_include.php:1115
+#: libs/css_js_include.php:854 libs/css_js_include.php:1127
 #: libs/css_js_include_bkc.php:850 libs/css_js_include_bkc.php:1113
 #: libs/dashboard_functions.php:1313
 #: templates/submit_templates/floor_plans.php:39
@@ -1634,7 +1651,7 @@ msgstr "Kích thước kế hoạch"
 msgid "Plan Rooms"
 msgstr "Phòng kế hoạch"
 
-#: libs/css_js_include.php:847 libs/css_js_include.php:1116
+#: libs/css_js_include.php:855 libs/css_js_include.php:1128
 #: libs/css_js_include_bkc.php:851 libs/css_js_include_bkc.php:1114
 #: libs/dashboard_functions.php:1314
 #: templates/submit_templates/floor_plans.php:44
@@ -1643,85 +1660,93 @@ msgstr "Phòng kế hoạch"
 msgid "Plan Bathrooms"
 msgstr "Phòng tắm có kế hoạch"
 
-#: libs/css_js_include.php:848 libs/css_js_include.php:1117
+#: libs/css_js_include.php:856 libs/css_js_include.php:1129
 #: libs/css_js_include_bkc.php:852 libs/css_js_include_bkc.php:1115
 #: templates/submit_templates/floor_plans.php:49
 #: templates/submit_templates/floor_plans.php:162
 msgid "Plan Price"
 msgstr "Giá gói"
 
-#: libs/css_js_include.php:851 libs/css_js_include_bkc.php:855
+#: libs/css_js_include.php:859 libs/css_js_include_bkc.php:855
 msgid "deleting..."
 msgstr "đang xóa ..."
 
-#: libs/css_js_include.php:852 libs/css_js_include_bkc.php:856
+#: libs/css_js_include.php:860 libs/css_js_include_bkc.php:856
 msgid "saving..."
 msgstr "tiết kiệm..."
 
-#: libs/css_js_include.php:862 libs/css_js_include_bkc.php:866
+#: libs/css_js_include.php:870 libs/css_js_include_bkc.php:866
 msgid "posting"
 msgstr "đăng"
 
-#: libs/css_js_include.php:863 libs/css_js_include_bkc.php:867
+#: libs/css_js_include.php:871 libs/css_js_include_bkc.php:867
 msgid "Review Sent "
 msgstr "Đánh giá đã gửi"
 
-#: libs/css_js_include.php:864 libs/css_js_include_bkc.php:868
+#: libs/css_js_include.php:872 libs/css_js_include_bkc.php:868
 msgid "Review Edit Saved"
 msgstr "Xem lại chỉnh sửa đã lưu"
 
-#: libs/css_js_include.php:867 libs/css_js_include_bkc.php:871
+#: libs/css_js_include.php:875 libs/css_js_include_bkc.php:871
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:93
 msgid "Pay"
 msgstr "Thanh toán"
 
-#: libs/css_js_include.php:868 libs/css_js_include_bkc.php:872
+#: libs/css_js_include.php:876 libs/css_js_include_bkc.php:872
 msgid "Payment for package"
 msgstr "Thanh toán cho gói"
 
-#: libs/css_js_include.php:874 libs/css_js_include_bkc.php:878
+#: libs/css_js_include.php:882 libs/css_js_include_bkc.php:878
 msgid "there are no results"
 msgstr "không có kết quả"
 
-#: libs/css_js_include.php:879
+#: libs/css_js_include.php:887
 msgid "Please wait while we gather data!"
 msgstr "Vui lòng đợi trong khi chúng tôi thu thập dữ liệu!"
 
-#: libs/css_js_include.php:880
+#: libs/css_js_include.php:888
 msgid "Please complete the form!"
 msgstr "Vui lòng hoàn thành mẫu đơn!"
 
-#: libs/css_js_include.php:909 libs/css_js_include_bkc.php:907
+#: libs/css_js_include.php:889 libs/elementor_help_files2.php:617
+msgid "bd"
+msgstr "PN"
+
+#: libs/css_js_include.php:890 libs/elementor_help_files2.php:617
+msgid "ba"
+msgstr "WC"
+
+#: libs/css_js_include.php:921 libs/css_js_include_bkc.php:907
 #: libs/dashboard_functions.php:1301 libs/dashboard_functions.php:1473
 #: templates/dashboard-templates/dashboard-list-filter-categories.php:13
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:11
 msgid "Disabled"
 msgstr "Tàn tật"
 
-#: libs/css_js_include.php:910 libs/css_js_include_bkc.php:908
+#: libs/css_js_include.php:922 libs/css_js_include_bkc.php:908
 #: libs/dashboard_functions.php:1302 libs/dashboard_functions.php:1469
 #: templates/dashboard-templates/dashboard-list-filter-categories.php:9
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:8
 msgid "Published"
 msgstr "Được phát hành"
 
-#: libs/css_js_include.php:911 libs/css_js_include.php:925
+#: libs/css_js_include.php:923 libs/css_js_include.php:937
 #: libs/css_js_include_bkc.php:909 libs/css_js_include_bkc.php:923
 msgid "Please, enter property title"
 msgstr "Vui lòng nhập tiêu đề thuộc tính"
 
-#: libs/css_js_include.php:916 libs/css_js_include_bkc.php:914
-#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:39
+#: libs/css_js_include.php:928 libs/css_js_include_bkc.php:914
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:47
 msgid "Property is featured"
 msgstr "Tài sản là đặc trưng"
 
-#: libs/css_js_include.php:917 libs/css_js_include_bkc.php:915
+#: libs/css_js_include.php:929 libs/css_js_include_bkc.php:915
 msgid "You have used all the \"Featured\" listings in your package."
 msgstr ""
 "Bạn đã sử dụng tất cả danh sách &quot;Nổi bật&quot; trong gói của mình."
 
-#: libs/css_js_include.php:920 libs/css_js_include_bkc.php:918
-#: libs/design_functions.php:2011 templates/featured_property_3.php:38
+#: libs/css_js_include.php:932 libs/css_js_include_bkc.php:918
+#: libs/design_functions.php:2127 templates/featured_property_3.php:38
 #: templates/featured_property_4.php:52
 #: templates/listing_templates/favorite_under_title.php:13
 #: templates/listing_templates/property-page-templates/favorite_under_title.php:13
@@ -1731,60 +1756,60 @@ msgstr ""
 msgid "remove from favorites"
 msgstr "loại bỏ khỏi mục ưa thích"
 
-#: libs/css_js_include.php:921 libs/css_js_include_bkc.php:919
+#: libs/css_js_include.php:933 libs/css_js_include_bkc.php:919
 msgid "saving.."
 msgstr "tiết kiệm.."
 
-#: libs/css_js_include.php:922 libs/css_js_include_bkc.php:920
+#: libs/css_js_include.php:934 libs/css_js_include_bkc.php:920
 msgid "sending message.."
 msgstr "gửi tin nhắn .."
 
-#: libs/css_js_include.php:923 libs/css_js_include_bkc.php:921
+#: libs/css_js_include.php:935 libs/css_js_include_bkc.php:921
 msgid "Please, enter field:"
 msgstr "Vui lòng nhập trường:"
 
-#: libs/css_js_include.php:924 libs/css_js_include_bkc.php:922
+#: libs/css_js_include.php:936 libs/css_js_include_bkc.php:922
 msgid "You need to upload at last one image"
 msgstr "Bạn cần phải tải lên ở một hình ảnh cuối cùng"
 
-#: libs/css_js_include.php:926 libs/css_js_include_bkc.php:924
+#: libs/css_js_include.php:938 libs/css_js_include_bkc.php:924
 msgid "Connecting to Paypal! Please wait..."
 msgstr "Kết nối với Paypal! Vui lòng chờ ..."
 
-#: libs/css_js_include.php:927 libs/css_js_include_bkc.php:925
+#: libs/css_js_include.php:939 libs/css_js_include_bkc.php:925
 #: templates/dashboard-templates/user_memebership_profile.php:43
 msgid "subscription will be cancelled at the end of current period"
 msgstr "đăng ký sẽ bị hủy vào cuối giai đoạn hiện tại"
 
-#: libs/css_js_include.php:929 libs/css_js_include_bkc.php:927
+#: libs/css_js_include.php:941 libs/css_js_include_bkc.php:927
 #: libs/dashboard_functions.php:1303
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:102
 msgid "Disable Listing"
 msgstr "Vô hiệu hóa danh sách"
 
-#: libs/css_js_include.php:930 libs/css_js_include_bkc.php:928
+#: libs/css_js_include.php:942 libs/css_js_include_bkc.php:928
 #: libs/dashboard_functions.php:1304
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:106
 msgid "Enable Listing"
 msgstr "Bật danh sách"
 
-#: libs/css_js_include.php:931 libs/css_js_include_bkc.php:929
+#: libs/css_js_include.php:943 libs/css_js_include_bkc.php:929
 #: libs/dashboard_functions.php:1305
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:26
 msgid "Disable Agent"
 msgstr "Vô hiệu hóa tác nhân"
 
-#: libs/css_js_include.php:932 libs/css_js_include_bkc.php:930
+#: libs/css_js_include.php:944 libs/css_js_include_bkc.php:930
 #: libs/dashboard_functions.php:1306
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:28
 msgid "Enable Agent"
 msgstr "Bật tác nhân"
 
-#: libs/css_js_include.php:935 libs/css_js_include_bkc.php:933
+#: libs/css_js_include.php:947 libs/css_js_include_bkc.php:933
 msgid "You must agree with GDPR terms"
 msgstr "Bạn phải đồng ý với các điều khoản GDPR"
 
-#: libs/css_js_include.php:936 libs/css_js_include_bkc.php:934
+#: libs/css_js_include.php:948 libs/css_js_include_bkc.php:934
 msgid ""
 "Confirm your ACCOUNT DELETION request! Clicking the button below will delete "
 "your account and data. This means you will no longer be able to login to "
@@ -1797,57 +1822,59 @@ msgstr ""
 "sơ của tôi, Thuộc tính của tôi, Hộp thư đến, Tìm kiếm và Tin nhắn đã lưu. "
 "Hoạt động này KHÔNG THỂ ĐƯỢC CHUYỂN ĐỔI!"
 
-#: libs/css_js_include.php:940 libs/css_js_include_bkc.php:938
+#: libs/css_js_include.php:952 libs/css_js_include_bkc.php:938
 #: libs/theme-slider.php:29 templates/property_details_modal.php:28
 msgid "Contact Agent"
 msgstr "Liên hệ"
 
-#: libs/css_js_include.php:950 libs/css_js_include_bkc.php:948
+#: libs/css_js_include.php:962 libs/css_js_include_bkc.php:948
 msgid "Thank you. Please check your email for payment instructions."
 msgstr ""
 "Cảm ơn bạn. Vui lòng kiểm tra email của bạn để xem hướng dẫn thanh toán."
 
-#: libs/css_js_include.php:951 libs/css_js_include_bkc.php:949
+#: libs/css_js_include.php:963 libs/css_js_include_bkc.php:949
 msgid "Sending"
 msgstr "Gửi"
 
-#: libs/css_js_include.php:975 libs/css_js_include_bkc.php:973
+#: libs/css_js_include.php:987 libs/css_js_include_bkc.php:973
 msgid "No More Listings"
 msgstr "Không có danh sách nào khác"
 
-#: libs/css_js_include.php:1034 libs/css_js_include_bkc.php:1032
+#: libs/css_js_include.php:1046 libs/css_js_include_bkc.php:1032
 msgid "Allowed Files"
 msgstr "Tệp được phép"
 
-#: libs/css_js_include.php:1049 libs/css_js_include_bkc.php:1047
+#: libs/css_js_include.php:1061 libs/css_js_include_bkc.php:1047
 msgid "Image needs to be at least 500px height  x 500px wide!"
 msgstr "Hình ảnh cần có chiều rộng tối thiểu 500px x rộng 500px!"
 
-#: libs/css_js_include.php:1053 libs/css_js_include_bkc.php:1051
+#: libs/css_js_include.php:1065 libs/css_js_include_bkc.php:1051
 msgid "You cannot upload more than"
 msgstr "Bạn không thể tải lên nhiều hơn"
 
-#: libs/css_js_include.php:1053 libs/css_js_include_bkc.php:1051
+#: libs/css_js_include.php:1065 libs/css_js_include_bkc.php:1051
 msgid "images"
 msgstr "hình ảnh"
 
-#: libs/css_js_include.php:1054 libs/css_js_include_bkc.php:1052
+#: libs/css_js_include.php:1066 libs/css_js_include_bkc.php:1052
 msgid "Are you sure you want to delete this?"
 msgstr "Bạn có chắc chắn muốn xóa mục này không?"
 
-#: libs/css_js_include.php:1114
+#: libs/css_js_include.php:1126
 msgid "Plan Size(*only numbers)"
 msgstr "Kích thước kế hoạch(*chỉ số)"
 
-#: libs/css_js_include.php:1208 libs/css_js_include_bkc.php:1206
+#: libs/css_js_include.php:1220 libs/css_js_include_bkc.php:1206
 msgid "Warning !"
 msgstr "Cảnh báo !"
 
-#: libs/css_js_include.php:1211
+#: libs/css_js_include.php:1223
 msgid ""
 " Are you sure you want to delete this image? It will be removed from "
 "property gallery and WordPress media gallery."
 msgstr ""
+" Bạn có chắc muốn xóa ảnh này không? Nó sẽ bị xóa khỏi thư viện thuộc tính "
+"và thư viện phương tiện WordPress."
 
 #: libs/css_js_include_bkc.php:811
 msgid "Your Address"
@@ -1866,6 +1893,8 @@ msgid ""
 "Are you sure you want to delete this image?It will be removed from property "
 "gallery but not from media gallery."
 msgstr ""
+"Bạn có chắc chắn muốn xóa hình ảnh này không? Nó sẽ bị xóa khỏi thư viện "
+"thuộc tính nhưng không bị xóa khỏi thư viện phương tiện."
 
 #: libs/dashboard_actions_functions.php:7
 #: templates/submit_templates/property_description.php:11
@@ -1884,15 +1913,15 @@ msgstr "Giá trong"
 msgid "(only numbers)"
 msgstr "(chỉ số)"
 
-#: libs/dashboard_actions_functions.php:34 libs/help_functions.php:5983
+#: libs/dashboard_actions_functions.php:34 libs/help_functions.php:6104
 #: templates/submit_templates/property_description.php:131
 msgid "Yearly Tax Rate"
-msgstr ""
+msgstr "Thuế hàng năm"
 
 #: libs/dashboard_actions_functions.php:42
 #: templates/submit_templates/property_description.php:139
 msgid "Homeowners Association Fee(monthly)"
-msgstr ""
+msgstr "Phí quản lý (hàng tháng)"
 
 #: libs/dashboard_actions_functions.php:50
 #: templates/submit_templates/property_description.php:80
@@ -1904,17 +1933,17 @@ msgstr "Sau nhãn giá (ví dụ: &quot;/ tháng&quot;)"
 msgid "Before Price Label (ex: \"from \")"
 msgstr "Trước nhãn giá (ví dụ: &quot;từ&quot;)"
 
-#: libs/dashboard_actions_functions.php:66 libs/help_functions.php:5750
+#: libs/dashboard_actions_functions.php:66 libs/help_functions.php:5871
 msgid "Additional Price Info"
-msgstr ""
+msgstr "Thông tin giá bổ sung"
 
 #: libs/dashboard_actions_functions.php:75
 msgid " After Label for Additional Price info "
-msgstr ""
+msgstr "Sau nhãn cho thông tin giá bổ sung "
 
-#: libs/dashboard_actions_functions.php:83 libs/help_functions.php:5752
+#: libs/dashboard_actions_functions.php:83 libs/help_functions.php:5873
 msgid "Before Label for Additional Price Info"
-msgstr ""
+msgstr "Trước nhãn cho thông tin giá bổ sung"
 
 #: libs/dashboard_actions_functions.php:92
 msgid "Select Categorie"
@@ -1924,8 +1953,8 @@ msgstr "Chọn Phân loại"
 msgid "Listed In"
 msgstr "Được liệt kê trong"
 
-#: libs/dashboard_actions_functions.php:149 libs/help_functions.php:5759
-#: libs/help_functions.php:5991
+#: libs/dashboard_actions_functions.php:149 libs/help_functions.php:5880
+#: libs/help_functions.php:6112
 msgid "Property Zip"
 msgstr "Thuộc tính Zip"
 
@@ -1934,67 +1963,68 @@ msgstr "Thuộc tính Zip"
 msgid "Country"
 msgstr "Quốc gia"
 
-#: libs/dashboard_actions_functions.php:182 libs/help_functions.php:5995
+#: libs/dashboard_actions_functions.php:182 libs/help_functions.php:6116
 msgid "Greenhouse gas emissions kgCO2/m2a"
-msgstr ""
+msgstr "Phát thải khí nhà kính kgCO2/m2a"
 
 #: libs/dashboard_actions_functions.php:190
 #: templates/submit_templates/property_energy_effective.php:58
 msgid "Greenhouse gas emissions index class"
-msgstr ""
+msgstr "Loại chỉ số phát thải khí nhà kính"
 
-#: libs/dashboard_actions_functions.php:198 libs/help_functions.php:5783
+#: libs/dashboard_actions_functions.php:198 libs/help_functions.php:5904
 #: libs/listing_functions.php:1944
 #: templates/submit_templates/property_energy_effective.php:83
 msgid "Renewable energy performance index"
-msgstr ""
+msgstr "Chỉ số hiệu suất năng lượng tái tạo"
 
-#: libs/dashboard_actions_functions.php:206 libs/help_functions.php:5784
-#: libs/help_functions.php:5998 libs/listing_functions.php:1945
+#: libs/dashboard_actions_functions.php:206 libs/help_functions.php:5905
+#: libs/help_functions.php:6119 libs/listing_functions.php:1945
 #: templates/submit_templates/property_energy_effective.php:84
 msgid "Energy performance of the building"
-msgstr ""
+msgstr "Hiệu suất năng lượng của tòa nhà"
 
-#: libs/dashboard_actions_functions.php:214 libs/help_functions.php:5785
-#: libs/help_functions.php:5999 libs/listing_functions.php:1946
+#: libs/dashboard_actions_functions.php:214 libs/help_functions.php:5906
+#: libs/help_functions.php:6120 libs/listing_functions.php:1946
 #: templates/submit_templates/property_energy_effective.php:85
 msgid "EPC current rating"
 msgstr "Đánh giá hiện tại của EPC"
 
-#: libs/dashboard_actions_functions.php:222 libs/help_functions.php:5786
+#: libs/dashboard_actions_functions.php:222 libs/help_functions.php:5907
 #: libs/listing_functions.php:1947
 #: templates/submit_templates/property_energy_effective.php:86
 msgid "EPC Potential Rating"
 msgstr "Đánh giá tiềm năng EPC"
 
-#: libs/dashboard_actions_functions.php:231 libs/help_functions.php:5985
-#: libs/listing_functions.php:1789
+#: libs/dashboard_actions_functions.php:231 libs/help_functions.php:34
+#: libs/help_functions.php:6106 libs/listing_functions.php:1789
 #: templates/property_cards_templates/property_card_details_type3.php:48
 #: templates/property_cards_templates/property_card_details_type7.php:48
 msgid "Property Size"
 msgstr "Kích thước tài sản"
 
-#: libs/dashboard_actions_functions.php:239 libs/help_functions.php:5773
+#: libs/dashboard_actions_functions.php:239 libs/help_functions.php:5894
 msgid "Owner Notes"
 msgstr "Ghi chú của chủ sở hữu"
 
-#: libs/dashboard_actions_functions.php:247 libs/help_functions.php:5769
-#: libs/help_functions.php:5986 libs/listing_functions.php:1792
+#: libs/dashboard_actions_functions.php:247 libs/help_functions.php:39
+#: libs/help_functions.php:5890 libs/help_functions.php:6107
+#: libs/listing_functions.php:1792
 msgid "Property Lot Size"
 msgstr "Kích thước lô đất"
 
-#: libs/dashboard_actions_functions.php:255 libs/help_functions.php:5770
-#: libs/help_functions.php:5987
+#: libs/dashboard_actions_functions.php:255 libs/help_functions.php:5891
+#: libs/help_functions.php:6108
 msgid "Property Rooms"
 msgstr "Loại phòng"
 
-#: libs/dashboard_actions_functions.php:263 libs/help_functions.php:5771
-#: libs/help_functions.php:5988
+#: libs/dashboard_actions_functions.php:263 libs/help_functions.php:5892
+#: libs/help_functions.php:6109
 msgid "Property Bedrooms"
 msgstr "Phòng ngủ"
 
-#: libs/dashboard_actions_functions.php:271 libs/help_functions.php:5772
-#: libs/help_functions.php:5989
+#: libs/dashboard_actions_functions.php:271 libs/help_functions.php:5893
+#: libs/help_functions.php:6110
 msgid "Property Bathrooms"
 msgstr "Phòng tắm"
 
@@ -2003,7 +2033,7 @@ msgstr "Phòng tắm"
 msgid "Video Type"
 msgstr "Loại Video"
 
-#: libs/dashboard_actions_functions.php:303 libs/help_functions.php:5763
+#: libs/dashboard_actions_functions.php:303 libs/help_functions.php:5884
 msgid "Property Latitude"
 msgstr "Vĩ độ tài sản"
 
@@ -2015,12 +2045,12 @@ msgstr "Bất động sản Longitudine"
 msgid "Google View"
 msgstr "Chế độ xem Google"
 
-#: libs/dashboard_actions_functions.php:327 libs/help_functions.php:5767
+#: libs/dashboard_actions_functions.php:327 libs/help_functions.php:5888
 #: templates/submit_templates/property_location.php:314
 msgid "Hide Map Marker"
-msgstr ""
+msgstr "Ẩn điểm đánh dấu bản đồ"
 
-#: libs/dashboard_actions_functions.php:336 libs/help_functions.php:5765
+#: libs/dashboard_actions_functions.php:336 libs/help_functions.php:5886
 msgid "Google Camera Angle"
 msgstr "Góc máy ảnh Google"
 
@@ -2032,148 +2062,145 @@ msgstr "Danh sách tiểu đơn vị thuộc tính"
 msgid "Property has subunits"
 msgstr "Thuộc tính có các tiểu đơn vị"
 
-#: libs/dashboard_actions_functions.php:543
+#: libs/dashboard_actions_functions.php:547
 msgid "from date"
 msgstr "từ ngày"
 
-#: libs/dashboard_actions_functions.php:544
+#: libs/dashboard_actions_functions.php:548
 msgid "to date"
 msgstr "cho đến nay"
 
-#: libs/dashboard_actions_functions.php:549
-#: libs/dashboard_actions_functions.php:559
+#: libs/dashboard_actions_functions.php:553
+#: libs/dashboard_actions_functions.php:562
 msgid "Any"
 msgstr "Bất kì"
 
-#: libs/dashboard_actions_functions.php:550 libs/help_functions.php:5257
+#: libs/dashboard_actions_functions.php:554 libs/help_functions.php:5378
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:90
-#: templates/dashboard-templates/invoice_listing_unit.php:25
+#: templates/dashboard-templates/invoice_listing_unit.php:24
 msgid "Upgrade to Featured"
 msgstr "Nâng cấp lên Nổi bật"
 
-#: libs/dashboard_actions_functions.php:551
-msgid "Publish Listing with Featured"
-msgstr "Xuất bản danh sách với nổi bật"
-
-#: libs/dashboard_actions_functions.php:552
-#: templates/dashboard-templates/invoice_listing_unit.php:29
+#: libs/dashboard_actions_functions.php:555
+#: templates/dashboard-templates/invoice_listing_unit.php:28
 msgid "Package"
 msgstr "Gói"
 
-#: libs/dashboard_actions_functions.php:553
-#: templates/dashboard-templates/invoice_listing_unit.php:23
+#: libs/dashboard_actions_functions.php:556
+#: templates/dashboard-templates/invoice_listing_unit.php:22
 msgid "Listing"
 msgstr "Danh sách"
 
-#: libs/dashboard_actions_functions.php:560
+#: libs/dashboard_actions_functions.php:563
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:5
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:23
-#: templates/dashboard-templates/invoice_listing_unit.php:53
+#: templates/dashboard-templates/invoice_listing_unit.php:52
 msgid "Paid"
 msgstr "Đã thanh toán"
 
-#: libs/dashboard_actions_functions.php:561
+#: libs/dashboard_actions_functions.php:564
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:7
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:25
-#: templates/dashboard-templates/invoice_listing_unit.php:51
+#: templates/dashboard-templates/invoice_listing_unit.php:50
 msgid "Not Paid"
 msgstr "Không trả tiền"
 
-#: libs/dashboard_actions_functions.php:566
+#: libs/dashboard_actions_functions.php:569
 msgid "Total Invoices: "
 msgstr "Tổng hóa đơn:"
 
-#: libs/dashboard_actions_functions.php:573
+#: libs/dashboard_actions_functions.php:576
 msgid "Title"
 msgstr "Chức vụ"
 
-#: libs/dashboard_actions_functions.php:575
+#: libs/dashboard_actions_functions.php:578
 msgid "Invoice Type"
 msgstr "Loại hoá đơn"
 
-#: libs/dashboard_actions_functions.php:576
+#: libs/dashboard_actions_functions.php:579
 msgid "Billing Type"
 msgstr "Loại thanh toán"
 
-#: libs/dashboard_actions_functions.php:578
-#: libs/dashboard_actions_functions.php:756
-#: libs/dashboard_actions_functions.php:761 libs/listing_functions.php:1781
-#: user_dashboard_favorite.php:43
+#: libs/dashboard_actions_functions.php:581
+#: libs/dashboard_actions_functions.php:759
+#: libs/dashboard_actions_functions.php:764 libs/elementor_help_files2.php:707
+#: libs/elementor_help_files2.php:781 libs/elementor_help_files2.php:834
+#: libs/listing_functions.php:1781 user_dashboard_favorite.php:43
 msgid "Price"
 msgstr "Giá bán"
 
-#: libs/dashboard_actions_functions.php:624
+#: libs/dashboard_actions_functions.php:627
 msgid "Search for an Agent"
 msgstr "Tìm kiếm Đại lý"
 
-#: libs/dashboard_actions_functions.php:633
+#: libs/dashboard_actions_functions.php:636
 msgid "Phone/Mobile"
 msgstr "Điện thoại/Di động"
 
-#: libs/dashboard_actions_functions.php:642
+#: libs/dashboard_actions_functions.php:645
 msgid "You don't have any agents added!"
 msgstr "Bạn không có bất kỳ đại lý nào được thêm vào!"
 
-#: libs/dashboard_actions_functions.php:752
-#: libs/dashboard_actions_functions.php:758 user_dashboard_favorite.php:40
+#: libs/dashboard_actions_functions.php:755
+#: libs/dashboard_actions_functions.php:761 user_dashboard_favorite.php:40
 msgid "Property"
 msgstr "Bất động sản"
 
-#: libs/dashboard_actions_functions.php:753
-#: libs/dashboard_actions_functions.php:759 libs/help_functions.php:5977
-#: libs/searchfunctions.php:2195 libs/searchfunctions.php:2425
+#: libs/dashboard_actions_functions.php:756
+#: libs/dashboard_actions_functions.php:762 libs/help_functions.php:48
+#: libs/help_functions.php:6098 libs/searchfunctions.php:2179
+#: libs/searchfunctions.php:2399
 #: templates/dashboard-templates/add_new_agent.php:146
-#: templates/dashboard-templates/add_new_agent_template.php:250
-#: templates/dashboard-templates/user_profile_agency.php:146
-#: templates/dashboard-templates/user_profile_agency.php:210
-#: templates/dashboard-templates/user_profile_agent.php:214
-#: templates/dashboard-templates/user_profile_developer.php:127
-#: templates/dashboard-templates/user_profile_developer.php:184
-#: templates/listing_templates/property-page-templates/single-overview-section.php:99
+#: templates/dashboard-templates/add_new_agent_template.php:288
+#: templates/dashboard-templates/user_profile_agency.php:174
+#: templates/dashboard-templates/user_profile_agency.php:244
+#: templates/dashboard-templates/user_profile_agent.php:253
+#: templates/dashboard-templates/user_profile_developer.php:153
+#: templates/dashboard-templates/user_profile_developer.php:216
 #: templates/submit_templates/property_categories.php:55
 #: user_dashboard_favorite.php:41
 msgid "Category"
 msgstr "thể loại"
 
-#: libs/dashboard_actions_functions.php:755
+#: libs/dashboard_actions_functions.php:758
 msgid "Pay Status"
 msgstr "Trạng thái thanh toán:"
 
-#: libs/dashboard_actions_functions.php:769
+#: libs/dashboard_actions_functions.php:772
 msgid "You don't have any properties!"
 msgstr "Bạn chưa có bất kỳ thuộc tính nào!"
 
-#: libs/dashboard_actions_functions.php:942
+#: libs/dashboard_actions_functions.php:947
 msgid "Agent need a first & last name"
 msgstr "Đại lý cần một họ và tên"
 
-#: libs/dashboard_actions_functions.php:1125
+#: libs/dashboard_actions_functions.php:1144
 msgid "Agent was added... You will be redirected to your agent list..."
 msgstr ""
 "Đại lý đã được thêm ... Bạn sẽ được chuyển hướng đến danh sách đại lý của "
 "mình ..."
 
-#: libs/dashboard_actions_functions.php:1131
+#: libs/dashboard_actions_functions.php:1150
 msgid "Agent profile edited"
 msgstr "Đã chỉnh sửa tiểu sử đại lý"
 
-#: libs/dashboard_actions_functions.php:1297
+#: libs/dashboard_actions_functions.php:1317
 msgid "Started by"
 msgstr "Bắt đầu bởi"
 
-#: libs/dashboard_actions_functions.php:1298
+#: libs/dashboard_actions_functions.php:1318
 #: templates/dashboard-templates/message-listing-unit.php:36
 #: templates/email_templates/contact_email_template.php:39
 msgid "Subject"
 msgstr "Môn học"
 
-#: libs/dashboard_actions_functions.php:1300
+#: libs/dashboard_actions_functions.php:1320
 msgid "Action"
 msgstr "Hoạt động"
 
 #: libs/dashboard_functions.php:174
 msgid "Account History (last 7 days)"
-msgstr ""
+msgstr "Lịch sử tài khoản (7 ngày qua)"
 
 #: libs/dashboard_functions.php:195
 msgid "Edited"
@@ -2261,7 +2288,7 @@ msgstr "BĐS ưa thích"
 
 #: libs/dashboard_functions.php:335
 msgid "Account Summary"
-msgstr ""
+msgstr "Tóm tắt tài khoản"
 
 #: libs/dashboard_functions.php:390
 msgid "Listings Views"
@@ -2269,7 +2296,7 @@ msgstr "Lượt xem danh sách"
 
 #: libs/dashboard_functions.php:398
 msgid "Total views for your listings"
-msgstr ""
+msgstr "Tổng số lượt xem các tài sản của bạn"
 
 #: libs/dashboard_functions.php:531
 msgid "Views"
@@ -2285,7 +2312,7 @@ msgstr "Clone: "
 
 #: libs/dashboard_functions.php:1307
 msgid "Valid file formats"
-msgstr ""
+msgstr "Các định dạng tập tin hợp lệ"
 
 #: libs/dashboard_functions.php:1309
 #: templates/submit_templates/property_floor_plans.php:140
@@ -2333,7 +2360,7 @@ msgstr "Đã hết hạn"
 #: templates/dashboard-templates/dashboard-list-filter-categories.php:21
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:14
 msgid "Draft"
-msgstr ""
+msgstr "Bản nháp"
 
 #: libs/dashboard_functions.php:1485
 #: templates/dashboard-templates/dashboard-list-filter-categories.php:25
@@ -2343,7 +2370,7 @@ msgstr "Chờ phê duyệt"
 
 #: libs/dashboard_functions.php:1493
 msgid "Leads"
-msgstr ""
+msgstr "Lead-tiềm năng"
 
 #: libs/dashboard_functions.php:1498
 msgid "Contacts"
@@ -2375,7 +2402,7 @@ msgid "My Invoices"
 msgstr "Hóa đơn của tôi"
 
 #: libs/dashboard_functions.php:1535
-#: templates/dashboard-templates/add_new_agent_template.php:357
+#: templates/dashboard-templates/add_new_agent_template.php:395
 msgid "Add New Agent"
 msgstr "Thêm tác nhân mới"
 
@@ -2389,19 +2416,19 @@ msgstr "Hộp thư đến"
 
 #: libs/dashboard_functions.php:1551
 msgid "CRM"
-msgstr ""
+msgstr "Quản lý quan hệ khách hàng"
 
 #: libs/dashboard_functions.php:1585 libs/dashboard_functions.php:1667
 msgid "Logout"
-msgstr ""
+msgstr "Đăng xuất"
 
 #: libs/dashboard_functions.php:1833
 #: templates/dashboard-templates/add_new_agent.php:163
 #: templates/dashboard-templates/add_new_agent.php:190
-#: templates/dashboard-templates/add_new_agent_template.php:262
-#: templates/dashboard-templates/add_new_agent_template.php:282
-#: templates/dashboard-templates/user_profile_agent.php:240
-#: templates/dashboard-templates/user_profile_agent.php:260
+#: templates/dashboard-templates/add_new_agent_template.php:300
+#: templates/dashboard-templates/add_new_agent_template.php:320
+#: templates/dashboard-templates/user_profile_agent.php:279
+#: templates/dashboard-templates/user_profile_agent.php:299
 #: templates/submit_templates/property_categories.php:65
 #: templates/submit_templates/property_categories.php:84
 #: templates/submit_templates/property_location.php:116
@@ -2429,8 +2456,8 @@ msgid "Change Colors"
 msgstr "Thay đổi màu sắc"
 
 #: libs/dashboard_widgets.php:59
-msgid "You have %1$d pages published."
-msgstr "Bạn có %1$d trang đã xuất bản."
+msgid "You have %d pages published."
+msgstr "Bạn đã xuất bản %d trang."
 
 #: libs/dashboard_widgets.php:76
 msgid "Page Title"
@@ -2449,8 +2476,8 @@ msgid "Add New Page"
 msgstr "Thêm trang mới"
 
 #: libs/dashboard_widgets.php:318
-msgid "You have %1$d listings published:"
-msgstr "Bạn có %1$d tài sản đã xuất bản:"
+msgid "You have %d listings published:"
+msgstr "Bạn có %d danh sách được xuất bản:"
 
 #: libs/dashboard_widgets.php:383
 msgid "Your Payment system is in SANDBOX mode."
@@ -2461,13 +2488,15 @@ msgid "Your Payment system is in LIVE mode."
 msgstr "Hệ thống thanh toán của bạn đang ở chế độ LIVE."
 
 #: libs/dashboard_widgets.php:395
-msgid "Payments will be procesed in %1$s.Prices are displayed in %2$s"
-msgstr "Các khoản thanh toán sẽ xử lý trong %1$s. Giá được hiển thị trong %2$s"
+msgid "Payments will be procesed in %s.Prices are displayed in %s"
+msgstr "Thanh toán sẽ được xử lý trong %s. Giá được hiển thị trong %s"
 
 #: libs/dashboard_widgets.php:403
 msgid ""
 "You did not add your Paypal Details. No Paypal payment will be processed"
 msgstr ""
+"Bạn đã không thêm thông tin chi tiết Paypal. Các thanh toán paypal sẽ không "
+"được xử lý"
 
 #: libs/dashboard_widgets.php:405
 msgid "Paypal Api Keys are added.Payments will be processed."
@@ -2477,6 +2506,8 @@ msgstr "Khóa Api Paypal được thêm vào.Thanh toán sẽ được xử lý.
 msgid ""
 "You did not add your Stripe Details. No Stripe payment will be processed"
 msgstr ""
+"Bạn đã không thêm chi tiết Stripe của mình. Các thanh toán Stripe sẽ không "
+"được xử lý"
 
 #: libs/dashboard_widgets.php:414
 msgid "Stripe Api Keys are added.Payments will be processed."
@@ -2486,8 +2517,8 @@ msgstr "Sọc Api Keys được thêm vào. Khoản thanh toán sẽ được x�
 msgid "Edit Payment Details"
 msgstr "Chỉnh sửa chi tiết thanh toán"
 
-#: libs/design_functions.php:1969 libs/design_functions.php:1971
-#: libs/design_functions.php:1974 libs/design_functions.php:1978
+#: libs/design_functions.php:2085 libs/design_functions.php:2087
+#: libs/design_functions.php:2090 libs/design_functions.php:2094
 #: templates/featured_property_3.php:141 templates/featured_property_4.php:155
 #: templates/property_cards_templates/property_card_actions_type2.php:7
 #: templates/property_cards_templates/property_card_actions_type_default.php:26
@@ -2495,49 +2526,49 @@ msgstr "Chỉnh sửa chi tiết thanh toán"
 msgid "share"
 msgstr "chia sẻ"
 
-#: libs/design_functions.php:1991
+#: libs/design_functions.php:2107
 #: templates/property_cards_templates/property_card_details_default.php:58
 #: templates/property_slider_shortcode_v3_test.php:112
 #: templates/property_unit_type3.php:56
 msgid "details"
 msgstr "chi tiết"
 
-#: libs/design_functions.php:2027 libs/design_functions.php:2032
-#: libs/design_functions.php:2037 libs/design_functions.php:2043
+#: libs/design_functions.php:2143 libs/design_functions.php:2148
+#: libs/design_functions.php:2153 libs/design_functions.php:2159
 #: templates/property_cards_templates/property_card_actions_type2.php:11
 #: templates/property_cards_templates/property_card_actions_type_default.php:49
 #: templates/property_cards_templates/property_card_favorite_single.php:49
 msgid "compare"
 msgstr "so sánh"
 
-#: libs/design_functions.php:2034 libs/design_functions.php:2071
-#: libs/design_functions.php:2086
+#: libs/design_functions.php:2150 libs/design_functions.php:2187
+#: libs/design_functions.php:2202
 msgid "featured icon"
-msgstr ""
+msgstr "biểu tượng nổi bật"
 
-#: libs/design_functions.php:2198
+#: libs/design_functions.php:2314
 msgid "icon"
 msgstr "biểu tượng"
 
-#: libs/design_functions.php:2291
+#: libs/design_functions.php:2407
 msgid "Facebook"
 msgstr "Facebook"
 
-#: libs/design_functions.php:2292
-msgid "Twitter"
-msgstr "Twitter"
+#: libs/design_functions.php:2408
+msgid "X - Twitter"
+msgstr "X - Twitter"
 
-#: libs/design_functions.php:2293
+#: libs/design_functions.php:2409
 msgid "Pinterest"
 msgstr "Pinterest"
 
-#: libs/design_functions.php:2294
+#: libs/design_functions.php:2410
 #: templates/realtor_templates/agent_contact_bar.php:37
 msgid "WhatsApp"
-msgstr ""
+msgstr "WhatsApp"
 
-#: libs/elementor_help_files.php:16 libs/searchfunctions.php:2308
-#: libs/searchfunctions.php:2476
+#: libs/elementor_help_files.php:16 libs/searchfunctions.php:2276
+#: libs/searchfunctions.php:2450
 msgid "categories"
 msgstr "Thể loại"
 
@@ -2545,13 +2576,13 @@ msgstr "Thể loại"
 msgid "county"
 msgstr "tỉnh"
 
-#: libs/elementor_help_files.php:18 libs/searchfunctions.php:2309
-#: libs/searchfunctions.php:2477
+#: libs/elementor_help_files.php:18 libs/searchfunctions.php:2277
+#: libs/searchfunctions.php:2451
 msgid "cities"
 msgstr "các thành phố"
 
-#: libs/elementor_help_files.php:19 libs/searchfunctions.php:2310
-#: libs/searchfunctions.php:2478
+#: libs/elementor_help_files.php:19 libs/searchfunctions.php:2278
+#: libs/searchfunctions.php:2452
 msgid "areas"
 msgstr "khu vực"
 
@@ -2563,33 +2594,102 @@ msgstr "vị trí vietcondo"
 msgid "price"
 msgstr "giá"
 
-#: libs/elementor_help_files.php:27 libs/searchfunctions.php:2339
+#: libs/elementor_help_files.php:22
+msgid "price v2"
+msgstr "giá v2"
+
+#: libs/elementor_help_files.php:23
+msgid "price v3"
+msgstr "giá v3"
+
+#: libs/elementor_help_files.php:29
+msgid "beds&baths"
+msgstr "giường và phòng tắm"
+
+#: libs/elementor_help_files.php:30 libs/searchfunctions.php:2307
 msgid "address"
 msgstr "địa chỉ nhà"
 
-#: libs/elementor_help_files.php:29
+#: libs/elementor_help_files.php:32
 msgid "country"
 msgstr "quốc gia"
 
-#: libs/elementor_help_files.php:30
+#: libs/elementor_help_files.php:33
 msgid "status"
 msgstr "tình trạng"
 
-#: libs/elementor_help_files.php:31
+#: libs/elementor_help_files.php:34
 msgid "id"
 msgstr "id"
 
-#: libs/elementor_help_files.php:32 templates/directory_filters.php:306
+#: libs/elementor_help_files.php:35 templates/directory_filters.php:306
 msgid "keyword"
 msgstr "từ khóa"
 
-#: libs/elementor_help_files.php:33
+#: libs/elementor_help_files.php:36
 msgid "geolocation"
 msgstr "Userpin ở vị trí địa lý"
 
-#: libs/elementor_help_files.php:34
+#: libs/elementor_help_files.php:37
 msgid "radius for geolocation"
 msgstr "bán kính cho vị trí địa lý"
+
+#: libs/elementor_help_files2.php:14 libs/elementor_help_files2.php:343
+#: libs/help_functions.php:3963 libs/help_functions.php:4370
+#: libs/help_functions.php:4829 libs/searchfunctions.php:555
+#: libs/searchfunctions2.php:54 property_list_directory.php:106
+#: property_list_half.php:79 templates/advanced_property_list_filters.php:53
+#: templates/advanced_property_list_filters.php:102
+#: templates/advanced_search/advanced_search_type2.php:33
+#: templates/advanced_search/advanced_search_type8.php:111
+#: templates/advanced_search/advanced_search_type9.php:115
+#: templates/advanced_search/advanced_search_type_half.php:211
+#: templates/advanced_search/advanced_search_type_half.php:221
+#: templates/advanced_search/adv_search_mobile.php:104
+#: templates/advanced_search/adv_search_mobile.php:174
+#: templates/advanced_search_type2.php:33
+#: templates/advanced_search_type8.php:111
+#: templates/advanced_search_type9.php:115
+#: templates/advanced_search_type_half.php:203
+#: templates/advanced_search_type_half.php:213
+#: templates/adv_search_mobile.php:104 templates/adv_search_mobile.php:167
+#: templates/directory_filters.php:39
+#: templates/property_ajax_tax_hidden_filters.php:25
+#: templates/property_ajax_tax_hidden_filters.php:70
+#: templates/property_list_filters.php:53
+#: templates/property_list_filters.php:102
+#: templates/taxonomy_agent_hidden_filters.php:22
+msgid "Categories"
+msgstr "Thể loại"
+
+#: libs/elementor_help_files2.php:52 libs/elementor_help_files2.php:361
+#: libs/help_functions.php:3973 libs/help_functions.php:4412
+#: libs/help_functions.php:5037 property_list_half.php:101
+#: templates/advanced_property_list_filters.php:56
+#: templates/advanced_property_list_filters.php:113
+#: templates/directory_filters.php:69
+#: templates/property_ajax_tax_hidden_filters.php:28
+#: templates/property_list_filters.php:56
+#: templates/property_list_filters.php:113
+#: templates/taxonomy_agent_hidden_filters.php:25
+msgid "States"
+msgstr "Tỉnh/TP/Bang"
+
+#: libs/elementor_help_files2.php:306
+msgid "Select All"
+msgstr "Chọn tất cả"
+
+#: libs/elementor_help_files2.php:307
+msgid "Select None"
+msgstr "Chọn Không có"
+
+#: libs/elementor_help_files2.php:588
+msgid "Beds/Baths"
+msgstr "Giường/Bồn tắm"
+
+#: libs/elementor_help_files2.php:951 libs/elementor_help_files2.php:963
+msgid "No Value"
+msgstr "Không có giá trị"
 
 #: libs/events.php:11
 msgid "Once Weekly"
@@ -2611,150 +2711,150 @@ msgstr "ảnh"
 #: libs/gallery_functions.php:764 libs/gallery_functions.php:814
 #: templates/featured_property_1.php:92 templates/featured_property_1.php:112
 #: templates/featured_property_2.php:86 templates/header5.php:22
-#: templates/header_agency.php:44 templates/header_developer.php:40
+#: templates/header_agency.php:44 templates/header_developer.php:38
 #: templates/image_gallery.php:54 templates/image_gallery.php:87
 #: templates/mobile_menu_header.php:8 templates/mobile_menu_header.php:10
 #: word_remove.php:11 zillow_estimate_page.php:79
 msgid "image"
 msgstr "hình ảnh"
 
-#: libs/general-settings.php:307 libs/general-settings.php:323
+#: libs/general-settings.php:364 libs/general-settings.php:380
 msgid " ..."
-msgstr ""
+msgstr " ..."
 
-#: libs/general-settings.php:388
+#: libs/general-settings.php:445
 msgid "Primary Menu"
 msgstr "thực đơn chính"
 
-#: libs/general-settings.php:389
+#: libs/general-settings.php:446
 msgid "Mobile Menu"
 msgstr "Menu di động"
 
-#: libs/general-settings.php:390
+#: libs/general-settings.php:447
 msgid "Footer Menu"
 msgstr "Menu chân trang"
 
-#: libs/general-settings.php:391
+#: libs/general-settings.php:448
 msgid "Header 6 Second Menu"
-msgstr ""
+msgstr "Tiêu đề Menu thứ 6"
 
-#: libs/general-settings.php:393
+#: libs/general-settings.php:450
 msgid "Primary Widget Area"
 msgstr "Khu vực tiện ích chính"
 
-#: libs/general-settings.php:395
+#: libs/general-settings.php:452
 msgid "The primary widget area"
 msgstr "Khu vực phụ tùng chính"
 
-#: libs/general-settings.php:404
+#: libs/general-settings.php:461
 msgid "Secondary Widget Area"
 msgstr "Khu vực phụ phụ"
 
-#: libs/general-settings.php:406
+#: libs/general-settings.php:463
 msgid "The secondary widget area"
 msgstr "Khu vực phụ phụ"
 
-#: libs/general-settings.php:415
+#: libs/general-settings.php:472
 msgid "First Footer Widget Area"
 msgstr "Khu vực tiện ích con chân đầu tiên"
 
-#: libs/general-settings.php:417
+#: libs/general-settings.php:474
 msgid "The first footer widget area"
 msgstr "Vùng phụ tùng chân trang đầu tiên"
 
-#: libs/general-settings.php:426
+#: libs/general-settings.php:483
 msgid "Second Footer Widget Area"
 msgstr "Khu vực phụ trợ chân trang thứ hai"
 
-#: libs/general-settings.php:428
+#: libs/general-settings.php:485
 msgid "The second footer widget area"
 msgstr "Vùng phụ tùng chân trang thứ hai"
 
-#: libs/general-settings.php:437
+#: libs/general-settings.php:494
 msgid "Third Footer Widget Area"
 msgstr "Khu vực phụ của chân trang thứ ba"
 
-#: libs/general-settings.php:439
+#: libs/general-settings.php:496
 msgid "The third footer widget area"
 msgstr "Vùng phụ tùng chân trang thứ ba"
 
-#: libs/general-settings.php:448
+#: libs/general-settings.php:505
 msgid "Fourth Footer Widget Area"
 msgstr "Khu vực phụ tùng chân trang thứ tư"
 
-#: libs/general-settings.php:450
+#: libs/general-settings.php:507
 msgid "The fourth footer widget area"
 msgstr "Vùng phụ tùng chân trang thứ tư"
 
-#: libs/general-settings.php:459
+#: libs/general-settings.php:516
 msgid "Top Bar Left Widget Area"
 msgstr "Khu vực phụ tùng bên trái thanh hàng đầu"
 
-#: libs/general-settings.php:461
+#: libs/general-settings.php:518
 msgid "The top bar left widget area"
 msgstr "Thanh trên cùng bên trái khu vực widget"
 
-#: libs/general-settings.php:469
+#: libs/general-settings.php:526
 msgid "Top Bar Right Widget Area"
 msgstr "Tiện ích trên thanh bên phải hàng đầu"
 
-#: libs/general-settings.php:471
+#: libs/general-settings.php:528
 msgid "The top bar right widget area"
 msgstr "Khu vực phụ tùng bên phải của thanh trên cùng"
 
-#: libs/general-settings.php:478
+#: libs/general-settings.php:535
 msgid "Sidebar Menu Widget Area - Before Menu"
 msgstr "Khu vực tiện ích menu trên thanh bên - Trước trình đơn"
 
-#: libs/general-settings.php:480
+#: libs/general-settings.php:537
 msgid "Sidebar for header type 3 - before menu"
 msgstr "Thanh bên cho tiêu đề loại 3 - menu trước"
 
-#: libs/general-settings.php:487
+#: libs/general-settings.php:544
 msgid "Sidebar Menu Widget Area - After Menu"
 msgstr "Sidebar Menu Widget Area - Sau Menu"
 
-#: libs/general-settings.php:489
+#: libs/general-settings.php:546
 msgid "Sidebar for header type 3 - after menu"
 msgstr "Thanh bên cho tiêu đề loại 3 - sau menu"
 
-#: libs/general-settings.php:499
+#: libs/general-settings.php:556
 msgid "Header4 Widget Area"
 msgstr "Khu vực Tiện ích Header4"
 
-#: libs/general-settings.php:501
+#: libs/general-settings.php:558
 msgid "Header4 widget area"
 msgstr "Vùng tiện ích Header4"
 
-#: libs/general-settings.php:510
+#: libs/general-settings.php:567
 msgid "Dashboard Top Bar Left Widget Area"
 msgstr "Bảng điều khiển phía trên thanh bên trái Widget"
 
-#: libs/general-settings.php:512
+#: libs/general-settings.php:569
 msgid "User Dashboard - The top bar left widget area"
 msgstr "Bảng điều khiển người dùng - Thanh bên trái của tiện ích con bên trái"
 
-#: libs/general-settings.php:520
+#: libs/general-settings.php:577
 msgid "Dashboard Top Bar Right Widget Area"
 msgstr "Bảng điều khiển bên phải thanh bên phải Widget"
 
-#: libs/general-settings.php:522
+#: libs/general-settings.php:579
 msgid "User Dashboard - The top bar right widget area"
 msgstr "Trang tổng quan người dùng - Khu vực tiện ích con thanh bên trên cùng"
 
-#: libs/general-settings.php:530
+#: libs/general-settings.php:587
 msgid "Splash Page Bottom Right Widget Area"
 msgstr "Khu vực tiện ích dưới cùng bên phải của trang Splash"
 
-#: libs/general-settings.php:532
+#: libs/general-settings.php:589
 msgid "Splash Page - Bottom right area"
 msgstr "Trang Splash - Khu vực dưới cùng bên phải"
 
-#: libs/general-settings.php:540
+#: libs/general-settings.php:597
 msgid "Splash Page Bottom Left Widget Area"
 msgstr "Khu vực tiện ích con bên trái trang Splash"
 
-#: libs/general-settings.php:542
+#: libs/general-settings.php:599
 msgid "Splash Page - Bottom left area"
 msgstr "Trang Splash - Khu vực dưới cùng bên trái"
 
@@ -2805,7 +2905,7 @@ msgstr "Các đại lý khác"
 msgid "Property Reviews"
 msgstr "Đánh giá tài sản"
 
-#: libs/header_filter_functions.php:205 libs/help_functions.php:2258
+#: libs/header_filter_functions.php:205 libs/help_functions.php:2466
 #: templates/listing_templates/property-page-templates/similar_listings.php:159
 #: templates/listing_templates/property-page-templates/similar_listings.php:190
 #: templates/listing_templates/similar_listings.php:133
@@ -2816,368 +2916,362 @@ msgstr "Đánh giá tài sản"
 msgid "Similar Listings"
 msgstr "Danh sách tương tự"
 
-#: libs/help_functions.php:980 libs/help_functions.php:983
+#: libs/help_functions.php:17 libs/listing_functions.php:1798
+#: templates/listing_templates/single-overview-section.php:31
+#: templates/property_cards_templates/property_card_details_type3.php:30
+#: templates/property_cards_templates/property_card_details_type4.php:12
+#: templates/property_cards_templates/property_card_details_type7.php:30
+msgid "Bedrooms"
+msgstr "Phòng ngủ"
+
+#: libs/help_functions.php:21 libs/listing_functions.php:1801
+#: templates/listing_templates/single-overview-section.php:42
+#: templates/property_cards_templates/property_card_details_type3.php:39
+#: templates/property_cards_templates/property_card_details_type7.php:39
+#: templates/property_slider_shortcode.php:67
+msgid "Bathrooms"
+msgstr "Phòng tắm"
+
+#: libs/help_functions.php:25 libs/listing_functions.php:1795
+#: templates/property_cards_templates/property_card_details_type6.php:17
+#: templates/property_slider_shortcode.php:64
+#: templates/shortcode_templates/content_grid_small_estate_property_type_1.php:32
+msgid "Rooms"
+msgstr "Phòng"
+
+#: libs/help_functions.php:29
+#: templates/listing_templates/single-overview-section.php:53
+msgid "Garages"
+msgstr "Gara oto"
+
+#: libs/help_functions.php:43
+#: templates/listing_templates/single-overview-section.php:73
+msgid "Year Built:"
+msgstr "Năm xây dựng:"
+
+#: libs/help_functions.php:1187 libs/help_functions.php:1190
 msgid "all"
 msgstr "toàn bộ"
 
-#: libs/help_functions.php:987 libs/listing_functions.php:1830
+#: libs/help_functions.php:1194 libs/listing_functions.php:1830
 msgid "Not Available"
 msgstr "Không có sẵn"
 
-#: libs/help_functions.php:1004
+#: libs/help_functions.php:1211
 msgid "Please submit the"
 msgstr "Vui lòng gửi"
 
-#: libs/help_functions.php:1004
+#: libs/help_functions.php:1211
 msgid "field"
 msgstr "cánh đồng"
 
-#: libs/help_functions.php:1929
+#: libs/help_functions.php:2136
 msgid "Transport"
 msgstr "Vận chuyển"
 
-#: libs/help_functions.php:1930
+#: libs/help_functions.php:2137
 msgid "Supermarkets"
 msgstr "Siêu thị"
 
-#: libs/help_functions.php:1931
+#: libs/help_functions.php:2138
 msgid "Schools"
 msgstr "Trường học"
 
-#: libs/help_functions.php:1932 libs/help_functions.php:2135
+#: libs/help_functions.php:2139 libs/help_functions.php:2343
 msgid "Restaurants"
 msgstr "Nhà hàng"
 
-#: libs/help_functions.php:1933
+#: libs/help_functions.php:2140
 msgid "Pharmacies"
 msgstr "Hiệu thuốc"
 
-#: libs/help_functions.php:1934
+#: libs/help_functions.php:2141
 msgid "Hospitals"
 msgstr "Bệnh viện"
 
-#: libs/help_functions.php:1978 libs/help_functions.php:2016
+#: libs/help_functions.php:2186 libs/help_functions.php:2224
 msgid "K"
 msgstr "K"
 
-#: libs/help_functions.php:1981 libs/help_functions.php:2019
+#: libs/help_functions.php:2189 libs/help_functions.php:2227
 msgid "M"
 msgstr "M"
 
-#: libs/help_functions.php:2095
+#: libs/help_functions.php:2303
 msgid "Active Life"
 msgstr "Cuộc sống năng động"
 
-#: libs/help_functions.php:2097
+#: libs/help_functions.php:2305
 msgid "Arts & Entertainment"
 msgstr "Nghệ thuật &amp; Giải trí"
 
-#: libs/help_functions.php:2099
+#: libs/help_functions.php:2307
 msgid "Automotive"
 msgstr "Ô tô"
 
-#: libs/help_functions.php:2101
+#: libs/help_functions.php:2309
 msgid "Beauty & Spas"
 msgstr "Làm đẹp &amp; Spa"
 
-#: libs/help_functions.php:2103
+#: libs/help_functions.php:2311
 msgid "Education"
 msgstr "Giáo dục"
 
-#: libs/help_functions.php:2105
+#: libs/help_functions.php:2313
 msgid "Event Planning & Services"
 msgstr "Lập kế hoạch &amp; Dịch vụ Sự kiện"
 
-#: libs/help_functions.php:2107
+#: libs/help_functions.php:2315
 msgid "Financial Services"
 msgstr "Các dịch vụ tài chính"
 
-#: libs/help_functions.php:2109
+#: libs/help_functions.php:2317
 msgid "Food"
 msgstr "Món ăn"
 
-#: libs/help_functions.php:2111
+#: libs/help_functions.php:2319
 msgid "Health & Medical"
 msgstr "Sưc khỏe va y tê"
 
-#: libs/help_functions.php:2113
+#: libs/help_functions.php:2321
 msgid "Home Services "
 msgstr "Dịch vụ tại nhà"
 
-#: libs/help_functions.php:2115
+#: libs/help_functions.php:2323
 msgid "Hotels & Travel"
 msgstr "Khách sạn &amp; Du lịch"
 
-#: libs/help_functions.php:2117
+#: libs/help_functions.php:2325
 msgid "Local Flavor"
 msgstr "Hương vị địa phương"
 
-#: libs/help_functions.php:2119
+#: libs/help_functions.php:2327
 msgid "Local Services"
 msgstr "Dịch vụ địa phương"
 
-#: libs/help_functions.php:2121
+#: libs/help_functions.php:2329
 msgid "Mass Media"
 msgstr "Mass Media"
 
-#: libs/help_functions.php:2123
+#: libs/help_functions.php:2331
 msgid "Nightlife"
 msgstr "Cuộc sống về đêm"
 
-#: libs/help_functions.php:2125
+#: libs/help_functions.php:2333
 msgid "Pets"
 msgstr "Vật nuôi"
 
-#: libs/help_functions.php:2127
+#: libs/help_functions.php:2335
 msgid "Professional Services"
 msgstr "Những dịch vụ chuyên nghiệp"
 
-#: libs/help_functions.php:2129
+#: libs/help_functions.php:2337
 msgid "Public Services & Government"
 msgstr "Dịch vụ công cộng &amp; Chính phủ"
 
-#: libs/help_functions.php:2131
+#: libs/help_functions.php:2339
 msgid "Real Estate"
 msgstr "Địa ốc"
 
-#: libs/help_functions.php:2133
+#: libs/help_functions.php:2341
 msgid "Religious Organizations"
 msgstr "Tổ chức tôn giáo"
 
-#: libs/help_functions.php:2137
+#: libs/help_functions.php:2345
 msgid "Shopping"
 msgstr "Mua sắm"
 
-#: libs/help_functions.php:2139
+#: libs/help_functions.php:2347
 msgid "Transportation"
 msgstr "Vận chuyển"
 
-#: libs/help_functions.php:2193
+#: libs/help_functions.php:2401
 msgid "There are no results found for this property address. "
-msgstr ""
+msgstr "Không có kết quả được tìm thấy đối với địa chỉ tài sản này. "
 
-#: libs/help_functions.php:3466
+#: libs/help_functions.php:3674
 msgid "All Countries"
 msgstr "Tất cả các nước"
 
-#: libs/help_functions.php:3724 libs/help_functions.php:3888
-#: libs/help_functions.php:4118 libs/help_functions.php:4249
-#: libs/help_functions.php:4708 libs/searchfunctions.php:518
-#: libs/searchfunctions2.php:54 property_list_directory.php:106
-#: property_list_half.php:79
-#: templates/advanced_search/advanced_search_type2.php:33
-#: templates/advanced_search/advanced_search_type8.php:111
-#: templates/advanced_search/advanced_search_type9.php:115
-#: templates/advanced_search/advanced_search_type_half.php:202
-#: templates/advanced_search/advanced_search_type_half.php:212
-#: templates/advanced_search/adv_search_mobile.php:104
-#: templates/advanced_search/adv_search_mobile.php:167
-#: templates/advanced_search_type2.php:33
-#: templates/advanced_search_type8.php:111
-#: templates/advanced_search_type9.php:115
-#: templates/advanced_search_type_half.php:203
-#: templates/advanced_search_type_half.php:213
-#: templates/adv_search_mobile.php:104 templates/adv_search_mobile.php:167
-#: templates/directory_filters.php:39
-#: templates/property_ajax_tax_hidden_filters.php:25
-#: templates/property_ajax_tax_hidden_filters.php:70
-#: templates/property_list_filters.php:53
-#: templates/property_list_filters.php:102
-#: templates/taxonomy_agent_hidden_filters.php:22
-msgid "Categories"
-msgstr "Thể loại"
-
-#: libs/help_functions.php:3734 libs/help_functions.php:3935
-#: libs/help_functions.php:4160 libs/help_functions.php:4291
-#: libs/help_functions.php:4916 property_list_half.php:101
-#: templates/directory_filters.php:69
-#: templates/property_ajax_tax_hidden_filters.php:28
-#: templates/property_list_filters.php:56
-#: templates/property_list_filters.php:113
-#: templates/taxonomy_agent_hidden_filters.php:25
-msgid "States"
-msgstr "Tỉnh/TP/Bang"
-
-#: libs/help_functions.php:3736 libs/help_functions.php:3853
-#: libs/help_functions.php:4087 libs/help_functions.php:4218
-#: libs/help_functions.php:4559 libs/help_functions.php:5982
+#: libs/help_functions.php:3975 libs/help_functions.php:4339
+#: libs/help_functions.php:4680 libs/help_functions.php:6103
 #: templates/directory_filters.php:298
 #: templates/submit_templates/property_status.php:42
 msgid "Property Status"
 msgstr "Tình Trạng Tài Sản"
 
-#: libs/help_functions.php:4472
+#: libs/help_functions.php:4593
 msgid "More Search Options"
 msgstr "Tùy chọn tìm kiếm khác"
 
-#: libs/help_functions.php:5091
+#: libs/help_functions.php:5212
 msgid "Pay Submission Fee"
 msgstr "Thanh toán phí nộp đơn"
 
-#: libs/help_functions.php:5198
+#: libs/help_functions.php:5319
 msgid "Pay with Credit Card"
 msgstr "Trả bằng thẻ tín dụng"
 
-#: libs/help_functions.php:5199
+#: libs/help_functions.php:5320
 #: templates/dashboard-templates/user_memebership_profile.php:132
 msgid "Package Payment"
 msgstr "Gói thanh toán"
 
-#: libs/help_functions.php:5746
+#: libs/help_functions.php:5867
 #: templates/submit_templates/property_description.php:65
 msgid "Property Price"
 msgstr "Giá bất động sản"
 
-#: libs/help_functions.php:5747
+#: libs/help_functions.php:5868
 msgid "Property Price Label"
 msgstr "Nhãn giá bất động sản"
 
-#: libs/help_functions.php:5748
+#: libs/help_functions.php:5869
 msgid "Property Price Label Before"
 msgstr "Nhãn giá bất động sản trước"
 
-#: libs/help_functions.php:5751
+#: libs/help_functions.php:5872
 msgid "After Label for Additional Price info"
-msgstr ""
+msgstr "Sau nhãn cho thông tin giá bổ sung"
 
-#: libs/help_functions.php:5753
+#: libs/help_functions.php:5874
 msgid "Property Category Submit"
 msgstr "Danh mục sản phẩm"
 
-#: libs/help_functions.php:5754
+#: libs/help_functions.php:5875
 msgid "Property Action Category"
 msgstr "Danh mục hành động tài sản"
 
-#: libs/help_functions.php:5755
+#: libs/help_functions.php:5876
 msgid "Property Media"
 msgstr "Media Property"
 
-#: libs/help_functions.php:5757 libs/help_functions.php:5979
+#: libs/help_functions.php:5878 libs/help_functions.php:6100
 msgid "Property City"
 msgstr "Thành phố bất động sản"
 
-#: libs/help_functions.php:5758 libs/help_functions.php:5980
+#: libs/help_functions.php:5879 libs/help_functions.php:6101
 msgid "Property Area"
 msgstr "Khu vực bất động sản"
 
-#: libs/help_functions.php:5760
+#: libs/help_functions.php:5881
 msgid "Property County"
 msgstr "Quận bất động sản"
 
-#: libs/help_functions.php:5761 libs/help_functions.php:5992
+#: libs/help_functions.php:5882 libs/help_functions.php:6113
 msgid "Property Country"
 msgstr "Quốc gia bất động sản"
 
-#: libs/help_functions.php:5762
+#: libs/help_functions.php:5883
 msgid "Property Map"
 msgstr "Bản đồ tài sản"
 
-#: libs/help_functions.php:5764
+#: libs/help_functions.php:5885
 msgid "Property Longitude"
 msgstr "Kinh độ tài sản"
 
-#: libs/help_functions.php:5766
+#: libs/help_functions.php:5887
 msgid "Property Google View"
 msgstr "Thuộc tính Google Chế độ xem"
 
-#: libs/help_functions.php:5768
+#: libs/help_functions.php:5889
 msgid "property Size"
 msgstr "Kích thước tài sản"
 
-#: libs/help_functions.php:5774 libs/searchfunctions.php:2322
-#: libs/searchfunctions.php:2490
+#: libs/help_functions.php:5895 libs/searchfunctions.php:2290
+#: libs/searchfunctions.php:2464
 msgid "property status"
 msgstr "Tình Trạng Tài Sản"
 
-#: libs/help_functions.php:5775
+#: libs/help_functions.php:5896
 msgid "Embed Video Id"
 msgstr "Nhúng Id video"
 
-#: libs/help_functions.php:5776
+#: libs/help_functions.php:5897
 msgid "Embed Video Type"
 msgstr "Nhúng loại video"
 
-#: libs/help_functions.php:5777
+#: libs/help_functions.php:5898
 msgid "Embed Virtual Tour"
 msgstr "Nhúng chuyến tham quan ảo"
 
-#: libs/help_functions.php:5778
+#: libs/help_functions.php:5899
 msgid "Property Subunits"
 msgstr "Thuộc tính đơn vị tài sản"
 
-#: libs/help_functions.php:5781
+#: libs/help_functions.php:5902
 msgid "Greenhouse gas emissions Class"
-msgstr ""
+msgstr "Loại phát thải khí nhà kính"
 
-#: libs/help_functions.php:5782
+#: libs/help_functions.php:5903
 msgid "Greenhouse gas emissions Index"
-msgstr ""
+msgstr "Chỉ số phát thải khí nhà kính"
 
-#: libs/help_functions.php:5897
+#: libs/help_functions.php:6018
 msgid "per month"
 msgstr "trên tháng"
 
-#: libs/help_functions.php:5904
+#: libs/help_functions.php:6025
 msgid "HOA fee"
-msgstr ""
+msgstr "Phí quản lý"
 
-#: libs/help_functions.php:5914
+#: libs/help_functions.php:6035
 msgid "Homeowners Association Fee"
-msgstr ""
+msgstr "Phí quản lý"
 
-#: libs/help_functions.php:5922
+#: libs/help_functions.php:6043
 msgid "Home Price"
 msgstr "Trang chủ Giá"
 
-#: libs/help_functions.php:5925
+#: libs/help_functions.php:6046
 msgid "Down Payment"
 msgstr "Trả trước"
 
-#: libs/help_functions.php:5932
+#: libs/help_functions.php:6053
 msgid "Term(*in years)"
-msgstr ""
+msgstr "Kỳ hạn(*theo năm)"
 
-#: libs/help_functions.php:5935
+#: libs/help_functions.php:6056
 msgid "Interest"
 msgstr "Quan tâm"
 
-#: libs/help_functions.php:5976
+#: libs/help_functions.php:6097
 msgid "Leave Blank"
-msgstr ""
+msgstr "Để trống"
 
-#: libs/help_functions.php:5978
+#: libs/help_functions.php:6099
 #: templates/dashboard-templates/add_new_agent.php:174
-#: templates/dashboard-templates/add_new_agent_template.php:272
-#: templates/dashboard-templates/user_profile_agency.php:153
-#: templates/dashboard-templates/user_profile_agent.php:250
-#: templates/dashboard-templates/user_profile_developer.php:134
+#: templates/dashboard-templates/add_new_agent_template.php:310
+#: templates/dashboard-templates/user_profile_agency.php:181
+#: templates/dashboard-templates/user_profile_agent.php:289
+#: templates/dashboard-templates/user_profile_developer.php:160
 msgid "Action Category"
-msgstr "Danh mục hành động"
+msgstr "Hành động danh mục"
 
-#: libs/help_functions.php:5981
+#: libs/help_functions.php:6102
 msgid "Property County/State"
 msgstr "Quận / Huyện"
 
-#: libs/help_functions.php:5984
+#: libs/help_functions.php:6105
 msgid "Homeowners Association Fee(Monthly)"
-msgstr ""
+msgstr "Phí Hiệp hội Chủ nhà (Hàng tháng)"
 
-#: libs/help_functions.php:5993 libs/listing_functions.php:1903
+#: libs/help_functions.php:6114 libs/listing_functions.php:1903
 #: templates/submit_templates/property_energy_effective.php:49
 msgid "Energy Index in kWh/m2a"
 msgstr "Chỉ số năng lượng tính bằng kWh / m2a"
 
-#: libs/help_functions.php:5996
+#: libs/help_functions.php:6117
 msgid "Greenhouse gas emissions index class "
-msgstr ""
+msgstr "Loại chỉ số phát thải khí nhà kính"
 
-#: libs/help_functions.php:5997
+#: libs/help_functions.php:6118
 msgid "Renewable energy performance index "
-msgstr ""
+msgstr "Chỉ số hiệu suất năng lượng tái tạo"
 
-#: libs/help_functions.php:6000
+#: libs/help_functions.php:6121
 msgid "EPC potential rating"
-msgstr ""
+msgstr "Đánh giá tiềm năng EPC"
 
 #: libs/help_functions_cards.php:142
 msgid "Price High to Low"
@@ -3237,11 +3331,11 @@ msgstr "phòng tắm:"
 
 #: libs/listing_functions.php:1214 libs/listing_functions.php:1240
 msgid "price: "
-msgstr "giá bán:"
+msgstr "giá: "
 
 #: libs/listing_functions.php:1295
 msgid "video image"
-msgstr ""
+msgstr "hình ảnh video"
 
 #: libs/listing_functions.php:1401
 #: templates/submit_templates/property_amenities.php:54
@@ -3249,38 +3343,44 @@ msgid "Other Features"
 msgstr "Các tính năng khác"
 
 #: libs/listing_functions.php:1560 libs/listing_functions.php:1610
-#: templates/dashboard-templates/user_profile_agency.php:136
-#: templates/dashboard-templates/user_profile_developer.php:117
+#: templates/dashboard-templates/add_new_agent_template.php:70
+#: templates/dashboard-templates/user_profile_agency.php:55
+#: templates/dashboard-templates/user_profile_agency.php:164
+#: templates/dashboard-templates/user_profile_agent.php:51
+#: templates/dashboard-templates/user_profile_developer.php:43
+#: templates/dashboard-templates/user_profile_developer.php:143
 msgid "Address"
 msgstr "Địa chỉ nhà"
 
 #: libs/listing_functions.php:1563 libs/listing_functions.php:1613
-#: libs/searchfunctions.php:2218 libs/searchfunctions.php:2448
+#: libs/searchfunctions.php:287 libs/searchfunctions.php:2181
+#: libs/searchfunctions.php:2422
 #: templates/dashboard-templates/add_new_agent.php:232
-#: templates/dashboard-templates/add_new_agent_template.php:109
-#: templates/dashboard-templates/user_profile_agency.php:118
-#: templates/dashboard-templates/user_profile_agent.php:98
-#: templates/dashboard-templates/user_profile_developer.php:99
+#: templates/dashboard-templates/add_new_agent_template.php:135
+#: templates/dashboard-templates/user_profile_agency.php:146
+#: templates/dashboard-templates/user_profile_agent.php:124
+#: templates/dashboard-templates/user_profile_developer.php:125
 #: templates/submit_templates/property_location.php:134
 msgid "City"
 msgstr "Thành phố"
 
 #: libs/listing_functions.php:1566 libs/listing_functions.php:1616
-#: libs/searchfunctions.php:2225 libs/searchfunctions.php:2455
+#: libs/searchfunctions.php:299 libs/searchfunctions.php:2182
+#: libs/searchfunctions.php:2429
 #: templates/dashboard-templates/add_new_agent.php:236
-#: templates/dashboard-templates/add_new_agent_template.php:121
-#: templates/dashboard-templates/user_profile_agency.php:130
-#: templates/dashboard-templates/user_profile_agent.php:110
-#: templates/dashboard-templates/user_profile_developer.php:111
+#: templates/dashboard-templates/add_new_agent_template.php:147
+#: templates/dashboard-templates/user_profile_agency.php:158
+#: templates/dashboard-templates/user_profile_agent.php:136
+#: templates/dashboard-templates/user_profile_developer.php:137
 msgid "Area"
 msgstr "Khu vực"
 
 #: libs/listing_functions.php:1569 libs/listing_functions.php:1619
 #: templates/dashboard-templates/add_new_agent.php:243
-#: templates/dashboard-templates/add_new_agent_template.php:115
-#: templates/dashboard-templates/user_profile_agency.php:124
-#: templates/dashboard-templates/user_profile_agent.php:104
-#: templates/dashboard-templates/user_profile_developer.php:105
+#: templates/dashboard-templates/add_new_agent_template.php:141
+#: templates/dashboard-templates/user_profile_agency.php:152
+#: templates/dashboard-templates/user_profile_agent.php:130
+#: templates/dashboard-templates/user_profile_developer.php:131
 msgid "State/County"
 msgstr "Tiểu bang / Hạt"
 
@@ -3300,46 +3400,21 @@ msgstr "Id thuộc tính"
 msgid "Price Info"
 msgstr "Thông tin giá"
 
-#: libs/listing_functions.php:1795
-#: templates/listing_templates/property-page-templates/single-overview-section.php:127
-#: templates/property_cards_templates/property_card_details_type6.php:17
-#: templates/property_slider_shortcode.php:64
-msgid "Rooms"
-msgstr "Phòng"
-
-#: libs/listing_functions.php:1798
-#: templates/listing_templates/property-page-templates/single-overview-section.php:36
-#: templates/listing_templates/single-overview-section.php:31
-#: templates/property_cards_templates/property_card_details_type3.php:30
-#: templates/property_cards_templates/property_card_details_type4.php:12
-#: templates/property_cards_templates/property_card_details_type7.php:30
-msgid "Bedrooms"
-msgstr "Phòng ngủ"
-
-#: libs/listing_functions.php:1801
-#: templates/listing_templates/property-page-templates/single-overview-section.php:50
-#: templates/listing_templates/single-overview-section.php:42
-#: templates/property_cards_templates/property_card_details_type3.php:39
-#: templates/property_cards_templates/property_card_details_type7.php:39
-#: templates/property_slider_shortcode.php:67
-msgid "Bathrooms"
-msgstr "Phòng tắm"
-
 #: libs/listing_functions.php:1882
 msgid "Energy class "
 msgstr "Lớp năng lượng"
 
 #: libs/listing_functions.php:1888
 msgid "Greenhouse gas emissions class  "
-msgstr ""
+msgstr "Loại phát thải khí nhà kính"
 
 #: libs/listing_functions.php:1910
 msgid "Greenhouse Gas Emissions kgCO2/m2a"
-msgstr ""
+msgstr "Phát thải khí nhà kính kgCO2/m2a"
 
 #: libs/listing_functions.php:1913
 msgid "Greenhouse Gas Emissions index class"
-msgstr ""
+msgstr "Lớp chỉ số phát thải khí nhà kính"
 
 #: libs/megamenu.php:165
 msgid "%s (Invalid)"
@@ -3436,10 +3511,10 @@ msgid "Original: %s"
 msgstr "Bản gốc: %s"
 
 #: libs/megamenu.php:357
-#: templates/dashboard-templates/add_new_agent_template.php:307
-#: templates/dashboard-templates/add_new_agent_template.php:328
-#: templates/dashboard-templates/user_profile_agent.php:285
-#: templates/dashboard-templates/user_profile_agent.php:306
+#: templates/dashboard-templates/add_new_agent_template.php:345
+#: templates/dashboard-templates/add_new_agent_template.php:366
+#: templates/dashboard-templates/user_profile_agent.php:324
+#: templates/dashboard-templates/user_profile_agent.php:345
 msgid "Remove"
 msgstr "Tẩy"
 
@@ -3447,33 +3522,33 @@ msgstr "Tẩy"
 msgid "Cancel"
 msgstr "Hủy bỏ"
 
-#: libs/plugins.php:128
+#: libs/plugins.php:137
 msgid "Install Required Plugins"
 msgstr "Bắt buộc cài đặt Plugins"
 
-#: libs/plugins.php:129
+#: libs/plugins.php:138
 msgid "Install Plugins"
 msgstr "Cài đặt plugin"
 
-#: libs/plugins.php:130
+#: libs/plugins.php:139
 msgid "Installing Plugin: %s"
 msgstr "Đang cài đặt Plugin: %s"
 
-#: libs/plugins.php:131
+#: libs/plugins.php:140
 msgid "Something went wrong with the plugin API."
 msgstr "Có gì đó không đúng với API mở rộng."
 
-#: libs/plugins.php:132
+#: libs/plugins.php:141
 msgid "This theme requires the following plugin: %1$s."
 msgid_plural "This theme requires the following plugins: %1$s."
 msgstr[0] "Theme này yêu cầu plugin sau: %1$s."
 
-#: libs/plugins.php:133
+#: libs/plugins.php:142
 msgid "This theme recommends the following plugin: %1$s."
 msgid_plural "This theme recommends the following plugins: %1$s."
 msgstr[0] "Theme này đề xuất plugin sau: %1$s."
 
-#: libs/plugins.php:134
+#: libs/plugins.php:143
 msgid ""
 "Sorry, but you do not have the correct permissions to install the %s plugin. "
 "Contact the administrator of this site for help on getting the plugin "
@@ -3486,17 +3561,17 @@ msgstr[0] ""
 "Xin lỗi, nhưng bạn không có quyền để cài đặt các plugin %s. Liên hệ với quản "
 "trị viên của trang web này để được giúp đỡ về việc cài đặt plugin."
 
-#: libs/plugins.php:135
+#: libs/plugins.php:144
 msgid "The following required plugin is currently inactive: %1$s."
 msgid_plural "The following required plugins are currently inactive: %1$s."
 msgstr[0] "Các plugin cần thiết sau đây hiện không hoạt động:%1$s."
 
-#: libs/plugins.php:136
+#: libs/plugins.php:145
 msgid "The following recommended plugin is currently inactive: %1$s."
 msgid_plural "The following recommended plugins are currently inactive: %1$s."
 msgstr[0] "Plugin được đề xuất sau đây hiện không hoạt động: %1$s."
 
-#: libs/plugins.php:137
+#: libs/plugins.php:146
 msgid ""
 "Sorry, but you do not have the correct permissions to activate the %s "
 "plugin. Contact the administrator of this site for help on getting the "
@@ -3509,7 +3584,7 @@ msgstr[0] ""
 "Xin lỗi, nhưng bạn không có quyền đúng để kích hoạt các plugin %s. Liên hệ "
 "với quản trị viên của trang web này để được giúp đỡ về việc kích hoạt plugin."
 
-#: libs/plugins.php:138
+#: libs/plugins.php:147
 msgid ""
 "The following plugin needs to be updated to its latest version to ensure "
 "maximum compatibility with this theme: %1$s."
@@ -3520,7 +3595,7 @@ msgstr[0] ""
 "Plugin này cần được cập nhật lên phiên bản mới nhất để đảm bảo khả năng "
 "tương thích tối đa với chủ đề này: %1$s."
 
-#: libs/plugins.php:139
+#: libs/plugins.php:148
 msgid ""
 "Sorry, but you do not have the correct permissions to update the %s plugin. "
 "Contact the administrator of this site for help on getting the plugin "
@@ -3534,29 +3609,29 @@ msgstr[0] ""
 "với quản trị viên của trang web này để được giúp đỡ về nhận được cập nhật "
 "plugin."
 
-#: libs/plugins.php:140
+#: libs/plugins.php:149
 msgid "Begin installing plugin"
 msgid_plural "Begin installing plugins"
 msgstr[0] "Bắt đầu cài đặt plugin"
 
-#: libs/plugins.php:141
+#: libs/plugins.php:150
 msgid "Activate installed plugin"
 msgid_plural "Activate installed plugins"
 msgstr[0] "Kích hoạt cài đặt plugin"
 
-#: libs/plugins.php:142
+#: libs/plugins.php:151
 msgid "Return to Required Plugins Installer"
 msgstr "Quay lại Trình cài đặt plugin bắt buộc"
 
-#: libs/plugins.php:143
+#: libs/plugins.php:152
 msgid "Plugin activated successfully."
 msgstr "Phần hỗ trợ thêm đã được kích hoạt thành công."
 
-#: libs/plugins.php:144
+#: libs/plugins.php:153
 msgid "All plugins installed and activated successfully. %s"
 msgstr "Tất cả các plugin được cài đặt và kích hoạt thành công. %S"
 
-#: libs/property-card-functions.php:353
+#: libs/property-card-functions.php:380
 #: templates/agent_card_templates/agent_unit.php:11
 #: templates/agent_card_templates/agent_unit_4.php:11
 #: templates/agent_card_templates/agent_unit_featured.php:31
@@ -3567,12 +3642,12 @@ msgstr "Tất cả các plugin được cài đặt và kích hoạt thành côn
 #: templates/blog_card_templates/blog_unit4.php:72 templates/blog_unit.php:33
 #: templates/blog_unit2.php:72
 #: templates/dashboard-templates/add_new_agent.php:38
-#: templates/dashboard-templates/add_new_agent_template.php:380
+#: templates/dashboard-templates/add_new_agent_template.php:418
 #: templates/dashboard-templates/dashboard_agent_unit.php:18
 #: templates/dashboard-templates/user_profile.php:145
-#: templates/dashboard-templates/user_profile_agency.php:256
-#: templates/dashboard-templates/user_profile_agent.php:362
-#: templates/dashboard-templates/user_profile_developer.php:232
+#: templates/dashboard-templates/user_profile_agency.php:290
+#: templates/dashboard-templates/user_profile_agent.php:401
+#: templates/dashboard-templates/user_profile_developer.php:264
 #: templates/featured_property_1.php:123 templates/featured_property_1.php:127
 #: templates/featured_property_2.php:106
 #: templates/property_animation_slider.php:70
@@ -3582,163 +3657,167 @@ msgstr "Tất cả các plugin được cài đặt và kích hoạt thành côn
 #: templates/submit_templates/property_images_new.php:67
 #: templates/submit_templates/property_images_new.php:116
 msgid "user image"
-msgstr ""
+msgstr "hình ảnh người dùng"
 
 #: libs/searchfunctions.php:12
 #: templates/advanced_search/advanced_search_type_half.php:82
 #: templates/advanced_search_type_half.php:82
 #: templates/dashboard-templates/add_new_agent.php:226
-#: templates/dashboard-templates/user_profile_agency.php:216
-#: templates/dashboard-templates/user_profile_developer.php:190
+#: templates/dashboard-templates/user_profile_agency.php:250
+#: templates/dashboard-templates/user_profile_developer.php:222
 msgid "Location"
 msgstr "Vị trí"
 
 #: libs/searchfunctions.php:62
 msgid "Radius: "
-msgstr ""
+msgstr "Bán kính: "
 
-#: libs/searchfunctions.php:229
+#: libs/searchfunctions.php:226
 msgid "Enter an address, state, city, area or zip code"
 msgstr "Nhập địa chỉ, tiểu bang, thành phố, khu vực hoặc mã zip"
 
-#: libs/searchfunctions.php:435
+#: libs/searchfunctions.php:310
+msgid "County or State"
+msgstr "Quận hoặc Tiểu bang"
+
+#: libs/searchfunctions.php:459
 #: templates/advanced_search/advanced_search_type10.php:37
 #: templates/advanced_search/adv_search_mobile.php:81
 #: templates/advanced_search_type10.php:37 templates/adv_search_mobile.php:81
 msgid "Type address, state, city or area"
 msgstr "Nhập địa chỉ, tiểu bang, thành phố hoặc khu vực"
 
-#: libs/searchfunctions.php:485 searchform.php:2
+#: libs/searchfunctions.php:522 searchform.php:2
 #: templates/advanced_search/advanced_search_type11.php:36
 #: templates/advanced_search/adv_search_mobile.php:108
 #: templates/advanced_search_type11.php:36 templates/adv_search_mobile.php:108
 msgid "Type Keyword"
 msgstr "Nhập từ khóa"
 
-#: libs/searchfunctions.php:2178 libs/searchfunctions.php:2411
+#: libs/searchfunctions.php:2175 libs/searchfunctions.php:2385
 msgid "County, City or Area is "
 msgstr "Quận, Thành Phố hoặc Khu Vực là"
 
-#: libs/searchfunctions.php:2211 libs/searchfunctions.php:2441
+#: libs/searchfunctions.php:2180 libs/searchfunctions.php:2415
 msgid "For"
 msgstr "Dành cho"
 
-#: libs/searchfunctions.php:2231 libs/searchfunctions.php:2461
+#: libs/searchfunctions.php:2183 libs/searchfunctions.php:2435
 #: templates/submit_templates/property_location.php:99
 msgid "County / State"
 msgstr "Quận / Tiểu bang"
 
-#: libs/searchfunctions.php:2252
+#: libs/searchfunctions.php:2213
 msgid "Has"
 msgstr "Có"
 
-#: libs/searchfunctions.php:2307 libs/searchfunctions.php:2475
+#: libs/searchfunctions.php:2275 libs/searchfunctions.php:2449
 msgid "types"
 msgstr "các loại"
 
-#: libs/searchfunctions.php:2311 libs/searchfunctions.php:2479
+#: libs/searchfunctions.php:2279 libs/searchfunctions.php:2453
 msgid "property price"
 msgstr "giá bất động sản"
 
-#: libs/searchfunctions.php:2312 libs/searchfunctions.php:2480
+#: libs/searchfunctions.php:2280 libs/searchfunctions.php:2454
 msgid "property size"
 msgstr "kích thước tài sản"
 
-#: libs/searchfunctions.php:2313 libs/searchfunctions.php:2481
+#: libs/searchfunctions.php:2281 libs/searchfunctions.php:2455
 msgid "property lot size"
 msgstr "kích thước lô đất"
 
-#: libs/searchfunctions.php:2314 libs/searchfunctions.php:2482
+#: libs/searchfunctions.php:2282 libs/searchfunctions.php:2456
 msgid "property rooms"
 msgstr "phòng tài sản"
 
-#: libs/searchfunctions.php:2315 libs/searchfunctions.php:2483
+#: libs/searchfunctions.php:2283 libs/searchfunctions.php:2457
 msgid "property bedrooms"
 msgstr "phòng ngủ"
 
-#: libs/searchfunctions.php:2316 libs/searchfunctions.php:2484
+#: libs/searchfunctions.php:2284 libs/searchfunctions.php:2458
 msgid "property bathrooms"
 msgstr "tài sản phòng tắm"
 
-#: libs/searchfunctions.php:2317 libs/searchfunctions.php:2485
+#: libs/searchfunctions.php:2285 libs/searchfunctions.php:2459
 msgid "property address"
 msgstr "địa chỉ tài sản"
 
-#: libs/searchfunctions.php:2318 libs/searchfunctions.php:2486
+#: libs/searchfunctions.php:2286 libs/searchfunctions.php:2460
 msgid "property county"
 msgstr "quận bất động sản"
 
-#: libs/searchfunctions.php:2319 libs/searchfunctions.php:2487
+#: libs/searchfunctions.php:2287 libs/searchfunctions.php:2461
 msgid "property state"
 msgstr "trạng thái tài sản"
 
-#: libs/searchfunctions.php:2320 libs/searchfunctions.php:2488
+#: libs/searchfunctions.php:2288 libs/searchfunctions.php:2462
 msgid "property zip"
 msgstr "thuộc tính zip"
 
-#: libs/searchfunctions.php:2321 libs/searchfunctions.php:2489
+#: libs/searchfunctions.php:2289 libs/searchfunctions.php:2463
 msgid "property country"
 msgstr "quốc gia sở hữu"
 
-#: libs/searchfunctions.php:2353
+#: libs/searchfunctions.php:2327
 msgid "between "
 msgstr "giữa"
 
-#: libs/searchfunctions.php:2353 libs/searchfunctions.php:2355
-#: libs/searchfunctions.php:2359
+#: libs/searchfunctions.php:2327 libs/searchfunctions.php:2329
+#: libs/searchfunctions.php:2333
 msgid "and"
 msgstr "và"
 
-#: libs/searchfunctions.php:2355 libs/searchfunctions.php:2359
+#: libs/searchfunctions.php:2329 libs/searchfunctions.php:2333
 msgid "between"
 msgstr "giữa"
 
-#: libs/searchfunctions.php:2363 libs/searchfunctions.php:2516
+#: libs/searchfunctions.php:2337 libs/searchfunctions.php:2490
 msgid " similar with "
 msgstr "tương tự với"
 
-#: libs/searchfunctions.php:2365 libs/searchfunctions.php:2520
-#: libs/searchfunctions.php:2554
+#: libs/searchfunctions.php:2339 libs/searchfunctions.php:2494
+#: libs/searchfunctions.php:2528
 msgid " has"
 msgstr "có"
 
-#: libs/searchfunctions.php:2367 libs/searchfunctions.php:2524
+#: libs/searchfunctions.php:2341 libs/searchfunctions.php:2498
 msgid " equal with "
 msgstr "Bằng"
 
-#: libs/searchfunctions.php:2369 libs/searchfunctions.php:2532
-#: libs/searchfunctions.php:2561
+#: libs/searchfunctions.php:2343 libs/searchfunctions.php:2506
+#: libs/searchfunctions.php:2535
 msgid "smaller than "
 msgstr "nhỏ hơn"
 
-#: libs/searchfunctions.php:2371
+#: libs/searchfunctions.php:2345
 msgid "bigger than "
 msgstr "to hơn"
 
-#: libs/searchfunctions.php:2510 libs/searchfunctions.php:2570
+#: libs/searchfunctions.php:2484 libs/searchfunctions.php:2544
 msgid "price range from: "
 msgstr "phạm vi giá từ:"
 
-#: libs/searchfunctions.php:2512 libs/searchfunctions.php:2540
-#: libs/searchfunctions.php:2572
+#: libs/searchfunctions.php:2486 libs/searchfunctions.php:2514
+#: libs/searchfunctions.php:2546
 msgid "bigger than"
 msgstr "to hơn"
 
-#: libs/searchfunctions.php:2538
+#: libs/searchfunctions.php:2512
 msgid "price range from "
 msgstr "phạm vi giá từ"
 
-#: libs/searchfunctions2.php:310
+#: libs/searchfunctions2.php:354
 #: templates/advanced_search/advanced_search_type2.php:58
-#: templates/advanced_search/advanced_search_type4.php:74
-#: templates/advanced_search/advanced_search_type4.php:80
-#: templates/advanced_search/advanced_search_type5.php:77
-#: templates/advanced_search/advanced_search_type5.php:83
+#: templates/advanced_search/advanced_search_type4.php:83
+#: templates/advanced_search/advanced_search_type4.php:89
+#: templates/advanced_search/advanced_search_type5.php:85
+#: templates/advanced_search/advanced_search_type5.php:91
 #: templates/advanced_search/advanced_search_type7.php:112
 #: templates/advanced_search/advanced_search_type7.php:151
 #: templates/advanced_search/advanced_search_type8.php:168
 #: templates/advanced_search/advanced_search_type9.php:170
-#: templates/advanced_search/adv_search_mobile.php:211
+#: templates/advanced_search/adv_search_mobile.php:218
 #: templates/advanced_search_type2.php:58
 #: templates/advanced_search_type4.php:74
 #: templates/advanced_search_type4.php:80
@@ -3757,11 +3836,11 @@ msgstr "Đã xóa bộ nhớ cache"
 
 #. Template Name of the theme
 msgid "Property page template"
-msgstr ""
+msgstr "Mẫu trang bất động sản"
 
 #. Template Name of the theme
 msgid "Paypal Processor"
-msgstr ""
+msgstr "Bộ xử lý Paypal"
 
 #. Template Name of the theme
 msgid "Properties list"
@@ -3788,18 +3867,18 @@ msgstr ""
 "Chúng tôi không tìm thấy bất kỳ kết quả nào. Vui lòng thử lại với các thông "
 "số tìm kiếm khác nhau."
 
-#: single-estate_agency.php:43
+#: single-estate_agency.php:42
 msgid "About Us"
 msgstr "Về chúng tôi"
 
-#: single-estate_agency.php:117 templates/header_agency.php:56
-#: templates/header_developer.php:74 zillow_estimate_page.php:83
+#: single-estate_agency.php:97 templates/header_agency.php:56
+#: templates/header_developer.php:55 zillow_estimate_page.php:83
 msgid "Address:"
 msgstr "Địa chỉ nhà:"
 
 #. Template Name of the theme
 msgid "Idx Page"
-msgstr ""
+msgstr "Trang IDx"
 
 #: single-idx.php:34 single.php:51
 msgid "Pages:"
@@ -3855,16 +3934,6 @@ msgstr "của"
 #: templates/property_page!/property_reviews.php:96
 msgid "Posted on "
 msgstr "Đăng trên"
-
-#: templates/!property_reviews.php:118 templates/agency_reviews.php:124
-#: templates/agency_templates/agency_reviews.php:124
-#: templates/agent_reviews.php:102 templates/developer_reviews.php:105
-#: templates/developer_templates/developer_reviews.php:109
-#: templates/listing_templates/property-page-templates/property_reviews.php:126
-#: templates/listing_templates/property_reviews.php:121
-#: templates/property_page!/property_reviews.php:118
-msgid "Reviews"
-msgstr "Nhận xét"
 
 #: templates/!property_reviews.php:169 templates/agency_reviews.php:179
 #: templates/agency_templates/agency_reviews.php:179
@@ -3976,6 +4045,13 @@ msgstr "đăng nhập"
 msgid "in order to post a review "
 msgstr "để đăng bài đánh giá"
 
+#: templates/advanced_property_list_filters.php:20
+#: templates/normal_directory.php:64 templates/property_list_filters.php:20
+#: templates/property_list_filters_search.php:7
+#: templates/property_list_filter_half.php:3
+msgid "Sort by"
+msgstr "Sắp xếp theo"
+
 #: templates/advanced_search/advanced_search_type1.php:29
 #: templates/advanced_search/advanced_search_type3.php:22
 #: templates/advanced_search/advanced_search_type5.php:31
@@ -3986,8 +4062,8 @@ msgstr "để đăng bài đánh giá"
 msgid "Advanced Search"
 msgstr "tìm kiếm nâng cao"
 
-#: templates/advanced_search/advanced_search_type1.php:78
-#: templates/advanced_search/advanced_search_type_half.php:397
+#: templates/advanced_search/advanced_search_type1.php:92
+#: templates/advanced_search/advanced_search_type_half.php:406
 #: templates/advanced_search_type1.php:78
 #: templates/advanced_search_type_half.php:398
 msgid "SEARCH PROPERTIES"
@@ -3996,7 +4072,7 @@ msgstr "TÍNH NĂNG TÌM KIẾM"
 #: templates/advanced_search/advanced_search_type2.php:24
 #: templates/advanced_search/advanced_search_type8.php:95
 #: templates/advanced_search/advanced_search_type9.php:98
-#: templates/advanced_search/adv_search_mobile.php:161
+#: templates/advanced_search/adv_search_mobile.php:168
 #: templates/advanced_search_type2.php:24
 #: templates/advanced_search_type8.php:95
 #: templates/advanced_search_type9.php:98 templates/adv_search_mobile.php:161
@@ -4013,22 +4089,22 @@ msgstr "tìm kiếm nâng cao"
 msgid "Radius:"
 msgstr "Bán kính:"
 
-#: templates/advanced_search/advanced_search_type_half.php:402
+#: templates/advanced_search/advanced_search_type_half.php:411
 #: templates/advanced_search_type_half.php:403 templates/preview_template.php:8
 msgid "We found "
 msgstr "Chúng tôi đã tìm thấy"
 
-#: templates/advanced_search/advanced_search_type_half.php:402
+#: templates/advanced_search/advanced_search_type_half.php:411
 #: templates/advanced_search_type_half.php:403 templates/preview_template.php:8
 msgid "results."
 msgstr "các kết quả."
 
-#: templates/advanced_search/adv_search_mobile.php:215
+#: templates/advanced_search/adv_search_mobile.php:222
 #: templates/adv_search_mobile.php:215
 msgid "we found"
 msgstr "chúng tôi đã tìm thấy"
 
-#: templates/advanced_search/adv_search_mobile.php:215
+#: templates/advanced_search/adv_search_mobile.php:222
 #: templates/adv_search_mobile.php:215
 msgid "results"
 msgstr "các kết quả"
@@ -4055,19 +4131,14 @@ msgstr "Tải thêm thuộc tính"
 msgid "Agency Reviews "
 msgstr "Đánh giá đại lý"
 
-#: templates/agency_unit.php:151
+#: templates/agency_unit.php:140
 #: templates/agent_card_templates/agent_unit.php:26
 #: templates/agent_card_templates/agent_unit_4.php:26
 #: templates/agent_unit.php:24 templates/agent_unit_widget.php:111
 msgid "listing"
 msgstr "danh sách"
 
-#: templates/agentdetails.php:87
-#: templates/listing_templates/agent_section/agentdetails.php:86
-msgid "Member of:"
-msgstr "Thành viên của:"
-
-#: templates/agent_card_templates/agent_unit_featured.php:100
+#: templates/agent_card_templates/agent_unit_featured.php:83
 #: templates/agent_listings.php:177 templates/agent_unit_featured.php:85
 #: templates/featured_property_1.php:131
 msgid "My Listings"
@@ -4134,9 +4205,9 @@ msgstr "So sánh"
 
 #: templates/dashboard-templates/add_new_agent.php:19
 #: templates/dashboard-templates/user_menu.php:7
-#: templates/dashboard-templates/user_profile_agency.php:293
-#: templates/dashboard-templates/user_profile_agent.php:402
-#: templates/dashboard-templates/user_profile_developer.php:292
+#: templates/dashboard-templates/user_profile_agency.php:327
+#: templates/dashboard-templates/user_profile_agent.php:441
+#: templates/dashboard-templates/user_profile_developer.php:324
 msgid "Your account is pending approval. Please wait for admin to approve it. "
 msgstr ""
 "Tài khoản của bạn đang chờ được kích hoạt. Vui lòng đợi quản trị viên phê "
@@ -4144,18 +4215,18 @@ msgstr ""
 
 #: templates/dashboard-templates/add_new_agent.php:22
 #: templates/dashboard-templates/user_menu.php:10
-#: templates/dashboard-templates/user_profile_agency.php:296
-#: templates/dashboard-templates/user_profile_agent.php:405
-#: templates/dashboard-templates/user_profile_developer.php:295
+#: templates/dashboard-templates/user_profile_agency.php:330
+#: templates/dashboard-templates/user_profile_agent.php:444
+#: templates/dashboard-templates/user_profile_developer.php:327
 msgid "Your account is disabled."
 msgstr "Tài khoản của bạn bị vô hiệu hóa."
 
 #: templates/dashboard-templates/add_new_agent.php:33
-#: templates/dashboard-templates/add_new_agent_template.php:378
+#: templates/dashboard-templates/add_new_agent_template.php:416
 #: templates/dashboard-templates/user_profile.php:141
-#: templates/dashboard-templates/user_profile_agency.php:252
-#: templates/dashboard-templates/user_profile_agent.php:360
-#: templates/dashboard-templates/user_profile_developer.php:228
+#: templates/dashboard-templates/user_profile_agency.php:286
+#: templates/dashboard-templates/user_profile_agent.php:399
+#: templates/dashboard-templates/user_profile_developer.php:260
 msgid "Photo"
 msgstr "hình chụp"
 
@@ -4164,20 +4235,20 @@ msgid "Upload your profile photo."
 msgstr "Tải lên ảnh tiểu sử của bạn."
 
 #: templates/dashboard-templates/add_new_agent.php:44
-#: templates/dashboard-templates/add_new_agent_template.php:385
+#: templates/dashboard-templates/add_new_agent_template.php:423
 #: templates/dashboard-templates/user_profile.php:149
-#: templates/dashboard-templates/user_profile_agency.php:261
-#: templates/dashboard-templates/user_profile_agent.php:366
-#: templates/dashboard-templates/user_profile_developer.php:237
+#: templates/dashboard-templates/user_profile_agency.php:295
+#: templates/dashboard-templates/user_profile_agent.php:405
+#: templates/dashboard-templates/user_profile_developer.php:269
 msgid "Upload  profile image."
 msgstr "Tải lên hình ảnh hồ sơ."
 
 #: templates/dashboard-templates/add_new_agent.php:50
-#: templates/dashboard-templates/add_new_agent_template.php:391
+#: templates/dashboard-templates/add_new_agent_template.php:429
 #: templates/dashboard-templates/user_profile.php:157
-#: templates/dashboard-templates/user_profile_agency.php:268
-#: templates/dashboard-templates/user_profile_agent.php:373
-#: templates/dashboard-templates/user_profile_developer.php:244
+#: templates/dashboard-templates/user_profile_agency.php:302
+#: templates/dashboard-templates/user_profile_agent.php:412
+#: templates/dashboard-templates/user_profile_developer.php:276
 msgid "*minimum 500px x 500px"
 msgstr "* tối thiểu 500px x 500px"
 
@@ -4229,64 +4300,64 @@ msgid "Add your social media information."
 msgstr "Thêm thông tin truyền thông xã hội của bạn."
 
 #: templates/dashboard-templates/add_new_agent.php:104
-#: templates/dashboard-templates/add_new_agent_template.php:73
+#: templates/dashboard-templates/add_new_agent_template.php:79
 #: templates/dashboard-templates/user_profile.php:52
-#: templates/dashboard-templates/user_profile_agency.php:72
-#: templates/dashboard-templates/user_profile_agency.php:105
-#: templates/dashboard-templates/user_profile_agent.php:63
-#: templates/dashboard-templates/user_profile_developer.php:66
+#: templates/dashboard-templates/user_profile_agency.php:77
+#: templates/dashboard-templates/user_profile_agency.php:133
+#: templates/dashboard-templates/user_profile_agent.php:68
+#: templates/dashboard-templates/user_profile_developer.php:71
 msgid "Facebook Url"
 msgstr "URL Facebook"
 
 #: templates/dashboard-templates/add_new_agent.php:109
-#: templates/dashboard-templates/add_new_agent_template.php:84
+#: templates/dashboard-templates/add_new_agent_template.php:90
 #: templates/dashboard-templates/user_profile.php:57
-#: templates/dashboard-templates/user_profile_agency.php:82
-#: templates/dashboard-templates/user_profile_agent.php:73
-#: templates/dashboard-templates/user_profile_developer.php:76
-msgid "Twitter Url"
-msgstr "Url Twitter"
+#: templates/dashboard-templates/user_profile_agency.php:87
+#: templates/dashboard-templates/user_profile_agent.php:78
+#: templates/dashboard-templates/user_profile_developer.php:81
+msgid "X - Twitter Url"
+msgstr "X - Url Twitter"
 
 #: templates/dashboard-templates/add_new_agent.php:114
-#: templates/dashboard-templates/add_new_agent_template.php:94
+#: templates/dashboard-templates/add_new_agent_template.php:100
 #: templates/dashboard-templates/user_profile.php:62
-#: templates/dashboard-templates/user_profile_agency.php:92
-#: templates/dashboard-templates/user_profile_agent.php:83
-#: templates/dashboard-templates/user_profile_developer.php:86
+#: templates/dashboard-templates/user_profile_agency.php:97
+#: templates/dashboard-templates/user_profile_agent.php:88
+#: templates/dashboard-templates/user_profile_developer.php:91
 msgid "Linkedin Url"
 msgstr "Url được liên kết"
 
 #: templates/dashboard-templates/add_new_agent.php:120
-#: templates/dashboard-templates/add_new_agent_template.php:79
+#: templates/dashboard-templates/add_new_agent_template.php:85
 #: templates/dashboard-templates/user_profile.php:67
-#: templates/dashboard-templates/user_profile_agency.php:77
-#: templates/dashboard-templates/user_profile_agency.php:110
-#: templates/dashboard-templates/user_profile_agent.php:68
-#: templates/dashboard-templates/user_profile_developer.php:71
+#: templates/dashboard-templates/user_profile_agency.php:82
+#: templates/dashboard-templates/user_profile_agency.php:138
+#: templates/dashboard-templates/user_profile_agent.php:73
+#: templates/dashboard-templates/user_profile_developer.php:76
 msgid "Instagram Url"
 msgstr "Url Instagram"
 
 #: templates/dashboard-templates/add_new_agent.php:125
-#: templates/dashboard-templates/add_new_agent_template.php:89
+#: templates/dashboard-templates/add_new_agent_template.php:95
 #: templates/dashboard-templates/user_profile.php:72
-#: templates/dashboard-templates/user_profile_agency.php:87
-#: templates/dashboard-templates/user_profile_agent.php:78
-#: templates/dashboard-templates/user_profile_developer.php:81
+#: templates/dashboard-templates/user_profile_agency.php:92
+#: templates/dashboard-templates/user_profile_agent.php:83
+#: templates/dashboard-templates/user_profile_developer.php:86
 msgid "Pinterest Url"
 msgstr "Url Pinterest"
 
 #: templates/dashboard-templates/add_new_agent.php:130
-#: templates/dashboard-templates/add_new_agent_template.php:99
+#: templates/dashboard-templates/add_new_agent_template.php:125
 #: templates/dashboard-templates/user_profile.php:78
-#: templates/dashboard-templates/user_profile_agency.php:97
-#: templates/dashboard-templates/user_profile_agent.php:88
-#: templates/dashboard-templates/user_profile_developer.php:91
+#: templates/dashboard-templates/user_profile_agency.php:125
+#: templates/dashboard-templates/user_profile_agent.php:114
+#: templates/dashboard-templates/user_profile_developer.php:117
 msgid "Website Url (without http)"
 msgstr "Url trang web (không có http)"
 
 #: templates/dashboard-templates/add_new_agent.php:140
-#: templates/dashboard-templates/add_new_agent_template.php:247
-#: templates/dashboard-templates/user_profile_agent.php:211
+#: templates/dashboard-templates/add_new_agent_template.php:285
+#: templates/dashboard-templates/user_profile_agent.php:250
 msgid "Agent Area/Categories"
 msgstr "Khu vực đại lý / thể loại"
 
@@ -4295,8 +4366,8 @@ msgid "What kind of listings do you handle?"
 msgstr "Bạn xử lý loại danh sách nào?"
 
 #: templates/dashboard-templates/add_new_agent.php:205
-#: templates/dashboard-templates/add_new_agent_template.php:295
-#: templates/dashboard-templates/user_profile_agent.php:273
+#: templates/dashboard-templates/add_new_agent_template.php:333
+#: templates/dashboard-templates/user_profile_agent.php:312
 msgid "Agent Custom Data"
 msgstr "Dữ liệu tùy chỉnh đại lý"
 
@@ -4305,8 +4376,8 @@ msgid "Any custom parameters for agent"
 msgstr "Bất kỳ thông số tùy chỉnh nào cho đại lý"
 
 #: templates/dashboard-templates/add_new_agent.php:210
-#: templates/dashboard-templates/add_new_agent_template.php:335
-#: templates/dashboard-templates/user_profile_agent.php:313
+#: templates/dashboard-templates/add_new_agent_template.php:373
+#: templates/dashboard-templates/user_profile_agent.php:352
 msgid "Add Custom Field"
 msgstr "Thêm trường tùy chỉnh"
 
@@ -4323,31 +4394,31 @@ msgid "Add some information about yourself."
 msgstr "Thêm một số thông tin về bản thân bạn."
 
 #: templates/dashboard-templates/add_new_agent.php:256
-#: templates/dashboard-templates/add_new_agent_template.php:131
+#: templates/dashboard-templates/add_new_agent_template.php:157
 #: templates/dashboard-templates/user_profile.php:87
-#: templates/dashboard-templates/user_profile_agent.php:122
+#: templates/dashboard-templates/user_profile_agent.php:148
 msgid "Title/Position"
 msgstr "Vị trí tiêu đề"
 
 #: templates/dashboard-templates/add_new_agent.php:261
-#: templates/dashboard-templates/add_new_agent_template.php:137
-#: templates/dashboard-templates/user_profile_agent.php:128
+#: templates/dashboard-templates/add_new_agent_template.php:163
+#: templates/dashboard-templates/user_profile_agent.php:154
 msgid "About Me"
 msgstr "Về tôi"
 
 #: templates/dashboard-templates/add_new_agent.php:265
 #: templates/dashboard-templates/user_profile.php:122
-#: templates/dashboard-templates/user_profile_agency.php:233
-#: templates/dashboard-templates/user_profile_agent.php:332
-#: templates/dashboard-templates/user_profile_developer.php:207
+#: templates/dashboard-templates/user_profile_agency.php:267
+#: templates/dashboard-templates/user_profile_agent.php:371
+#: templates/dashboard-templates/user_profile_developer.php:239
 msgid "Update profile"
 msgstr "Cập nhật hồ sơ"
 
 #: templates/dashboard-templates/add_new_agent.php:266
 #: templates/dashboard-templates/user_profile.php:123
-#: templates/dashboard-templates/user_profile_agency.php:243
-#: templates/dashboard-templates/user_profile_agent.php:344
-#: templates/dashboard-templates/user_profile_developer.php:219
+#: templates/dashboard-templates/user_profile_agency.php:277
+#: templates/dashboard-templates/user_profile_agent.php:383
+#: templates/dashboard-templates/user_profile_developer.php:251
 msgid "Delete profile"
 msgstr "Xóa hồ sơ"
 
@@ -4364,48 +4435,83 @@ msgstr "Gõ lại mật khẩu"
 msgid "Member of"
 msgstr "Thành viên của"
 
-#: templates/dashboard-templates/add_new_agent_template.php:223
-#: templates/dashboard-templates/add_new_agent_template.php:348
-#: templates/dashboard-templates/user_profile_agent.php:323
+#: templates/dashboard-templates/add_new_agent_template.php:105
+#: templates/dashboard-templates/user_profile_agency.php:103
+#: templates/dashboard-templates/user_profile_agent.php:93
+#: templates/dashboard-templates/user_profile_developer.php:97
+msgid "Youtube Url"
+msgstr "Liên kết Youtube"
+
+#: templates/dashboard-templates/add_new_agent_template.php:110
+#: templates/dashboard-templates/user_profile_agency.php:108
+#: templates/dashboard-templates/user_profile_agent.php:98
+#: templates/dashboard-templates/user_profile_developer.php:102
+msgid "TikTok Url"
+msgstr "Url TikTok"
+
+#: templates/dashboard-templates/add_new_agent_template.php:115
+#: templates/dashboard-templates/user_profile_agency.php:113
+#: templates/dashboard-templates/user_profile_agent.php:103
+#: templates/dashboard-templates/user_profile_developer.php:107
+msgid "Telegram Url"
+msgstr "Url điện Telegram"
+
+#: templates/dashboard-templates/add_new_agent_template.php:120
+#: templates/dashboard-templates/user_profile_agency.php:118
+#: templates/dashboard-templates/user_profile_agent.php:108
+#: templates/dashboard-templates/user_profile_developer.php:112
+msgid "Vimeo Url"
+msgstr "LIên kết Vimeo"
+
+#: templates/dashboard-templates/add_new_agent_template.php:170
+#: templates/dashboard-templates/user_profile_agency.php:201
+#: templates/dashboard-templates/user_profile_agent.php:161
+#: templates/dashboard-templates/user_profile_developer.php:179
+msgid "Private Notes"
+msgstr "Ghi chú riêng"
+
+#: templates/dashboard-templates/add_new_agent_template.php:261
+#: templates/dashboard-templates/add_new_agent_template.php:386
+#: templates/dashboard-templates/user_profile_agent.php:362
 msgid "Agent Details"
 msgstr "Chi tiết đại lý"
 
-#: templates/dashboard-templates/add_new_agent_template.php:227
+#: templates/dashboard-templates/add_new_agent_template.php:265
 msgid "Agent Username"
 msgstr "Tên người dùng đại lý"
 
-#: templates/dashboard-templates/add_new_agent_template.php:231
+#: templates/dashboard-templates/add_new_agent_template.php:269
 msgid "Username:"
 msgstr "Tên người dùng:"
 
-#: templates/dashboard-templates/add_new_agent_template.php:231
+#: templates/dashboard-templates/add_new_agent_template.php:269
 msgid "is not editable"
 msgstr "không thể chỉnh sửa"
 
-#: templates/dashboard-templates/add_new_agent_template.php:241
+#: templates/dashboard-templates/add_new_agent_template.php:279
 msgid "Agent Social Details"
 msgstr "Chi tiết xã hội đại lý"
 
-#: templates/dashboard-templates/add_new_agent_template.php:299
-#: templates/dashboard-templates/add_new_agent_template.php:320
-#: templates/dashboard-templates/user_profile_agent.php:277
-#: templates/dashboard-templates/user_profile_agent.php:298
+#: templates/dashboard-templates/add_new_agent_template.php:337
+#: templates/dashboard-templates/add_new_agent_template.php:358
+#: templates/dashboard-templates/user_profile_agent.php:316
+#: templates/dashboard-templates/user_profile_agent.php:337
 msgid "Parameter Label"
 msgstr "Nhãn tham số"
 
-#: templates/dashboard-templates/add_new_agent_template.php:303
-#: templates/dashboard-templates/add_new_agent_template.php:324
-#: templates/dashboard-templates/user_profile_agent.php:281
-#: templates/dashboard-templates/user_profile_agent.php:302
+#: templates/dashboard-templates/add_new_agent_template.php:341
+#: templates/dashboard-templates/add_new_agent_template.php:362
+#: templates/dashboard-templates/user_profile_agent.php:320
+#: templates/dashboard-templates/user_profile_agent.php:341
 msgid "Parameter Value"
 msgstr "Giá trị tham số"
 
-#: templates/dashboard-templates/add_new_agent_template.php:342
-#: templates/dashboard-templates/user_profile_agent.php:318
+#: templates/dashboard-templates/add_new_agent_template.php:380
+#: templates/dashboard-templates/user_profile_agent.php:357
 msgid "Agent Location"
 msgstr "Vị trí đại lý"
 
-#: templates/dashboard-templates/add_new_agent_template.php:359
+#: templates/dashboard-templates/add_new_agent_template.php:397
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:16
 msgid "Edit Agent"
 msgstr "Chỉnh sửa tác nhân"
@@ -4439,7 +4545,7 @@ msgstr "Chào mừng trở lại,"
 
 #: templates/dashboard-templates/dashboard-list-filter-actions.php:3
 msgid "Order By"
-msgstr ""
+msgstr "Sắp xếp theo"
 
 #: templates/dashboard-templates/dashboard-list-filter-actions.php:8
 msgid "Default Order"
@@ -4463,11 +4569,11 @@ msgstr "Phòng tắm Thấp đến cao"
 
 #: templates/dashboard-templates/dashboard-list-filter-actions.php:28
 msgid "Date - Old to New"
-msgstr ""
+msgstr "Ngày - Cũ đến Mới"
 
 #: templates/dashboard-templates/dashboard-list-filter-actions.php:32
 msgid "Date - New to Old"
-msgstr ""
+msgstr "Ngày - Mới đến Cũ"
 
 #: templates/dashboard-templates/dashboard-list-filter-categories.php:34
 msgid "Filter By Status"
@@ -4491,7 +4597,7 @@ msgstr "Thuộc tính Trùng lặp"
 
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:62
 msgid "Not enough listings to duplicate "
-msgstr ""
+msgstr "Không đủ tài sản để sao chép "
 
 #: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:70
 msgid "Views Stats"
@@ -4519,16 +4625,16 @@ msgstr "Thiết lập làm đặc trưng"
 msgid "Submission Fee"
 msgstr "Lệ phí nộp"
 
-#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:34
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:42
 #: templates/dashboard-templates/user_memebership_profile.php:193
 msgid "Wire Transfer"
 msgstr "Chuyển khoản ngân hàng"
 
-#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:43
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:51
 msgid "Featured  Fee"
 msgstr "Phí nổi bật"
 
-#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:59
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:67
 msgid "Upgrade to featured"
 msgstr "Nâng cấp lên tính năng"
 
@@ -4547,30 +4653,30 @@ msgstr "tên người dùng:"
 msgid "Featured"
 msgstr "Đặc sắc"
 
-#: templates/dashboard-templates/dashboard_listing_unit.php:79
+#: templates/dashboard-templates/dashboard_listing_unit.php:80
 msgid "Expires on "
 msgstr "Hết hạn vào"
 
-#: templates/dashboard-templates/dashboard_listing_unit.php:119
+#: templates/dashboard-templates/dashboard_listing_unit.php:120
 msgid "Remove From Favorites"
 msgstr "loại bỏ khỏi mục ưa thích"
 
-#: templates/dashboard-templates/invoice_listing_unit.php:27
+#: templates/dashboard-templates/invoice_listing_unit.php:26
 msgid "Publish Listing with Feature"
 msgstr "Xuất bản danh sách với tính năng"
 
-#: templates/dashboard-templates/invoice_listing_unit.php:40
+#: templates/dashboard-templates/invoice_listing_unit.php:39
 msgid "One Time"
 msgstr "Một lần"
 
-#: templates/dashboard-templates/invoice_listing_unit.php:42
+#: templates/dashboard-templates/invoice_listing_unit.php:41
 msgid "Recurring"
 msgstr "Định kỳ"
 
-#: templates/dashboard-templates/invoice_listing_unit.php:69
+#: templates/dashboard-templates/invoice_listing_unit.php:68
 #: templates/listing_templates/overview_template.php:35
 msgid "Print"
-msgstr ""
+msgstr "In"
 
 #: templates/dashboard-templates/message-listing-unit.php:20
 msgid "new message"
@@ -4600,12 +4706,12 @@ msgstr "Từ:"
 msgid "Send Reply"
 msgstr "Gửi trả lời"
 
-#: templates/dashboard-templates/search_unit.php:16
-#: templates/half_map_core.php:83 templates/normal_map_core.php:90
+#: templates/dashboard-templates/search_unit.php:18
+#: templates/half_map_core.php:84 templates/normal_map_core.php:90
 msgid "Search Parameters: "
 msgstr "Tham số tìm kiếm:"
 
-#: templates/dashboard-templates/search_unit.php:22
+#: templates/dashboard-templates/search_unit.php:24
 msgid "delete search"
 msgstr "xóa tìm kiếm"
 
@@ -4683,47 +4789,47 @@ msgid "Languages"
 msgstr "Ngôn ngữ"
 
 #: templates/dashboard-templates/user_profile_agency.php:45
-#: templates/dashboard-templates/user_profile_developer.php:43
+#: templates/dashboard-templates/user_profile_developer.php:48
 msgid "Taxes"
 msgstr "Thuế"
 
 #: templates/dashboard-templates/user_profile_agency.php:50
-#: templates/dashboard-templates/user_profile_developer.php:48
+#: templates/dashboard-templates/user_profile_developer.php:53
 msgid "License"
 msgstr "Giấy phép"
 
-#: templates/dashboard-templates/user_profile_agency.php:55
+#: templates/dashboard-templates/user_profile_agency.php:60
 #: templates/google-map-contact-details.php:49
 msgid "Opening Hours"
 msgstr "Giờ mở cửa"
 
-#: templates/dashboard-templates/user_profile_agency.php:64
-#: templates/dashboard-templates/user_profile_agent.php:54
-#: templates/dashboard-templates/user_profile_developer.php:57
+#: templates/dashboard-templates/user_profile_agency.php:69
+#: templates/dashboard-templates/user_profile_agent.php:59
+#: templates/dashboard-templates/user_profile_developer.php:62
 msgid "HubSpot Private Application Token"
-msgstr ""
+msgstr "Mã thông báo ứng dụng riêng của HubSpot"
 
-#: templates/dashboard-templates/user_profile_agency.php:166
-#: templates/dashboard-templates/user_profile_agency.php:229
-#: templates/dashboard-templates/user_profile_developer.php:146
-#: templates/dashboard-templates/user_profile_developer.php:203
+#: templates/dashboard-templates/user_profile_agency.php:194
+#: templates/dashboard-templates/user_profile_agency.php:263
+#: templates/dashboard-templates/user_profile_developer.php:172
+#: templates/dashboard-templates/user_profile_developer.php:235
 msgid "About Agency"
 msgstr "Giới thiệu về Agency"
 
-#: templates/dashboard-templates/user_profile_agency.php:205
-#: templates/dashboard-templates/user_profile_agent.php:205
-#: templates/dashboard-templates/user_profile_developer.php:179
+#: templates/dashboard-templates/user_profile_agency.php:239
+#: templates/dashboard-templates/user_profile_agent.php:244
+#: templates/dashboard-templates/user_profile_developer.php:211
 msgid "Social Information"
 msgstr "Thông tin truyền thông xã hội"
 
-#: templates/dashboard-templates/user_profile_agency.php:221
-#: templates/dashboard-templates/user_profile_developer.php:195
+#: templates/dashboard-templates/user_profile_agency.php:255
+#: templates/dashboard-templates/user_profile_developer.php:227
 msgid "Place Pin with Agency Address"
 msgstr "Đặt ghim với địa chỉ đại lý"
 
-#: templates/dashboard-templates/user_profile_agency.php:240
-#: templates/dashboard-templates/user_profile_agent.php:340
-#: templates/dashboard-templates/user_profile_developer.php:216
+#: templates/dashboard-templates/user_profile_agency.php:274
+#: templates/dashboard-templates/user_profile_agent.php:379
+#: templates/dashboard-templates/user_profile_developer.php:248
 msgid "View public profile"
 msgstr "Xem hồ sơ công khai"
 
@@ -4778,13 +4884,13 @@ msgstr "Tin nhắn mới"
 #: templates/email_templates/contact_email_template.php:24
 #: templates/email_templates/contact_email_template_elementor.php:24
 msgid "You have received a new contact message from "
-msgstr ""
+msgstr "Bạn đã nhận được một tin nhắn liên hệ mới từ "
 
 #: templates/email_templates/contact_email_template.php:30
 #: templates/email_templates/contact_email_template_elementor.php:30
 #: templates/email_templates/schedule_tour_email_template.php:28
 msgid "These are the details:"
-msgstr ""
+msgstr "Đây là những chi tiết:"
 
 #: templates/email_templates/contact_email_template.php:40
 #: templates/email_templates/contact_email_template_elementor.php:37
@@ -4804,15 +4910,15 @@ msgstr "Lên lịch xem tài sản"
 
 #: templates/email_templates/schedule_tour_email_template.php:22
 msgid "You have received a request for a property tour on "
-msgstr ""
+msgstr "Bạn đã nhận được yêu cầu tham quan bất động sản trên "
 
 #: templates/email_templates/schedule_tour_email_template.php:38
 msgid "Hour"
-msgstr ""
+msgstr "Giờ"
 
 #: templates/email_templates/schedule_tour_email_template.php:40
 msgid "Mode"
-msgstr ""
+msgstr "Chế độ"
 
 #: templates/featured_property_4.php:144
 #: templates/property_cards_templates/property_card_details_type.php:30
@@ -4854,11 +4960,11 @@ msgstr "Lưu bản nháp"
 #: templates/front_end_submission.php:156
 #: templates/front_end_submission.php:198
 msgid "Add Property"
-msgstr "Thêm thuộc tính"
+msgstr "Thêm bất động sản"
 
 #: templates/google-map-contact-details.php:33
 msgid "How To Find Us"
-msgstr ""
+msgstr "Làm thế nào để tìm thấy chúng tôi"
 
 #: templates/google_maps_base.php:67
 msgid "click to enable zoom"
@@ -4904,39 +5010,41 @@ msgstr "Kế tiếp"
 msgid "Google Maps Search"
 msgstr "Tìm kiếm Google Maps"
 
-#: templates/half_map_core.php:87 templates/normal_map_core.php:95
+#: templates/half_map_core.php:90 templates/normal_map_core.php:95
 msgid "Save this Search?"
 msgstr "Lưu kết quả tìm kiếm này?"
 
-#: templates/half_map_core.php:88 templates/normal_map_core.php:96
+#: templates/half_map_core.php:91 templates/normal_map_core.php:96
 msgid "Search name"
 msgstr "Tim kiêm tên"
 
-#: templates/half_map_core.php:89 templates/normal_map_core.php:97
+#: templates/half_map_core.php:92 templates/normal_map_core.php:97
 msgid "Save Search"
 msgstr "Lưu tìm kiếm"
 
-#: templates/half_map_core.php:105 templates/login_register_modal.php:65
+#: templates/half_map_core.php:108 templates/login_register_modal.php:65
 #: templates/mobile_menu.php:89 templates/mobile_menu.php:100
 #: templates/normal_map_core.php:113
 msgid "Login"
 msgstr "Đăng nhập"
 
-#: templates/half_map_core.php:105 templates/normal_map_core.php:113
+#: templates/half_map_core.php:108 templates/normal_map_core.php:113
 msgid ""
 "to save search and you will receive an email notification when new "
 "properties matching your search will be published."
 msgstr ""
+"để lưu tìm kiếm và bạn sẽ nhận được thông báo qua email khi các bất động sản "
+"mới phù hợp với tìm kiếm của bạn được xuất bản."
 
-#: templates/half_map_core.php:124 templates/normal_map_core.php:167
+#: templates/half_map_core.php:127 templates/normal_map_core.php:167
 msgid "Properties listed in "
 msgstr "Thuộc tính được liệt kê trong"
 
-#: templates/half_map_core.php:176
+#: templates/half_map_core.php:179
 msgid "Map View"
 msgstr "Dạng xem Bản đồ"
 
-#: templates/header_agency.php:85 templates/header_developer.php:130
+#: templates/header_agency.php:85 templates/header_developer.php:111
 msgid "Website:"
 msgstr "Trang mạng:"
 
@@ -4948,11 +5056,11 @@ msgstr "Chúng tôi nói:"
 msgid "Opening Hours:"
 msgstr "Giờ mở cửa:"
 
-#: templates/header_agency.php:103 templates/header_developer.php:140
+#: templates/header_agency.php:103 templates/header_developer.php:121
 msgid "License:"
 msgstr "Giấy phép:"
 
-#: templates/header_agency.php:109 templates/header_developer.php:145
+#: templates/header_agency.php:109 templates/header_developer.php:126
 msgid "Our Taxes:"
 msgstr "Thuế của chúng tôi:"
 
@@ -4960,9 +5068,14 @@ msgstr "Thuế của chúng tôi:"
 msgid "Want to find out more?"
 msgstr "Bạn muốn tìm hiểu thêm?"
 
+#: templates/listing_templates/agent_section/agent_details_2.php:52
+#: templates/realtor_templates/agent_about_me.php:5
+msgid "About Me "
+msgstr "Về tôi"
+
 #: templates/listing_templates/contact_form/contact_form_simple.php:10
 msgid "I would like to schedule a tour for "
-msgstr ""
+msgstr "Tôi muốn lên lịch trình cho một chuyến tham quan "
 
 #: templates/listing_templates/favorite_under_title.php:21
 #: templates/listing_templates/property-page-templates/favorite_under_title.php:21
@@ -4985,16 +5098,6 @@ msgstr "Hiển thị phần tiểu đơn vị trong trang in?"
 #: templates/listing_templates/single-overview-section.php:20
 msgid "Updated On:"
 msgstr "Cập nhật trên:"
-
-#: templates/listing_templates/property-page-templates/single-overview-section.php:63
-#: templates/listing_templates/single-overview-section.php:53
-msgid "Garages"
-msgstr "Gara oto"
-
-#: templates/listing_templates/property-page-templates/single-overview-section.php:89
-#: templates/listing_templates/single-overview-section.php:73
-msgid "Year Built:"
-msgstr ""
 
 #: templates/listing_templates/property_multi_units.php:103
 #: templates/multi_units.php:137
@@ -5034,7 +5137,7 @@ msgstr "Hãy chọn thời gian"
 #: templates/listing_templates/schedule_tour/schedule_tour_options.php:26
 #: templates/property_page!/schedule_tour/schedule_tour_options.php:25
 msgid "In Person"
-msgstr ""
+msgstr "Mặt đối mặt"
 
 #: templates/listing_templates/schedule_tour/schedule_tour_options.php:31
 #: templates/property_page!/schedule_tour/schedule_tour_options.php:29
@@ -5125,12 +5228,6 @@ msgstr "Quay lại đăng nhập"
 msgid "Return to Login"
 msgstr "Trở về trang đăng nhập"
 
-#: templates/normal_directory.php:64 templates/property_list_filters.php:20
-#: templates/property_list_filters_search.php:7
-#: templates/property_list_filter_half.php:3
-msgid "Sort by"
-msgstr "Sắp xếp theo"
-
 #: templates/normal_directory.php:212 templates/normal_map_core.php:271
 msgid ""
 "There are no properties listed on this page at this moment. Please try again "
@@ -5171,7 +5268,7 @@ msgstr "Nhà phát triển"
 #: templates/places_unit_type3.php:93
 msgid "%d listing"
 msgid_plural "%d listings"
-msgstr[0] ""
+msgstr[0] "danh sách %d"
 
 #: templates/places_card_templates/places_unit_type2.php:107
 #: templates/places_card_templates/places_unit_type2_elementor.php:63
@@ -5179,7 +5276,7 @@ msgstr[0] ""
 #: templates/places_unit_type2_elementor.php:63
 msgid "%d Listing"
 msgid_plural "%d Listings"
-msgstr[0] ""
+msgstr[0] "%d Địa điểm"
 
 #: templates/preview_template.php:9
 msgid "View results"
@@ -5193,11 +5290,11 @@ msgstr "trong"
 #: templates/property_cards_templates/property_card_contact.php:15
 #: templates/realtor_templates/agent_contact_bar.php:32
 msgid "Call"
-msgstr ""
+msgstr "Gọi"
 
 #: templates/property_cards_templates/property_card_contact.php:43
 msgid "Call us"
-msgstr ""
+msgstr "Gọi cho chúng tôi"
 
 #: templates/property_cards_templates/property_card_contact.php:63
 msgid "Email Agent"
@@ -5208,6 +5305,8 @@ msgid ""
 "Looks like the property is assigned to an administrator. Please assign it to "
 "an agent or user with complete contact details."
 msgstr ""
+"Có vẻ như thuộc tính được gán cho quản trị viên. Vui lòng chỉ định nó cho "
+"một đại lý hoặc người dùng với thông tin liên hệ đầy đủ."
 
 #: templates/property_cards_templates/property_card_details_type1.php:9
 msgid "<span class=\"property_details_type1_value\">%d</span> Room"
@@ -5237,6 +5336,7 @@ msgstr "Hướng"
 
 #: templates/property_cards_templates/property_card_details_type4.php:22
 #: templates/property_cards_templates/property_card_details_type6.php:34
+#: templates/shortcode_templates/content_grid_small_estate_property_type_1.php:33
 msgid "Baths"
 msgstr "Phòng tắm"
 
@@ -5260,7 +5360,7 @@ msgstr[0] ""
 
 #: templates/property_list_agent.php:76
 msgid "Request Info"
-msgstr ""
+msgstr "Yêu cầu thông tin"
 
 #: templates/property_slider_shortcode.php:56
 msgid "category"
@@ -5270,13 +5370,9 @@ msgstr "thể loại"
 msgid "location"
 msgstr "vị trí"
 
-#: templates/realtor_templates/agent_about_me.php:5
-msgid "About Me "
-msgstr "Về tôi"
-
 #: templates/realtor_templates/agent_taxonomies.php:15
 msgid "Specialties & Service Areas"
-msgstr ""
+msgstr "Chuyên môn & lĩnh vực dịch vụ"
 
 #: templates/related_posts.php:38
 msgid "Related Posts"
@@ -5361,11 +5457,11 @@ msgstr "Chọn lớp năng lượng (quy định của EU)"
 
 #: templates/submit_templates/property_energy_effective.php:60
 msgid "Select greenhouse gas emissions index class"
-msgstr ""
+msgstr "Chọn loại chỉ số phát thải khí nhà kính"
 
 #: templates/submit_templates/property_energy_effective.php:72
 msgid "Greenhouse Gas Emissions KgCO2/M2a"
-msgstr ""
+msgstr "Phát thải khí nhà kính KgCO2/M2a"
 
 #: templates/submit_templates/property_featured.php:10
 msgid "Featured Submission"
@@ -5381,7 +5477,7 @@ msgstr "Sử dụng sơ đồ tầng"
 
 #: templates/submit_templates/property_floor_plans.php:197
 msgid "Add another plan"
-msgstr ""
+msgstr "Thêm bản vẽ khác"
 
 #: templates/submit_templates/property_images.php:70
 #: templates/submit_templates/property_images_new.php:87
@@ -5391,7 +5487,7 @@ msgstr "Liệt kê phương tiện"
 #: templates/submit_templates/property_images.php:117
 #: templates/submit_templates/property_images_new.php:132
 msgid "Drag and Drop Images or "
-msgstr ""
+msgstr "Kéo và thả hình ảnh hoặc"
 
 #: templates/submit_templates/property_images.php:119
 #: templates/submit_templates/property_images_new.php:134
@@ -5562,15 +5658,15 @@ msgstr "Trang người dùng"
 
 #. Template Name of the theme
 msgid "User Dashboard Submit"
-msgstr ""
+msgstr "Đăng bài - Bảng điều khiển Người dùng"
 
 #. Template Name of the theme
 msgid "User Dashboard Add agent"
-msgstr ""
+msgstr "Thêm Môi giới - Bảng điều khiển Người dùng"
 
 #. Template Name of the theme
 msgid "User Dashboard Agent List"
-msgstr ""
+msgstr "Danh sách Môi giới - Bảng điều khiển Người dùng"
 
 #. Template Name of the theme
 msgid "User Dashboard Stats"
@@ -5578,7 +5674,7 @@ msgstr "Thống kê bảng điều khiển người dùng"
 
 #: user_dashboard_analytics.php:45
 msgid "Analytics"
-msgstr ""
+msgstr "Phân tích"
 
 #: user_dashboard_analytics.php:61
 msgid "Back to properties list"
@@ -5586,11 +5682,11 @@ msgstr "Quay lại danh sách thuộc tính"
 
 #: user_dashboard_analytics.php:64
 msgid "Total number of views:"
-msgstr "Tổng số lượt xem:"
+msgstr "Tổng số lần xem:"
 
 #. Template Name of the theme
 msgid "User Dashboard Favorite"
-msgstr ""
+msgstr "Yêu thích - Bảng điều khiển Người dùng"
 
 #: user_dashboard_favorite.php:67
 msgid "You don't have any favorite properties yet!"
@@ -5598,7 +5694,7 @@ msgstr "Bạn chưa có bất kỳ thuộc tính yêu thích nào!"
 
 #. Template Name of the theme
 msgid "User Dashboard Inbox"
-msgstr ""
+msgstr "Hộp thư đến - Bảng điều khiển Người dùng"
 
 #: user_dashboard_inbox.php:31
 msgid "You have"
@@ -5610,7 +5706,7 @@ msgstr "Tin nhắn chưa đọc"
 
 #. Template Name of the theme
 msgid "User Dashboard Invoices"
-msgstr ""
+msgstr "Hóa đơn - Bảng điều khiển Người dùng"
 
 #. Template Name of the theme
 msgid "User Dashboard Main"
@@ -5618,11 +5714,11 @@ msgstr "Bảng điều khiển người dùng Chính"
 
 #. Template Name of the theme
 msgid "User Dashboard Profile Page"
-msgstr ""
+msgstr "Trang Hồ sơ - Bảng điều khiển Người dùng"
 
 #. Template Name of the theme
 msgid "User Dashboard  Saved Searches"
-msgstr ""
+msgstr "Tìm kiếm đã lưu - Bảng điều khiển Người dùng"
 
 #: user_dashboard_searches.php:60
 msgid "You don't have any saved searches yet!"
@@ -5802,7 +5898,7 @@ msgstr "Được hỗ trợ bởi"
 
 #. Template Name of the theme
 msgid "Zillow Estimate"
-msgstr ""
+msgstr "Ước tính Zillow"
 
 #: zillow_estimate_page.php:22
 msgid "The state field is empty !"
@@ -5822,7 +5918,7 @@ msgstr "Bật"
 
 #: zillow_estimate_page.php:80
 msgid "this property is estimated at"
-msgstr ""
+msgstr "tài sản này ước tính khoảng"
 
 #: zillow_estimate_page.php:84
 msgid "City:"
@@ -5843,6 +5939,12 @@ msgstr ""
 #: zillow_estimate_page.php:93
 msgid "Please fill in the form correctly and try again!"
 msgstr "Vui lòng điền vào biểu mẫu chính xác và thử lại!"
+
+#~ msgid "if you don't know how to get your license key. Thank you!"
+#~ msgstr "nếu bạn không biết cách lấy khóa cấp phép của mình. Cảm ơn bạn!"
+
+#~ msgid "Publish Listing with Featured"
+#~ msgstr "Xuất bản danh sách với nổi bật"
 
 #~ msgid "Energy index"
 #~ msgstr "Chỉ số năng lượng"
@@ -6038,9 +6140,6 @@ msgstr "Vui lòng điền vào biểu mẫu chính xác và thử lại!"
 
 #~ msgid "Croatia (Hrvatska)"
 #~ msgstr "Croatia (Hrvatska)"
-
-#~ msgid "Cuba"
-#~ msgstr "Cuba"
 
 #~ msgid "Curacao"
 #~ msgstr "rượu cam bì"
@@ -6750,9 +6849,6 @@ msgstr "Vui lòng điền vào biểu mẫu chính xác và thử lại!"
 
 #~ msgid "Category:"
 #~ msgstr "Thể loại:"
-
-#~ msgid "beds"
-#~ msgstr "giường"
 
 #~ msgid "My details "
 #~ msgstr "Chi tiết của tôi"
